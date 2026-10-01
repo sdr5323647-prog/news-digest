@@ -5,7 +5,14 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>תמצית חדשות</title>
 <meta name="description" content="סיכום חדשות ישראל: רק מה שחשוב, בלי רעש.">
-<meta name="theme-color" content="#f6f5f1">
+<meta name="theme-color" content="#1f5eff">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" type="image/png" href="icons/favicon.png">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="תמצית">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@400;500;700;800&display=swap" rel="stylesheet">
 <style>
@@ -92,6 +99,7 @@ footer{font-size:13px;color:var(--muted);text-align:center;margin-top:30px}
       <button id="vDaily" aria-pressed="true">יומי</button>
       <button id="vWeekly" aria-pressed="false">שבועי</button>
     </div>
+    <button class="btn" id="installBtn" hidden>📲 התקן</button>
     <button class="btn" id="openSettings" aria-label="הגדרות">⚙︎</button>
   </div>
 </header>
@@ -131,6 +139,12 @@ footer{font-size:13px;color:var(--muted);text-align:center;margin-top:30px}
   <p class="hint" id="dislikeHint">בחרו מה לא להציג לכם בעתיד.</p>
   <div id="dislikeOpts"></div>
   <p><button class="btn" id="closeDislike">ביטול</button></p>
+</section>
+
+<section class="panel" id="installPanel" aria-label="התקנה">
+  <h3>התקנת תמצית בטלפון</h3>
+  <div id="installSteps"></div>
+  <p><button class="btn" id="closeInstall">הבנתי</button></p>
 </section>
 
 <div class="toast" id="toast"></div>
@@ -282,6 +296,27 @@ function toast(msg, undo){
 function setView(v){ view=v; $("vDaily").setAttribute("aria-pressed",v==="daily"); $("vWeekly").setAttribute("aria-pressed",v==="weekly"); showHidden=false; fillDates(); }
 $("vDaily").onclick=()=>setView("daily"); $("vWeekly").onclick=()=>setView("weekly");
 $("dateSel").onchange=e=>{showHidden=false; loadDay(e.target.value);};
+
+// ---- install as app ----
+if("serviceWorker" in navigator){ navigator.serviceWorker.register("sw.js").catch(()=>{}); }
+const standalone = matchMedia("(display-mode: standalone)").matches || navigator.standalone === true;
+const ua = navigator.userAgent;
+const isIOS = /iphone|ipad|ipod/i.test(ua) || (navigator.platform==="MacIntel" && navigator.maxTouchPoints>1);
+let deferredPrompt = null;
+window.addEventListener("beforeinstallprompt", e=>{ e.preventDefault(); deferredPrompt=e; if(!standalone) $("installBtn").hidden=false; });
+window.addEventListener("appinstalled", ()=>{ $("installBtn").hidden=true; toast("תמצית הותקנה! תמצאו אותה במסך הבית."); });
+if(!standalone && isIOS) $("installBtn").hidden=false;
+$("installBtn").onclick = async ()=>{
+  if(deferredPrompt){ deferredPrompt.prompt(); await deferredPrompt.userChoice.catch(()=>{}); deferredPrompt=null; $("installBtn").hidden=true; return; }
+  $("installSteps").innerHTML = isIOS
+    ? `<p class="hint">באייפון ההתקנה נעשית מתוך Safari:</p>
+       <p>1. לחצו על כפתור השיתוף <b>⎙</b> (ריבוע עם חץ למעלה) בתחתית המסך.</p>
+       <p>2. גללו ובחרו <b>"הוסף למסך הבית"</b> (Add to Home Screen).</p>
+       <p>3. לחצו <b>"הוסף"</b>. האייקון של תמצית יופיע במסך הבית.</p>`
+    : `<p>פתחו את תפריט הדפדפן <b>⋮</b> ובחרו <b>"התקן אפליקציה"</b> או <b>"הוסף למסך הבית"</b>.</p>`;
+  open("installPanel");
+};
+$("closeInstall").onclick=closePanels;
 
 loadIndex();
 </script>

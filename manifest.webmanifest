@@ -1,0 +1,16 @@
+{
+  "name": "תמצית – חדשות בלי רעש",
+  "short_name": "תמצית",
+  "description": "סיכום חדשות ישראל: רק מה שחשוב, בלי רעש.",
+  "lang": "he",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f5f1",
+  "theme_color": "#1f5eff",
+  "icons": [
+    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
