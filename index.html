@@ -1,0 +1,289 @@
+<!doctype html>
+<html lang="he" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>תמצית חדשות</title>
+<meta name="description" content="סיכום חדשות ישראל: רק מה שחשוב, בלי רעש.">
+<meta name="theme-color" content="#f6f5f1">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Heebo:wght@400;500;700;800&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#f6f5f1; --card:#ffffff; --ink:#1b1b1f; --muted:#62626b; --line:#e4e2dc;
+  --accent:#1f5eff; --accent-soft:#e8eeff; --warn:#b42318;
+  --c-security:#c2410c; --c-politics:#7c3aed; --c-diplomacy:#0369a1; --c-region:#b91c1c;
+  --c-economy:#15803d; --c-law:#a16207; --c-society:#be185d; --c-tech:#0f766e; --c-health:#4d7c0f;
+  --shadow:0 1px 2px rgba(0,0,0,.04),0 4px 16px rgba(0,0,0,.04);
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:#121215; --card:#1c1c21; --ink:#ececf1; --muted:#9a9aa6; --line:#2c2c33;
+  --accent:#7aa2ff; --accent-soft:#1f2740; --warn:#f97066; --shadow:none;
+}}
+:root[data-theme="dark"]{
+  --bg:#121215; --card:#1c1c21; --ink:#ececf1; --muted:#9a9aa6; --line:#2c2c33;
+  --accent:#7aa2ff; --accent-soft:#1f2740; --warn:#f97066; --shadow:none;
+}
+*{box-sizing:border-box}
+html,body{margin:0;background:var(--bg);color:var(--ink);font-family:Heebo,system-ui,sans-serif;line-height:1.6}
+.wrap{max-width:720px;margin:0 auto;padding:0 16px 80px}
+header{position:sticky;top:0;z-index:5;background:var(--bg);border-bottom:1px solid var(--line)}
+.bar{max-width:720px;margin:0 auto;padding:12px 16px;display:flex;align-items:center;gap:10px}
+.logo{font-weight:800;font-size:20px;letter-spacing:-.5px;margin-inline-end:auto}
+.logo span{color:var(--accent)}
+button,select{font:inherit;color:inherit}
+.btn{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:7px 12px;cursor:pointer}
+.btn:hover{border-color:var(--muted)}
+.seg{display:inline-flex;border:1px solid var(--line);border-radius:10px;overflow:hidden;background:var(--card)}
+.seg button{border:0;background:none;padding:7px 12px;cursor:pointer}
+.seg button[aria-pressed="true"]{background:var(--accent);color:#fff}
+.datebar{display:flex;align-items:center;gap:8px;margin:18px 0 6px;flex-wrap:wrap}
+.datebar select{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:7px 10px}
+.lead{font-size:15px;color:var(--muted);margin:4px 0 18px}
+.lead b{color:var(--ink)}
+.card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:16px 18px;margin:12px 0;box-shadow:var(--shadow)}
+.meta{display:flex;align-items:center;gap:8px;font-size:13px;color:var(--muted);margin-bottom:6px}
+.chip{font-weight:700;font-size:12px;padding:2px 8px;border-radius:999px;color:#fff}
+.imp{display:inline-flex;gap:2px}
+.imp i{width:6px;height:6px;border-radius:50%;background:var(--line)}
+.imp i.on{background:var(--ink)}
+.card h2{font-size:18px;line-height:1.4;margin:0 0 8px;font-weight:700}
+.card p{margin:0 0 8px;font-size:15.5px}
+.sub{font-size:14.5px;margin:6px 0 0;padding-inline-start:10px;border-inline-start:3px solid var(--line)}
+.sub b{font-weight:700}
+.foot{display:flex;align-items:center;gap:6px;flex-wrap:wrap;margin-top:12px;font-size:13px}
+.src{color:var(--accent);text-decoration:none;background:var(--accent-soft);padding:2px 8px;border-radius:999px}
+.dislike{margin-inline-start:auto;background:none;border:1px solid var(--line);border-radius:999px;padding:3px 10px;cursor:pointer;font-size:13px;color:var(--muted)}
+.dislike:hover{color:var(--warn);border-color:var(--warn)}
+.hiddenNote{font-size:13px;color:var(--muted);text-align:center;margin:18px 0}
+.hiddenNote button{background:none;border:0;color:var(--accent);cursor:pointer;text-decoration:underline}
+.card.muted{opacity:.55}
+.empty{text-align:center;color:var(--muted);padding:48px 0}
+/* panels */
+.overlay{position:fixed;inset:0;background:rgba(0,0,0,.35);display:none;z-index:20}
+.overlay.open{display:block}
+.panel{position:fixed;inset-inline:0;bottom:0;max-height:85vh;overflow:auto;background:var(--card);border-radius:18px 18px 0 0;padding:18px 18px 28px;z-index:21;transform:translateY(105%);transition:transform .2s ease;max-width:720px;margin:0 auto}
+.panel.open{transform:none}
+.panel h3{margin:0 0 4px;font-size:18px}
+.panel h4{margin:18px 0 8px;font-size:15px}
+.hint{font-size:13px;color:var(--muted);margin:0 0 8px}
+.cats{display:flex;flex-wrap:wrap;gap:8px}
+.cats label{display:flex;align-items:center;gap:6px;border:1px solid var(--line);border-radius:999px;padding:5px 12px;cursor:pointer;font-size:14px}
+.cats input{accent-color:var(--accent)}
+.row{display:flex;align-items:center;gap:10px;flex-wrap:wrap}
+.row input[type=range]{flex:1;accent-color:var(--accent)}
+.mlist{display:flex;flex-wrap:wrap;gap:6px}
+.mtag{display:inline-flex;align-items:center;gap:4px;background:var(--bg);border:1px solid var(--line);border-radius:999px;padding:3px 6px 3px 10px;font-size:13px}
+.mtag button{border:0;background:none;cursor:pointer;color:var(--muted);font-size:15px;line-height:1}
+.opt{display:block;width:100%;text-align:start;margin:6px 0;padding:10px 12px;border:1px solid var(--line);border-radius:10px;background:var(--bg);cursor:pointer;font-size:15px}
+.opt:hover{border-color:var(--accent)}
+.toast{position:fixed;bottom:20px;inset-inline:0;margin:0 auto;width:max-content;max-width:90vw;background:var(--ink);color:var(--bg);padding:10px 16px;border-radius:12px;font-size:14px;z-index:30;display:none}
+.toast button{background:none;border:0;color:var(--accent);margin-inline-start:10px;cursor:pointer;font-weight:700}
+.admin{font-size:12px;background:var(--accent-soft);color:var(--accent);padding:2px 8px;border-radius:999px}
+footer{font-size:13px;color:var(--muted);text-align:center;margin-top:30px}
+</style>
+</head>
+<body>
+<header>
+  <div class="bar">
+    <div class="logo">תמצית<span>.</span></div>
+    <span id="adminBadge" class="admin" hidden>מצב עורך</span>
+    <div class="seg" role="group" aria-label="תצוגה">
+      <button id="vDaily" aria-pressed="true">יומי</button>
+      <button id="vWeekly" aria-pressed="false">שבועי</button>
+    </div>
+    <button class="btn" id="openSettings" aria-label="הגדרות">⚙︎</button>
+  </div>
+</header>
+
+<main class="wrap">
+  <div class="datebar">
+    <select id="dateSel" aria-label="בחר תאריך"></select>
+  </div>
+  <p class="lead" id="lead"></p>
+  <div id="list"></div>
+  <div class="hiddenNote" id="hiddenNote"></div>
+  <footer>הסיכומים נכתבים על ידי AI ממקורות פתוחים. לפרטים המלאים, לחצו על קישורי המקור.</footer>
+</main>
+
+<div class="overlay" id="overlay"></div>
+
+<section class="panel" id="settings" aria-label="הגדרות">
+  <h3>ההגדרות שלי</h3>
+  <p class="hint">ההגדרות נשמרות בדפדפן הזה בלבד, בלי הרשמה.</p>
+  <h4>קטגוריות</h4>
+  <div class="cats" id="catBox"></div>
+  <h4>רמת חשיבות מינימלית</h4>
+  <div class="row"><input type="range" id="minImp" min="1" max="5" step="1"><span id="minImpVal"></span></div>
+  <h4>מספר ידיעות מקסימלי</h4>
+  <div class="row"><input type="range" id="maxItems" min="3" max="20" step="1"><span id="maxItemsVal"></span></div>
+  <h4>נושאים שהסתרתי</h4>
+  <div class="mlist" id="mutedBox"></div>
+  <h4>תצוגה</h4>
+  <div class="row">
+    <select id="themeSel" class="btn"><option value="">לפי המכשיר</option><option value="light">בהיר</option><option value="dark">כהה</option></select>
+  </div>
+  <p style="margin-top:20px"><button class="btn" id="closeSettings">סגור</button></p>
+</section>
+
+<section class="panel" id="dislikePanel" aria-label="לא מעניין">
+  <h3>לא מעניין? מה להסתיר מעכשיו</h3>
+  <p class="hint" id="dislikeHint">בחרו מה לא להציג לכם בעתיד.</p>
+  <div id="dislikeOpts"></div>
+  <p><button class="btn" id="closeDislike">ביטול</button></p>
+</section>
+
+<div class="toast" id="toast"></div>
+
+<script>
+const REPO = "sdr5323647-prog/news-digest";
+const CATS = {
+  security:{he:"ביטחון",c:"var(--c-security)"},
+  politics:{he:"פוליטיקה",c:"var(--c-politics)"},
+  diplomacy:{he:"מדיני",c:"var(--c-diplomacy)"},
+  region:{he:"איראן והאזור",c:"var(--c-region)"},
+  economy:{he:"כלכלה",c:"var(--c-economy)"},
+  law:{he:"משפט",c:"var(--c-law)"},
+  society:{he:"חברה",c:"var(--c-society)"},
+  tech:{he:"טכנולוגיה ומדע",c:"var(--c-tech)"},
+  health:{he:"בריאות",c:"var(--c-health)"}
+};
+const DEF = {cats:Object.keys(CATS), minImp:2, maxItems:12, mutedTags:[], mutedIds:[], theme:""};
+
+const store = {
+  get(){ try{ return Object.assign({}, DEF, JSON.parse(localStorage.getItem("tamzit")||"{}")); }catch(e){ return {...DEF}; } },
+  set(s){ try{ localStorage.setItem("tamzit", JSON.stringify(s)); }catch(e){} }
+};
+let S = store.get();
+let view = "daily", index = {daily:[],weekly:[]}, current = null, showHidden = false;
+
+// owner "teach the agent" mode: open the site once with ?admin=1
+try{
+  const q = new URLSearchParams(location.search);
+  if(q.get("admin")==="1") localStorage.setItem("tamzit_admin","1");
+  if(q.get("admin")==="0") localStorage.removeItem("tamzit_admin");
+}catch(e){}
+const isAdmin = (()=>{ try{ return localStorage.getItem("tamzit_admin")==="1"; }catch(e){ return false; } })();
+document.getElementById("adminBadge").hidden = !isAdmin;
+
+function applyTheme(){ if(S.theme) document.documentElement.dataset.theme=S.theme; else delete document.documentElement.dataset.theme; }
+applyTheme();
+
+const $ = id => document.getElementById(id);
+const esc = s => String(s??"").replace(/[&<>"']/g, c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const fmtDate = d => { const [y,m,dd]=d.split("-"); return new Date(+y,+m-1,+dd).toLocaleDateString("he-IL",{weekday:"long",day:"numeric",month:"long"}); };
+
+async function loadIndex(){
+  try{ index = await (await fetch("data/index.json",{cache:"no-store"})).json(); }catch(e){ index={daily:[],weekly:[]}; }
+  fillDates();
+}
+function fillDates(){
+  const list = (index[view]||[]).slice().sort().reverse();
+  $("dateSel").innerHTML = list.map(d=>`<option value="${d}">${view==="weekly"?"השבוע שהסתיים ב־":""}${fmtDate(d)}</option>`).join("");
+  if(list.length) loadDay(list[0]); else { current=null; render(); }
+}
+async function loadDay(d){
+  try{ current = await (await fetch(`data/${view}/${d}.json`,{cache:"no-store"})).json(); }catch(e){ current=null; }
+  render();
+}
+
+function isHidden(it){
+  if(S.mutedIds.includes(it.id)) return "mutedId";
+  if(!S.cats.includes(it.category)) return "cat";
+  if((it.importance||0) < S.minImp) return "imp";
+  if((it.tags||[]).some(t=>S.mutedTags.includes(t))) return "tag";
+  return "";
+}
+
+function render(){
+  const list = $("list");
+  if(!current){ list.innerHTML = `<div class="empty">${view==="weekly"?"עדיין אין סיכום שבועי. הסיכום הראשון יפורסם ביום ראשון.":"אין עדיין סיכומים."}</div>`; $("lead").textContent=""; $("hiddenNote").textContent=""; return; }
+  $("lead").innerHTML = current.headline ? `<b>בקצרה:</b> ${esc(current.headline)}` : "";
+  const items = (current.items||[]).slice().sort((a,b)=>(b.importance||0)-(a.importance||0));
+  const shown = [], hidden = [];
+  items.forEach(it => (isHidden(it) ? hidden : shown).push(it));
+  const visible = shown.slice(0, S.maxItems);
+  const overflow = shown.slice(S.maxItems);
+  const all = showHidden ? visible.concat(overflow, hidden) : visible;
+  list.innerHTML = all.map(it=>card(it, showHidden && (hidden.includes(it)||overflow.includes(it)))).join("");
+  const n = hidden.length + overflow.length;
+  const filtered = current.filtered_out ? ` · ${current.filtered_out} ידיעות זניחות סוננו מראש` : "";
+  $("hiddenNote").innerHTML = (n ? `${n===1?"ידיעה אחת הוסתרה":n+" ידיעות הוסתרו"} לפי ההגדרות שלך · <button id="toggleHidden">${showHidden?"הסתר אותן":"הצג בכל זאת"}</button>` : "") + filtered;
+  const th = $("toggleHidden"); if(th) th.onclick=()=>{showHidden=!showHidden; render();};
+  list.querySelectorAll(".dislike").forEach(b=>b.onclick=()=>openDislike(b.dataset.id));
+}
+function card(it, muted){
+  const cat = CATS[it.category]||{he:it.category,c:"var(--muted)"};
+  const dots = [1,2,3,4,5].map(i=>`<i class="${i<=(it.importance||0)?"on":""}"></i>`).join("");
+  const srcs = (it.sources||[]).map(s=>`<a class="src" href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.name)}</a>`).join("");
+  return `<article class="card${muted?" muted":""}">
+    <div class="meta"><span class="chip" style="background:${cat.c}">${esc(cat.he)}</span><span class="imp" title="חשיבות ${it.importance}/5">${dots}</span></div>
+    <h2>${esc(it.title)}</h2>
+    <p>${esc(it.summary)}</p>
+    ${it.why?`<p class="sub"><b>למה זה חשוב:</b> ${esc(it.why)}</p>`:""}
+    ${it.next?`<p class="sub"><b>מה הלאה:</b> ${esc(it.next)}</p>`:""}
+    <div class="foot">${srcs}<button class="dislike" data-id="${esc(it.id)}">👎 לא מעניין</button></div>
+  </article>`;
+}
+
+// ---- dislike / teach ----
+function openDislike(id){
+  const it = (current.items||[]).find(x=>x.id===id); if(!it) return;
+  const cat = CATS[it.category]?.he||it.category;
+  const opts = [
+    {label:"הסתר רק את הידיעה הזו", act:()=>{S.mutedIds.push(it.id);}, kind:"item"},
+    ...(it.tags||[]).map(t=>({label:`אל תציג לי ידיעות על: ${t}`, act:()=>{ if(!S.mutedTags.includes(t)) S.mutedTags.push(t); }, kind:"tag:"+t})),
+    {label:`אל תציג לי את הקטגוריה: ${cat}`, act:()=>{S.cats=S.cats.filter(c=>c!==it.category);}, kind:"cat:"+it.category}
+  ];
+  $("dislikeHint").textContent = isAdmin ? "מצב עורך: הבחירה תישמר אצלך, ותיפתח גם הודעה ב-GitHub שמלמדת את הסוכן (לחצו שם Submit)." : "הבחירה נשמרת רק אצלכם, בדפדפן הזה.";
+  $("dislikeOpts").innerHTML = opts.map((o,i)=>`<button class="opt" data-i="${i}">${esc(o.label)}</button>`).join("");
+  $("dislikeOpts").querySelectorAll(".opt").forEach(b=>b.onclick=()=>{
+    const prev = JSON.stringify(S); const o = opts[+b.dataset.i];
+    o.act(); store.set(S); closePanels(); render(); renderSettings();
+    toast("הוסתר. מעכשיו לא תראו ידיעות כאלה.", ()=>{ S=JSON.parse(prev); store.set(S); render(); renderSettings(); });
+    if(isAdmin) teachAgent(it, o.label);
+  });
+  open("dislikePanel");
+}
+function teachAgent(it, choice){
+  const title = `לא מעניין: ${it.title}`.slice(0,120);
+  const body = `**החלטה:** ${choice}\n**קטגוריה:** ${it.category}\n**תגיות:** ${(it.tags||[]).join(", ")}\n**מזהה:** ${it.id}\n\n**סיכום הידיעה:** ${it.summary}\n\n**הסבר (אופציונלי, כתבו כאן למה זה לא מעניין):** `;
+  const url = `https://github.com/${REPO}/issues/new?labels=feedback&title=${encodeURIComponent(title)}&body=${encodeURIComponent(body)}`;
+  window.open(url, "_blank", "noopener");
+}
+
+// ---- settings ----
+function renderSettings(){
+  $("catBox").innerHTML = Object.entries(CATS).map(([k,v])=>`<label><input type="checkbox" value="${k}" ${S.cats.includes(k)?"checked":""}> ${v.he}</label>`).join("");
+  $("catBox").querySelectorAll("input").forEach(cb=>cb.onchange=()=>{ S.cats=[...$("catBox").querySelectorAll("input:checked")].map(x=>x.value); store.set(S); render(); });
+  $("minImp").value=S.minImp; $("minImpVal").textContent = ["","הכל","2+","3+","4+","רק הכי חשוב"][S.minImp];
+  $("maxItems").value=S.maxItems; $("maxItemsVal").textContent=S.maxItems;
+  const muted = [...S.mutedTags.map(t=>({t,k:"tag"})), ...(S.mutedIds.length?[{t:`${S.mutedIds.length} ידיעות בודדות`,k:"ids"}]:[])];
+  $("mutedBox").innerHTML = muted.length ? muted.map(m=>`<span class="mtag">${esc(m.t)}<button data-k="${m.k}" data-t="${esc(m.t)}" aria-label="בטל">×</button></span>`).join("") : `<span class="hint">אין. לחצו 👎 על ידיעה כדי להסתיר נושא.</span>`;
+  $("mutedBox").querySelectorAll("button").forEach(b=>b.onclick=()=>{ if(b.dataset.k==="ids") S.mutedIds=[]; else S.mutedTags=S.mutedTags.filter(t=>t!==b.dataset.t); store.set(S); renderSettings(); render(); });
+  $("themeSel").value=S.theme;
+}
+$("minImp").oninput=e=>{S.minImp=+e.target.value; store.set(S); renderSettings(); render();};
+$("maxItems").oninput=e=>{S.maxItems=+e.target.value; store.set(S); renderSettings(); render();};
+$("themeSel").onchange=e=>{S.theme=e.target.value; store.set(S); applyTheme();};
+
+function open(id){ $("overlay").classList.add("open"); $(id).classList.add("open"); }
+function closePanels(){ $("overlay").classList.remove("open"); document.querySelectorAll(".panel").forEach(p=>p.classList.remove("open")); }
+$("openSettings").onclick=()=>{renderSettings(); open("settings");};
+$("closeSettings").onclick=closePanels; $("closeDislike").onclick=closePanels; $("overlay").onclick=closePanels;
+
+let tt;
+function toast(msg, undo){
+  const t=$("toast"); t.innerHTML = esc(msg) + (undo?`<button id="undoBtn">ביטול</button>`:""); t.style.display="block";
+  if(undo) $("undoBtn").onclick=()=>{undo(); t.style.display="none";};
+  clearTimeout(tt); tt=setTimeout(()=>t.style.display="none", 5000);
+}
+
+function setView(v){ view=v; $("vDaily").setAttribute("aria-pressed",v==="daily"); $("vWeekly").setAttribute("aria-pressed",v==="weekly"); showHidden=false; fillDates(); }
+$("vDaily").onclick=()=>setView("daily"); $("vWeekly").onclick=()=>setView("weekly");
+$("dateSel").onchange=e=>{showHidden=false; loadDay(e.target.value);};
+
+loadIndex();
+</script>
+</body>
+</html>
