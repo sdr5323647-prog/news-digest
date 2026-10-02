@@ -1,0 +1,34 @@
+name: Breaking news watcher
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: breaking
+  cancel-in-progress: false
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python scripts/breaking.py
+      - name: Commit if the alert changed
+        run: |
+          if [ -n "$(git status --porcelain data/breaking.json)" ]; then
+            git config user.name "tamzit-bot"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add data/breaking.json
+            git commit -m "Breaking alert update"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi

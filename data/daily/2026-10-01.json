@@ -11,12 +11,27 @@
       "summary": "בטיסת פליידובאי לתל אביב (30.9) דקר טייס-המשנה, אזרח עומאן, את הקברניט, ולפי החשד ניסה להפיל את המטוס. המטוס צנח כ-17 אלף רגל בפחות משתי דקות. נוסעים ואנשי צוות השתלטו עליו, והמטוס נחת בערב הסעודית. הנוסעים הוחזרו לישראל בליווי מטוסי חיל האוויר.",
       "why": "זהו ניסיון פיגוע ראשון מסוגו בקו אווירי ממדינה ערבית לישראל. הוא מעלה שאלות על בדיקות הביטחון של אנשי צוות זרים ועל עתיד הטיסות מהמפרץ.",
       "next": "פליידובאי השעתה את הטיסות לישראל. ישראל מרחיבה את בדיקות הרקע לטייסים. איחוד האמירויות וסעודיה בודקות אם מדובר בטרור, ונבדק קשר איראני אפשרי.",
-      "tags": ["תעופה", "טרור", "איחוד האמירויות", "סעודיה"],
+      "tags": [
+        "תעופה",
+        "טרור",
+        "איחוד האמירויות",
+        "סעודיה"
+      ],
       "sources": [
-        {"name": "Times of Israel", "url": "https://www.timesofisrael.com/copilot-subdued-after-stabbing-pilot-in-alleged-attempt-to-crash-plane-full-of-israelis/"},
-        {"name": "ynet", "url": "https://www.ynet.co.il/news/article/sywkgaj9gl"},
-        {"name": "CNN", "url": "https://www.cnn.com/2026/09/30/world/live-news/dubai-israel-plane-flydubai-intl"}
-      ]
+        {
+          "name": "Times of Israel",
+          "url": "https://www.timesofisrael.com/copilot-subdued-after-stabbing-pilot-in-alleged-attempt-to-crash-plane-full-of-israelis/"
+        },
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/sywkgaj9gl"
+        },
+        {
+          "name": "CNN",
+          "url": "https://www.cnn.com/2026/09/30/world/live-news/dubai-israel-plane-flydubai-intl"
+        }
+      ],
+      "kind": "event"
     },
     {
       "id": "2026-10-01-iran-talks",
@@ -26,11 +41,23 @@
       "summary": "המלחמה בין ארה\"ב (יחד עם ישראל) לאיראן נמשכת כבר כשבעה חודשים. איראן אישרה שקיבלה תשובה רשמית מארה\"ב להצעתה, אך תוכן התשובה לא פורסם. לפי גורם מעורה, הצדדים מסכימים על רוב הצעדים הנדרשים אבל חלוקים על סדר הביצוע. ב-30.9 נפגעו שלוש ספינות במצר הורמוז מקליעים שמקורם לא זוהה, ואיראן מאיימת לתקוף תשתיות באזור.",
       "why": "תוצאות המגעים יקבעו אם המלחמה מול איראן מסתיימת או מסלימה. זה משפיע ישירות על ישראל, על מחירי האנרגיה ועל הכלכלה.",
       "next": "קטאר ופקיסטן ממשיכות לתווך. ארה\"ב ממשיכה בסנקציות ובחסימת נמלי איראן.",
-      "tags": ["איראן", "ארה\"ב", "הורמוז", "משא ומתן"],
+      "tags": [
+        "איראן",
+        "ארה\"ב",
+        "הורמוז",
+        "משא ומתן"
+      ],
       "sources": [
-        {"name": "Times of Israel", "url": "https://www.timesofisrael.com/iran-indicates-it-received-official-us-response-to-latest-offer-on-ending-war/"},
-        {"name": "Times of Israel", "url": "https://www.timesofisrael.com/iran-threatens-to-attack-mideast-infrastructure-after-trump-dismisses-hormuz-proposal/"}
-      ]
+        {
+          "name": "Times of Israel",
+          "url": "https://www.timesofisrael.com/iran-indicates-it-received-official-us-response-to-latest-offer-on-ending-war/"
+        },
+        {
+          "name": "Times of Israel",
+          "url": "https://www.timesofisrael.com/iran-threatens-to-attack-mideast-infrastructure-after-trump-dismisses-hormuz-proposal/"
+        }
+      ],
+      "kind": "negotiation"
     },
     {
       "id": "2026-10-01-oct7-warnings",
@@ -40,11 +67,23 @@
       "summary": "לפי שורת דיווחים, גורמים ממצרים ומאיחוד האמירויות העבירו לנתניהו אזהרות על איום מעזה ימים לפני מתקפת 7 באוקטובר. טראמפ אמר שהוא \"לא יכול לדמיין\" שנתניהו התעלם מהאזהרות. בסביבת נתניהו דוחים את הדיווחים.",
       "why": "הנושא עולה לסדר היום פחות מחודש לפני הבחירות, ומחזק את הדרישה לבירור האחריות למחדל.",
       "next": "צפויים דיונים ציבוריים ודרישות לחשיפת המסמכים. זה נושא מרכזי במערכת הבחירות.",
-      "tags": ["7 באוקטובר", "נתניהו", "ועדת חקירה", "בחירות 2026"],
+      "tags": [
+        "7 באוקטובר",
+        "נתניהו",
+        "ועדת חקירה",
+        "בחירות 2026"
+      ],
       "sources": [
-        {"name": "Times of Israel", "url": "https://www.timesofisrael.com/trump-cant-imagine-netanyahu-ignored-warnings-ahead-of-oct-7/"},
-        {"name": "ynet", "url": "https://www.ynet.co.il/news/article/rjzl86ocfx"}
-      ]
+        {
+          "name": "Times of Israel",
+          "url": "https://www.timesofisrael.com/trump-cant-imagine-netanyahu-ignored-warnings-ahead-of-oct-7/"
+        },
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/rjzl86ocfx"
+        }
+      ],
+      "kind": "past"
     },
     {
       "id": "2026-10-01-arab-parties",
@@ -54,11 +93,23 @@
       "summary": "בית המשפט העליון דן בהחלטת ועדת הבחירות המרכזית לפסול מפלגות ומועמדים ערבים. רוב השופטים רמזו שהם תומכים בפסילת יו\"ר בל\"ד סאמי אבו שחאדה, בשל מאמר שפרסם ב-8 באוקטובר 2023 שבו לא גינה את הטבח. השופטים הציעו לו לפרוש מהמרוץ. אבו שחאדה אמר שהוא מגנה את 7 באוקטובר.",
       "why": "ההכרעה תשפיע על הרכב הרשימות, על שיעור ההצבעה בחברה הערבית ועל מאזן הגושים.",
       "next": "פסק דין צפוי בימים הקרובים, לפני הדפסת פתקי ההצבעה.",
-      "tags": ["בג\"ץ", "בל\"ד", "ועדת הבחירות", "בחירות 2026"],
+      "tags": [
+        "בג\"ץ",
+        "בל\"ד",
+        "ועדת הבחירות",
+        "בחירות 2026"
+      ],
       "sources": [
-        {"name": "Times of Israel", "url": "https://www.timesofisrael.com/high-court-urges-balad-chairman-to-drop-out-of-elections-or-face-disqualification/"},
-        {"name": "ynet", "url": "https://www.ynet.co.il/news/blogs/article/skc6ftiqfe"}
-      ]
+        {
+          "name": "Times of Israel",
+          "url": "https://www.timesofisrael.com/high-court-urges-balad-chairman-to-drop-out-of-elections-or-face-disqualification/"
+        },
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/blogs/article/skc6ftiqfe"
+        }
+      ],
+      "kind": "legal"
     },
     {
       "id": "2026-10-01-jalud",
@@ -68,11 +119,22 @@
       "summary": "יותר מ-100 מתנחלים תקפו את הכפר ג'אלוד בשומרון. הם גם מנעו ממשפחה פלסטינית, שליוו כוחות צה\"ל, לחזור לביתה שנתפס לפני כמה שבועות. נתניהו גינה את התקיפה וקרא להעמיד את המעורבים לדין. הנשיא הרצוג אמר שהמערכת הפוליטית לא עשתה די כדי לעצור את האלימות. שגרירת ארה\"ב באו\"ם אמרה שארה\"ב מנהלת עם ישראל \"שיחות קשות\".",
       "why": "האלימות ביהודה ושומרון מחריפה את הלחץ הבינלאומי על ישראל ואת החיכוך עם הממשל האמריקני.",
       "next": "צפויים מעקב אחר החקירה והמעצרים, ותגובות של מדינות נוספות.",
-      "tags": ["יהודה ושומרון", "אלימות מתנחלים", "ארה\"ב"],
+      "tags": [
+        "יהודה ושומרון",
+        "אלימות מתנחלים",
+        "ארה\"ב"
+      ],
       "sources": [
-        {"name": "Times of Israel", "url": "https://www.timesofisrael.com/over-100-settlers-attack-west-bank-village-block-palestinian-familys-return-home/"},
-        {"name": "Times of Israel", "url": "https://www.timesofisrael.com/herzog-says-israeli-politicians-have-not-done-all-they-can-to-halt-settler-violence/"}
-      ]
+        {
+          "name": "Times of Israel",
+          "url": "https://www.timesofisrael.com/over-100-settlers-attack-west-bank-village-block-palestinian-familys-return-home/"
+        },
+        {
+          "name": "Times of Israel",
+          "url": "https://www.timesofisrael.com/herzog-says-israeli-politicians-have-not-done-all-they-can-to-halt-settler-violence/"
+        }
+      ],
+      "kind": "event"
     },
     {
       "id": "2026-10-01-netherlands",
@@ -82,10 +144,19 @@
       "summary": "הולנד הטילה איסור על מוצרים מההתנחלויות. ראשי הקהילה היהודית במדינה מתארים את הצעד כסימן לעוינות גוברת, ופרשנים רואים בו חלק ממגמה רחבה יותר של צעדי חרם נגד ישראל.",
       "why": "צעדים כאלה עלולים להתפשט למדינות נוספות באירופה ולפגוע ביצוא ובמעמד הבינלאומי של ישראל.",
       "next": "יש לעקוב אם מדינות נוספות באיחוד האירופי ינקטו צעדים דומים.",
-      "tags": ["הולנד", "אירופה", "חרם", "התנחלויות"],
+      "tags": [
+        "הולנד",
+        "אירופה",
+        "חרם",
+        "התנחלויות"
+      ],
       "sources": [
-        {"name": "Times of Israel", "url": "https://www.timesofisrael.com/the-netherlands-is-just-a-symptom-of-a-widening-global-boycott-against-israel/"}
-      ]
+        {
+          "name": "Times of Israel",
+          "url": "https://www.timesofisrael.com/the-netherlands-is-just-a-symptom-of-a-widening-global-boycott-against-israel/"
+        }
+      ],
+      "kind": "decision"
     },
     {
       "id": "2026-10-01-gaza-sept",
@@ -95,10 +166,18 @@
       "summary": "לפי צה\"ל, במהלך ספטמבר חוסלו ברצועת עזה 70 מחבלים. 17 מהם השתתפו במתקפת 7 באוקטובר, וביניהם מחבל שהיה מעורב בחטיפות מבארי.",
       "why": "הנתון מלמד על היקף הפעילות הצבאית בעזה, שנמשכת גם בזמן המלחמה מול איראן.",
       "next": "",
-      "tags": ["עזה", "חמאס", "צה\"ל"],
+      "tags": [
+        "עזה",
+        "חמאס",
+        "צה\"ל"
+      ],
       "sources": [
-        {"name": "Times of Israel", "url": "https://www.timesofisrael.com/liveblog-october-01-2026/"}
-      ]
+        {
+          "name": "Times of Israel",
+          "url": "https://www.timesofisrael.com/liveblog-october-01-2026/"
+        }
+      ],
+      "kind": "data"
     },
     {
       "id": "2026-10-01-fuel",
@@ -108,10 +187,18 @@
       "summary": "האוצר אישר הפחתה נוספת במס הבלו על בנזין, אחרי הפחתה של 50 אגורות מוקדם יותר החודש. למרות זאת, מחיר הבנזין מגיע היום (1.10) לשיא כל הזמנים, בעיקר בגלל המשבר במצר הורמוז.",
       "why": "עליית מחירי האנרגיה מגדילה את יוקר המחיה ומגבירה את הלחץ על האינפלציה.",
       "next": "",
-      "tags": ["דלק", "יוקר המחיה", "אינפלציה"],
+      "tags": [
+        "דלק",
+        "יוקר המחיה",
+        "אינפלציה"
+      ],
       "sources": [
-        {"name": "Globes", "url": "https://en.globes.co.il/en/News"}
-      ]
+        {
+          "name": "Globes",
+          "url": "https://en.globes.co.il/en/News"
+        }
+      ],
+      "kind": "decision"
     },
     {
       "id": "2026-10-01-oecd-tax",
@@ -121,10 +208,19 @@
       "summary": "תקנות שנדרשות לפי משטר המס הגלובלי של ה-OECD לחברות רב-לאומיות מתעכבות בוועדת הכספים בגלל מחלוקות פוליטיות.",
       "why": "בלי התקנות, חברות רב-לאומיות עלולות לשלם מס במדינות אחרות במקום בישראל, ולשקול להעביר משם פעילות מו\"פ.",
       "next": "",
-      "tags": ["מיסים", "הייטק", "OECD", "כנסת"],
+      "tags": [
+        "מיסים",
+        "הייטק",
+        "OECD",
+        "כנסת"
+      ],
       "sources": [
-        {"name": "Globes", "url": "https://en.globes.co.il/en/News"}
-      ]
+        {
+          "name": "Globes",
+          "url": "https://en.globes.co.il/en/News"
+        }
+      ],
+      "kind": "dispute"
     },
     {
       "id": "2026-10-01-shekel",
@@ -134,10 +230,18 @@
       "summary": "השקל נחלש לרמתו הנמוכה ביותר מזה חודשיים. הסיבות הן פערי הריבית, עליית תשואות האג\"ח, המתיחות האזורית והתחזקות הדולר בעולם.",
       "why": "שקל חלש מקל על היצואנים, אבל מייקר את היבוא.",
       "next": "",
-      "tags": ["שקל", "דולר", "בנק ישראל"],
+      "tags": [
+        "שקל",
+        "דולר",
+        "בנק ישראל"
+      ],
       "sources": [
-        {"name": "Globes", "url": "https://en.globes.co.il/en/article-shekel-at-2-month-weakest-against-us-dollar-1001557725"}
-      ]
+        {
+          "name": "Globes",
+          "url": "https://en.globes.co.il/en/article-shekel-at-2-month-weakest-against-us-dollar-1001557725"
+        }
+      ],
+      "kind": "data"
     }
   ],
   "filtered_out": 23

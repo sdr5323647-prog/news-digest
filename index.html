@@ -60,8 +60,26 @@ button,select{font:inherit;color:inherit}
 .sub b{font-weight:700}
 .foot{display:flex;align-items:center;gap:6px;flex-wrap:wrap;margin-top:12px;font-size:13px}
 .src{color:var(--accent);text-decoration:none;background:var(--accent-soft);padding:2px 8px;border-radius:999px}
-.dislike{margin-inline-start:auto;background:none;border:1px solid var(--line);border-radius:999px;padding:3px 10px;cursor:pointer;font-size:13px;color:var(--muted)}
-.dislike:hover{color:var(--warn);border-color:var(--warn)}
+.votes{margin-inline-start:auto;display:flex;gap:6px}
+.vote,.more{background:none;border:1px solid var(--line);border-radius:999px;padding:3px 10px;cursor:pointer;font-size:14px;color:var(--muted);min-width:38px}
+.vote[aria-pressed="true"].up{background:#e7f6ec;border-color:#2f9e5a;color:#1d7a43}
+.vote[aria-pressed="true"].down{background:#fdecea;border-color:var(--warn);color:var(--warn)}
+.lowHead{display:flex;align-items:center;gap:8px;margin:26px 0 4px;font-size:14px;color:var(--muted);cursor:pointer;background:none;border:0;padding:0;width:100%}
+.lowHead::after{content:"";flex:1;height:1px;background:var(--line)}
+.why-low{font-size:12px;color:var(--muted);margin-bottom:4px}
+.breaking{background:#fdecea;border:1px solid #f4b4ae;border-radius:14px;padding:12px 14px;margin:16px 0 4px;color:#3b0d09}
+.breaking h3{margin:0 0 6px;font-size:16px;display:flex;align-items:center;gap:8px}
+.breaking h3 .x{margin-inline-start:auto;background:none;border:0;font-size:18px;cursor:pointer;color:inherit}
+.breaking ul{margin:0;padding-inline-start:18px;font-size:14.5px}
+.breaking li{margin:3px 0}
+.breaking a{color:inherit}
+.breaking small{display:block;margin-top:6px;opacity:.75;font-size:12px}
+.pulse{width:9px;height:9px;border-radius:50%;background:#d92d20;box-shadow:0 0 0 0 rgba(217,45,32,.6);animation:p 1.6s infinite}
+@keyframes p{70%{box-shadow:0 0 0 8px rgba(217,45,32,0)}100%{box-shadow:0 0 0 0 rgba(217,45,32,0)}}
+.learned{display:flex;flex-wrap:wrap;gap:6px}
+.learned span{font-size:13px;padding:3px 10px;border-radius:999px;border:1px solid var(--line)}
+.learned .pos{background:#e7f6ec;color:#1d7a43;border-color:#bfe6cc}
+.learned .neg{background:#fdecea;color:#a3271b;border-color:#f4c4bf}
 .hiddenNote{font-size:13px;color:var(--muted);text-align:center;margin:18px 0}
 .hiddenNote button{background:none;border:0;color:var(--accent);cursor:pointer;text-decoration:underline}
 .card.muted{opacity:.55}
@@ -105,6 +123,7 @@ footer{font-size:13px;color:var(--muted);text-align:center;margin-top:30px}
 </header>
 
 <main class="wrap">
+  <div id="breaking"></div>
   <div class="datebar">
     <select id="dateSel" aria-label="בחר תאריך"></select>
   </div>
@@ -125,7 +144,11 @@ footer{font-size:13px;color:var(--muted);text-align:center;margin-top:30px}
   <div class="row"><input type="range" id="minImp" min="1" max="5" step="1"><span id="minImpVal"></span></div>
   <h4>מספר ידיעות מקסימלי</h4>
   <div class="row"><input type="range" id="maxItems" min="3" max="20" step="1"><span id="maxItemsVal"></span></div>
-  <h4>נושאים שהסתרתי</h4>
+  <h4>מה למדתי עליך</h4>
+  <p class="hint">נלמד מסימוני 👍 ו-👎. ידיעות שמתאימות לטעם שלך עולות למעלה, והשאר יורדות ל"פחות רלוונטי לך".</p>
+  <div class="learned" id="learnedBox"></div>
+  <p><button class="btn" id="resetLearn" style="margin-top:8px">אפס את הלמידה</button></p>
+  <h4>נושאים שחסמתי לגמרי</h4>
   <div class="mlist" id="mutedBox"></div>
   <h4>תצוגה</h4>
   <div class="row">
@@ -134,8 +157,8 @@ footer{font-size:13px;color:var(--muted);text-align:center;margin-top:30px}
   <p style="margin-top:20px"><button class="btn" id="closeSettings">סגור</button></p>
 </section>
 
-<section class="panel" id="dislikePanel" aria-label="לא מעניין">
-  <h3>לא מעניין? מה להסתיר מעכשיו</h3>
+<section class="panel" id="dislikePanel" aria-label="אפשרויות נוספות">
+  <h3>חסימה מלאה</h3>
   <p class="hint" id="dislikeHint">בחרו מה לא להציג לכם בעתיד.</p>
   <div id="dislikeOpts"></div>
   <p><button class="btn" id="closeDislike">ביטול</button></p>
@@ -162,14 +185,61 @@ const CATS = {
   tech:{he:"טכנולוגיה ומדע",c:"var(--c-tech)"},
   health:{he:"בריאות",c:"var(--c-health)"}
 };
-const DEF = {cats:Object.keys(CATS), minImp:2, maxItems:12, mutedTags:[], mutedIds:[], theme:""};
+// What kind of development an item is. The agent assigns one per item.
+const KINDS = {
+  decision:"החלטה או צעד בפועל", event:"אירוע ביטחוני או אסון", statement:"הצהרה או איום",
+  past:"חשיפה על העבר", dispute:"ויכוח ומחלוקת", data:"נתון או דוח",
+  legal:"פסיקה או הליך משפטי", negotiation:"מגעים ומשא ומתן"
+};
+const DEF = {cats:Object.keys(CATS), minImp:2, maxItems:12, mutedTags:[], mutedIds:[], theme:"", w:{}, votes:{}, dismissedAlert:""};
+
+// ---- learning: a tiny per-reader score table, updated by 👍/👎 ----
+// Each item has features (its kind, category and topic tags). A vote nudges every
+// feature's weight a little; over many votes the shared features cancel out and
+// the real reason (e.g. "past revelations") stands out.
+const STEP = {k:1, c:0.5, t:0.6}, CAP = 4, LOW = -1.5;
+function features(it){
+  const f = [];
+  if(it.kind) f.push("k:"+it.kind);
+  if(it.category) f.push("c:"+it.category);
+  (it.tags||[]).forEach(t=>f.push("t:"+t));
+  return f;
+}
+function personal(it){
+  const w = S.w; let s = 0, tags = (it.tags||[]);
+  if(it.kind) s += w["k:"+it.kind]||0;
+  s += 0.5*(w["c:"+it.category]||0);
+  if(tags.length) s += tags.reduce((a,t)=>a+(w["t:"+t]||0),0)/Math.sqrt(tags.length);
+  return s;
+}
+function nudge(it, dir){
+  features(it).forEach(f=>{
+    const v = (S.w[f]||0) + dir*STEP[f[0]];
+    S.w[f] = Math.max(-CAP, Math.min(CAP, Math.round(v*100)/100));
+    if(S.w[f]===0) delete S.w[f];
+  });
+}
+function vote(id, dir){
+  const it = (current.items||[]).find(x=>x.id===id); if(!it) return;
+  const prev = S.votes[id]||0;
+  if(prev) nudge(it, -prev);            // undo the old vote first
+  if(prev===dir){ delete S.votes[id]; } // same button again = cancel
+  else { nudge(it, dir); S.votes[id]=dir; }
+  store.set(S); render();
+  if(S.votes[id]===-1) toast("תודה, אלמד מזה. ידיעות דומות ירדו בהדרגה.");
+  if(S.votes[id]===1) toast("תודה, ידיעות דומות יעלו בהדרגה.");
+}
+function featLabel(f){
+  const v=f.slice(2);
+  return f[0]==="k" ? (KINDS[v]||v) : f[0]==="c" ? (CATS[v]?.he||v) : v;
+}
 
 const store = {
   get(){ try{ return Object.assign({}, DEF, JSON.parse(localStorage.getItem("tamzit")||"{}")); }catch(e){ return {...DEF}; } },
   set(s){ try{ localStorage.setItem("tamzit", JSON.stringify(s)); }catch(e){} }
 };
 let S = store.get();
-let view = "daily", index = {daily:[],weekly:[]}, current = null, showHidden = false;
+let view = "daily", index = {daily:[],weekly:[]}, current = null, showHidden = false, showLow = false;
 
 // owner "teach the agent" mode: open the site once with ?admin=1
 try{
@@ -213,22 +283,36 @@ function render(){
   const list = $("list");
   if(!current){ list.innerHTML = `<div class="empty">${view==="weekly"?"עדיין אין סיכום שבועי. הסיכום הראשון יפורסם ביום ראשון.":"אין עדיין סיכומים."}</div>`; $("lead").textContent=""; $("hiddenNote").textContent=""; return; }
   $("lead").innerHTML = current.headline ? `<b>בקצרה:</b> ${esc(current.headline)}` : "";
-  const items = (current.items||[]).slice().sort((a,b)=>(b.importance||0)-(a.importance||0));
-  const shown = [], hidden = [];
-  items.forEach(it => (isHidden(it) ? hidden : shown).push(it));
+  // rank = general importance + this reader's learned taste; top-importance news always stays up
+  const rank = it => (it.importance||0) + 0.8*personal(it);
+  const items = (current.items||[]).slice().sort((a,b)=>rank(b)-rank(a));
+  const shown = [], hidden = [], low = [];
+  items.forEach(it => {
+    if(isHidden(it)) hidden.push(it);
+    else if(personal(it) <= LOW && (it.importance||0) < 5 && S.votes[it.id]!==1) low.push(it);
+    else shown.push(it);
+  });
   const visible = shown.slice(0, S.maxItems);
   const overflow = shown.slice(S.maxItems);
-  const all = showHidden ? visible.concat(overflow, hidden) : visible;
-  list.innerHTML = all.map(it=>card(it, showHidden && (hidden.includes(it)||overflow.includes(it)))).join("");
+  const extra = showHidden ? overflow.concat(hidden) : [];
+  let html = visible.map(it=>card(it,false)).join("") + extra.map(it=>card(it,true)).join("");
+  if(low.length){
+    html += `<button class="lowHead" id="lowToggle" aria-expanded="${showLow}">${showLow?"▾":"◂"} פחות רלוונטי לך (${low.length})</button>`;
+    if(showLow) html += low.map(it=>card(it,true,true)).join("");
+  }
+  list.innerHTML = html;
+  const lt = $("lowToggle"); if(lt) lt.onclick=()=>{showLow=!showLow; render();};
   const n = hidden.length + overflow.length;
   const filtered = current.filtered_out ? ` · ${current.filtered_out} ידיעות זניחות סוננו מראש` : "";
   $("hiddenNote").innerHTML = (n ? `${n===1?"ידיעה אחת הוסתרה":n+" ידיעות הוסתרו"} לפי ההגדרות שלך · <button id="toggleHidden">${showHidden?"הסתר אותן":"הצג בכל זאת"}</button>` : "") + filtered;
   const th = $("toggleHidden"); if(th) th.onclick=()=>{showHidden=!showHidden; render();};
-  list.querySelectorAll(".dislike").forEach(b=>b.onclick=()=>openDislike(b.dataset.id));
+  list.querySelectorAll(".vote").forEach(b=>b.onclick=()=>vote(b.dataset.id, +b.dataset.dir));
+  list.querySelectorAll(".more").forEach(b=>b.onclick=()=>openDislike(b.dataset.id));
 }
-function card(it, muted){
+function card(it, muted, isLow){
   const cat = CATS[it.category]||{he:it.category,c:"var(--muted)"};
   const dots = [1,2,3,4,5].map(i=>`<i class="${i<=(it.importance||0)?"on":""}"></i>`).join("");
+  const v = S.votes[it.id]||0;
   const srcs = (it.sources||[]).map(s=>`<a class="src" href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.name)}</a>`).join("");
   return `<article class="card${muted?" muted":""}">
     <div class="meta"><span class="chip" style="background:${cat.c}">${esc(cat.he)}</span><span class="imp" title="חשיבות ${it.importance}/5">${dots}</span></div>
@@ -236,7 +320,11 @@ function card(it, muted){
     <p>${esc(it.summary)}</p>
     ${it.why?`<p class="sub"><b>למה זה חשוב:</b> ${esc(it.why)}</p>`:""}
     ${it.next?`<p class="sub"><b>מה הלאה:</b> ${esc(it.next)}</p>`:""}
-    <div class="foot">${srcs}<button class="dislike" data-id="${esc(it.id)}">👎 לא מעניין</button></div>
+    <div class="foot">${srcs}<span class="votes">
+      <button class="vote up" data-id="${esc(it.id)}" data-dir="1" aria-pressed="${v===1}" aria-label="מעניין">👍</button>
+      <button class="vote down" data-id="${esc(it.id)}" data-dir="-1" aria-pressed="${v===-1}" aria-label="לא מעניין">👎</button>
+      <button class="more" data-id="${esc(it.id)}" aria-label="אפשרויות נוספות">⋯</button>
+    </span></div>
   </article>`;
 }
 
@@ -249,13 +337,15 @@ function openDislike(id){
     ...(it.tags||[]).map(t=>({label:`אל תציג לי ידיעות על: ${t}`, act:()=>{ if(!S.mutedTags.includes(t)) S.mutedTags.push(t); }, kind:"tag:"+t})),
     {label:`אל תציג לי את הקטגוריה: ${cat}`, act:()=>{S.cats=S.cats.filter(c=>c!==it.category);}, kind:"cat:"+it.category}
   ];
-  $("dislikeHint").textContent = isAdmin ? "מצב עורך: הבחירה תישמר אצלך, ותיפתח גם הודעה ב-GitHub שמלמדת את הסוכן (לחצו שם Submit)." : "הבחירה נשמרת רק אצלכם, בדפדפן הזה.";
+  if(isAdmin) opts.push({label:"📮 מצב עורך: למד את הסוכן שידיעות כאלה לא מעניינות אף אחד", teach:true});
+  $("dislikeHint").textContent = "לרוב עדיף פשוט ללחוץ 👎 ולתת ללמידה לעבוד. כאן אפשר לחסום משהו לגמרי, מיד.";
   $("dislikeOpts").innerHTML = opts.map((o,i)=>`<button class="opt" data-i="${i}">${esc(o.label)}</button>`).join("");
   $("dislikeOpts").querySelectorAll(".opt").forEach(b=>b.onclick=()=>{
-    const prev = JSON.stringify(S); const o = opts[+b.dataset.i];
+    const o = opts[+b.dataset.i];
+    if(o.teach){ closePanels(); teachAgent(it, "לא מעניין לאף אחד"); return; }
+    const prev = JSON.stringify(S);
     o.act(); store.set(S); closePanels(); render(); renderSettings();
-    toast("הוסתר. מעכשיו לא תראו ידיעות כאלה.", ()=>{ S=JSON.parse(prev); store.set(S); render(); renderSettings(); });
-    if(isAdmin) teachAgent(it, o.label);
+    toast("נחסם. אפשר לבטל בהגדרות.", ()=>{ S=JSON.parse(prev); store.set(S); render(); renderSettings(); });
   });
   open("dislikePanel");
 }
@@ -276,7 +366,12 @@ function renderSettings(){
   $("mutedBox").innerHTML = muted.length ? muted.map(m=>`<span class="mtag">${esc(m.t)}<button data-k="${m.k}" data-t="${esc(m.t)}" aria-label="בטל">×</button></span>`).join("") : `<span class="hint">אין. לחצו 👎 על ידיעה כדי להסתיר נושא.</span>`;
   $("mutedBox").querySelectorAll("button").forEach(b=>b.onclick=()=>{ if(b.dataset.k==="ids") S.mutedIds=[]; else S.mutedTags=S.mutedTags.filter(t=>t!==b.dataset.t); store.set(S); renderSettings(); render(); });
   $("themeSel").value=S.theme;
+  const learned = Object.entries(S.w).filter(([,v])=>Math.abs(v)>=1).sort((a,b)=>Math.abs(b[1])-Math.abs(a[1])).slice(0,12);
+  $("learnedBox").innerHTML = learned.length
+    ? learned.map(([f,v])=>`<span class="${v>0?"pos":"neg"}">${v>0?"אוהב":"פחות"}: ${esc(featLabel(f))}</span>`).join("")
+    : `<span class="hint" style="border:0;padding:0">עדיין אין מספיק סימונים. סמנו 👍 או 👎 על כמה ידיעות.</span>`;
 }
+$("resetLearn").onclick=()=>{ if(confirm("לאפס את כל מה שנלמד?")){ S.w={}; S.votes={}; store.set(S); renderSettings(); render(); } };
 $("minImp").oninput=e=>{S.minImp=+e.target.value; store.set(S); renderSettings(); render();};
 $("maxItems").oninput=e=>{S.maxItems=+e.target.value; store.set(S); renderSettings(); render();};
 $("themeSel").onchange=e=>{S.theme=e.target.value; store.set(S); applyTheme();};
@@ -318,7 +413,23 @@ $("installBtn").onclick = async ()=>{
 };
 $("closeInstall").onclick=closePanels;
 
+// ---- breaking-news banner (data/breaking.json is written by a GitHub Action, no AI) ----
+async function loadBreaking(){
+  let b; try{ b = await (await fetch("data/breaking.json",{cache:"no-store"})).json(); }catch(e){ return; }
+  const a = b && b.active && b.alert;
+  if(!a || new Date(a.expires_at) < new Date() || S.dismissedAlert===a.id){ $("breaking").innerHTML=""; return; }
+  const t = new Date(a.detected_at).toLocaleTimeString("he-IL",{hour:"2-digit",minute:"2-digit"});
+  $("breaking").innerHTML = `<section class="breaking" role="alert">
+    <h3><span class="pulse"></span>מבזק: ${esc(a.label)}<button class="x" aria-label="סגור">×</button></h3>
+    <ul>${a.items.map(i=>`<li><a href="${esc(i.url)}" target="_blank" rel="noopener">${esc(i.title)}</a> · ${esc(i.source)}</li>`).join("")}</ul>
+    <small>זוהה ב-${t} לפי דיווחים בכמה כלי תקשורת. הכותרות מוצגות כפי שפורסמו. סיכום מסודר יופיע בסיכום הערב.</small>
+  </section>`;
+  $("breaking").querySelector(".x").onclick=()=>{ S.dismissedAlert=a.id; store.set(S); $("breaking").innerHTML=""; };
+}
+document.addEventListener("visibilitychange", ()=>{ if(!document.hidden) loadBreaking(); });
+
 loadIndex();
+loadBreaking();
 </script>
 </body>
 </html>
