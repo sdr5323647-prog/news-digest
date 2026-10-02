@@ -1,0 +1,18 @@
+{
+  "_doc": "Source reliability tiers. 1 = official/primary, 2 = established news outlet, 3 = secondary/social. Matched by domain suffix. Unknown domains default to tier 3.",
+  "tiers": {
+    "1": ["gov.il", "idf.il", "police.gov.il", "knesset.gov.il", "boi.org.il", "cbs.gov.il", "mod.gov.il", "mfa.gov.il", "pmo.gov.il", "court.gov.il", "un.org", "whitehouse.gov", "state.gov"],
+    "2": ["ynet.co.il", "ynetnews.com", "haaretz.co.il", "haaretz.com", "israelhayom.co.il", "maariv.co.il", "walla.co.il", "kan.org.il", "mako.co.il", "n12.co.il", "globes.co.il", "calcalist.co.il", "themarker.com", "timesofisrael.com", "jpost.com", "i24news.tv", "reuters.com", "apnews.com", "bbc.com", "bbc.co.uk", "nytimes.com", "theguardian.com", "aljazeera.com", "cnn.com", "washingtonpost.com", "wsj.com", "ft.com", "bloomberg.com", "axios.com", "afp.com"],
+    "3": ["x.com", "twitter.com", "t.me", "telegram.me", "facebook.com", "instagram.com", "tiktok.com", "youtube.com", "reddit.com"]
+  },
+  "names": {
+    "ynet.co.il": "ynet", "ynetnews.com": "ynet", "haaretz.co.il": "הארץ", "haaretz.com": "Haaretz", "israelhayom.co.il": "ישראל היום",
+    "maariv.co.il": "מעריב", "walla.co.il": "וואלה", "kan.org.il": "כאן", "n12.co.il": "N12", "mako.co.il": "N12", "globes.co.il": "גלובס",
+    "calcalist.co.il": "כלכליסט", "themarker.com": "TheMarker", "timesofisrael.com": "Times of Israel", "jpost.com": "Jerusalem Post",
+    "reuters.com": "Reuters", "apnews.com": "AP", "bbc.com": "BBC", "bbc.co.uk": "BBC", "nytimes.com": "NYT", "theguardian.com": "Guardian",
+    "aljazeera.com": "Al Jazeera", "police.gov.il": "משטרת ישראל", "idf.il": "דובר צה\"ל", "gov.il": "gov.il", "boi.org.il": "בנק ישראל",
+    "knesset.gov.il": "הכנסת", "cbs.gov.il": "הלמ\"ס"
+  },
+  "opinion_url_patterns": ["/opinion", "/opinions/", "/op-ed", "/oped", "/commentary/", "/columnists/", "/blogs/", "/editorial", "/comment/", "/analysis/", "/news-analysis", "/article/opinion"],
+  "opinion_title_patterns": ["^דעה[:|]", "^פרשנות[:|]", "^טור[:|]", "^מאמר מערכת", "^ניתוח[:|]", "^opinion[:|]", "^analysis[:|]", "^editorial[:|]", "^comment[:|]", "^op-ed"]
+}

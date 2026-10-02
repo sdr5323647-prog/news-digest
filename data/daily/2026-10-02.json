@@ -1,183 +1,272 @@
 {
+  "schema": 2,
   "date": "2026-10-02",
   "type": "daily",
   "headline": "הטייס העומאני בפרשת פליידובאי הועבר לחקירה באמירויות, המגעים בין ארה\"ב לאיראן נתקעים, ובית המשפט העליון מוציא את אבו שחאדה מהמרוץ לכנסת",
-  "items": [
+  "events": [
     {
-      "id": "2026-10-02-flydubai-probe",
-      "category": "security",
-      "importance": 5,
+      "id": "flydubai-attack",
       "title": "פרשת פליידובאי: הטייס העומאני הועבר מסעודיה לחקירה באמירויות; טראמפ רמז לקשר איראני",
       "summary": "אחרי חקירה ראשונית בסעודיה, שבה נחתה הטיסה, הועבר טייס-המשנה העומאני החשוד לאבו דאבי. פרקליטות האמירויות הקימה צוות חקירה מיוחד שיבדוק את המניע, ולפי הדיווחים נבדקות כל האפשרויות, מטרור ועד הפרעה נפשית. נבדק גם אם הטייס רק תקף את הקברניט או ניסה להשתלט על המטוס. נשיא ארה\"ב טראמפ, ששאלו אותו על קשר לאיראן, השיב שלפי מה ששמע \"כן\", בלי שפורסמה ראיה לכך.",
       "why": "המסקנה לגבי המניע תקבע אם מדובר בפיגוע מתוכנן, אולי בחסות מדינה, ותשפיע על הביטחון בקווי תעופה בין ישראל למפרץ.",
-      "next": "ממצאי החקירה האמירתית וההחלטה אם יחודשו הטיסות של פליידובאי לישראל.",
-      "tags": [
+      "change": "הטייס העומאני הועבר מסעודיה לחקירה באיחוד האמירויות, וטראמפ רמז לקשר איראני.",
+      "status": "VERIFIED",
+      "importance": 5,
+      "categories": [
+        "security"
+      ],
+      "kind": "event",
+      "entities": [
         "תעופה",
         "טרור",
         "איחוד האמירויות",
         "איראן"
       ],
+      "noise": [],
       "sources": [
         {
           "name": "Times of Israel",
-          "url": "https://www.timesofisrael.com/liveblog_entry/omani-pilot-to-be-handed-over-to-uae-after-saudi-investigation-completed/"
+          "url": "https://www.timesofisrael.com/liveblog_entry/omani-pilot-to-be-handed-over-to-uae-after-saudi-investigation-completed/",
+          "tier": 2,
+          "type": "reporting"
         },
         {
           "name": "CNN",
-          "url": "https://www.cnn.com/2026/10/01/world/live-news/flydubai-flight-israel-pilot-passengers-intl"
+          "url": "https://www.cnn.com/2026/10/01/world/live-news/flydubai-flight-israel-pilot-passengers-intl",
+          "tier": 2,
+          "type": "reporting"
         },
         {
           "name": "PBS",
-          "url": "https://www.pbs.org/newshour/world/investigators-work-to-determine-why-a-pilot-apparently-tried-to-crash-a-flydubai-flight-to-israel"
+          "url": "https://www.pbs.org/newshour/world/investigators-work-to-determine-why-a-pilot-apparently-tried-to-crash-a-flydubai-flight-to-israel",
+          "tier": 3,
+          "type": "reporting"
         }
       ],
-      "kind": "event"
+      "sourceCount": 3,
+      "firstSeen": "2026-10-01",
+      "lastUpdated": "2026-10-02",
+      "next": "ממצאי החקירה האמירתית וההחלטה אם יחודשו הטיסות של פליידובאי לישראל."
     },
     {
-      "id": "2026-10-02-iran-talks-stall",
-      "category": "region",
-      "importance": 5,
+      "id": "us-iran-talks",
       "title": "המגעים בין ארה\"ב לאיראן נתקעים: משלחת איראן עזבה את ניו יורק",
       "summary": "טראמפ דחה את הצעת איראן לפתיחה הדרגתית של מצר הורמוז, שכללה שחרור כספים קפואים, הסרת סנקציות על הנפט וסיום המצור הימי, ואמר שהיא \"לא מקובלת\". לפי הדיווחים, מזכיר המדינה רוביו הורה למשלחת האיראנית בראשות שר החוץ עבאס ערקצ'י לעזוב את ארה\"ב, והיא טסה לדוחא. ערקצ'י אמר קודם לכן שאין פשרה בתוכנית הגרעין. הצדדים מנהלים מגעים עקיפים דרך מתווכים, בהם קטאר.",
       "why": "כישלון המגעים מגדיל את הסיכוי לחידוש הלחימה מול איראן, שישראל צד לה, ומשפיע על תנועת הנפט ועל הכלכלה.",
-      "next": "האם יימשכו המגעים דרך מתווכים והאם ארה\"ב תחדש תקיפות.",
-      "tags": [
+      "change": "המגעים נתקעו: משלחת איראן עזבה את ניו יורק.",
+      "status": "VERIFIED",
+      "importance": 5,
+      "categories": [
+        "israel_world",
+        "security"
+      ],
+      "kind": "negotiation",
+      "entities": [
         "איראן",
         "הורמוז",
         "ארה\"ב"
       ],
+      "noise": [],
       "sources": [
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/amp/news/2026/9/26/trump-rejects-irans-seven-day-roadmap-to-reopen-strait-of-hormuz"
+          "url": "https://www.aljazeera.com/amp/news/2026/9/26/trump-rejects-irans-seven-day-roadmap-to-reopen-strait-of-hormuz",
+          "tier": 2,
+          "type": "reporting"
         },
         {
           "name": "Jerusalem Post",
-          "url": "https://www.jpost.com/middle-east/iran-news/article-909799"
+          "url": "https://www.jpost.com/middle-east/iran-news/article-909799",
+          "tier": 2,
+          "type": "reporting"
         },
         {
           "name": "CBS News",
-          "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-talks-strait-of-hormuz/"
+          "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-talks-strait-of-hormuz/",
+          "tier": 3,
+          "type": "reporting"
         }
       ],
-      "kind": "negotiation"
+      "sourceCount": 3,
+      "firstSeen": "2026-10-01",
+      "lastUpdated": "2026-10-02",
+      "next": "האם יימשכו המגעים דרך מתווכים והאם ארה\"ב תחדש תקיפות."
     },
     {
-      "id": "2026-10-02-abu-shehadeh",
-      "category": "law",
-      "importance": 4,
+      "id": "balad-disqualification",
       "title": "אחרי המלצת בית המשפט העליון: אבו שחאדה מסיר את מועמדותו לכנסת",
       "summary": "ועדת הבחירות המרכזית פסלה ברוב של 31 מול 4 את יו\"ר בל\"ד סאמי אבו שחאדה, בעקבות עתירת עוצמה יהודית שטענה שהוא תומך במאבק מזוין של ארגון טרור. הרכב של תשעה שופטים בבית המשפט העליון המליץ לו לפרוש, והזהיר שאחרת יפסול אותו. המפלגה הודיעה שהוא יפרוש. בעתירות נוספות נדון גם פסילת רשימות ערביות.",
       "why": "פסילה של מועמדים ערבים משפיעה על ייצוג הציבור הערבי בכנסת ועל מאזן הגושים בבחירות ב-27 באוקטובר.",
-      "next": "החלטות בעתירות נגד רשימות ומועמדים נוספים לפני הבחירות.",
-      "tags": [
+      "change": "אבו שחאדה הסיר את מועמדותו לכנסת בעקבות המלצת בית המשפט העליון.",
+      "status": "VERIFIED",
+      "importance": 4,
+      "categories": [
+        "law",
+        "politics"
+      ],
+      "kind": "decision",
+      "entities": [
         "בחירות 2026",
         "בל\"ד",
         "בית המשפט העליון"
       ],
+      "noise": [],
       "sources": [
         {
           "name": "Jerusalem Post",
-          "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-910271"
+          "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-910271",
+          "tier": 2,
+          "type": "reporting"
         },
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/1/israels-supreme-court-advises-arab-party-leader-to-drop-election-bid"
+          "url": "https://www.aljazeera.com/news/2026/10/1/israels-supreme-court-advises-arab-party-leader-to-drop-election-bid",
+          "tier": 2,
+          "type": "reporting"
         },
         {
           "name": "Haaretz",
-          "url": "https://www.haaretz.com/israel-news/elections/2026-10-01/ty-article/.premium/israels-top-court-hears-appeals-against-disqualification-of-arab-mks-parties/000001a0-f728-de52-afe1-f7ee31bc0000"
+          "url": "https://www.haaretz.com/israel-news/elections/2026-10-01/ty-article/.premium/israels-top-court-hears-appeals-against-disqualification-of-arab-mks-parties/000001a0-f728-de52-afe1-f7ee31bc0000",
+          "tier": 2,
+          "type": "reporting"
         }
       ],
-      "kind": "decision"
+      "sourceCount": 3,
+      "firstSeen": "2026-10-01",
+      "lastUpdated": "2026-10-02",
+      "next": "החלטות בעתירות נגד רשימות ומועמדים נוספים לפני הבחירות."
     },
     {
-      "id": "2026-10-02-polls-oct7-warning",
-      "category": "politics",
-      "importance": 4,
+      "id": "election-campaign-polls",
       "title": "מערכת הבחירות: הגושים צמודים בסקרים, ודיווחים על אזהרה שקיבל נתניהו לפני 7 באוקטובר",
       "summary": "בסקר שפורסם ב-Jerusalem Post הובילה \"ישר\" של איזנקוט עם 23 מנדטים, מול 21 לליכוד, ובגוש הקואליציה ובגוש האופוזיציה 52 מנדטים לכל אחד. סקר אחר, שפורסם בהארץ, מצא יתרון לגוש נתניהו על רקע החרם של האופוזיציה על המפלגות הערביות. במקביל פורסם, בהסתמך על דיווח בהארץ, שנשיא איחוד האמירויות התקשר לנתניהו כשבוע וחצי לפני 7 באוקטובר ואמר שסינוואר מתכנן מבצע גדול, ונתניהו לא העביר זאת לראשי מערכת הביטחון. בנט אמר שנתניהו אחראי אישית. מטעם נתניהו לא צוטטה תגובה בדיווחים שנסקרו.",
       "why": "הסקרים הצמודים והביקורת על אחריות נתניהו ל-7 באוקטובר עשויים להשפיע על ההכרעה בבחירות ב-27 באוקטובר.",
-      "next": "סקרים נוספים וחשיפות נוספות בשבועות שנותרו עד הבחירות.",
-      "tags": [
+      "change": "",
+      "status": "VERIFIED",
+      "importance": 4,
+      "categories": [
+        "politics"
+      ],
+      "kind": "dispute",
+      "entities": [
         "בחירות 2026",
         "סקרים",
         "7 באוקטובר"
       ],
+      "noise": [],
       "sources": [
         {
           "name": "Jerusalem Post",
-          "url": "https://www.jpost.com/israel-election-2026/article-909918"
+          "url": "https://www.jpost.com/israel-election-2026/article-909918",
+          "tier": 2,
+          "type": "reporting"
         },
         {
           "name": "Haaretz",
-          "url": "https://www.haaretz.com/israel-news/elections/2026-10-01/ty-article/new-poll-boycott-of-arab-parties-hands-netanyahus-bloc-edge-over-opponents/000001a0-f628-da3f-a7fa-f7ed60d40000"
+          "url": "https://www.haaretz.com/israel-news/elections/2026-10-01/ty-article/new-poll-boycott-of-arab-parties-hands-netanyahus-bloc-edge-over-opponents/000001a0-f628-da3f-a7fa-f7ed60d40000",
+          "tier": 2,
+          "type": "reporting"
         },
         {
           "name": "ABC News",
-          "url": "https://www.abc.net.au/news/2026-09-30/benjamin-netanyahu-october-7-hamas-attack-warning/107206790"
+          "url": "https://www.abc.net.au/news/2026-09-30/benjamin-netanyahu-october-7-hamas-attack-warning/107206790",
+          "tier": 3,
+          "type": "reporting"
         }
       ],
-      "kind": "dispute"
+      "sourceCount": 3,
+      "firstSeen": "2026-10-02",
+      "lastUpdated": "2026-10-02",
+      "next": "סקרים נוספים וחשיפות נוספות בשבועות שנותרו עד הבחירות."
     },
     {
-      "id": "2026-10-02-war-cost",
-      "category": "economy",
-      "importance": 3,
+      "id": "war-cost",
       "title": "בנק ישראל מעריך את עלות המלחמה ב-350 מיליארד ש\"ח; האוצר הבא יתמודד עם חוב גובר",
       "summary": "לפי הערכת בנק ישראל, העלות התקציבית של המלחמה בשנים 2023 עד 2026 מגיעה לכ-350 מיליארד ש\"ח, וכמחציתה מומנה בהלוואות. החוב הציבורי עלה ל-68.5% מהתוצר בסוף 2025 מ-60.5% בתחילת 2023. משרד האוצר העריך שעלות שירות החוב ב-2027 תגיע ל-64 מיליארד ש\"ח. קיימת מחלוקת בין האוצר למערכת הביטחון על תקציב הביטחון.",
       "why": "הממשלה שתיבחר תצטרך להכריע בין צמצום הגירעון להמשך ההוצאה הביטחונית, וזה ישפיע על המיסים, השירותים והריבית.",
-      "next": "משא ומתן על תקציב 2027 אחרי הבחירות.",
-      "tags": [
+      "change": "",
+      "status": "VERIFIED",
+      "importance": 3,
+      "categories": [
+        "economy"
+      ],
+      "kind": "data",
+      "entities": [
         "תקציב",
         "חוב",
         "בנק ישראל"
       ],
+      "noise": [],
       "sources": [
         {
           "name": "Jerusalem Post",
-          "url": "https://www.jpost.com/israel-news/article-910242"
+          "url": "https://www.jpost.com/israel-news/article-910242",
+          "tier": 2,
+          "type": "reporting"
         },
         {
           "name": "Ynetnews",
-          "url": "https://www.ynetnews.com/business/article/h1zzlisr11l"
+          "url": "https://www.ynetnews.com/business/article/h1zzlisr11l",
+          "tier": 2,
+          "type": "reporting"
         },
         {
           "name": "Calcalist",
-          "url": "https://www.calcalistech.com/ctechnews/article/7a7js35cy"
+          "url": "https://www.calcalistech.com/ctechnews/article/7a7js35cy",
+          "tier": 3,
+          "type": "reporting"
         }
       ],
-      "kind": "data"
+      "sourceCount": 3,
+      "firstSeen": "2026-10-02",
+      "lastUpdated": "2026-10-02",
+      "next": "משא ומתן על תקציב 2027 אחרי הבחירות."
     },
     {
-      "id": "2026-10-02-gaza-lebanon",
-      "category": "security",
-      "importance": 3,
+      "id": "gaza-lebanon",
       "title": "המשך התקיפות בעזה ובדרום לבנון למרות הסדרים",
       "summary": "לפי דיווחי צה\"ל, מחבלים משתתפי טבח 7 באוקטובר חוסלו בתקיפות בעזה, ובהם מפקד חוליה באגף הצבאי של חמאס. צה\"ל מסר שפגע בכ-370 יעדי חזבאללה בדרום לבנון במהלך חודש, והתקיפות נמשכות למרות הסכם בתיווך ארה\"ב. במזרח הגדה דווח על הרג פלסטינים בידי מתנחלים, לפי משרד הבריאות הפלסטיני.",
       "why": "ההסדרים בעזה ובלבנון לא מסיימים את הלחימה, והדבר מעמיד אתגר ביטחוני בשני הגזרות במקביל למערכת מול איראן.",
-      "next": "",
-      "tags": [
+      "change": "",
+      "status": "VERIFIED",
+      "importance": 3,
+      "categories": [
+        "security"
+      ],
+      "kind": "event",
+      "entities": [
         "עזה",
         "לבנון",
         "חזבאללה"
       ],
+      "noise": [],
       "sources": [
         {
           "name": "Times of Israel",
-          "url": "https://www.timesofisrael.com/liveblog-october-01-2026"
+          "url": "https://www.timesofisrael.com/liveblog-october-01-2026",
+          "tier": 2,
+          "type": "reporting"
         },
         {
           "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/1/israeli-drone-kills-palestinian-in-gaza-settlers-kill-another-in-west-bank"
+          "url": "https://www.aljazeera.com/news/2026/10/1/israeli-drone-kills-palestinian-in-gaza-settlers-kill-another-in-west-bank",
+          "tier": 2,
+          "type": "reporting"
         },
         {
           "name": "Libnanews",
-          "url": "https://en.libnanews.com/israel-claims-370-targets-hit-in-lebanon"
+          "url": "https://en.libnanews.com/israel-claims-370-targets-hit-in-lebanon",
+          "tier": 3,
+          "type": "reporting"
         }
       ],
-      "kind": "event"
+      "sourceCount": 3,
+      "firstSeen": "2026-10-02",
+      "lastUpdated": "2026-10-02",
+      "next": ""
     }
   ],
-  "filtered_out": 14
+  "unverified": [],
+  "filtered_out": 14,
+  "note": ""
 }

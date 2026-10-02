@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>תמצית חדשות</title>
-<meta name="description" content="סיכום חדשות ישראל: רק מה שחשוב, בלי רעש.">
+<meta name="description" content="מה באמת חשוב לדעת השבוע, בלי רעש. חינם, בלי פרסומות.">
 <meta name="theme-color" content="#1f5eff">
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="icon" type="image/png" href="icons/favicon.png">
@@ -18,18 +18,19 @@
 <style>
 :root{
   --bg:#f6f5f1; --card:#ffffff; --ink:#1b1b1f; --muted:#62626b; --line:#e4e2dc;
-  --accent:#1f5eff; --accent-soft:#e8eeff; --warn:#b42318;
-  --c-security:#c2410c; --c-politics:#7c3aed; --c-diplomacy:#0369a1; --c-region:#b91c1c;
-  --c-economy:#15803d; --c-law:#a16207; --c-society:#be185d; --c-tech:#0f766e; --c-health:#4d7c0f;
+  --accent:#1f5eff; --accent-soft:#e8eeff; --warn:#b42318; --ok:#1d7a43; --ok-soft:#e7f6ec; --amber:#8a5a00; --amber-soft:#fff4dc;
+  --c-security:#c2410c; --c-politics:#7c3aed; --c-israel_world:#0369a1; --c-world:#475569;
+  --c-economy:#15803d; --c-law:#a16207; --c-society:#be185d; --c-tech:#0f766e; --c-judaism:#4338ca;
+  --c-culture:#9d174d; --c-sport:#4d7c0f;
   --shadow:0 1px 2px rgba(0,0,0,.04),0 4px 16px rgba(0,0,0,.04);
 }
 @media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
   --bg:#121215; --card:#1c1c21; --ink:#ececf1; --muted:#9a9aa6; --line:#2c2c33;
-  --accent:#7aa2ff; --accent-soft:#1f2740; --warn:#f97066; --shadow:none;
+  --accent:#7aa2ff; --accent-soft:#1f2740; --warn:#f97066; --ok:#6fd39b; --ok-soft:#173324; --amber:#f5c46b; --amber-soft:#3a2e14; --shadow:none;
 }}
 :root[data-theme="dark"]{
   --bg:#121215; --card:#1c1c21; --ink:#ececf1; --muted:#9a9aa6; --line:#2c2c33;
-  --accent:#7aa2ff; --accent-soft:#1f2740; --warn:#f97066; --shadow:none;
+  --accent:#7aa2ff; --accent-soft:#1f2740; --warn:#f97066; --ok:#6fd39b; --ok-soft:#173324; --amber:#f5c46b; --amber-soft:#3a2e14; --shadow:none;
 }
 *{box-sizing:border-box}
 html,body{margin:0;background:var(--bg);color:var(--ink);font-family:Heebo,system-ui,sans-serif;line-height:1.6}
@@ -38,9 +39,10 @@ header{position:sticky;top:0;z-index:5;background:var(--bg);border-bottom:1px so
 .bar{max-width:720px;margin:0 auto;padding:12px 16px;display:flex;align-items:center;gap:10px}
 .logo{font-weight:800;font-size:20px;letter-spacing:-.5px;margin-inline-end:auto}
 .logo span{color:var(--accent)}
-button,select{font:inherit;color:inherit}
+button,select,textarea,input{font:inherit;color:inherit}
 .btn{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:7px 12px;cursor:pointer}
 .btn:hover{border-color:var(--muted)}
+.btn.primary{background:var(--accent);border-color:var(--accent);color:#fff}
 .seg{display:inline-flex;border:1px solid var(--line);border-radius:10px;overflow:hidden;background:var(--card)}
 .seg button{border:0;background:none;padding:7px 12px;cursor:pointer}
 .seg button[aria-pressed="true"]{background:var(--accent);color:#fff}
@@ -48,25 +50,45 @@ button,select{font:inherit;color:inherit}
 .datebar select{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:7px 10px}
 .lead{font-size:15px;color:var(--muted);margin:4px 0 18px}
 .lead b{color:var(--ink)}
+.secHead{font-size:15px;font-weight:700;margin:28px 0 2px;display:flex;align-items:center;gap:8px}
+.secNote{font-size:13px;color:var(--muted);margin:0 0 6px}
 .card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:16px 18px;margin:12px 0;box-shadow:var(--shadow)}
-.meta{display:flex;align-items:center;gap:8px;font-size:13px;color:var(--muted);margin-bottom:6px}
+.card.unv{border-style:dashed;border-color:var(--amber)}
+.meta{display:flex;align-items:center;gap:6px;font-size:13px;color:var(--muted);margin-bottom:6px;flex-wrap:wrap}
 .chip{font-weight:700;font-size:12px;padding:2px 8px;border-radius:999px;color:#fff}
-.imp{display:inline-flex;gap:2px}
+.status{font-size:12px;font-weight:700;padding:1px 8px;border-radius:999px;border:1px solid currentColor}
+.status.VERIFIED{color:var(--ok)}
+.status.REPORTED{color:var(--muted)}
+.status.CLAIM,.status.UNCONFIRMED,.status.CONFLICTING{color:var(--amber);background:var(--amber-soft)}
+.imp{display:inline-flex;gap:2px;margin-inline-start:auto}
 .imp i{width:6px;height:6px;border-radius:50%;background:var(--line)}
 .imp i.on{background:var(--ink)}
 .card h2{font-size:18px;line-height:1.4;margin:0 0 8px;font-weight:700}
 .card p{margin:0 0 8px;font-size:15.5px}
+.change{background:var(--accent-soft);border-radius:10px;padding:8px 12px;margin:0 0 10px;font-size:15px}
+.change b{color:var(--accent)}
+.change ul{margin:4px 0 0;padding-inline-start:18px}
 .sub{font-size:14.5px;margin:6px 0 0;padding-inline-start:10px;border-inline-start:3px solid var(--line)}
 .sub b{font-weight:700}
 .foot{display:flex;align-items:center;gap:6px;flex-wrap:wrap;margin-top:12px;font-size:13px}
 .src{color:var(--accent);text-decoration:none;background:var(--accent-soft);padding:2px 8px;border-radius:999px}
+.src.official::before{content:"★ ";}
+.src.opinion{background:none;border:1px dashed var(--line);color:var(--muted)}
 .votes{margin-inline-start:auto;display:flex;gap:6px}
-.vote,.more{background:none;border:1px solid var(--line);border-radius:999px;padding:3px 10px;cursor:pointer;font-size:14px;color:var(--muted);min-width:38px}
-.vote[aria-pressed="true"].up{background:#e7f6ec;border-color:#2f9e5a;color:#1d7a43}
+.vote,.more,.info{background:none;border:1px solid var(--line);border-radius:999px;padding:3px 10px;cursor:pointer;font-size:14px;color:var(--muted);min-width:38px}
+.vote[aria-pressed="true"].up{background:var(--ok-soft);border-color:#2f9e5a;color:var(--ok)}
 .vote[aria-pressed="true"].down{background:#fdecea;border-color:var(--warn);color:var(--warn)}
+.info[aria-expanded="true"]{background:var(--accent-soft);color:var(--accent);border-color:var(--accent)}
+.explain{margin:10px 0 0;padding:8px 12px;background:var(--bg);border-radius:10px;font-size:14px}
+.explain ul{margin:2px 0 0;padding-inline-start:18px}
+.reasons{margin-top:10px;padding-top:10px;border-top:1px solid var(--line)}
+.reasons .q{font-size:13px;color:var(--muted);margin-bottom:6px}
+.pills{display:flex;flex-wrap:wrap;gap:6px}
+.pill{border:1px solid var(--line);background:var(--bg);border-radius:999px;padding:3px 10px;font-size:13px;cursor:pointer}
+.pill[aria-pressed="true"]{background:#fdecea;border-color:var(--warn);color:var(--warn)}
+.pills input{flex:1;min-width:160px;border:1px solid var(--line);border-radius:999px;padding:3px 10px;background:var(--bg)}
 .lowHead{display:flex;align-items:center;gap:8px;margin:26px 0 4px;font-size:14px;color:var(--muted);cursor:pointer;background:none;border:0;padding:0;width:100%}
 .lowHead::after{content:"";flex:1;height:1px;background:var(--line)}
-.why-low{font-size:12px;color:var(--muted);margin-bottom:4px}
 .breaking{background:#fdecea;border:1px solid #f4b4ae;border-radius:14px;padding:12px 14px;margin:16px 0 4px;color:#3b0d09}
 .breaking h3{margin:0 0 6px;font-size:16px;display:flex;align-items:center;gap:8px}
 .breaking h3 .x{margin-inline-start:auto;background:none;border:0;font-size:18px;cursor:pointer;color:inherit}
@@ -76,27 +98,35 @@ button,select{font:inherit;color:inherit}
 .breaking small{display:block;margin-top:6px;opacity:.75;font-size:12px}
 .pulse{width:9px;height:9px;border-radius:50%;background:#d92d20;box-shadow:0 0 0 0 rgba(217,45,32,.6);animation:p 1.6s infinite}
 @keyframes p{70%{box-shadow:0 0 0 8px rgba(217,45,32,0)}100%{box-shadow:0 0 0 0 rgba(217,45,32,0)}}
-.learned{display:flex;flex-wrap:wrap;gap:6px}
-.learned span{font-size:13px;padding:3px 10px;border-radius:999px;border:1px solid var(--line)}
-.learned .pos{background:#e7f6ec;color:#1d7a43;border-color:#bfe6cc}
+.learned{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:4px}
+.learned .tag{display:inline-flex;align-items:center;gap:4px;font-size:13px;padding:3px 6px 3px 10px;border-radius:999px;border:1px solid var(--line)}
+.learned .pos{background:var(--ok-soft);color:var(--ok);border-color:#bfe6cc}
 .learned .neg{background:#fdecea;color:#a3271b;border-color:#f4c4bf}
+.learned .tag button{border:0;background:none;cursor:pointer;color:inherit;font-size:15px;line-height:1;opacity:.7}
+.prefs{margin:0;padding-inline-start:18px;font-size:14px}
+.prefs li{margin:2px 0}
+.prefs button{border:0;background:none;cursor:pointer;color:var(--muted)}
 .hiddenNote{font-size:13px;color:var(--muted);text-align:center;margin:18px 0}
 .hiddenNote button{background:none;border:0;color:var(--accent);cursor:pointer;text-decoration:underline}
 .card.muted{opacity:.55}
-.empty{text-align:center;color:var(--muted);padding:48px 0}
+.empty{text-align:center;color:var(--muted);padding:40px 0}
+.done{text-align:center;color:var(--muted);font-size:14px;margin:28px 0 0}
 /* panels */
 .overlay{position:fixed;inset:0;background:rgba(0,0,0,.35);display:none;z-index:20}
 .overlay.open{display:block}
 .panel{position:fixed;inset-inline:0;bottom:0;max-height:85vh;overflow:auto;background:var(--card);border-radius:18px 18px 0 0;padding:18px 18px 28px;z-index:21;transform:translateY(105%);transition:transform .2s ease;max-width:720px;margin:0 auto}
 .panel.open{transform:none}
 .panel h3{margin:0 0 4px;font-size:18px}
-.panel h4{margin:18px 0 8px;font-size:15px}
+.panel h4{margin:20px 0 8px;font-size:15px}
+.panel h5{margin:10px 0 4px;font-size:13px;color:var(--muted);font-weight:500}
 .hint{font-size:13px;color:var(--muted);margin:0 0 8px}
 .cats{display:flex;flex-wrap:wrap;gap:8px}
 .cats label{display:flex;align-items:center;gap:6px;border:1px solid var(--line);border-radius:999px;padding:5px 12px;cursor:pointer;font-size:14px}
 .cats input{accent-color:var(--accent)}
 .row{display:flex;align-items:center;gap:10px;flex-wrap:wrap}
 .row input[type=range]{flex:1;accent-color:var(--accent)}
+textarea{width:100%;min-height:72px;border:1px solid var(--line);border-radius:10px;padding:8px 10px;background:var(--bg);resize:vertical}
+.understood{font-size:14px;background:var(--ok-soft);color:var(--ok);border-radius:10px;padding:8px 12px;margin-top:8px}
 .mlist{display:flex;flex-wrap:wrap;gap:6px}
 .mtag{display:inline-flex;align-items:center;gap:4px;background:var(--bg);border:1px solid var(--line);border-radius:999px;padding:3px 6px 3px 10px;font-size:13px}
 .mtag button{border:0;background:none;cursor:pointer;color:var(--muted);font-size:15px;line-height:1}
@@ -114,8 +144,8 @@ footer{font-size:13px;color:var(--muted);text-align:center;margin-top:30px}
     <div class="logo">תמצית<span>.</span></div>
     <span id="adminBadge" class="admin" hidden>מצב עורך</span>
     <div class="seg" role="group" aria-label="תצוגה">
-      <button id="vDaily" aria-pressed="true">יומי</button>
-      <button id="vWeekly" aria-pressed="false">שבועי</button>
+      <button id="vWeekly" aria-pressed="true">השבוע</button>
+      <button id="vDaily" aria-pressed="false">היום</button>
     </div>
     <button class="btn" id="installBtn" hidden>📲 התקן</button>
     <button class="btn" id="openSettings" aria-label="הגדרות">⚙︎</button>
@@ -130,27 +160,38 @@ footer{font-size:13px;color:var(--muted);text-align:center;margin-top:30px}
   <p class="lead" id="lead"></p>
   <div id="list"></div>
   <div class="hiddenNote" id="hiddenNote"></div>
-  <footer>הסיכומים נכתבים על ידי AI ממקורות פתוחים. לפרטים המלאים, לחצו על קישורי המקור.</footer>
+  <footer>חינם, בלי פרסומות ובלי מנויים. הסיכומים נכתבים בעזרת AI ממקורות פתוחים ונבדקים מול כללי אמינות. לפרטים המלאים, לחצו על קישורי המקור.</footer>
 </main>
 
 <div class="overlay" id="overlay"></div>
 
 <section class="panel" id="settings" aria-label="הגדרות">
   <h3>ההגדרות שלי</h3>
-  <p class="hint">ההגדרות נשמרות בדפדפן הזה בלבד, בלי הרשמה.</p>
-  <h4>קטגוריות</h4>
+  <p class="hint">הכל נשמר בדפדפן הזה בלבד, בלי הרשמה ובלי לשלוח מידע לשום מקום.</p>
+
+  <h4>🧠 למד את המערכת</h4>
+  <p class="hint">כתבו במילים שלכם מה חשוב לכם ומה לא. למשל: "אני לא רוצה רכילות על מפורסמים", "פוליטיקה רק כשיש שינוי אמיתי במדיניות או בחקיקה", "בביטחון גם דיווחים לא מאומתים, אבל מסומנים".</p>
+  <textarea id="teachText" placeholder="מה חשוב לך לדעת, ומה לא?"></textarea>
+  <div class="row" style="margin-top:8px"><button class="btn primary" id="teachSave">שמור</button><button class="btn" id="teachSend" hidden>📮 שלח גם לסוכן</button></div>
+  <div id="teachResult"></div>
+
+  <h4>מה למדתי עליך</h4>
+  <div id="learnedBox"></div>
+  <p><button class="btn" id="resetLearn" style="margin-top:8px">אפס את כל הלמידה</button></p>
+
+  <h4>תצוגת ברירת מחדל</h4>
+  <div class="row"><select id="freqSel" class="btn"><option value="weekly">השבוע (מומלץ)</option><option value="daily">היום</option></select></div>
+
+  <h4>תחומים</h4>
+  <p class="hint">אירועים חשובים במיוחד יוצגו גם מתחומים שכיביתם, תחת "חשוב לדעת".</p>
   <div class="cats" id="catBox"></div>
   <h4>רמת חשיבות מינימלית</h4>
   <div class="row"><input type="range" id="minImp" min="1" max="5" step="1"><span id="minImpVal"></span></div>
-  <h4>מספר ידיעות מקסימלי</h4>
-  <div class="row"><input type="range" id="maxItems" min="3" max="20" step="1"><span id="maxItemsVal"></span></div>
-  <h4>מה למדתי עליך</h4>
-  <p class="hint">נלמד מסימוני 👍 ו-👎. ידיעות שמתאימות לטעם שלך עולות למעלה, והשאר יורדות ל"פחות רלוונטי לך".</p>
-  <div class="learned" id="learnedBox"></div>
-  <p><button class="btn" id="resetLearn" style="margin-top:8px">אפס את הלמידה</button></p>
+  <h4>כמה סיפורים להציג</h4>
+  <div class="row"><input type="range" id="maxItems" min="5" max="10" step="1"><span id="maxItemsVal"></span></div>
   <h4>נושאים שחסמתי לגמרי</h4>
   <div class="mlist" id="mutedBox"></div>
-  <h4>תצוגה</h4>
+  <h4>מראה</h4>
   <div class="row">
     <select id="themeSel" class="btn"><option value="">לפי המכשיר</option><option value="light">בהיר</option><option value="dark">כהה</option></select>
   </div>
@@ -159,7 +200,7 @@ footer{font-size:13px;color:var(--muted);text-align:center;margin-top:30px}
 
 <section class="panel" id="dislikePanel" aria-label="אפשרויות נוספות">
   <h3>חסימה מלאה</h3>
-  <p class="hint" id="dislikeHint">בחרו מה לא להציג לכם בעתיד.</p>
+  <p class="hint" id="dislikeHint"></p>
   <div id="dislikeOpts"></div>
   <p><button class="btn" id="closeDislike">ביטול</button></p>
 </section>
@@ -172,74 +213,23 @@ footer{font-size:13px;color:var(--muted);text-align:center;margin-top:30px}
 
 <div class="toast" id="toast"></div>
 
+<script src="js/engine.js"></script>
 <script>
 const REPO = "sdr5323647-prog/news-digest";
-const CATS = {
-  security:{he:"ביטחון",c:"var(--c-security)"},
-  politics:{he:"פוליטיקה",c:"var(--c-politics)"},
-  diplomacy:{he:"מדיני",c:"var(--c-diplomacy)"},
-  region:{he:"איראן והאזור",c:"var(--c-region)"},
-  economy:{he:"כלכלה",c:"var(--c-economy)"},
-  law:{he:"משפט",c:"var(--c-law)"},
-  society:{he:"חברה",c:"var(--c-society)"},
-  tech:{he:"טכנולוגיה ומדע",c:"var(--c-tech)"},
-  health:{he:"בריאות",c:"var(--c-health)"}
-};
-// What kind of development an item is. The agent assigns one per item.
-const KINDS = {
-  decision:"החלטה או צעד בפועל", event:"אירוע ביטחוני או אסון", statement:"הצהרה או איום",
-  past:"חשיפה על העבר", dispute:"ויכוח ומחלוקת", data:"נתון או דוח",
-  legal:"פסיקה או הליך משפטי", negotiation:"מגעים ומשא ומתן"
-};
-const DEF = {cats:Object.keys(CATS), minImp:2, maxItems:12, mutedTags:[], mutedIds:[], theme:"", w:{}, votes:{}, dismissedAlert:""};
-
-// ---- learning: a tiny per-reader score table, updated by 👍/👎 ----
-// Each item has features (its kind, category and topic tags). A vote nudges every
-// feature's weight a little; over many votes the shared features cancel out and
-// the real reason (e.g. "past revelations") stands out.
-const STEP = {k:1, c:0.5, t:0.6}, CAP = 4, LOW = -1.5;
-function features(it){
-  const f = [];
-  if(it.kind) f.push("k:"+it.kind);
-  if(it.category) f.push("c:"+it.category);
-  (it.tags||[]).forEach(t=>f.push("t:"+t));
-  return f;
-}
-function personal(it){
-  const w = S.w; let s = 0, tags = (it.tags||[]);
-  if(it.kind) s += w["k:"+it.kind]||0;
-  s += 0.5*(w["c:"+it.category]||0);
-  if(tags.length) s += tags.reduce((a,t)=>a+(w["t:"+t]||0),0)/Math.sqrt(tags.length);
-  return s;
-}
-function nudge(it, dir){
-  features(it).forEach(f=>{
-    const v = (S.w[f]||0) + dir*STEP[f[0]];
-    S.w[f] = Math.max(-CAP, Math.min(CAP, Math.round(v*100)/100));
-    if(S.w[f]===0) delete S.w[f];
-  });
-}
-function vote(id, dir){
-  const it = (current.items||[]).find(x=>x.id===id); if(!it) return;
-  const prev = S.votes[id]||0;
-  if(prev) nudge(it, -prev);            // undo the old vote first
-  if(prev===dir){ delete S.votes[id]; } // same button again = cancel
-  else { nudge(it, dir); S.votes[id]=dir; }
-  store.set(S); render();
-  if(S.votes[id]===-1) toast("תודה, אלמד מזה. ידיעות דומות ירדו בהדרגה.");
-  if(S.votes[id]===1) toast("תודה, ידיעות דומות יעלו בהדרגה.");
-}
-function featLabel(f){
-  const v=f.slice(2);
-  return f[0]==="k" ? (KINDS[v]||v) : f[0]==="c" ? (CATS[v]?.he||v) : v;
-}
+const E = window.Engine;
+const CATS = E.CATEGORIES;
 
 const store = {
-  get(){ try{ return Object.assign({}, DEF, JSON.parse(localStorage.getItem("tamzit")||"{}")); }catch(e){ return {...DEF}; } },
+  get(){ try{ return E.migrateState(JSON.parse(localStorage.getItem("tamzit")||"{}")); }catch(e){ return E.defaults(); } },
   set(s){ try{ localStorage.setItem("tamzit", JSON.stringify(s)); }catch(e){} }
 };
 let S = store.get();
-let view = "daily", index = {daily:[],weekly:[]}, current = null, showHidden = false, showLow = false;
+let view = S.freq || "weekly", index = {daily:[],weekly:[]}, current = null, currentKey = "";
+let showHidden = false, openFolds = {}, openInfo = {}, openReasons = {};
+const today = new Date().toLocaleDateString("sv-SE", {timeZone:"Asia/Jerusalem"});
+// events the reader already saw on an EARLIER day (snapshot at load, so re-renders don't hide things)
+const seenBefore = {};
+Object.entries(S.seen||{}).forEach(([id,v])=>{ if(v && v.d < today) seenBefore[id]=v.u; });
 
 // owner "teach the agent" mode: open the site once with ?admin=1
 try{
@@ -249,6 +239,7 @@ try{
 }catch(e){}
 const isAdmin = (()=>{ try{ return localStorage.getItem("tamzit_admin")==="1"; }catch(e){ return false; } })();
 document.getElementById("adminBadge").hidden = !isAdmin;
+document.getElementById("teachSend").hidden = !isAdmin;
 
 function applyTheme(){ if(S.theme) document.documentElement.dataset.theme=S.theme; else delete document.documentElement.dataset.theme; }
 applyTheme();
@@ -256,147 +247,253 @@ applyTheme();
 const $ = id => document.getElementById(id);
 const esc = s => String(s??"").replace(/[&<>"']/g, c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 const fmtDate = d => { const [y,m,dd]=d.split("-"); return new Date(+y,+m-1,+dd).toLocaleDateString("he-IL",{weekday:"long",day:"numeric",month:"long"}); };
+const fmtShort = d => { const [y,m,dd]=d.split("-"); return new Date(+y,+m-1,+dd).toLocaleDateString("he-IL",{day:"numeric",month:"numeric"}); };
+const save = () => store.set(S);
+const getJSON = async url => (await fetch(url,{cache:"no-store"})).json();
 
+// ---- loading ----
 async function loadIndex(){
-  try{ index = await (await fetch("data/index.json",{cache:"no-store"})).json(); }catch(e){ index={daily:[],weekly:[]}; }
+  try{ index = await getJSON("data/index.json"); }catch(e){ index={daily:[],weekly:[]}; }
   fillDates();
 }
 function fillDates(){
-  const list = (index[view]||[]).slice().sort().reverse();
-  $("dateSel").innerHTML = list.map(d=>`<option value="${d}">${view==="weekly"?"השבוע שהסתיים ב־":""}${fmtDate(d)}</option>`).join("");
-  if(list.length) loadDay(list[0]); else { current=null; render(); }
+  let opts = [];
+  if(view==="weekly"){
+    if((index.daily||[]).length) opts.push({v:"rollup", t:"7 הימים האחרונים"});
+    (index.weekly||[]).slice().sort().reverse().forEach(d=>opts.push({v:"w:"+d, t:"השבוע שהסתיים ב־"+fmtDate(d)}));
+  } else {
+    (index.daily||[]).slice().sort().reverse().forEach(d=>opts.push({v:"d:"+d, t:fmtDate(d)}));
+  }
+  $("dateSel").innerHTML = opts.map(o=>`<option value="${o.v}">${esc(o.t)}</option>`).join("");
+  if(opts.length) load(opts[0].v); else { current=null; render(); }
 }
-async function loadDay(d){
-  try{ current = await (await fetch(`data/${view}/${d}.json`,{cache:"no-store"})).json(); }catch(e){ current=null; }
+async function load(key){
+  currentKey = key; showHidden = false; openFolds = {};
+  try{
+    if(key==="rollup"){
+      const days = (index.daily||[]).slice().sort().slice(-7);
+      const ds = await Promise.all(days.map(d=>getJSON(`data/daily/${d}.json`).catch(()=>null)));
+      current = E.normalizeDigest(E.rollupWeek(ds.filter(Boolean).map(E.normalizeDigest)));
+    } else {
+      const [kind,d] = key.split(":");
+      current = E.normalizeDigest(await getJSON(`data/${kind==="w"?"weekly":"daily"}/${d}.json`));
+    }
+  }catch(e){ current=null; }
   render();
 }
+const isLatest = () => currentKey==="rollup" || currentKey===$("dateSel").options[0]?.value;
 
-function isHidden(it){
-  if(S.mutedIds.includes(it.id)) return "mutedId";
-  if(!S.cats.includes(it.category)) return "cat";
-  if((it.importance||0) < S.minImp) return "imp";
-  if((it.tags||[]).some(t=>S.mutedTags.includes(t))) return "tag";
-  return "";
-}
-
+// ---- rendering ----
 function render(){
   const list = $("list");
-  if(!current){ list.innerHTML = `<div class="empty">${view==="weekly"?"עדיין אין סיכום שבועי. הסיכום הראשון יפורסם ביום ראשון.":"אין עדיין סיכומים."}</div>`; $("lead").textContent=""; $("hiddenNote").textContent=""; return; }
-  $("lead").innerHTML = current.headline ? `<b>בקצרה:</b> ${esc(current.headline)}` : "";
-  // rank = general importance + this reader's learned taste; top-importance news always stays up
-  const rank = it => (it.importance||0) + 0.8*personal(it);
-  const items = (current.items||[]).slice().sort((a,b)=>rank(b)-rank(a));
-  const shown = [], hidden = [], low = [];
-  items.forEach(it => {
-    if(isHidden(it)) hidden.push(it);
-    else if(personal(it) <= LOW && (it.importance||0) < 5 && S.votes[it.id]!==1) low.push(it);
-    else shown.push(it);
-  });
-  const visible = shown.slice(0, S.maxItems);
-  const overflow = shown.slice(S.maxItems);
-  const extra = showHidden ? overflow.concat(hidden) : [];
-  let html = visible.map(it=>card(it,false)).join("") + extra.map(it=>card(it,true)).join("");
-  if(low.length){
-    html += `<button class="lowHead" id="lowToggle" aria-expanded="${showLow}">${showLow?"▾":"◂"} פחות רלוונטי לך (${low.length})</button>`;
-    if(showLow) html += low.map(it=>card(it,true,true)).join("");
+  if(!current){ list.innerHTML = `<div class="empty">אין עדיין סיכומים.</div>`; $("lead").textContent=""; $("hiddenNote").textContent=""; return; }
+  const sec = E.buildSections(current, S, isLatest() ? seenBefore : {});
+  const n = sec.main.length + sec.knowImportant.length;
+  if(current.type==="weekly-rollup") $("lead").innerHTML = n ? `<b>${n} דברים שחשוב לדעת</b> מ־${fmtShort(current.from)} עד ${fmtShort(current.date)}. המטרה: לסיים לקרוא.` : "";
+  else $("lead").innerHTML = current.headline ? `<b>בקצרה:</b> ${esc(current.headline)}` : "";
+
+  let html = "";
+  if(!n && !sec.unverified.length){
+    html += `<div class="empty">${esc(current.note || (sec.seen.length ? "אין התפתחויות חדשות מאז הביקור הקודם שלך." : "לא נמצאו אירועים שעברו את סף האימות."))}</div>`;
   }
+  html += sec.main.map(e=>card(e,"main")).join("");
+  if(sec.knowImportant.length){
+    html += `<div class="secHead">חשוב לדעת</div><p class="secNote">אירועים חשובים לציבור, גם אם הם פחות בתחומי העניין שלך.</p>`;
+    html += sec.knowImportant.map(e=>card(e,"knowImportant")).join("");
+  }
+  if(sec.unverified.length){
+    html += `<div class="secHead">⚠️ דיווחים שטרם אומתו</div><p class="secNote">אלה טענות או דיווחים שעדיין אין להם אימות מספיק. הם לא מוצגים כעובדות.</p>`;
+    html += sec.unverified.map(e=>card(e,"unverified")).join("");
+  }
+  if(n) html += `<p class="done">✓ זה מה שחשוב. אפשר לסגור.</p>`;
+  html += fold("seen", `כבר ראית, אין התפתחות חדשה (${sec.seen.length})`, sec.seen);
+  html += fold("low", `פחות רלוונטי לך (${sec.low.length})`, sec.low);
+  if(showHidden) html += sec.hidden.map(e=>card(e,"hidden")).join("");
   list.innerHTML = html;
-  const lt = $("lowToggle"); if(lt) lt.onclick=()=>{showLow=!showLow; render();};
-  const n = hidden.length + overflow.length;
-  const filtered = current.filtered_out ? ` · ${current.filtered_out} ידיעות זניחות סוננו מראש` : "";
-  $("hiddenNote").innerHTML = (n ? `${n===1?"ידיעה אחת הוסתרה":n+" ידיעות הוסתרו"} לפי ההגדרות שלך · <button id="toggleHidden">${showHidden?"הסתר אותן":"הצג בכל זאת"}</button>` : "") + filtered;
-  const th = $("toggleHidden"); if(th) th.onclick=()=>{showHidden=!showHidden; render();};
-  list.querySelectorAll(".vote").forEach(b=>b.onclick=()=>vote(b.dataset.id, +b.dataset.dir));
-  list.querySelectorAll(".more").forEach(b=>b.onclick=()=>openDislike(b.dataset.id));
+
+  const filtered = current.filtered_out ? `${current.filtered_out} ידיעות זניחות סוננו מראש` : "";
+  const hn = sec.hidden.length ? `${sec.hidden.length===1?"ידיעה אחת הוסתרה":sec.hidden.length+" ידיעות הוסתרו"} לפי ההגדרות שלך · <button id="toggleHidden">${showHidden?"הסתר אותן":"הצג בכל זאת"}</button>` : "";
+  $("hiddenNote").innerHTML = [hn, filtered].filter(Boolean).join(" · ");
+  bind();
+
+  // remember what the reader has now seen (only for the newest digest)
+  if(isLatest()){
+    sec.main.concat(sec.knowImportant, sec.unverified).forEach(e=>{ const p=S.seen[e.id]; if(!p || p.u < e.lastUpdated) S.seen[e.id] = {u:e.lastUpdated, d:today}; });
+    const keep = Object.entries(S.seen).sort((a,b)=>a[1].u<b[1].u?1:-1).slice(0,400); S.seen = Object.fromEntries(keep);
+    save();
+  }
 }
-function card(it, muted, isLow){
-  const cat = CATS[it.category]||{he:it.category,c:"var(--muted)"};
-  const dots = [1,2,3,4,5].map(i=>`<i class="${i<=(it.importance||0)?"on":""}"></i>`).join("");
-  const v = S.votes[it.id]||0;
-  const srcs = (it.sources||[]).map(s=>`<a class="src" href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.name)}</a>`).join("");
-  return `<article class="card${muted?" muted":""}">
-    <div class="meta"><span class="chip" style="background:${cat.c}">${esc(cat.he)}</span><span class="imp" title="חשיבות ${it.importance}/5">${dots}</span></div>
-    <h2>${esc(it.title)}</h2>
-    <p>${esc(it.summary)}</p>
-    ${it.why?`<p class="sub"><b>למה זה חשוב:</b> ${esc(it.why)}</p>`:""}
-    ${it.next?`<p class="sub"><b>מה הלאה:</b> ${esc(it.next)}</p>`:""}
-    <div class="foot">${srcs}<span class="votes">
-      <button class="vote up" data-id="${esc(it.id)}" data-dir="1" aria-pressed="${v===1}" aria-label="מעניין">👍</button>
-      <button class="vote down" data-id="${esc(it.id)}" data-dir="-1" aria-pressed="${v===-1}" aria-label="לא מעניין">👎</button>
-      <button class="more" data-id="${esc(it.id)}" aria-label="אפשרויות נוספות">⋯</button>
+function fold(key, label, items){
+  if(!items.length) return "";
+  const open = !!openFolds[key];
+  return `<button class="lowHead" data-fold="${key}" aria-expanded="${open}">${open?"▾":"◂"} ${label}</button>` + (open ? items.map(e=>card(e,key)).join("") : "");
+}
+
+function card(e, section){
+  const cats = (e.categories||[]).map(c=>`<span class="chip" style="background:var(--c-${c},var(--muted))">${esc(CATS[c]||c)}</span>`).join("");
+  const st = `<span class="status ${e.status}" title="רמת אמינות">${e.status==="VERIFIED"?"✓ ":""}${esc(E.STATUS[e.status]||e.status)}</span>`;
+  const dots = [1,2,3,4,5].map(i=>`<i class="${i<=(e.importance||0)?"on":""}"></i>`).join("");
+  const v = S.votes[e.id]||0;
+  const srcs = (e.sources||[]).map(s=>`<a class="src ${s.type==="official"||s.tier===1?"official":""} ${s.type==="opinion"||s.type==="analysis"?"opinion":""}" href="${esc(s.url)}" target="_blank" rel="noopener" title="${s.type==="opinion"?"דעה / פרשנות":s.tier===1?"מקור רשמי":""}">${esc(s.name)}</a>`).join("");
+  const more = e.sourceCount > (e.sources||[]).length ? `<span class="hint" style="margin:0">ועוד ${e.sourceCount-(e.sources||[]).length}</span>` : "";
+  // "what changed": shown first when the reader already knew the story
+  let change = "";
+  if(e._changes && e._changes.length) change = `<div class="change"><b>מה השתנה השבוע:</b><ul>${e._changes.map(c=>`<li>${fmtShort(c.date)}: ${esc(c.text)}</li>`).join("")}</ul></div>`;
+  else if(e.change) change = `<div class="change"><b>מה השתנה${seenBefore[e.id]?" מאז שקראת":" מאז העדכון הקודם"}:</b> ${esc(e.change)}</div>`;
+  const knew = seenBefore[e.id] && e.change && section!=="seen";
+  const muted = ["hidden","low","seen"].includes(section);
+  return `<article class="card${muted?" muted":""}${section==="unverified"?" unv":""}" data-id="${esc(e.id)}">
+    <div class="meta">${cats}${st}<span class="imp" title="חשיבות ציבורית">${dots}</span></div>
+    <h2>${esc(e.title)}</h2>
+    ${change}
+    ${knew ? `<details><summary class="hint" style="cursor:pointer">הרקע (כבר קראת)</summary><p>${esc(e.summary)}</p></details>` : `<p>${esc(e.summary)}</p>`}
+    ${e.why?`<p class="sub"><b>למה זה חשוב:</b> ${esc(e.why)}</p>`:""}
+    ${e.next?`<p class="sub"><b>מה הלאה:</b> ${esc(e.next)}</p>`:""}
+    <div class="foot">${srcs}${more}<span class="votes">
+      <button class="info" data-id="${esc(e.id)}" data-sec="${section}" aria-expanded="${!!openInfo[e.id]}" aria-label="למה זה כאן?">ⓘ</button>
+      <button class="vote up" data-id="${esc(e.id)}" data-dir="1" aria-pressed="${v===1}" aria-label="מעניין אותי">👍</button>
+      <button class="vote down" data-id="${esc(e.id)}" data-dir="-1" aria-pressed="${v===-1}" aria-label="לא מעניין אותי">👎</button>
+      <button class="more" data-id="${esc(e.id)}" aria-label="חסימה מלאה">⋯</button>
     </span></div>
+    ${openInfo[e.id] ? `<div class="explain"><b>למה זה כאן?</b><ul>${E.explain(e,S,section).map(x=>`<li>${esc(x)}</li>`).join("")}</ul></div>` : ""}
+    ${openReasons[e.id] ? reasonsBox(e) : ""}
   </article>`;
 }
 
-// ---- dislike / teach ----
-function openDislike(id){
-  const it = (current.items||[]).find(x=>x.id===id); if(!it) return;
-  const cat = CATS[it.category]?.he||it.category;
+function reasonsBox(e){
+  const chosen = new Set(S.reasons[e.id]||[]);
+  const step = openReasons[e.id];
+  let pills;
+  if(step==="topic") pills = (e.entities||[]).map(t=>`<button class="pill" data-r="topic" data-d="${esc(t)}" aria-pressed="${chosen.has("topic:"+t)}">${esc(t)}</button>`).join("") || `<span class="hint">אין נושאים מוגדרים לידיעה הזו</span>`;
+  else if(step==="source") pills = (e.sources||[]).map(s=>`<button class="pill" data-r="source" data-d="${esc(s.name)}" aria-pressed="${chosen.has("source:"+s.name)}">${esc(s.name)}</button>`).join("");
+  else if(step==="other") pills = `<input id="otherText-${esc(e.id)}" placeholder="מה לא התאים? (נשמר כהעדפה)"><button class="pill" data-r="other-save">שמור</button>`;
+  else pills = Object.entries(E.REASONS).map(([k,l])=>`<button class="pill" data-r="${k}" aria-pressed="${[...chosen].some(c=>c.split(":")[0]===k)}">${esc(l)}</button>`).join("");
+  const q = step==="topic" ? "איזה נושא?" : step==="source" ? "איזה מקור?" : step==="other" ? "ספרו לי במילים שלכם" : "למה? (לא חובה, אבל עוזר לי ללמוד מהר יותר)";
+  return `<div class="reasons" data-id="${esc(e.id)}"><div class="q">${q}</div><div class="pills">${pills}<button class="pill" data-r="close" style="margin-inline-start:auto">סגור</button></div></div>`;
+}
+
+function findEvent(id){ return (current.events||[]).concat(current.unverified||[]).find(x=>x.id===id); }
+
+function bind(){
+  const list = $("list");
+  list.querySelectorAll("[data-fold]").forEach(b=>b.onclick=()=>{ openFolds[b.dataset.fold]=!openFolds[b.dataset.fold]; render(); });
+  const th = $("toggleHidden"); if(th) th.onclick=()=>{ showHidden=!showHidden; render(); };
+  list.querySelectorAll(".info").forEach(b=>b.onclick=()=>{ openInfo[b.dataset.id]=!openInfo[b.dataset.id]; render(); });
+  list.querySelectorAll(".vote").forEach(b=>b.onclick=()=>{
+    const e = findEvent(b.dataset.id); if(!e) return;
+    const dir = +b.dataset.dir;
+    E.vote(e, S, dir); save();
+    openReasons[e.id] = (S.votes[e.id]===-1) ? "main" : undefined;
+    render();
+    if(S.votes[e.id]===1) toast("תודה, אירועים דומים יקבלו יותר משקל.");
+  });
+  list.querySelectorAll(".more").forEach(b=>b.onclick=()=>openBlock(b.dataset.id));
+  list.querySelectorAll(".reasons .pill").forEach(b=>b.onclick=()=>{
+    const id = b.closest(".reasons").dataset.id, e = findEvent(id), r = b.dataset.r;
+    if(r==="close"){ openReasons[id]=undefined; return render(); }
+    if(r==="topic" && !b.dataset.d){ openReasons[id]="topic"; return render(); }
+    if(r==="source" && !b.dataset.d){ openReasons[id]="source"; return render(); }
+    if(r==="other"){ openReasons[id]="other"; return render(); }
+    if(r==="other-save"){
+      const txt = ($("otherText-"+id)||{}).value||""; if(txt.trim()){ E.applyTeach(txt, S); save(); toast("נשמר. אפשר לראות ולערוך ב'מה למדתי עליך'."); }
+      openReasons[id]=undefined; return render();
+    }
+    E.applyReason(e, S, r, b.dataset.d); save();
+    openReasons[id]=undefined; render();
+    toast(r==="known" ? "הבנתי. אנסה להציג רק התפתחויות חדשות." : "הבנתי, תודה. אלמד מזה.");
+  });
+}
+
+// ---- hard block (⋯) ----
+function openBlock(id){
+  const e = findEvent(id); if(!e) return;
   const opts = [
-    {label:"הסתר רק את הידיעה הזו", act:()=>{S.mutedIds.push(it.id);}, kind:"item"},
-    ...(it.tags||[]).map(t=>({label:`אל תציג לי ידיעות על: ${t}`, act:()=>{ if(!S.mutedTags.includes(t)) S.mutedTags.push(t); }, kind:"tag:"+t})),
-    {label:`אל תציג לי את הקטגוריה: ${cat}`, act:()=>{S.cats=S.cats.filter(c=>c!==it.category);}, kind:"cat:"+it.category}
+    {label:"הסתר רק את הידיעה הזו", act:()=>{S.mutedIds.push(e.id);}},
+    ...(e.entities||[]).map(t=>({label:`אל תציג לי יותר ידיעות על: ${t}`, act:()=>{ if(!S.mutedEntities.includes(t)) S.mutedEntities.push(t); }}))
   ];
   if(isAdmin) opts.push({label:"📮 מצב עורך: למד את הסוכן שידיעות כאלה לא מעניינות אף אחד", teach:true});
-  $("dislikeHint").textContent = "לרוב עדיף פשוט ללחוץ 👎 ולתת ללמידה לעבוד. כאן אפשר לחסום משהו לגמרי, מיד.";
+  $("dislikeHint").textContent = "לרוב עדיף ללחוץ 👎 ולתת ללמידה לעבוד. כאן אפשר לחסום משהו לגמרי. אירועים בחשיבות ציבורית עליונה עדיין יוצגו.";
   $("dislikeOpts").innerHTML = opts.map((o,i)=>`<button class="opt" data-i="${i}">${esc(o.label)}</button>`).join("");
   $("dislikeOpts").querySelectorAll(".opt").forEach(b=>b.onclick=()=>{
     const o = opts[+b.dataset.i];
-    if(o.teach){ closePanels(); teachAgent(it, "לא מעניין לאף אחד"); return; }
+    if(o.teach){ closePanels(); openIssue(`לא מעניין: ${e.title}`, `**קטגוריות:** ${(e.categories||[]).join(", ")}\n**נושאים:** ${(e.entities||[]).join(", ")}\n**מזהה:** ${e.id}\n\n**סיכום:** ${e.summary}\n\n**למה זה לא מעניין (כתבו כאן):** `); return; }
     const prev = JSON.stringify(S);
-    o.act(); store.set(S); closePanels(); render(); renderSettings();
-    toast("נחסם. אפשר לבטל בהגדרות.", ()=>{ S=JSON.parse(prev); store.set(S); render(); renderSettings(); });
+    o.act(); save(); closePanels(); render();
+    toast("נחסם. אפשר לבטל בהגדרות.", ()=>{ S=E.migrateState(JSON.parse(prev)); save(); render(); });
   });
   open("dislikePanel");
 }
-function teachAgent(it, choice){
-  const title = `לא מעניין: ${it.title}`.slice(0,120);
-  const body = `**החלטה:** ${choice}\n**קטגוריה:** ${it.category}\n**תגיות:** ${(it.tags||[]).join(", ")}\n**מזהה:** ${it.id}\n\n**סיכום הידיעה:** ${it.summary}\n\n**הסבר (אופציונלי, כתבו כאן למה זה לא מעניין):** `;
-  const url = `https://github.com/${REPO}/issues/new?labels=feedback&title=${encodeURIComponent(title)}&body=${encodeURIComponent(body)}`;
-  window.open(url, "_blank", "noopener");
+function openIssue(title, body){
+  window.open(`https://github.com/${REPO}/issues/new?title=${encodeURIComponent(title.slice(0,120))}&body=${encodeURIComponent(body)}`, "_blank", "noopener");
 }
 
-// ---- settings ----
+// ---- settings: teach + what I learned ----
+$("teachSave").onclick = ()=>{
+  const txt = $("teachText").value.trim(); if(!txt) return;
+  const {actions} = E.applyTeach(txt, S); save(); render(); renderSettings();
+  $("teachResult").innerHTML = `<div class="understood">${actions.length ? "הבנתי:<br>• " + actions.map(a=>esc(E.describeAction(a))).join("<br>• ") : "שמרתי את זה כהעדפה. לא זיהיתי כלל ספציפי, אבל זה יופיע ב'מה למדתי עליך'."}</div>`;
+  $("teachText").value = "";
+};
+$("teachSend").onclick = ()=>{
+  const txt = $("teachText").value.trim() || (S.teach[S.teach.length-1]||{}).text; if(!txt) return;
+  openIssue(`הנחיה: ${txt}`, `**הנחיה מהעורך לסוכן:**\n\n${txt}`);
+};
+
 function renderSettings(){
-  $("catBox").innerHTML = Object.entries(CATS).map(([k,v])=>`<label><input type="checkbox" value="${k}" ${S.cats.includes(k)?"checked":""}> ${v.he}</label>`).join("");
-  $("catBox").querySelectorAll("input").forEach(cb=>cb.onchange=()=>{ S.cats=[...$("catBox").querySelectorAll("input:checked")].map(x=>x.value); store.set(S); render(); });
+  $("catBox").innerHTML = Object.entries(CATS).map(([k,v])=>`<label><input type="checkbox" value="${k}" ${S.cats.includes(k)?"checked":""}> ${esc(v)}</label>`).join("");
+  $("catBox").querySelectorAll("input").forEach(cb=>cb.onchange=()=>{ S.cats=[...$("catBox").querySelectorAll("input:checked")].map(x=>x.value); save(); render(); });
   $("minImp").value=S.minImp; $("minImpVal").textContent = ["","הכל","2+","3+","4+","רק הכי חשוב"][S.minImp];
   $("maxItems").value=S.maxItems; $("maxItemsVal").textContent=S.maxItems;
-  const muted = [...S.mutedTags.map(t=>({t,k:"tag"})), ...(S.mutedIds.length?[{t:`${S.mutedIds.length} ידיעות בודדות`,k:"ids"}]:[])];
-  $("mutedBox").innerHTML = muted.length ? muted.map(m=>`<span class="mtag">${esc(m.t)}<button data-k="${m.k}" data-t="${esc(m.t)}" aria-label="בטל">×</button></span>`).join("") : `<span class="hint">אין. לחצו 👎 על ידיעה כדי להסתיר נושא.</span>`;
-  $("mutedBox").querySelectorAll("button").forEach(b=>b.onclick=()=>{ if(b.dataset.k==="ids") S.mutedIds=[]; else S.mutedTags=S.mutedTags.filter(t=>t!==b.dataset.t); store.set(S); renderSettings(); render(); });
+  $("freqSel").value = S.freq;
+  $("mutedBox").innerHTML = S.mutedEntities.length || S.mutedIds.length
+    ? S.mutedEntities.map(t=>`<span class="mtag">${esc(t)}<button data-t="${esc(t)}" aria-label="בטל">×</button></span>`).join("") + (S.mutedIds.length?`<span class="mtag">${S.mutedIds.length} ידיעות בודדות<button data-ids="1" aria-label="בטל">×</button></span>`:"")
+    : `<span class="hint">אין.</span>`;
+  $("mutedBox").querySelectorAll("button").forEach(b=>b.onclick=()=>{ if(b.dataset.ids) S.mutedIds=[]; else S.mutedEntities=S.mutedEntities.filter(t=>t!==b.dataset.t); save(); renderSettings(); render(); });
   $("themeSel").value=S.theme;
-  const learned = Object.entries(S.w).filter(([,v])=>Math.abs(v)>=1).sort((a,b)=>Math.abs(b[1])-Math.abs(a[1])).slice(0,12);
-  $("learnedBox").innerHTML = learned.length
-    ? learned.map(([f,v])=>`<span class="${v>0?"pos":"neg"}">${v>0?"אוהב":"פחות"}: ${esc(featLabel(f))}</span>`).join("")
-    : `<span class="hint" style="border:0;padding:0">עדיין אין מספיק סימונים. סמנו 👍 או 👎 על כמה ידיעות.</span>`;
+
+  const L = E.learnedSummary(S);
+  const tag = (x,cls,extra) => `<span class="tag ${cls}">${esc(x.label)}${extra?` · ${extra}`:""}<button data-forget="${esc(x.f)}" aria-label="שכח">×</button></span>`;
+  let h = "";
+  h += `<h5>נושאים שחשובים לך</h5><div class="learned">${L.important.length ? L.important.map(x=>tag(x,"pos",x.lvl)).join("") : `<span class="hint">עדיין לא למדתי. סמנו 👍 על דברים שמעניינים אתכם.</span>`}</div>`;
+  h += `<h5>מקבלים פחות משקל</h5><div class="learned">${L.less.length ? L.less.map(x=>tag(x,"neg")).join("") : `<span class="hint">אין עדיין.</span>`}</div>`;
+  const prefs = L.prefs.map(p=>`<li>${esc(p)}</li>`).join("");
+  const teach = L.teach.map((t,i)=>`<li>"${esc(t.text)}" <button data-forget="teach:${i}" aria-label="מחק">×</button>${t.understood && t.understood.length ? `<br><span class="hint">${esc(t.understood.join(" · "))}</span>` : ""}</li>`).join("");
+  h += `<h5>העדפות שלמדתי</h5>${prefs||teach ? `<ul class="prefs">${prefs}${teach}</ul>` : `<span class="hint">אין עדיין. אפשר ללמד אותי למעלה.</span>`}`;
+  if(L.prefs.length) h += `<p class="hint" style="margin-top:6px"><button class="btn" data-forget="prefs" style="padding:3px 10px">נקה העדפות</button></p>`;
+  $("learnedBox").innerHTML = h;
+  $("learnedBox").querySelectorAll("[data-forget]").forEach(b=>b.onclick=()=>{
+    const f = b.dataset.forget;
+    if(f==="prefs"){ ["changesOnly","showUnverified","lessRepeats"].forEach(p=>S=E.forget(S,"pref:"+p)); }
+    else S = E.forget(S, f);
+    save(); renderSettings(); render();
+  });
 }
-$("resetLearn").onclick=()=>{ if(confirm("לאפס את כל מה שנלמד?")){ S.w={}; S.votes={}; store.set(S); renderSettings(); render(); } };
-$("minImp").oninput=e=>{S.minImp=+e.target.value; store.set(S); renderSettings(); render();};
-$("maxItems").oninput=e=>{S.maxItems=+e.target.value; store.set(S); renderSettings(); render();};
-$("themeSel").onchange=e=>{S.theme=e.target.value; store.set(S); applyTheme();};
+$("resetLearn").onclick=()=>{ if(confirm("לאפס את כל מה שנלמד עליך? (ההגדרות והתחומים נשארים)")){ S=E.forget(S,"all"); save(); renderSettings(); render(); toast("הלמידה אופסה."); } };
+$("minImp").oninput=e=>{S.minImp=+e.target.value; save(); renderSettings(); render();};
+$("maxItems").oninput=e=>{S.maxItems=+e.target.value; save(); renderSettings(); render();};
+$("freqSel").onchange=e=>{S.freq=e.target.value; save(); setView(S.freq);};
+$("themeSel").onchange=e=>{S.theme=e.target.value; save(); applyTheme();};
 
 function open(id){ $("overlay").classList.add("open"); $(id).classList.add("open"); }
 function closePanels(){ $("overlay").classList.remove("open"); document.querySelectorAll(".panel").forEach(p=>p.classList.remove("open")); }
-$("openSettings").onclick=()=>{renderSettings(); open("settings");};
+$("openSettings").onclick=()=>{renderSettings(); $("teachResult").innerHTML=""; open("settings");};
 $("closeSettings").onclick=closePanels; $("closeDislike").onclick=closePanels; $("overlay").onclick=closePanels;
 
 let tt;
 function toast(msg, undo){
   const t=$("toast"); t.innerHTML = esc(msg) + (undo?`<button id="undoBtn">ביטול</button>`:""); t.style.display="block";
   if(undo) $("undoBtn").onclick=()=>{undo(); t.style.display="none";};
-  clearTimeout(tt); tt=setTimeout(()=>t.style.display="none", 5000);
+  clearTimeout(tt); tt=setTimeout(()=>t.style.display="none", 4000);
 }
 
-function setView(v){ view=v; $("vDaily").setAttribute("aria-pressed",v==="daily"); $("vWeekly").setAttribute("aria-pressed",v==="weekly"); showHidden=false; fillDates(); }
+function setView(v){ view=v; $("vDaily").setAttribute("aria-pressed",v==="daily"); $("vWeekly").setAttribute("aria-pressed",v==="weekly"); fillDates(); }
 $("vDaily").onclick=()=>setView("daily"); $("vWeekly").onclick=()=>setView("weekly");
-$("dateSel").onchange=e=>{showHidden=false; loadDay(e.target.value);};
+$("dateSel").onchange=e=>load(e.target.value);
 
 // ---- install as app ----
 if("serviceWorker" in navigator){ navigator.serviceWorker.register("sw.js").catch(()=>{}); }
 const standalone = matchMedia("(display-mode: standalone)").matches || navigator.standalone === true;
-const ua = navigator.userAgent;
-const isIOS = /iphone|ipad|ipod/i.test(ua) || (navigator.platform==="MacIntel" && navigator.maxTouchPoints>1);
+const isIOS = /iphone|ipad|ipod/i.test(navigator.userAgent) || (navigator.platform==="MacIntel" && navigator.maxTouchPoints>1);
 let deferredPrompt = null;
 window.addEventListener("beforeinstallprompt", e=>{ e.preventDefault(); deferredPrompt=e; if(!standalone) $("installBtn").hidden=false; });
 window.addEventListener("appinstalled", ()=>{ $("installBtn").hidden=true; toast("תמצית הותקנה! תמצאו אותה במסך הבית."); });
@@ -415,19 +512,20 @@ $("closeInstall").onclick=closePanels;
 
 // ---- breaking-news banner (data/breaking.json is written by a GitHub Action, no AI) ----
 async function loadBreaking(){
-  let b; try{ b = await (await fetch("data/breaking.json",{cache:"no-store"})).json(); }catch(e){ return; }
+  let b; try{ b = await getJSON("data/breaking.json"); }catch(e){ return; }
   const a = b && b.active && b.alert;
   if(!a || new Date(a.expires_at) < new Date() || S.dismissedAlert===a.id){ $("breaking").innerHTML=""; return; }
   const t = new Date(a.detected_at).toLocaleTimeString("he-IL",{hour:"2-digit",minute:"2-digit"});
   $("breaking").innerHTML = `<section class="breaking" role="alert">
     <h3><span class="pulse"></span>מבזק: ${esc(a.label)}<button class="x" aria-label="סגור">×</button></h3>
     <ul>${a.items.map(i=>`<li><a href="${esc(i.url)}" target="_blank" rel="noopener">${esc(i.title)}</a> · ${esc(i.source)}</li>`).join("")}</ul>
-    <small>זוהה ב-${t} לפי דיווחים בכמה כלי תקשורת. הכותרות מוצגות כפי שפורסמו. סיכום מסודר יופיע בסיכום הערב.</small>
+    <small>זוהה ב-${t} לפי דיווחים בכמה כלי תקשורת. זה עדיין לא אומת: הכותרות מוצגות כפי שפורסמו. סיכום מסודר יופיע בסיכום הבא.</small>
   </section>`;
-  $("breaking").querySelector(".x").onclick=()=>{ S.dismissedAlert=a.id; store.set(S); $("breaking").innerHTML=""; };
+  $("breaking").querySelector(".x").onclick=()=>{ S.dismissedAlert=a.id; save(); $("breaking").innerHTML=""; };
 }
 document.addEventListener("visibilitychange", ()=>{ if(!document.hidden) loadBreaking(); });
 
+$("vDaily").setAttribute("aria-pressed",view==="daily"); $("vWeekly").setAttribute("aria-pressed",view==="weekly");
 loadIndex();
 loadBreaking();
 </script>

@@ -3,24 +3,11 @@ only when several independent outlets report the same rare, severe kind of event
 
 Writes data/breaking.json only when the alert state changes, so the repo isn't
 flooded with commits."""
-import json, re, sys, hashlib, urllib.request
+import json, re, sys, hashlib
 from datetime import datetime, timedelta, timezone
-from email.utils import parsedate_to_datetime
 from pathlib import Path
-import xml.etree.ElementTree as ET
-
-FEEDS = {
-    "ynet": "https://www.ynet.co.il/Integration/StoryRss1854.xml",
-    "וואלה": "https://rss.walla.co.il/feed/22",
-    "ישראל היום": "https://www.israelhayom.co.il/rss.xml",
-    "מעריב": "https://www.maariv.co.il/Rss/RssFeedsMivzakiChadashot",
-    "Guardian": "https://www.theguardian.com/world/middleeast/rss",
-    "Times of Israel": "https://www.timesofisrael.com/feed/",
-    "Jerusalem Post": "https://www.jpost.com/rss/rssfeedsheadlines.aspx",
-    "BBC": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
-    "Al Jazeera": "https://www.aljazeera.com/xml/rss/all.xml",
-    "NYT": "https://rss.nytimes.com/services/xml/rss/nyt/MiddleEast.xml",
-}
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from feeds import FEEDS, fetch, parse_feed
 
 # Rare, severe event types. Each needs MIN_SOURCES different outlets inside WINDOW.
 GROUPS = {
@@ -55,46 +42,12 @@ ALERT_TTL = timedelta(hours=8)
 OUT = Path("data/breaking.json")
 
 
-def fetch(url):
-    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (TamzitBot; +https://sdr5323647-prog.github.io/news-digest/)"})
-    with urllib.request.urlopen(req, timeout=20) as r:
-        return r.read()
-
-
-def parse_time(s):
-    if not s:
-        return None
-    try:
-        t = parsedate_to_datetime(s.strip())
-    except Exception:
-        try:
-            t = datetime.fromisoformat(s.strip().replace("Z", "+00:00"))
-        except Exception:
-            return None
-    return t if t.tzinfo else t.replace(tzinfo=timezone.utc)
-
-
-def items(source, raw):
-    root = ET.fromstring(raw)
-    for it in root.iter():
-        if not it.tag.endswith("item") and not it.tag.endswith("entry"):
-            continue
-        get = lambda name: next((c.text or "" for c in it if c.tag.split("}")[-1] == name), "")
-        link = get("link") or next((c.get("href", "") for c in it if c.tag.split("}")[-1] == "link"), "")
-        yield {
-            "source": source,
-            "title": re.sub(r"\s+", " ", get("title")).strip(),
-            "url": link.strip(),
-            "time": parse_time(get("pubDate") or get("published") or get("updated")),
-        }
-
-
 def main():
     now = datetime.now(timezone.utc)
     recent = []
     for source, url in FEEDS.items():
         try:
-            recent += [i for i in items(source, fetch(url)) if i["time"] and now - i["time"] <= WINDOW and i["title"]]
+            recent += [i for i in parse_feed(source, fetch(url)) if i["time"] and now - i["time"] <= WINDOW and i["title"]]
         except Exception as e:
             print(f"feed failed: {source}: {e}", file=sys.stderr)
 
