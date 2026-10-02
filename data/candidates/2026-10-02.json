@@ -2,16 +2,6 @@
  "date": "2026-10-02",
  "articles": [
   {
-   "source": "Guardian",
-   "outlet": "Guardian",
-   "title": "‘Hero’ pilot, plumber and dentist among those who saved flydubai flight to Israel",
-   "url": "https://www.theguardian.com/world/2026/oct/01/hero-pilot-stabbed-flydubai-plane-flight-israel",
-   "summary": "Swift actions of Smit Machchhar allowed passengers and off-duty pilots to subdue attacker and land plane safely Smit Machchhar was lying on the floor of the flydubai flight deck, covered in blood, when he managed to click the release to open the cockpit door, allowing passengers and crew to gain ent",
-   "time": "2026-10-01T02:56:02+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
    "source": "BBC",
    "outlet": "BBC",
    "title": "Plummeting Israel flight like 'rollercoaster', says passenger",
@@ -2122,12 +2112,32 @@
    "type": "reporting"
   },
   {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "עמיחי אליהו בירך על אמירת ההלל בנובה; קק\"ל: \"לא נאשר חגיגות במתחם\"",
+   "url": "https://www.israelhayom.co.il/news/local/article/21536853",
+   "summary": "לדברי השר, אלפים השתתפו בתפילה בהובלת אביו, הרב שמואל אליהו • התפילה נערכה בשטח ייעודי שהסדירה קק\"ל מחוץ לאזור ההנצחה • על רקע המחלוקת בין המשפחות השכולות, בארגון הבהירו: לא תתאפשר לינה, הקמת אוהלים או הצבת מערכות הגברה",
+   "time": "2026-10-02T08:33:35+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
    "source": "מעריב",
    "outlet": "מעריב",
    "title": "רוכב אופנוע בן 18 נפצע באורח בינוני לאחר שהחליק במהלך רכיבה בכביש 386 בסמוך למכון טיהור שפכים",
    "url": "https://www.maariv.co.il/breaking-news/article-1372888",
    "summary": "",
    "time": "2026-10-02T08:33:44+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "\"ענאן חלאילי רק הגיע וכבר עושה רעש בפרמייר ליג\"",
+   "url": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21536718",
+   "summary": "קריסטל פאלאס בטירוף מההשתלבות של כוכב נבחרת ישראל: \"נקודת האור היחידה עד כה, ישכיח את דניאל מוניוס\" • באנגליה ניתחו את היכולות ההגנתיות בהן הוא מוביל את הליגה, אבל מחכים ליותר תרומה התקפית: \"כמו באוניון סן ז'ילואז\"",
+   "time": "2026-10-02T08:35:38+00:00",
    "tier": 2,
    "type": "reporting"
   },
@@ -2142,6 +2152,66 @@
    "type": "reporting"
   },
   {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "בשידור חי: דני אבדיה העביר לג'ה מוראנט מסר חד וברור",
+   "url": "https://www.israelhayom.co.il/sport/world-basketball/article/21537016",
+   "summary": "כוכב פורטלנד טרייל בלייזרס סירב לענות על השאלה איך הקבוצה תשחק: \"אשאיר הפתעות\", והתייחס לחלוקת התפקידים: \"נצטרך להבין שנשחק גם בלי הכדור\" • וגם: הדבר שהוא רוצה לשפר לקראת העונה החדשה",
+   "time": "2026-10-02T08:54:33+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Guardian",
+   "outlet": "Guardian",
+   "title": "Row erupts over Cairo mural depicting Tutankhamun and Nefertiti with dark skin",
+   "url": "https://www.theguardian.com/global-development/2026/oct/02/row-erupts-over-cairo-mural-depicting-tutankhamun-and-nefertiti-with-dark-skin",
+   "summary": "Artwork created in Tahrir Square for Chinese president’s state visit to Egypt is painted over amid allegations it revived Afrocentric claims about Pharaohs’ origins On the eve of Chinese president Xi Jinping’s state visit to Cairo last month, the city authorities were busy removing a 66-metre-long m",
+   "time": "2026-10-02T08:55:42+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "מעריב",
+   "outlet": "מעריב",
+   "title": "הבן נחשף - ורביב דרוקר מסביר למה הבעיה של יעקב עמידרור אחרת לגמרי",
+   "url": "https://www.maariv.co.il/breaking-news/article-1372899",
+   "summary": "",
+   "time": "2026-10-02T08:59:51+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "UK arrests British-Iranian suspect over RAF ‘plot’: What we know",
+   "url": "https://www.aljazeera.com/news/2026/10/2/uk-arrests-british-iranian-suspect-over-raf-plot-what-we-know?traffic_source=rss",
+   "summary": "Police investigate &#039;possible foreign state involvement&#039; as sixth man arrested over RAF Fairford incident.",
+   "time": "2026-10-02T09:03:21+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "מעריב",
+   "outlet": "מעריב",
+   "title": "חודש בלבד אחרי הלידה: הבייבי המקצועי של קים אור אזולאי | פרסום ראשון",
+   "url": "https://www.maariv.co.il/breaking-news/article-1372900",
+   "summary": "",
+   "time": "2026-10-02T09:04:18+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "תוכניות וחוויות: הנשים המובילות באופוזיציה התכנסו לפגישה משותפת",
+   "url": "https://www.israelhayom.co.il/news/politics/article/21537025",
+   "summary": "מירב בן ארי, קרן טרנר, אורית פרקש הכהן, טליה לנקרי ונעמה לזימי נפגשו אחרי מפגש ראשי המפלגות • ל\"היום\" נודע כי מלבד עיסוק בסוגיות על סדר יומה של הממשלה הבאה, עסק המפגש גם בתיאומים פוליטיים • הוא נערך בבית הקפה \"החצר של נוני\" לזכרה של נועה מרציאנו ז\"ל - ובהשתתפות הוריה",
+   "time": "2026-10-02T09:05:39+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
    "source": "ynet",
    "outlet": "ynet",
    "title": "ראש ממשלת לבנון ביקר בדרום המדינה",
@@ -2152,12 +2222,112 @@
    "type": "reporting"
   },
   {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "מעיין אדם תוקפת את בנימין נתינהו: \"יא חתיכת מוג לב\"",
+   "url": "https://www.israelhayom.co.il/culture/internet-culture/article/21537142",
+   "summary": "בתגובה לסרטון שבו קרא ראש הממשלה לציבור להזמינו להתארח בסוכותיהם, פרסמה מגישת הטלוויזיה מסר ישיר על אחותה מפל ז\"ל שנרצחה בנובה: \"יש מקום פנוי, לסוכות אבלים לא באת\"",
+   "time": "2026-10-02T09:16:02+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "\"מוסלמים מנסים לפגוע ביהודים\": מומחה התעופה הדהים את כתבת SkyNews",
+   "url": "https://www.israelhayom.co.il/news/world-news/other/article/21537032",
+   "summary": "הטייס האוסטרלי המוכר ביירון ביילי עלה לשידור ברשת החדשות במדינה ובמקום לספק פרטים טכניים על המקרה הסביר כי הוא סבור שהמניע לאירוע הוא אנטישמי • הטייס אף התייחס לוועדה שהוקמה באוסטרליה נגד אנטישמיות ואמר: \"זו בדיחה, זו בסך הכל דרך להתעלם מהקריאה של האסלאם לפגוע ביהודים\"",
+   "time": "2026-10-02T09:16:27+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Israeli court ruling a ‘new threshold’ in Palestinian suppression",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/10-2-ziad-abu-rish-israel-politics-qt-mp4?traffic_source=rss",
+   "summary": "Israel’s top court told Palestinian politician Sami Abu Shehadeh to withdraw from the election or face disqualification.",
+   "time": "2026-10-02T09:24:39+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Manchester City to launch appeal as financial breach fallout grows",
+   "url": "https://www.aljazeera.com/sports/2026/10/2/manchester-city-to-launch-deadline-appeal-as-financial-breach-fallout-grows?traffic_source=rss",
+   "summary": "Friday deadline looms as the legal fallout widens beyond the Premier League case over the alleged breaches.",
+   "time": "2026-10-02T09:24:48+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Arab party leader forced to withdraw from Israeli elections",
+   "url": "https://www.aljazeera.com/news/2026/10/2/arab-party-leader-forced-to-withdraw-from-israeli-elections?traffic_source=rss",
+   "summary": "Palestinian participation in upcoming Knesset vote continues to shrink with withdrawal of Sami Abu Shehadeh.",
+   "time": "2026-10-02T09:25:23+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "מעריב",
+   "outlet": "מעריב",
+   "title": "רכב עלה באש בכביש 5: הכביש נחסם במחלף פדואל לכיוון מזרח",
+   "url": "https://www.maariv.co.il/breaking-news/article-1372905",
+   "summary": "",
+   "time": "2026-10-02T09:25:46+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "NBA closes sole Africa training academy in blow to young players",
+   "url": "https://www.aljazeera.com/sports/2026/10/2/nba-closes-sole-africa-training-academy-in-blow-to-young-players?traffic_source=rss",
+   "summary": "NBA says its focus is on new global academy opening in Abu Dhabi as Africa, Mexico and Australia hit by closures.",
+   "time": "2026-10-02T09:26:14+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
    "source": "ynet",
    "outlet": "ynet",
    "title": "ראשוני: פצועים קשה ובינוני בהתרסקות מטוס קל בוואדי ערה",
    "url": "https://www.ynet.co.il/news/article/HkbsRT25zx",
    "summary": "",
    "time": "2026-10-02T09:26:33+03:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "לא במים ולא בסבון: הדרך הנכונה להיפטר מריח רע בפח האשפה",
+   "url": "https://www.israelhayom.co.il/magazine/shishabat/article/21536876",
+   "summary": "שארית קטנה של פסולת שלא סולקה בזמן יכולה להדיף ניחוח איום, שמחניק את כל החדר • אבל במקום לקרצף עם מים וסבון, לייבש ולחכות - יש דרכים אחרות, קלות ופשוטות, לסלק את הריח • שיטות לנקות את פח האשפה בלי מאמץ: המדריך המלא",
+   "time": "2026-10-02T09:27:41+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "בנט במפגש בבני ברק: \"אפס תקציב ללא משרתים הוא למען החברה החרדית\"",
+   "url": "https://www.israelhayom.co.il/news/local/article/21537170",
+   "summary": "יו\"ר מפלגת \"ביחד\" סיפר בפוסט ברשת X על מפגש שערך עם צעירים חרדים במהלך החג • לדבריו, \"אם 1.5 מיליון חרדים ימשיכו להתחנך נגד צה\"ל, נגד הדמוקרטיה וללא אנגלית ומתמטיקה - צה\"ל והכלכלה יקרסו\"",
+   "time": "2026-10-02T09:29:23+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "מעריב",
+   "outlet": "מעריב",
+   "title": "שני שוהים בלתי חוקיים אותרו באתר בנייה בבת ים; המקום נסגר ל-30 יום",
+   "url": "https://www.maariv.co.il/breaking-news/article-1372906",
+   "summary": "",
+   "time": "2026-10-02T09:30:15+00:00",
    "tier": 2,
    "type": "reporting"
   },
@@ -2250,12 +2420,42 @@
    "time": "2026-10-02T11:41:26+03:00",
    "tier": 2,
    "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "ההצתה במכון הטיהור: התיקון עשוי לקחת שבועות, ייתכן מפגע ריח בבאר שבע והסביבה",
+   "url": "https://www.ynet.co.il/news/article/hywbgx65fe",
+   "summary": "",
+   "time": "2026-10-02T11:55:17+03:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "שוטרים שברו אף ויד בעימות עם מתנחלים ליד יריחו, קצין טען: בן גביר הגיע והתעלם מהכוח",
+   "url": "https://www.ynet.co.il/news/article/bj8nbet5gl",
+   "summary": "",
+   "time": "2026-10-02T12:09:24+03:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "חסימה בכביש 5 עקב רכב שעולה באש, אין נפגעים",
+   "url": "https://www.ynet.co.il/news/article/rjyshlacfg",
+   "summary": "",
+   "time": "2026-10-02T12:13:38+03:00",
+   "tier": 2,
+   "type": "reporting"
   }
  ],
- "updated": "2026-10-02T08:49:58.380636+00:00",
+ "updated": "2026-10-02T09:34:17.020059+00:00",
  "clusters": [
   {
-   "id": "7e047f20a9",
+   "id": "f9039bf9dc",
    "title": "‘I was fighting for my life’: Indian pilot hailed as hero recalls flydubai cockpit attack",
    "sourceCount": 3,
    "outlets": [
@@ -2265,19 +2465,11 @@
    ],
    "bestTier": 2,
    "hasOfficial": false,
-   "reportingCount": 15,
+   "reportingCount": 7,
    "opinionOnly": false,
-   "firstSeen": "2026-10-01T02:56:02+00:00",
+   "firstSeen": "2026-10-01T07:55:50+00:00",
    "lastSeen": "2026-10-02T08:39:40+00:00",
    "articles": [
-    {
-     "source": "Guardian",
-     "title": "‘Hero’ pilot, plumber and dentist among those who saved flydubai flight to Israel",
-     "url": "https://www.theguardian.com/world/2026/oct/01/hero-pilot-stabbed-flydubai-plane-flight-israel",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-01T02:56:02+00:00"
-    },
     {
      "source": "Guardian",
      "title": "Australian couple on plane diverted after flydubai co-pilot’s alleged attack on pilot",
@@ -2285,14 +2477,6 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-10-01T07:55:50+00:00"
-    },
-    {
-     "source": "NYT",
-     "title": "FlyDubai Flight to Israel Diverted After Clash Between Pilots: What We Know and Don’t Know",
-     "url": "https://www.nytimes.com/2026/09/30/world/middleeast/flydubai-dubai-israel-flight-diverted.html",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-01T12:53:13+00:00"
     },
     {
      "source": "BBC",
@@ -2304,19 +2488,77 @@
     },
     {
      "source": "BBC",
-     "title": "What we know about stabbing on Flydubai flight to Israel",
-     "url": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-01T14:22:14+00:00"
-    },
-    {
-     "source": "BBC",
      "title": "Who is the 'hero' Indian pilot who was stabbed on Israel-bound flight?",
      "url": "https://www.bbc.co.uk/news/articles/cje3r3z7g0zzo?at_medium=RSS&at_campaign=rss",
      "tier": 2,
      "type": "reporting",
      "time": "2026-10-01T15:04:32+00:00"
+    },
+    {
+     "source": "NYT",
+     "title": "Investigators Seek to Determine How a Weapon Entered FlyDubai Cockpit",
+     "url": "https://www.nytimes.com/2026/10/01/world/middleeast/flydubai-weapon-cockpit-stabbing-attack.html",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-01T19:35:40+00:00"
+    },
+    {
+     "source": "NYT",
+     "title": "FlyDubai Under Scrutiny After Cockpit Attack",
+     "url": "https://www.nytimes.com/2026/10/01/world/middleeast/flydubai-israel-scrutiny.html",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-01T20:40:55+00:00"
+    },
+    {
+     "source": "NYT",
+     "title": "Investigators Seek Motive for FlyDubai Cockpit Attack",
+     "url": "https://www.nytimes.com/2026/10/01/world/middleeast/flydubai-attack-invesigation.html",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-01T23:24:18+00:00"
+    },
+    {
+     "source": "Guardian",
+     "title": "‘I was fighting for my life’: Indian pilot hailed as hero recalls flydubai cockpit attack",
+     "url": "https://www.theguardian.com/world/2026/oct/02/indian-pilot-smit-machchhar-recalls-flydubai-cockpit-attack",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-02T08:39:40+00:00"
+    }
+   ]
+  },
+  {
+   "id": "7ca33839ad",
+   "title": "FlyDubai Flight to Israel Diverted After Clash Between Pilots: What We Know and Don’t Know",
+   "sourceCount": 3,
+   "outlets": [
+    "BBC",
+    "Guardian",
+    "NYT"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 7,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-01T12:53:13+00:00",
+   "lastSeen": "2026-10-02T05:45:23+00:00",
+   "articles": [
+    {
+     "source": "NYT",
+     "title": "FlyDubai Flight to Israel Diverted After Clash Between Pilots: What We Know and Don’t Know",
+     "url": "https://www.nytimes.com/2026/09/30/world/middleeast/flydubai-dubai-israel-flight-diverted.html",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-01T12:53:13+00:00"
+    },
+    {
+     "source": "BBC",
+     "title": "What we know about stabbing on Flydubai flight to Israel",
+     "url": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-01T14:22:14+00:00"
     },
     {
      "source": "NYT",
@@ -2336,19 +2578,27 @@
     },
     {
      "source": "NYT",
-     "title": "Investigators Seek to Determine How a Weapon Entered FlyDubai Cockpit",
-     "url": "https://www.nytimes.com/2026/10/01/world/middleeast/flydubai-weapon-cockpit-stabbing-attack.html",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-01T19:35:40+00:00"
-    },
-    {
-     "source": "NYT",
      "title": "5 Passengers on FlyDubai Flight to Receive Israel’s Award for Heroism",
      "url": "https://www.nytimes.com/2026/10/01/world/middleeast/flydubai-flight-passengers-israel-hero-honor.html",
      "tier": 2,
      "type": "reporting",
      "time": "2026-10-01T19:43:29+00:00"
+    },
+    {
+     "source": "NYT",
+     "title": "2 passengers who helped thwart the FlyDubai attack add details in a TV interview.",
+     "url": "https://www.nytimes.com/live/2026/10/01/world/flydubai-flight-israel-plane-pilots/2-passengers-who-helped-thwart-the-flydubai-attack-add-details-in-a-tv-interview",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-01T19:56:24+00:00"
+    },
+    {
+     "source": "Guardian",
+     "title": "Friday briefing: How we covered the flydubai incident as it unfolded",
+     "url": "https://www.theguardian.com/world/2026/oct/02/friday-briefing-how-we-covered-the-flydubai-incident-as-it-unfolded",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-02T05:45:23+00:00"
     }
    ]
   },
@@ -2921,6 +3171,38 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-10-01T23:24:20+03:00"
+    }
+   ]
+  },
+  {
+   "id": "ccf2ea2b15",
+   "title": "Arab-Israeli party leader drops election bid",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 2,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-02T04:41:21+00:00",
+   "lastSeen": "2026-10-02T09:25:23+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "Arab-Israeli party leader drops election bid",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/arab-israeli-party-leader-drops-election-bid?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-02T04:41:21+00:00"
+    },
+    {
+     "source": "Al Jazeera",
+     "title": "Arab party leader forced to withdraw from Israeli elections",
+     "url": "https://www.aljazeera.com/news/2026/10/2/arab-party-leader-forced-to-withdraw-from-israeli-elections?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-02T09:25:23+00:00"
     }
    ]
   },
@@ -5293,30 +5575,6 @@
    ]
   },
   {
-   "id": "ccf2ea2b15",
-   "title": "Arab-Israeli party leader drops election bid",
-   "sourceCount": 1,
-   "outlets": [
-    "Al Jazeera"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-10-02T04:41:21+00:00",
-   "lastSeen": "2026-10-02T04:41:21+00:00",
-   "articles": [
-    {
-     "source": "Al Jazeera",
-     "title": "Arab-Israeli party leader drops election bid",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/arab-israeli-party-leader-drops-election-bid?traffic_source=rss",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-02T04:41:21+00:00"
-    }
-   ]
-  },
-  {
    "id": "8bbced83c8",
    "title": "הבטיח ניצחון מול ישראל - ואחרי התיקו הסביר: \"היה חסר שער\"",
    "sourceCount": 1,
@@ -6781,6 +7039,198 @@
    ]
   },
   {
+   "id": "20306a3a5f",
+   "title": "עמיחי אליהו בירך על אמירת ההלל בנובה; קק\"ל: \"לא נאשר חגיגות במתחם\"",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-02T08:33:35+00:00",
+   "lastSeen": "2026-10-02T08:33:35+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "עמיחי אליהו בירך על אמירת ההלל בנובה; קק\"ל: \"לא נאשר חגיגות במתחם\"",
+     "url": "https://www.israelhayom.co.il/news/local/article/21536853",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-02T08:33:35+00:00"
+    }
+   ]
+  },
+  {
+   "id": "d2b4641bf5",
+   "title": "\"ענאן חלאילי רק הגיע וכבר עושה רעש בפרמייר ליג\"",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-02T08:35:38+00:00",
+   "lastSeen": "2026-10-02T08:35:38+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "\"ענאן חלאילי רק הגיע וכבר עושה רעש בפרמייר ליג\"",
+     "url": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21536718",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-02T08:35:38+00:00"
+    }
+   ]
+  },
+  {
+   "id": "c1a39f49aa",
+   "title": "בשידור חי: דני אבדיה העביר לג'ה מוראנט מסר חד וברור",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-02T08:54:33+00:00",
+   "lastSeen": "2026-10-02T08:54:33+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "בשידור חי: דני אבדיה העביר לג'ה מוראנט מסר חד וברור",
+     "url": "https://www.israelhayom.co.il/sport/world-basketball/article/21537016",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-02T08:54:33+00:00"
+    }
+   ]
+  },
+  {
+   "id": "907cf36647",
+   "title": "Row erupts over Cairo mural depicting Tutankhamun and Nefertiti with dark skin",
+   "sourceCount": 1,
+   "outlets": [
+    "Guardian"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-02T08:55:42+00:00",
+   "lastSeen": "2026-10-02T08:55:42+00:00",
+   "articles": [
+    {
+     "source": "Guardian",
+     "title": "Row erupts over Cairo mural depicting Tutankhamun and Nefertiti with dark skin",
+     "url": "https://www.theguardian.com/global-development/2026/oct/02/row-erupts-over-cairo-mural-depicting-tutankhamun-and-nefertiti-with-dark-skin",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-02T08:55:42+00:00"
+    }
+   ]
+  },
+  {
+   "id": "5e118c53b8",
+   "title": "הבן נחשף - ורביב דרוקר מסביר למה הבעיה של יעקב עמידרור אחרת לגמרי",
+   "sourceCount": 1,
+   "outlets": [
+    "מעריב"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-02T08:59:51+00:00",
+   "lastSeen": "2026-10-02T08:59:51+00:00",
+   "articles": [
+    {
+     "source": "מעריב",
+     "title": "הבן נחשף - ורביב דרוקר מסביר למה הבעיה של יעקב עמידרור אחרת לגמרי",
+     "url": "https://www.maariv.co.il/breaking-news/article-1372899",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-02T08:59:51+00:00"
+    }
+   ]
+  },
+  {
+   "id": "167d439084",
+   "title": "UK arrests British-Iranian suspect over RAF ‘plot’: What we know",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-02T09:03:21+00:00",
+   "lastSeen": "2026-10-02T09:03:21+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "UK arrests British-Iranian suspect over RAF ‘plot’: What we know",
+     "url": "https://www.aljazeera.com/news/2026/10/2/uk-arrests-british-iranian-suspect-over-raf-plot-what-we-know?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-02T09:03:21+00:00"
+    }
+   ]
+  },
+  {
+   "id": "1bfc50ff74",
+   "title": "חודש בלבד אחרי הלידה: הבייבי המקצועי של קים אור אזולאי | פרסום ראשון",
+   "sourceCount": 1,
+   "outlets": [
+    "מעריב"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-02T09:04:18+00:00",
+   "lastSeen": "2026-10-02T09:04:18+00:00",
+   "articles": [
+    {
+     "source": "מעריב",
+     "title": "חודש בלבד אחרי הלידה: הבייבי המקצועי של קים אור אזולאי | פרסום ראשון",
+     "url": "https://www.maariv.co.il/breaking-news/article-1372900",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-02T09:04:18+00:00"
+    }
+   ]
+  },
+  {
+   "id": "6b4a27a030",
+   "title": "תוכניות וחוויות: הנשים המובילות באופוזיציה התכנסו לפגישה משותפת",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-02T09:05:39+00:00",
+   "lastSeen": "2026-10-02T09:05:39+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "תוכניות וחוויות: הנשים המובילות באופוזיציה התכנסו לפגישה משותפת",
+     "url": "https://www.israelhayom.co.il/news/politics/article/21537025",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-02T09:05:39+00:00"
+    }
+   ]
+  },
+  {
    "id": "39dabc3c6f",
    "title": "ראש ממשלת לבנון ביקר בדרום המדינה",
    "sourceCount": 1,
@@ -6801,6 +7251,222 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-10-02T09:12:26+03:00"
+    }
+   ]
+  },
+  {
+   "id": "cddd40c95b",
+   "title": "מעיין אדם תוקפת את בנימין נתינהו: \"יא חתיכת מוג לב\"",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-02T09:16:02+00:00",
+   "lastSeen": "2026-10-02T09:16:02+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "מעיין אדם תוקפת את בנימין נתינהו: \"יא חתיכת מוג לב\"",
+     "url": "https://www.israelhayom.co.il/culture/internet-culture/article/21537142",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-02T09:16:02+00:00"
+    }
+   ]
+  },
+  {
+   "id": "c99d7a9c31",
+   "title": "\"מוסלמים מנסים לפגוע ביהודים\": מומחה התעופה הדהים את כתבת SkyNews",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-02T09:16:27+00:00",
+   "lastSeen": "2026-10-02T09:16:27+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "\"מוסלמים מנסים לפגוע ביהודים\": מומחה התעופה הדהים את כתבת SkyNews",
+     "url": "https://www.israelhayom.co.il/news/world-news/other/article/21537032",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-02T09:16:27+00:00"
+    }
+   ]
+  },
+  {
+   "id": "cce1e85929",
+   "title": "Israeli court ruling a ‘new threshold’ in Palestinian suppression",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-02T09:24:39+00:00",
+   "lastSeen": "2026-10-02T09:24:39+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "Israeli court ruling a ‘new threshold’ in Palestinian suppression",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/10-2-ziad-abu-rish-israel-politics-qt-mp4?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-02T09:24:39+00:00"
+    }
+   ]
+  },
+  {
+   "id": "1ced9cfaa7",
+   "title": "Manchester City to launch appeal as financial breach fallout grows",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-02T09:24:48+00:00",
+   "lastSeen": "2026-10-02T09:24:48+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "Manchester City to launch appeal as financial breach fallout grows",
+     "url": "https://www.aljazeera.com/sports/2026/10/2/manchester-city-to-launch-deadline-appeal-as-financial-breach-fallout-grows?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-02T09:24:48+00:00"
+    }
+   ]
+  },
+  {
+   "id": "89410fc1f2",
+   "title": "רכב עלה באש בכביש 5: הכביש נחסם במחלף פדואל לכיוון מזרח",
+   "sourceCount": 1,
+   "outlets": [
+    "מעריב"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-02T09:25:46+00:00",
+   "lastSeen": "2026-10-02T09:25:46+00:00",
+   "articles": [
+    {
+     "source": "מעריב",
+     "title": "רכב עלה באש בכביש 5: הכביש נחסם במחלף פדואל לכיוון מזרח",
+     "url": "https://www.maariv.co.il/breaking-news/article-1372905",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-02T09:25:46+00:00"
+    }
+   ]
+  },
+  {
+   "id": "585fa9cddd",
+   "title": "NBA closes sole Africa training academy in blow to young players",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-02T09:26:14+00:00",
+   "lastSeen": "2026-10-02T09:26:14+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "NBA closes sole Africa training academy in blow to young players",
+     "url": "https://www.aljazeera.com/sports/2026/10/2/nba-closes-sole-africa-training-academy-in-blow-to-young-players?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-02T09:26:14+00:00"
+    }
+   ]
+  },
+  {
+   "id": "7eef73ea01",
+   "title": "לא במים ולא בסבון: הדרך הנכונה להיפטר מריח רע בפח האשפה",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-02T09:27:41+00:00",
+   "lastSeen": "2026-10-02T09:27:41+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "לא במים ולא בסבון: הדרך הנכונה להיפטר מריח רע בפח האשפה",
+     "url": "https://www.israelhayom.co.il/magazine/shishabat/article/21536876",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-02T09:27:41+00:00"
+    }
+   ]
+  },
+  {
+   "id": "f33d8332c6",
+   "title": "בנט במפגש בבני ברק: \"אפס תקציב ללא משרתים הוא למען החברה החרדית\"",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-02T09:29:23+00:00",
+   "lastSeen": "2026-10-02T09:29:23+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "בנט במפגש בבני ברק: \"אפס תקציב ללא משרתים הוא למען החברה החרדית\"",
+     "url": "https://www.israelhayom.co.il/news/local/article/21537170",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-02T09:29:23+00:00"
+    }
+   ]
+  },
+  {
+   "id": "4e2579328a",
+   "title": "שני שוהים בלתי חוקיים אותרו באתר בנייה בבת ים; המקום נסגר ל-30 יום",
+   "sourceCount": 1,
+   "outlets": [
+    "מעריב"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-02T09:30:15+00:00",
+   "lastSeen": "2026-10-02T09:30:15+00:00",
+   "articles": [
+    {
+     "source": "מעריב",
+     "title": "שני שוהים בלתי חוקיים אותרו באתר בנייה בבת ים; המקום נסגר ל-30 יום",
+     "url": "https://www.maariv.co.il/breaking-news/article-1372906",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-02T09:30:15+00:00"
     }
    ]
   },
@@ -6877,6 +7543,78 @@
    ]
   },
   {
+   "id": "f8d41d17e5",
+   "title": "ההצתה במכון הטיהור: התיקון עשוי לקחת שבועות, ייתכן מפגע ריח בבאר שבע והסביבה",
+   "sourceCount": 1,
+   "outlets": [
+    "ynet"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-02T11:55:17+03:00",
+   "lastSeen": "2026-10-02T11:55:17+03:00",
+   "articles": [
+    {
+     "source": "ynet",
+     "title": "ההצתה במכון הטיהור: התיקון עשוי לקחת שבועות, ייתכן מפגע ריח בבאר שבע והסביבה",
+     "url": "https://www.ynet.co.il/news/article/hywbgx65fe",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-02T11:55:17+03:00"
+    }
+   ]
+  },
+  {
+   "id": "5ed4cc9c55",
+   "title": "שוטרים שברו אף ויד בעימות עם מתנחלים ליד יריחו, קצין טען: בן גביר הגיע והתעלם מהכוח",
+   "sourceCount": 1,
+   "outlets": [
+    "ynet"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-02T12:09:24+03:00",
+   "lastSeen": "2026-10-02T12:09:24+03:00",
+   "articles": [
+    {
+     "source": "ynet",
+     "title": "שוטרים שברו אף ויד בעימות עם מתנחלים ליד יריחו, קצין טען: בן גביר הגיע והתעלם מהכוח",
+     "url": "https://www.ynet.co.il/news/article/bj8nbet5gl",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-02T12:09:24+03:00"
+    }
+   ]
+  },
+  {
+   "id": "a0a6082e50",
+   "title": "חסימה בכביש 5 עקב רכב שעולה באש, אין נפגעים",
+   "sourceCount": 1,
+   "outlets": [
+    "ynet"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-02T12:13:38+03:00",
+   "lastSeen": "2026-10-02T12:13:38+03:00",
+   "articles": [
+    {
+     "source": "ynet",
+     "title": "חסימה בכביש 5 עקב רכב שעולה באש, אין נפגעים",
+     "url": "https://www.ynet.co.il/news/article/rjyshlacfg",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-02T12:13:38+03:00"
+    }
+   ]
+  },
+  {
    "id": "58c87e449a",
    "title": "רן בן שמעון - תחזיר את הכבוד, או שתחזיר את המפתחות",
    "sourceCount": 1,
@@ -6926,8 +7664,8 @@
   }
  ],
  "stats": {
-  "articles": 225,
-  "clusters": 181,
-  "multiSource": 12
+  "articles": 245,
+  "clusters": 202,
+  "multiSource": 13
  }
 }
