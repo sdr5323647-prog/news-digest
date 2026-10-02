@@ -13,6 +13,8 @@ FEEDS = {
     "ynet": "https://www.ynet.co.il/Integration/StoryRss1854.xml",
     "וואלה": "https://rss.walla.co.il/feed/22",
     "ישראל היום": "https://www.israelhayom.co.il/rss.xml",
+    "מעריב": "https://www.maariv.co.il/Rss/RssFeedsMivzakiChadashot",
+    "Guardian": "https://www.theguardian.com/world/middleeast/rss",
     "Times of Israel": "https://www.timesofisrael.com/feed/",
     "Jerusalem Post": "https://www.jpost.com/rss/rssfeedsheadlines.aspx",
     "BBC": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
