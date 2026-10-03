@@ -1,0 +1,261 @@
+{
+  "schema": 2,
+  "date": "2026-10-03",
+  "type": "daily",
+  "headline": "האמירויות מגדירות את הדקירה בפליידובאי כפיגוע טרור, שני איראנים הואשמו בבריטניה בתכנון פיגוע ביום כיפור, והלחימה בתימן מתעצמת",
+  "events": [
+    {
+      "id": "flydubai-attack",
+      "title": "פרשת פליידובאי: האמירויות מגדירות את התקיפה בתא הטייס כפיגוע טרור; עומאן אסרה על הטייס לטוס",
+      "summary": "לפי הודעת האמירויות, כפי שדווח באל-ג'זירה ובגרדיאן, טייס-המשנה דקר את הקברניט בגרזן חירום בתא הטייס. מעריב מדווח שעומאן אסרה על טייס-המשנה לטוס בשל דעותיו הרדיקליות. ראש הממשלה נתניהו אמר שאם מישהו שלח את הטייס, הוא ישלם מחיר כבד מאוד. פליידובאי השעתה את טיסותיה לישראל עד להודעה חדשה.",
+      "why": "מדובר בתקרית ביטחונית בקו תעופה בין ישראל למפרץ, והשעיית הטיסות משפיעה ישירות על ישראלים.",
+      "change": "האמירויות הגדירו את האירוע פיגוע טרור, עומאן אסרה על הטייס לטוס, ופליידובאי השעתה את טיסותיה לישראל.",
+      "next": "המשך החקירה באמירויות ומועד חידוש הטיסות.",
+      "status": "VERIFIED",
+      "importance": 4,
+      "categories": [
+        "security",
+        "israel_world"
+      ],
+      "kind": "event",
+      "entities": [
+        "פליידובאי",
+        "איחוד האמירויות",
+        "נתניהו"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "Guardian",
+          "url": "https://www.theguardian.com/",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "מעריב",
+          "url": "https://www.maariv.co.il/breaking-news/article-1373015",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/rjvbnxrqzl",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 4,
+      "firstSeen": "2026-10-01",
+      "lastUpdated": "2026-10-03"
+    },
+    {
+      "id": "uk-synagogue-plot",
+      "title": "בריטניה: שני אזרחים איראנים הואשמו בתכנון פיגוע בבית כנסת ביום כיפור",
+      "summary": "לפי ynet, מעריב וישראל היום, הוגש בבריטניה כתב אישום נגד שני גברים, אזרחי איראן, בחשד שתכננו פיגוע טרור נגד הקהילה היהודית בערב יום כיפור, לפי הדיווחים במנצ'סטר. ישראל היום מדווח שנחקרת בבריטניה אפשרות לקשר איראני.",
+      "why": "פיגוע מתוכנן נגד יהודים בחו\"ל, עם חשד לזיקה לאיראן, משפיע על הערכות הביטחון לקהילות יהודיות ועל היחסים עם איראן.",
+      "change": "",
+      "next": "המשך ההליך המשפטי בבריטניה.",
+      "status": "VERIFIED",
+      "importance": 4,
+      "categories": [
+        "security",
+        "israel_world",
+        "judaism"
+      ],
+      "kind": "legal",
+      "entities": [
+        "איראן",
+        "בריטניה",
+        "יום כיפור"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/hk13dk69fg",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "מעריב",
+          "url": "https://www.maariv.co.il/breaking-news/article-1373026",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/news/world-news/europe/article/21540181",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 3,
+      "firstSeen": "2026-10-03",
+      "lastUpdated": "2026-10-03"
+    },
+    {
+      "id": "saudi-houthi-fighting",
+      "title": "תימן: הלחימה בין סעודיה לחות'ים מתגברת; פקיסטן וטורקיה ידונו בנושא עם סעודיה",
+      "summary": "לפי NYT ואל-ג'זירה, הלחימה בתימן מתגברת ויש מאות הרוגים ופצועים. החות'ים טוענים שסעודיה ביצעה יותר מ-90 תקיפות ביממה האחרונה ו-26 תקיפות בצנעא, וצבא תימן מסר שבוצעו 71 פעולות נגד החות'ים. ynet מדווח שפקיסטן אמרה כי בשבוע הבא יידונו התקיפות של החות'ים על ריאד עם סעודיה וטורקיה.",
+      "why": "הסלמה בין סעודיה לחות'ים מסכנת את היציבות באזור ואת נתיבי הסחר, ועלולה להשפיע על ישראל ועל מחירי האנרגיה.",
+      "change": "",
+      "next": "פגישת המדינות החברות בהסכם מכה בשבוע הבא.",
+      "status": "VERIFIED",
+      "importance": 4,
+      "categories": [
+        "security",
+        "world"
+      ],
+      "kind": "event",
+      "entities": [
+        "החות'ים",
+        "סעודיה",
+        "תימן"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "NYT",
+          "url": "https://www.nytimes.com/2026/10/02/world/middleeast/yemen-houthis-saudi-arabia-sanaa-taiz.html",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/10/3/iran-war-live-fighting-intensifies-in-yemen-hundreds-killed-or-injured",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/bk0x9daqfl",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 3,
+      "firstSeen": "2026-10-03",
+      "lastUpdated": "2026-10-03"
+    },
+    {
+      "id": "g7-oil-release",
+      "title": "G7: שחרור של 100 מיליון חביות נפט ודיזל מהמלאים",
+      "summary": "לפי אל-ג'זירה, מדינות ה-G7 יפרסמו שחרור של 100 מיליון חביות נפט ודיזל. נשיא ארה\"ב טראמפ אמר שאירופה הסכימה לשחרר כמות גדולה של מלאי דיזל. אל-ג'זירה שואל אם המהלך יצליח לרסן את המחירים.",
+      "why": "מחירי האנרגיה הגבוהים משפיעים על מחיר הדלק ועל יוקר המחיה בישראל.",
+      "change": "",
+      "next": "השפעת המהלך על מחירי הנפט.",
+      "status": "REPORTED",
+      "importance": 3,
+      "categories": [
+        "economy",
+        "world"
+      ],
+      "kind": "decision",
+      "entities": [
+        "מחירי האנרגיה",
+        "G7"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/2/trump-says-europe-agrees-to-release-massive-amount-diesel-stockpile",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 1,
+      "firstSeen": "2026-10-03",
+      "lastUpdated": "2026-10-03"
+    },
+    {
+      "id": "dubai-israelis-return",
+      "title": "הישראלים שנתקעו באמירויות: טיסת ארקיע נחתה בנתב\"ג, מטוסי מטען יוצאים להשבת מזוודות",
+      "summary": "לפי ynet ומעריב, טיסה של ארקיע להשבת ישראלים המריאה מדובאי ונחתה בנתב\"ג בשעת לילה. מטוסי מטען יצאו היום לדובאי להשבת מזוודות הנוסעים הישראלים, אחרי שלפי ynet באמירויות דרשו מטוסי מטען למזוודות.",
+      "why": "מאות ישראלים נתקעו בעקבות השעיית הטיסות בעקבות פרשת פליידובאי.",
+      "change": "",
+      "next": "המשך טיסות ההחזרה.",
+      "status": "VERIFIED",
+      "importance": 3,
+      "categories": [
+        "society",
+        "israel_world"
+      ],
+      "kind": "event",
+      "entities": [
+        "פליידובאי",
+        "איחוד האמירויות"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/bjkt2oaqmx",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "מעריב",
+          "url": "https://www.maariv.co.il/breaking-news/article-1373015",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/travel/aviation/article/21537982",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 3,
+      "firstSeen": "2026-10-03",
+      "lastUpdated": "2026-10-03"
+    }
+  ],
+  "unverified": [
+    {
+      "id": "sinwar-successor-strike",
+      "title": "דיווחים בעזה: צה\"ל ניסה לחסל את יורשו של סינוואר",
+      "summary": "על פי דיווחים בישראל היום, ב-ynet ובמעריב, צה\"ל ניסה הלילה לחסל בעזה את מי שמכונה יורשו של סינוואר. לפי הדיווחים, לא פורסם אישור רשמי מצה\"ל לתוצאות הניסיון.",
+      "why": "פגיעה בבכירי חמאס משפיעה על המשך הלחימה ועל המגעים בעזה.",
+      "change": "",
+      "next": "",
+      "status": "UNCONFIRMED",
+      "importance": 4,
+      "categories": [
+        "security"
+      ],
+      "kind": "event",
+      "entities": [
+        "חמאס",
+        "עזה"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/rjvbnxrqzl",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/news/defense/article/21540914",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 2,
+      "firstSeen": "2026-10-03",
+      "lastUpdated": "2026-10-03"
+    }
+  ],
+  "filtered_out": 267,
+  "note": ""
+}
