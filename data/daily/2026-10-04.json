@@ -1,0 +1,368 @@
+{
+  "schema": 2,
+  "date": "2026-10-04",
+  "type": "daily",
+  "headline": "פרשת פליידובאי מתרחבת לאוסטרליה, צה\"ל אישר ניסיון חיסול ביורשו של סינוואר, ואיראן הודיעה על הגדלת טווח הטילים.",
+  "events": [
+    {
+      "id": "flydubai-attack",
+      "title": "פרשת פליידובאי: ביטחון אוסטרליה בודק את הקשר של טייס-המשנה למדינה",
+      "summary": "לפי הגרדיאן ו-BBC, סוכנויות הביטחון באוסטרליה בודקות את תקופת שהותו של טייס-המשנה העומאני במדינה, לאחר ההאשמה שתקף את הקברניט בתא הטייס. לפי ynet, נוסעים בטיסה סיפרו שצוות הטיסה ביקש מהם לשחרר את החשוד. ראש הממשלה נתניהו שוחח עם הקברניט ההודי, שסיפר לפי ישראל היום שחטף מכה חזקה בראש.",
+      "why": "האירוע נחקר כפיגוע טרור ונוגע לבטיחות טיסות בין ישראל למפרץ.",
+      "change": "הבדיקה באוסטרליה היא כיוון חקירה חדש, ועדויות נוספות של נוסעים וצוות פורסמו.",
+      "next": "המשך החקירה והבירור אם הטייס פעל לבדו.",
+      "status": "VERIFIED",
+      "importance": 4,
+      "categories": [
+        "security",
+        "israel_world"
+      ],
+      "kind": "event",
+      "entities": [
+        "פליידובאי",
+        "איחוד האמירויות",
+        "נתניהו"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/04/flydubai-co-pilot-time-in-australia-being-investigated-security-agencies-ntwnfb",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/skpqbta5fg",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/news/defense/article/21543646",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 4,
+      "firstSeen": "2026-10-01",
+      "lastUpdated": "2026-10-04"
+    },
+    {
+      "id": "sinwar-successor-strike",
+      "title": "צה\"ל מאשר: ניסה לחסל הלילה את יורשו של סינוואר, התוצאות בבדיקה",
+      "summary": "לפי ynet, צה\"ל אישר שניסה לחסל בלילה את מי שמכונה \"היורש של סינוואר\" בעזה, והתוצאות נבדקות. ישראל היום מדווח על הערכה בחמאס בעקבות הניסיון ועל הנחיה דחופה שניתנה לפעילים.",
+      "why": "חיסול מנהיג בכיר בחמאס עשוי להשפיע על המשך הלחימה בעזה.",
+      "change": "צה\"ל אישר את הניסיון; אתמול דווח עליו רק בעזה.",
+      "next": "תוצאות הבדיקה והתגובה של חמאס.",
+      "status": "VERIFIED",
+      "importance": 4,
+      "categories": [
+        "security"
+      ],
+      "kind": "event",
+      "entities": [
+        "חמאס",
+        "עזה",
+        "סינוואר"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/h1001z0rcml",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21542127",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "מעריב",
+          "url": "https://www.maariv.co.il/breaking-news/article-1373167",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 3,
+      "firstSeen": "2026-10-03",
+      "lastUpdated": "2026-10-04"
+    },
+    {
+      "id": "iran-missile-range",
+      "title": "דובר צבא איראן: הוחלט להגדיל את טווח הטילים הבליסטיים",
+      "summary": "דובר הצבא האיראני הודיע, לפי ynet, מעריב וישראל היום, כי איראן קיבלה החלטה להגדיל את טווח הטילים שלה. ההודעה היא הצהרה של איראן; לא פורסמו פרטים על היקף ההגדלה או על לוח זמנים.",
+      "why": "טווח הטילים של איראן נוגע ישירות לאיום על ישראל ולמגעים מול ארה\"ב.",
+      "change": "",
+      "next": "תגובות בישראל ובארה\"ב, ואם יפורסמו פרטים על היכולת בפועל.",
+      "status": "VERIFIED",
+      "importance": 4,
+      "categories": [
+        "security",
+        "israel_world"
+      ],
+      "kind": "statement",
+      "entities": [
+        "איראן",
+        "טילים בליסטיים"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/syvtujjofl",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "מעריב",
+          "url": "https://www.maariv.co.il/breaking-news/article-1373432",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21548568",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 3,
+      "firstSeen": "2026-10-04",
+      "lastUpdated": "2026-10-04"
+    },
+    {
+      "id": "ebola-suspected-case",
+      "title": "חשד נוסף לאבולה בישראל: ששב מקונגו אושפז בבידוד",
+      "summary": "לפי ynet וישראל היום, צעיר ששב מקונגו נמצא בבידוד באחד מבתי החולים, בחשד לאבולה. ישראל היום מציין כי זהו המקרה החשוד הרביעי בישראל. החשד טרם אושר.",
+      "why": "חשד למחלה מדבקת מסוכנת הוא עניין של בריאות הציבור.",
+      "change": "",
+      "next": "תוצאות הבדיקות המעבדתיות.",
+      "status": "REPORTED",
+      "importance": 3,
+      "categories": [
+        "society"
+      ],
+      "kind": "event",
+      "entities": [
+        "אבולה",
+        "משרד הבריאות"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/byzniqyifg",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/health/article/21546890",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 2,
+      "firstSeen": "2026-10-04",
+      "lastUpdated": "2026-10-04"
+    },
+    {
+      "id": "lebanon-grenade-accident",
+      "title": "שני לוחמי צה\"ל נפצעו בתאונה מבצעית בדרום לבנון",
+      "summary": "לפי מעריב, ynet וישראל היום, לוחם וקצין נפצעו, האחד קשה והאחר בינוני, בתאונה מבצעית בדרום לבנון. ynet מדווח שרימון הושלך באופן לא תקין.",
+      "why": "הכוחות ממשיכים לפעול בדרום לבנון.",
+      "change": "",
+      "next": "בירור האירוע בצה\"ל.",
+      "status": "VERIFIED",
+      "importance": 3,
+      "categories": [
+        "security"
+      ],
+      "kind": "event",
+      "entities": [
+        "לבנון",
+        "צה\"ל"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/ryxifs1ozl",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "מעריב",
+          "url": "https://www.maariv.co.il/breaking-news/article-1373263",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/news/defense/article/21544700",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 3,
+      "firstSeen": "2026-10-04",
+      "lastUpdated": "2026-10-04"
+    },
+    {
+      "id": "russia-kyiv-escalation",
+      "title": "רוסיה: נגביר את התקיפות בקייב; גרמניה הודיעה על סיוע של כמיליארד אירו",
+      "summary": "לפי ynet, רוסיה הודיעה בזמן ביקור קנצלר גרמניה באוקראינה שתגביר את התקיפות בקייב, והמליצה לאזרחים זרים לעזוב את המדינה. לפי אותו דיווח, הקנצלר הודיע על חבילת סיוע לאוקראינה בשווי כמיליארד אירו.",
+      "why": "הסלמה ברוסיה-אוקראינה משפיעה על היציבות באירופה ועל שווקי האנרגיה.",
+      "change": "",
+      "next": "המשך התקיפות בקייב ותגובת מדינות המערב.",
+      "status": "REPORTED",
+      "importance": 3,
+      "categories": [
+        "world"
+      ],
+      "kind": "statement",
+      "entities": [
+        "רוסיה",
+        "אוקראינה",
+        "גרמניה"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/byjgxcr9fg",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/s1kpltyjmx",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 1,
+      "firstSeen": "2026-10-04",
+      "lastUpdated": "2026-10-04"
+    },
+    {
+      "id": "tigray-mekelle",
+      "title": "אתיופיה: כוחות הממשלה השתלטו על מקלה, בירת טיגראי",
+      "summary": "לפי אל-ג'זירה, כוחות ממשלת אתיופיה השתלטו על מקלה, בירת מחוז טיגראי, לאחר שה-TPLF נסוג מהעיר.",
+      "why": "שינוי משמעותי במאזן הכוחות בסכסוך שבו הושפעו מיליוני אזרחים.",
+      "change": "",
+      "next": "תגובת ה-TPLF והמצב ההומניטרי בעיר.",
+      "status": "REPORTED",
+      "importance": 3,
+      "categories": [
+        "world"
+      ],
+      "kind": "event",
+      "entities": [
+        "אתיופיה",
+        "טיגראי"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/4/government-forces-seize-capital-of-ethiopias-tigray-region-from-rebels?traffic_source=rss",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 1,
+      "firstSeen": "2026-10-04",
+      "lastUpdated": "2026-10-04"
+    },
+    {
+      "id": "brazil-election",
+      "title": "ברזיל: הבחירות לנשיאות, לולה מול בולסונרו",
+      "summary": "לפי אל-ג'זירה, ברזיל מצביעה בבחירות לנשיאות המתאפיינות בקיטוב עמוק, בין לולה לבולסונרו, ושני המחנות סיימו את הקמפיינים.",
+      "why": "תוצאות הבחירות במדינה הגדולה ביבשת אמריקה הלטינית ישפיעו על המדיניות האזורית והגלובלית.",
+      "change": "",
+      "next": "פרסום התוצאות.",
+      "status": "REPORTED",
+      "importance": 3,
+      "categories": [
+        "world",
+        "politics"
+      ],
+      "kind": "event",
+      "entities": [
+        "ברזיל",
+        "בחירות"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/4/brazil-votes-in-deeply-polarised-election-pitting-lula-against-bolsonaro?traffic_source=rss",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 1,
+      "firstSeen": "2026-10-04",
+      "lastUpdated": "2026-10-04"
+    }
+  ],
+  "unverified": [
+    {
+      "id": "saudi-houthi-fighting",
+      "title": "החות'ים טוענים: סעודיה תקפה בצנעא, והם תקפו מתקני אנרגיה בסעודיה",
+      "summary": "לטענת החות'ים, כפי שדווח ב-ynet, במעריב, ובאל-ג'זירה וב-NYT, סעודיה ביצעה 26 תקיפות אוויריות בצנעא והם תקפו מתקני נפט ואנרגיה בסעודיה, לפי NYT בארמקו. הטענות מצד אחד הצדדים בלחימה ולא אומתו באופן עצמאי.",
+      "why": "הסלמה בין סעודיה לחות'ים עלולה להשפיע על שווקי האנרגיה ועל האזור.",
+      "change": "החות'ים טוענים כעת לתקיפת מתקן אנרגיה סעודי ולמספר גדול של תקיפות סעודיות בצנעא.",
+      "next": "תגובה סעודית רשמית ואימות של הנזק.",
+      "status": "CLAIM",
+      "importance": 4,
+      "categories": [
+        "security",
+        "world"
+      ],
+      "kind": "statement",
+      "entities": [
+        "החות'ים",
+        "סעודיה",
+        "תימן"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/hjyjw9cqzx",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/4/houthis-claim-strike-on-saudi-energy-facility-as-yemen-fighting-intensifies?traffic_source=rss",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "NYT",
+          "url": "https://www.nytimes.com/2026/10/04/world/middleeast/houthis-oil-attack-saudi-arabia-yemen.html",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 3,
+      "firstSeen": "2026-10-03",
+      "lastUpdated": "2026-10-04"
+    }
+  ],
+  "filtered_out": 284,
+  "note": ""
+}
