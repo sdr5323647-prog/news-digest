@@ -1,0 +1,541 @@
+{
+ "schema": 2,
+ "date": "2026-10-05",
+ "type": "daily",
+ "headline": "פרשת פליידובאי: נתניהו הורה לבדוק את אבטחת התעופה, ארה\"ב פינתה מפציצים מבריטניה, ובתימן נפתחה מתקפה נגד החות'ים.",
+ "events": [
+  {
+   "id": "flydubai-attack",
+   "title": "פרשת פליידובאי: נתניהו הנחה לבדוק את אבטחת התעופה האזרחית הזרה; דיווח כי הטייס תכנן להתרסק בנתב\"ג",
+   "summary": "לפי ynet ומעריב, ראש הממשלה נתניהו הנחה את ראש המל\"ל למנות בודק שיבחן את כלל היבטי האבטחה של התעופה האזרחית הזרה בישראל. לפי ynet וישראל היום, גורמים בישראל מעריכים שטייס-המשנה התכוון להתרסק על נמל התעופה בן גוריון, ו-BBC דיווח על תכנון להתרסק על שדה התעופה או על בניין בתל אביב. ה-NYT מדווח על האשמות הדדיות בין הגורמים בישראל בשאלה מי כשל בסימון הטייס.",
+   "why": "האירוע נחקר כפיגוע טרור ונוגע לבטיחות טיסות לישראל.",
+   "change": "נתניהו הכיר בכשל והורה על בדיקה; הופיעו דיווחים על יעד הפיגוע המתוכנן. הדיווחים על היעד מיוחסים לגורמים בישראל ולא אומתו רשמית.",
+   "next": "מינוי הבודק והמשך החקירה, כולל הבדיקה באוסטרליה.",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "security",
+    "israel_world"
+   ],
+   "kind": "decision",
+   "entities": [
+    "פליידובאי",
+    "איחוד האמירויות",
+    "נתניהו",
+    "תעופה"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/SJYLybeifg",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1373572",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/h1ioiwgoze",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/defense/article/21551843",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/cm3691y79xp5o",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "NYT",
+     "url": "https://www.nytimes.com/2026/10/04/world/middleeast/flydubai-israel-debate-pilot-security.html",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 5,
+   "firstSeen": "2026-10-01",
+   "lastUpdated": "2026-10-05"
+  },
+  {
+   "id": "oct7-memorial-day",
+   "title": "יום הזיכרון הממלכתי לטבח 7 באוקטובר: טקסים, ודגלים בחצי התורן",
+   "summary": "דגלי ישראל הורדו לחצי התורן בבית הנשיא ובכנסת, ופורום המטכ\"ל קיים מעמד זיכרון בבסיס זיקים. הנשיא הרצוג אמר בטקס שחייבים לחקור איך זה קרה. ראש הממשלה נתניהו אמר שהמחויבות שלו היא להשלים את המשימה בעזה. לפי מעריב, בטקס נשמעו צעקות לעבר נשיא בית המשפט העליון.",
+   "why": "שלוש שנים לטבח; השאלה אם תוקם ועדת חקירה עדיין פתוחה ונוגעת למערכת הבחירות.",
+   "change": "",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "society",
+    "politics"
+   ],
+   "kind": "event",
+   "entities": [
+    "7 באוקטובר",
+    "הרצוג",
+    "נתניהו",
+    "ועדת חקירה"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/byj500ceizg",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1373664",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/skyl5rgoze",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/local/article/21556360",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-10-05",
+   "lastUpdated": "2026-10-05"
+  },
+  {
+   "id": "brazil-election",
+   "title": "ברזיל: לולה ובולסונרו צפויים לסיבוב שני",
+   "summary": "לפי ynet, מעריב וישראל היום, בספירת כ-90% מהקולות בבחירות לנשיאות ברזיל אף מועמד לא קיבל רוב, ובולסונרו הוביל על הנשיא לולה. ההכרעה עוברת לסיבוב שני.",
+   "why": "ברזיל היא כלכלה גדולה ומשקל מרכזי באמריקה הלטינית.",
+   "change": "התוצאות הסופיות של הסיבוב הראשון הראו שאין הכרעה והוכרז סיבוב שני.",
+   "next": "מועד הסיבוב השני והקמפיין עד אז.",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "world"
+   ],
+   "kind": "event",
+   "entities": [
+    "ברזיל",
+    "בחירות"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/rkt111dxjzx",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1373670",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/world-news/article/21553352",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-10-04",
+   "lastUpdated": "2026-10-05"
+  },
+  {
+   "id": "saudi-houthi-fighting",
+   "title": "תימן: כוחות הממשלה בסיוע סעודיה פתחו במתקפה נגד החות'ים בחוף ים סוף",
+   "summary": "לפי אל-ג'זירה, NYT, BBC והגרדיאן, כוחות ממשלת תימן וקואליציה בהובלת סעודיה פתחו במבצע נגד החות'ים כולל קמפיין אווירי. כוחות הממשלה טוענים שהשתלטו על אזור דובאב ועל עמדות סמוך למיצר באב אל-מנדב; הטענה נמסרת מצד הלוחמים ולא אומתה באופן עצמאי.",
+   "why": "לחימה במיצר באב אל-מנדב משפיעה על הספנות ועל שוק האנרגיה, ועל הלחימה מול איראן.",
+   "change": "עברנו מטענות הדדיות של החות'ים לדיווח על מתקפה קרקעית ואווירית של הקואליציה.",
+   "next": "אישור השליטה בשטח ותגובת החות'ים.",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "security",
+    "world"
+   ],
+   "kind": "event",
+   "entities": [
+    "החות'ים",
+    "סעודיה",
+    "תימן"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/5/yemen-forces-claim-to-seize-dhubab-sites-near-bab-al-mandeb-from-houthis",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "NYT",
+     "url": "https://www.nytimes.com/2026/10/05/world/middleeast/saudi-arabia-yemen-houthis-bab-al-mandab-strait.html",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Guardian",
+     "url": "https://www.theguardian.com/world/2026/oct/05/yemen-air-campaign-houthis-saudi-led-coalition",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 4,
+   "firstSeen": "2026-10-03",
+   "lastUpdated": "2026-10-05"
+  },
+  {
+   "id": "us-bombers-fairford",
+   "title": "ארה\"ב פינתה מפציצי B-1 מבסיס פיירפורד בבריטניה",
+   "summary": "לפי אל-ג'זירה והגרדיאן, ארה\"ב פינתה בפתאומיות מפציצי B-1 מבסיס RAF פיירפורד בבריטניה. לפי ynet וישראל היום, הצעד נעשה בעקבות איומים על מזימה איראנית; הסיבה אינה מאושרת רשמית. איראן אמרה, לפי אל-ג'זירה, שהיא ערוכה להתקפה אמריקאית.",
+   "why": "הצעד מצביע על הערכת סיכון גבוהה במתח בין ארה\"ב לאיראן.",
+   "change": "",
+   "next": "בירור הסיבה והמשך הנעת כוחות אמריקאיים באזור.",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "security",
+    "israel_world"
+   ],
+   "kind": "event",
+   "entities": [
+    "איראן",
+    "ארה\"ב",
+    "בריטניה"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/4/us-withdraws-b-1-bomber-aircraft-from-uks-fairford-base-amid-iran-fears",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Guardian",
+     "url": "https://www.theguardian.com/news/video/2026/oct/05/why-did-the-us-withdraw-bombers-from-raf-fairford-the-latest",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/hjhrnelogx",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/world-news/article/21553117",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 4,
+   "firstSeen": "2026-10-05",
+   "lastUpdated": "2026-10-05"
+  },
+  {
+   "id": "iran-oil-minister",
+   "title": "שר הנפט של איראן התפטר על רקע המשבר הכלכלי",
+   "summary": "לפי הגרדיאן, ynet וישראל היום, שר הנפט האיראני התפטר מתפקידו. הגרדיאן קושר זאת למשבר הכלכלי בארץ, וה-NYT מדווח שבכיר הביטחון האיראני התריע מפני משבר כלכלי חמור.",
+   "why": "משבר כלכלי באיראן משפיע על יכולתה לנהל עימות ועל המשא ומתן מול ארה\"ב.",
+   "change": "",
+   "next": "מינוי יורש והמשך המשבר הכלכלי.",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "economy",
+    "israel_world"
+   ],
+   "kind": "event",
+   "entities": [
+    "איראן",
+    "כלכלת איראן"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "Guardian",
+     "url": "https://www.theguardian.com/world/2026/oct/05/iran-oil-minister-resigns-economic-crisis",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/ryfeswgogg",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21552364",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "NYT",
+     "url": "https://www.nytimes.com/2026/10/04/world/middleeast/iran-economy-rial.html",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 4,
+   "firstSeen": "2026-10-05",
+   "lastUpdated": "2026-10-05"
+  },
+  {
+   "id": "uk-greens-zionism",
+   "title": "מפלגת הירוקים הבריטית אישרה הצעה שמגדירה ציונות כגזענות; ישראל גינתה",
+   "summary": "לפי הגרדיאן ואל-ג'זירה, כנס מפלגת הירוקים בבריטניה אישר הצעה המגדירה ציונות כגזענות. לפי ynet, משרד החוץ גינה את ההחלטה ואסר את כניסת יו\"ר המפלגה לישראל. לפי הגרדיאן, ראשת קבוצת היהודים בירוקים מסרה שהיא שוקלת לעזוב.",
+   "why": "ההחלטה של מפלגה פרלמנטרית באירופה משפיעה על היחסים עם בריטניה ועל האקלים כלפי יהודים.",
+   "change": "",
+   "next": "תגובות של מפלגות אחרות בבריטניה והאם ההחלטה תיושם.",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "politics",
+    "israel_world"
+   ],
+   "kind": "decision",
+   "entities": [
+    "בריטניה",
+    "ציונות",
+    "משרד החוץ"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "Guardian",
+     "url": "https://www.theguardian.com/politics/2026/oct/05/head-of-jewish-greens-says-she-may-leave-party-over-zionism-is-racism-vote",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/4/israel-lashes-out-as-uks-green-party-formally-defines-zionism-as-racism",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/rk9paxljfl",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/bkb2xjejmx",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-10-05",
+   "lastUpdated": "2026-10-05"
+  },
+  {
+   "id": "bar-ilan-lecturer-indictment",
+   "title": "כתב אישום נגד מרצה מבר אילן שתכנן פיגועים נגד ערבים ישראלים",
+   "summary": "לפי ynet, מעריב וישראל היום, הוגש כתב אישום נגד מרצה מאוניברסיטת בר אילן בטענה שתכנן שורת פיגועים מקבילים נגד ערבים בישראל, ושניסה לגייס את משה פייגלין ואיים עליו. האוניברסיטה הודיעה שהוא יושעה לאלתר. אלה טענות כתב האישום; המרצה לא הורשע.",
+   "why": "הליך פלילי חריג בנושא טרור יהודי.",
+   "change": "",
+   "next": "הדיון בבית המשפט.",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "law",
+    "security"
+   ],
+   "kind": "legal",
+   "entities": [
+    "טרור",
+    "בר אילן",
+    "פייגלין"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/rJLwCCgjMl",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1373781",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/law/article/21555250",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-10-05",
+   "lastUpdated": "2026-10-05"
+  },
+  {
+   "id": "syria-outpost-incidents",
+   "title": "דרום סוריה: צה\"ל ירה בחשודים שהתקרבו למוצבים, פעמיים תוך יממה",
+   "summary": "לפי ynet, מעריב וישראל היום, צה\"ל חיסל חשוד שניסה לחדור למוצב בדרום סוריה, ובהמשך נורו שני חשודים נוספים שהתקרבו למוצב באזור קונייטרה. פרטים על זהות החשודים לא פורסמו.",
+   "why": "שני אירועים בזמן קצר במרחב הביטחון שמול סוריה, לא רחוק מהגבול.",
+   "change": "",
+   "next": "בירור צה\"ל על זהות החשודים וכוונותיהם.",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "security"
+   ],
+   "kind": "event",
+   "entities": [
+    "סוריה",
+    "צה\"ל",
+    "רמת הגולן"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/hkqe0nxigl",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1373652",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/defense/article/21557913",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/rkufxqbsge",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-10-05",
+   "lastUpdated": "2026-10-05"
+  },
+  {
+   "id": "spain-election",
+   "title": "ספרד: ראש הממשלה סאנצ'ס הודיע על הליכה לבחירות",
+   "summary": "לפי ynet וישראל היום, ראש ממשלת ספרד פדרו סאנצ'ס הודיע על הליכה לבחירות, על רקע משבר ההגירה והדיור במדינה. מעריב דיווח קודם שצפויה הצהרה מיוחדת.",
+   "why": "ספרד היא מבקרת בולטת של ישראל באיחוד האירופי.",
+   "change": "",
+   "next": "מועד הבחירות והסקרים.",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "world",
+    "politics"
+   ],
+   "kind": "decision",
+   "entities": [
+    "ספרד",
+    "בחירות"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/Hki8aTgjGe",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/world-news/europe/article/21553820",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1373700",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-10-05",
+   "lastUpdated": "2026-10-05"
+  }
+ ],
+ "unverified": [
+  {
+   "id": "iraq-strike-green-light",
+   "title": "דיווח ערבי: ישראל קיבלה אור ירוק מארה\"ב לתקוף בעיראק",
+   "summary": "על פי דיווח ערבי שצוטט בישראל היום, ישראל קיבלה מארה\"ב אור ירוק לתקוף בעיראק. מעריב דיווח על כך בכותרות על \"החלטה חריגה\" ועל הערכות בישראל לתקיפה. הדיווח לא אושר על ידי גורם רשמי בישראל או בארה\"ב.",
+   "why": "אם יתממש, מדובר בהרחבת העימות מול איראן וגרורותיה.",
+   "change": "",
+   "next": "אישור או הכחשה רשמיים.",
+   "status": "CLAIM",
+   "importance": 4,
+   "categories": [
+    "security",
+    "israel_world"
+   ],
+   "kind": "statement",
+   "entities": [
+    "עיראק",
+    "ארה\"ב",
+    "איראן"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21558802",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1373954",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-10-05",
+   "lastUpdated": "2026-10-05"
+  }
+ ],
+ "filtered_out": 420,
+ "note": ""
+}
