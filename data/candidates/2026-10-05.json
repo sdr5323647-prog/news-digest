@@ -2,16 +2,6 @@
  "date": "2026-10-05",
  "articles": [
   {
-   "source": "Guardian",
-   "outlet": "Guardian",
-   "title": "Flydubai co-pilot’s time in Australia being investigated by security agencies after alleged cockpit attack",
-   "url": "https://www.theguardian.com/world/2026/oct/04/flydubai-co-pilot-time-in-australia-being-investigated-security-agencies-ntwnfb",
-   "summary": "Police confirm investigation into period the man reportedly spent in Australia before alleged attempted terrorist attack Get our breaking news email , free app or daily news podcast Australian security agencies have launched an investigation after it emerged that the flydubai co-pilot who allegedly ",
-   "time": "2026-10-04T01:26:39+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
    "source": "BBC",
    "outlet": "BBC",
    "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
@@ -2742,12 +2732,52 @@
    "type": "reporting"
   },
   {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "דירות 5 חדרים החל מ-3.5 מיליון שקל: משהב משיקה פרויקט מגורים חדש בקריית השרון בנתניה",
+   "url": "https://www.israelhayom.co.il/business/real-estate/article/21554010",
+   "summary": "הפרויקט כולל שני בניינים בני 13 קומות ו-78 דירות • הוא ממוקם במזרח נתניה, בקרבת תחנת הרכבת נתניה-ספיר ואזורי התעסוקה פולג וספיר",
+   "time": "2026-10-05T06:30:27+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
    "source": "מעריב",
    "outlet": "מעריב",
    "title": "הולכת רגל כבת 30 נפצעה קשה מפגיעת רכב ברמלה",
    "url": "https://www.maariv.co.il/breaking-news/article-1373703",
    "summary": "",
    "time": "2026-10-05T06:33:19+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "אור לוזון חוגגת אחרי סערת עומר אדם: \"הסיפור הכי יפה\"",
+   "url": "https://www.israelhayom.co.il/lifestyle/relationship/article/21554019",
+   "summary": "אור לוזון העלתה לסטורי קולאז' של רגעים אינטימיים עם טל גולדשטיין, איש הנדל\"ן שהזוגיות איתו נחשפה רק לפני חודש • לצד הנשיקות הגיע גם מסר אישי ומרגש, ומשפט אחד בו מבהיר לכולם עד כמה הקשר הזה כבר הפך לרציני",
+   "time": "2026-10-05T06:38:47+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "ישראל דויטש: \"נגמר, זה לא עובד\"",
+   "url": "https://www.israelhayom.co.il/forreal/localy/article/21554042",
+   "summary": "בקטע נוסף מתוך הפודקאסט שבו התארח עם אישתו מעיין רות שלום, כוכב \"ווארט\" מדבר על הצורך לשחרר בשלב מסוים. \"אין לך כוח השפעה\"",
+   "time": "2026-10-05T06:47:48+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "כתבה חדשה",
+   "url": "https://www.israelhayom.co.il/news/local/article/21554160",
+   "summary": "",
+   "time": "2026-10-05T06:47:55+00:00",
    "tier": 2,
    "type": "reporting"
   },
@@ -2762,12 +2792,332 @@
    "type": "reporting"
   },
   {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "יועמ\"שית הכנסת לבג\"ץ: \"בחירות חוזרות למבקר המדינה בהקדם - למרות הפגרה\"",
+   "url": "https://www.israelhayom.co.il/news/law/article/21554208",
+   "summary": "עו\"ד שגית אפיק הגישה את תגובתה לעתירה הדורשת מיו\"ר הכנסת אמיר אוחנה לכנס את המליאה ולבחור מבקר מדינה חדש • אפיק עומדת על כך שחובה לקיים את פסיקת בג\"ץ בהקדם, אך מציגה בפני בית המשפט את הקשיים הפרקטיים: \"חברי הכנסת עסוקים בפריימריז והרכב המליאה השתנה\"",
+   "time": "2026-10-05T06:49:36+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "62 מטרות בלילה אחד: ערב הסעודית מעלה הילוך נגד החות'ים",
+   "url": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21554076",
+   "summary": "השלטון הפרו-סעודי הכריז על מבצע להחזרת השליטה בשטחי המדינה ודיווח על התקדמות באל-ג'וף • מנגד, החות'ים רשמו הישגים בדרום ותועדו בביתו של יו\"ר הפרלמנט באזור תעז • הארגון תקף גם יעדי עראמקו בסעודיה",
+   "time": "2026-10-05T06:50:04+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "דיווח: המחבל מטיסת \"פליי דובאי\" תכנן את הפיגוע לפני שהחל לעבוד בחברה",
+   "url": "https://www.israelhayom.co.il/news/world-news/other/article/21553959",
+   "summary": "תוכנית להכשרת טייסים של חברת \"פליי דובאי\" אפשרה לחמאם חמאמי, המחבל שכמעט הצליח לרסק את מטוס החברה, להתקבל לשורותיה ללא בדיקה מעמיקה מספיק, כך חושף תחקיר של ה\"וול סטריט ג'ורנל\" • שורה של כשלים בעומאן, אוסטרליה וישראל איפשרו לטרוריסט פוטנציאלי להמשיך ולהטיס מטוסי נוסעים",
+   "time": "2026-10-05T06:50:33+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "תמונה ששווה אלף מילים: גרושתו של חנן בן ארי חוגגת",
+   "url": "https://www.israelhayom.co.il/culture/internet-culture/article/21554166",
+   "summary": "הסופרת הדסה בן ארי בחרה לציין את יום ההולדת בלי מסיבה ובלי בלונים, עם פוסט אישי במיוחד על השנה שעברה עליה, שנתיים אחרי הפרידה מחנן • בין השורות הסתתר גם משפט על \"רגעים שבורים\", ובקשה אחת שהפנתה לשנה החדשה",
+   "time": "2026-10-05T06:51:05+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "אחרי 80 שנה: רשת האופנה הוותיקה סוגרת 120 חנויות",
+   "url": "https://www.israelhayom.co.il/lifestyle/fashion/article/21554189",
+   "summary": "המשבר בענף האופנה האמריקני מגיע גם לרשתות שמציעות בגדים במחירים נגישים • Cato Corporation, שמפעילה יותר מאלף חנויות ברחבי ארצות הברית, הודיעה על סגירת כ־120 סניפים עד סוף 2026",
+   "time": "2026-10-05T06:54:20+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "עומק המחדל: מנהל אבטחת התעופה הישראלי קיבל תשלום מפליי דובאי",
+   "url": "https://www.israelhayom.co.il/travel/aviation/article/21554262",
+   "summary": "חשש לניגוד עניינים חריף: דביר רובינשטיין, מנהל מרכז המבצעים לאבטחת תעופה במשרד התחבורה, סיפק במקביל ייעוץ והדרכות לחברות התעופה שעל פעילותן הוא אמור לפקח, ובהן פליי דובאי ואמירייטס, כפי שפורסם ב-n12",
+   "time": "2026-10-05T06:56:33+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "אל תשלחו קורות חיים לפני שתקראו את זה: כך תגיעו למשרות הכי שוות לפני כולם",
+   "url": "https://www.israelhayom.co.il/tech/apps/article/21554097",
+   "summary": "מחפשים עבודה אחרי החגים? קהילות הקריירה בטיקטוק חושפות את הטריקים שיעזרו לכם לעקוף את כולם • טכניקות חיפוש נסתרות בלינקדאין, הגשת מועמדות למאות משרות בשניות ושימוש חכם ב-AI לשדרוג קורות החיים שלכם • 5 טריקים שכדאי להכיר",
+   "time": "2026-10-05T06:59:41+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "הדרמה ביורוליג: הקבוצות שמקדימות את הפועל תל אביב וירושלים",
+   "url": "https://www.israelhayom.co.il/sport/world-basketball/article/21554066",
+   "summary": "הישיבה שתכריע את מבנה המפעל בעונה הבאה, עם שמונה חברות קבועות חדשות, תתכנס בקומו • ולנסיה, דובאי ופריז עשויות להיבחר ראשונות, עוד השבוע • רומא של לוקה דונצ'יץ' גם בתמונה, האדומות הישראליות בהמתנה דרוכה",
+   "time": "2026-10-05T07:00:05+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "פרשת הפריצה לטלפון: שטייף תפצה את אפי נווה במאות אלפי שקלים",
+   "url": "https://www.israelhayom.co.il/news/law/article/21554294",
+   "summary": "בית המשפט המחוזי בלוד קבע כי כתבת הפלילים לשעבר של גל\"צ, הייתה הגורם המרכזי שהוביל לפריצה לטלפונים של ראש לשכת עורכי הדין לשעבר ולהפקת המידע מהם • יתר אנשי גל״צ שנתבעו זכו להגנה בשל פעילותם העיתונאית • בנוסף חויבה שטייף ב־25 אלף שקל בשל פוסט שבו כינתה את נוה \"תולעת האשפה\"",
+   "time": "2026-10-05T07:01:01+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
    "source": "ynet",
    "outlet": "ynet",
    "title": "קשישה נפגעה מרכב ליד צומת מחנה 80, מצבה אנוש",
    "url": "https://www.ynet.co.il/news/article/r1mijjlogg",
    "summary": "",
    "time": "2026-10-05T07:04:22+03:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "ליאור רז עוצר הכל ומרגיע: ''לא לדאוג''",
+   "url": "https://www.israelhayom.co.il/culture/internet-culture/article/21554327",
+   "summary": "יוצר \"פאודה\" ליאור רז העלה הבוקר סטורי מתוך מטוס עם הודעה קצרה לעוקבים, ימים ספורים אחרי הדרמה בטיסת פליי דובאי שהסעירה את ישראל • שתי שורות, רפרנס לסרט קאלט אחד ועקיצה שכל מי שעקב אחרי הפרשה יזהה תוך שנייה",
+   "time": "2026-10-05T07:04:54+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "\"למכבי תל אביב אין סיבה לפאניקה, תסתכלו על העונה שעברה\"",
+   "url": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21553939",
+   "summary": "איפה לונדברג מתעקש לא להילחץ מה-3:0 בפתיחת העונה ביורוליג: \"בטוח שהמומנטום ישתנה\", ומספר על הארכת החוזה: \"עודד קטש הוא הסיבה שהמשכתי\" • לשחקנים החדשים הוא העביר מסר: \"הם צריכים להסתגל למעמד שונה\"",
+   "time": "2026-10-05T07:05:54+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "World Space Week: Which countries have sent people to space?",
+   "url": "https://www.aljazeera.com/news/2026/10/5/world-space-week-which-countries-have-sent-people-to-space?traffic_source=rss",
+   "summary": "At least 746 people from 52 countries have been to space, from career astronauts to paying tourists.",
+   "time": "2026-10-05T07:06:18+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "בצל משבר ההגירה והדיור בספרד: פדרו סאנצ'ס הכריז על הליכה לבחירות",
+   "url": "https://www.israelhayom.co.il/news/world-news/europe/article/21553820",
+   "summary": "לאחר שבועות בהם מאות אלפים יוצאים לרוחובות במחאה על מדיניות ממשלתו, ראש הממשלה הספרדי הכריז על יציאה לבחירות • ברקע להחלטה נמצאים משבר דיור שהולך ומעמיק ופריצת המהגרים למובלעת סאוטה",
+   "time": "2026-10-05T07:10:04+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "גרושתו של חנן בן ארי: \"מצאתי אהבה\"",
+   "url": "https://www.israelhayom.co.il/forreal/localy/article/21554256",
+   "summary": "העיתונאית והסופרת חוגגת היום יום הולדת, ובפוסט שהקדישה עבור העניין היא ביקשה לעדכן במתנות שקיבלה בשנה החולפת, כשאחת מהן היא אהבה",
+   "time": "2026-10-05T07:10:06+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "נעדר כבר חודשים - בגלל ניתוח כושל: מה קרה לאקס מכבי חיפה",
+   "url": "https://www.israelhayom.co.il/sport/world-soccer/article/21554375",
+   "summary": "אחרי ששיחק רק פעם אחת ב-2026, מחמוד ג'אבר חזר להתאמן עם סנט אטיין ומתקרב לקאמבק • זו הפציעה שממנה סבל, והניתוח הכושל שעבר",
+   "time": "2026-10-05T07:11:00+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Spain’s Pedro Sanchez announces snap election amid housing crisis",
+   "url": "https://www.aljazeera.com/news/2026/10/5/spanish-prime-minister-pedro-sanchez-announces-snap-election?traffic_source=rss",
+   "summary": "Sanchez calls early vote after Parliament rejected housing relief measures proposed by his minority government.",
+   "time": "2026-10-05T07:14:41+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "13 הורים איבדו את ילדיהם ב-7 באוקטובר - ונסעו להודו לתהליך ריפוי",
+   "url": "https://www.israelhayom.co.il/culture/tv/article/21554104",
+   "summary": "מסע ההורים השכולים מתועד בסרט \"נשמה לא קוברים\" (HOT8) • הבמאית עדי פיינרו: \"הסרט הזה לא עוסק בשום צורה ביום הטרגי, הוא רק על היום שאחרי\"",
+   "time": "2026-10-05T07:17:42+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "יעל שלביה ולאנס סטרול משתוללים: כמה עולה החופשה בתאילנד?",
+   "url": "https://www.israelhayom.co.il/sport/offside/article/21553825",
+   "summary": "הדוגמנית כבר נחתה בגן העדן התאילנדי, ובן זוגה, נהג הפורמולה 1 של אסטון מרטין, צפוי להצטרף אליה אחרי שסיים את המרוץ במלזיה • הם בחרו באחת הווילות היוקרתיות ביותר במלון שבו כבר נפשו בעבר, המחיר ללילה יכול להגיע לעשרות אלפי שקלים",
+   "time": "2026-10-05T07:17:44+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "עסקת הענק של יצחק תשובה בקנדה: רוכש נכסים בשווי של מיליארד דולרים",
+   "url": "https://www.israelhayom.co.il/business/business-new/article/21554489",
+   "summary": "איתקה שבשליטת קבוצת הדלק של איש העסקים הישראלי רוכשת נכסי נפט שמכילים 103 מיליון חביות • העסקה צפויה להניב רווחים תפעוליים תזרימיים של 235 מיליון דולרים בשנה",
+   "time": "2026-10-05T07:25:39+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "אלי פיניש: \"הבנתי מי הולך לנצח בבחירות\"",
+   "url": "https://www.israelhayom.co.il/forreal/localy/article/21554544",
+   "summary": "השחקן, הסטנדאפיסט וכוכב \"ארץ נהדרת\" פרסם אתמול סרטון שבו קבע מי יהיה המנצח הגדול של בחירות 2026 לכנסת",
+   "time": "2026-10-05T07:26:24+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "איתי דנקנר מונה למנכ\"ל חדשות 13 ויעזוב את קשת 12",
+   "url": "https://www.israelhayom.co.il/culture/clique/article/21554477",
+   "summary": "אחרי שנים בקשת 12 ובחדשות 12, איתי דנקנר מונה למנכ\"ל חדשות 13 • הוא יחליף את טלי בן עובדיה, שהודיעה על עזיבתה לאחר הבחירות • המינוי מגיע זמן קצר לאחר העברת השליטה ברשת 13 לקרן מריט, הנתמכת בידי אסף רפפורט וינון קוסטיקה",
+   "time": "2026-10-05T07:30:15+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "\"אל תדברו איתי לפני הקפה\": זה מה שקפאין באמת עושה למוח",
+   "url": "https://www.israelhayom.co.il/tech/research/article/21554106",
+   "summary": "ניסוי חדש נתן לצעירים בריאים מנה נדיבה של קפאין בבוקר, ולא מצא שיפור במבחני חשיבה וזיכרון • מה זה מלמד על הפער בין מה שאנחנו מצפים מהאספרסו לבין מה שהוא באמת עושה?",
+   "time": "2026-10-05T07:35:03+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "מעריב",
+   "outlet": "מעריב",
+   "title": "המפלה הגדולה של הדס שטייף במשפט: \"מי שנוהג כך - צריך לשלם\"",
+   "url": "https://www.maariv.co.il/breaking-news/article-1373748",
+   "summary": "",
+   "time": "2026-10-05T07:38:23+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "מעריב",
+   "outlet": "מעריב",
+   "title": "מה עושה דני קושמרו בפסטיבל עם טראנס ואמבטיות קרח",
+   "url": "https://www.maariv.co.il/breaking-news/article-1373750",
+   "summary": "",
+   "time": "2026-10-05T07:39:47+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "נתניהו עוקץ: \"למוסריות של חיילינו אין אח ורע – למטיפים לנו, אנחנו מגינים גם עליכם\"",
+   "url": "https://www.israelhayom.co.il/news/local/article/21554650",
+   "summary": "הטקס הממלכתי לזכר הנופלים מאז 7 באוקטובר 2023 מתקיים בהר הרצל בירושלים • נתניהו: \"בעזה לא יהיה שום שלטון של החמאס, הדפנו את האויבים שלנו קילומטרים אחורה\" • הנשיא הרצוג: \"במערכת הבחירות, עלינו לצפות בנורות האזהרה שמסמנות מחלוקות מסוכנות\"",
+   "time": "2026-10-05T07:40:25+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "האירי שסבל נגד ישראל: \"קשה לו שהורידו ראש בהמנון\"",
+   "url": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21554652",
+   "summary": "מאמן אירלנד, היימיר הלגרימסון הסביר מדוע לא שיתף את פין עזז היהודי: \"היה לו קשה שאנחנו עונדים סרטים שחורים, זה בחן אותו יותר מכולנו\" • לדבריו, \"אין שום דבר שמצביע על כך שהוא פורש\"",
+   "time": "2026-10-05T07:41:05+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "אחד הקניונים הגדולים משנה את פניו - וייראה אחרת לגמרי",
+   "url": "https://www.israelhayom.co.il/food/food-news/article/21554622",
+   "summary": "קניון ים המלח בעין בוקק משלים מהלך שיפוץ רחב, עם קומה עליונה שהופכת למתחם אוכל ובילוי וגשר חדש שמחבר אותה ישירות לטיילת • בקרוב תצטרף גם מסעדה עם מרפסת מול הנוף שתפעל עד חצות, שעה שבה רוב האזור כבר נרדם",
+   "time": "2026-10-05T07:42:29+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "קים קרדשיאן חושפת: המספר המפתיע של המטפלות",
+   "url": "https://www.israelhayom.co.il/lifestyle/family-and-parenting/article/21554578",
+   "summary": "מאחורי האימפריה העסקית, מותג המיליארדים והזוגיות החדשה עם לואיס המילטון, קים קרדשיאן חושפת גם את הצד הפחות נוצץ של חיי המשפחה",
+   "time": "2026-10-05T07:46:33+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "“בשביל לשרת את המדינה, זה לגמרי שווה את זה\"",
+   "url": "https://www.israelhayom.co.il/news/local/article/21554133",
+   "summary": "שירן מדר כמעט איבדה את רגליה במהלך השירות בצה\"ל, ואף לקתה בפוסט-טראומה • אפילו מאמצי השיקום הכבירים שלה לא הניבו את התוצאה הרצויה – אבל אז היא מצאה גם את המפלט הספורטיבי שהיה חסר לה, וגם אהבה שעזרה לה להשתקם פיזית ונפשית • עכשיו היא מתכוננת לייצג אותנו במשחקים הפראלימפיים בעוד שנתיים: “זה מחזיר לשיר",
+   "time": "2026-10-05T07:46:45+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "אילי גורליצקי הלך לעולמו: השחקן והזמר, ממקימי אגודת אמני ישראל, היה בן 91",
+   "url": "https://www.israelhayom.co.il/culture/stage/article/21554751",
+   "summary": "השחקן והזמר, שהופיע לצד יונה עטרי ב\"שוק המציאות\" ועם יוסי בנאי ב\"חכמים בלילה\", היה גם היושב ראש הראשון של אגודת אמני ישראל • במשך עשרות שנים נאבק על זכויות האמנים המבצעים.",
+   "time": "2026-10-05T07:48:06+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "כוכב \"האח הגדול\" מבקש עזרה: מחפש עבודה",
+   "url": "https://www.israelhayom.co.il/forreal/localy/article/21554628",
+   "summary": "כוכב הריאליטי החרדי יענקי גולדהבר שהשתחרר לאחרונה מצה\"ל פרסם אמש סטורי שבו ביקש עזרה במציאת עבודה. \"מחפש משהו טוב ומכובד\"",
+   "time": "2026-10-05T07:48:08+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "משך כסף מחשבון הנרצחת וטשטש ראיות - עד שקרוב משפחתו הסגיר אותו",
+   "url": "https://www.israelhayom.co.il/news/law/article/21554643",
+   "summary": "כתב אישום הוגש נגד סלאח עותמאן, תושב א־טור, בגין רצח פאטמה רג׳בי ז״ל • לפי הפרקליטות, היא הלוותה לו כ־90 אלף שקל, שבהם השתמש להימורים • לאחר שדרשה את כספה, הוא תכנן את הרצח, הכה אותה בפטיש והסתיר את גופתה בחבית",
+   "time": "2026-10-05T07:48:50+00:00",
    "tier": 2,
    "type": "reporting"
   },
@@ -2792,12 +3142,232 @@
    "type": "reporting"
   },
   {
+   "source": "מעריב",
+   "outlet": "מעריב",
+   "title": "טלטלה בעולם הפשע: \"אירוע ירי נגד שלום דומרני ובנו - גם רכבו של נתניהו מעורב בתקרית\"",
+   "url": "https://www.maariv.co.il/breaking-news/article-1373760",
+   "summary": "",
+   "time": "2026-10-05T08:02:07+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "מעריב",
+   "outlet": "מעריב",
+   "title": "צה\"ל ושב\"כ חיסלו מפקד מחלקת נוח'בה שפשט לישראל בטבח 7 באוקטובר",
+   "url": "https://www.maariv.co.il/breaking-news/article-1373761",
+   "summary": "",
+   "time": "2026-10-05T08:02:50+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "קוקה-קולה משיקה פחית מיוחדת כאן בישראל - לזמן מוגבל",
+   "url": "https://www.israelhayom.co.il/food/new-products/article/21554835",
+   "summary": "המותג קוקה-קולה משיק מארז חדש של פחיות בנפח מוקטן, בגרסה הרגילה ובגרסת ZERO, שמצטרף לפחיות של 330 ו-250 מ\"ל שכבר על המדף • אבל יש כאן תנאי אחד שכדאי להכיר היטב לפני שרצים לסופר, וחשבון קטן אחד שדווקא מפתיע",
+   "time": "2026-10-05T08:03:22+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "France vs Belgium: UEFA Nations League – Olise, De Bruyne, teams and format",
+   "url": "https://www.aljazeera.com/sports/2026/10/5/france-belgium-uefa-nations-league-olise-de-bruyne-tielemans-teams-format?traffic_source=rss",
+   "summary": "Only one point separates Group A1 leaders France and second-placed Belgium before Monday&#039;s clash.",
+   "time": "2026-10-05T08:05:25+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "למה כל כך קשה לחזור להתאמן אחרי החגים - ואיך בכל זאת עושים את זה?",
+   "url": "https://www.israelhayom.co.il/lifestyle/well-being-and-fitness/article/21554783",
+   "summary": "החגים הסתיימו, חדרי הכושר מחכים, אבל המוטיבציה עדיין בחופשה • מתן ביטון, סמנכ\"ל המועדונים ברשת SPACE, מסביר מדוע החזרה לאימונים מרגישה קשה כל כך ומציע צעדים פשוטים שיעזרו לשבור את מחסום האימון הראשון",
+   "time": "2026-10-05T08:11:36+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
    "source": "ynet",
    "outlet": "ynet",
    "title": "הפלסטינים: צה\"ל פשט על אונ' ליד רמאללה - והרס מצבה לבכירי חמאס וגא\"פ",
    "url": "https://www.ynet.co.il/news/article/s1rck3eomg",
    "summary": "",
    "time": "2026-10-05T08:12:11+03:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "בגיל 54 בלבד: כוכבת שנות ה-90 הלכה לעולמה",
+   "url": "https://www.israelhayom.co.il/culture/music/article/21554939",
+   "summary": "קולה של להקת פירסט בייס נדם: הזמרת הגרמנייה כריסטינה ספרני הלכה לעולמה בגיל 54 • ספרני הובילה את הרכב היורודאנס משנות ה-90 והשתתפה בפרויקטים נוספים • נסיבות המוות טרם פורסמו הרשמית",
+   "time": "2026-10-05T08:13:52+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "בלי בושה: הרשימה המשותפת תשיק קמפיין - ביום הזיכרון הממלכתי לטבח",
+   "url": "https://www.israelhayom.co.il/news/politics/article/21554881",
+   "summary": "בשעה שעם ישראל מתייחד עם זכר נרצחי טבח 7 באוקטובר בטקסים הממלכתיים, הרשימה המשותפת תקיים בתל אביב אירוע השקה פומבי לקמפיין הבחירות בעברית • במרכז המאורע: מסיבת עיתונאים בעקבות פרישת יו\"ר בל״ד סאמי אבו שחאדה",
+   "time": "2026-10-05T08:14:20+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "כבר מחכה לו שם: היעד הרומנטי של יעל שלביה ולאנס סטרול",
+   "url": "https://www.israelhayom.co.il/sport/offside/article/21555060",
+   "summary": "הדוגמנית כבר נחתה בתאילנד והחלה את החופשה היוקרתית, בעוד בן זוגה, נהג הפורמולה 1 של אסטון מרטין, צפוי להצטרף אליה • סטרול מגיע אחרי סוף שבוע במלזיה וימשיך משם למרוץ הבא בסינגפור • וגם: המלון שבו השניים אישרו את הקאמבק הזוגי שלהם",
+   "time": "2026-10-05T08:16:18+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "קבוצת היורוליג עשתה טעות הזויה - והרסה רצף של 44 ניצחונות",
+   "url": "https://www.israelhayom.co.il/sport/world-basketball/article/21554737",
+   "summary": "הכוכב האדום לא הפסידה לז'לזניק בלגרד מאז מאי 2011, עד שזה קרה במשחק הפתיחה של הליגה האדריאטית • בפיגור נקודה שבע שניות לסיום השחקנים לא ביצעו עבירה ואפשרו ליריבה להחזיק בכדור עד הסיום: \"נותרו אדישים\"",
+   "time": "2026-10-05T08:16:33+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "חוסל מפקד מחלקת נוח׳בה שפשט לישראל ב־7 באוקטובר",
+   "url": "https://www.israelhayom.co.il/news/defense/article/21555020",
+   "summary": "אבראהים מוצטפא סלימאן אבו עוימר חוסל בתקיפה באזור נוסייראת שבמרכז הרצועה • בהודעת דובר צה\"ל נמסר כי הוא השתתף בטבח וקידם לאחרונה מתווי טרור • עוד נמסר כי פעל לשיקום יכולות חמאס תוך הפרה של הפסקת האש",
+   "time": "2026-10-05T08:18:26+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "מעריב",
+   "outlet": "מעריב",
+   "title": "אחרי שהזוגיות נחשפה: מיכל חזן יוצאת לדרך חדשה",
+   "url": "https://www.maariv.co.il/breaking-news/article-1373768",
+   "summary": "",
+   "time": "2026-10-05T08:18:34+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "מעריב",
+   "outlet": "מעריב",
+   "title": "שפל של כ-17 חודשים: המפלה של עמנואל מקרון וצרפת - ישראל הרוויחה בגדול",
+   "url": "https://www.maariv.co.il/breaking-news/article-1373769",
+   "summary": "",
+   "time": "2026-10-05T08:19:51+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "חודש לפני טיסת פליי דובאי: הילד הישראלי שתועד עם הטייס ההודי",
+   "url": "https://www.israelhayom.co.il/travel/aviation/article/21555038",
+   "summary": "אם ישראלית שמתגוררת בדובאי שיתפה תמונה של בנה לצד הטייס של פליי דובאי, שצולמה בטיסה משפחתית רגילה לפני כחודש • רק עכשיו הבינה המשפחה מי עמד שם לצד הילד, ולמה הוא כל כך התעקש להצטלם דווקא איתו",
+   "time": "2026-10-05T08:20:03+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "מעריב",
+   "outlet": "מעריב",
+   "title": "ראשוני: דיווח על ניסיון דריסה בחטיבת יהודה, אין נפגעים",
+   "url": "https://www.maariv.co.il/breaking-news/article-1373770",
+   "summary": "",
+   "time": "2026-10-05T08:20:17+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Pakistan installs fishing nets at security outposts to block drone attacks",
+   "url": "https://www.aljazeera.com/news/2026/10/5/pakistan-installs-fishing-nets-at-security-outposts-to-block-drone-attacks?traffic_source=rss",
+   "summary": "Strung several metres overhead, the nets are a low-cost solution in sensitive areas prone to attacks by armed groups.",
+   "time": "2026-10-05T08:20:34+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "בסלון של יסמין: יסמין לוקץ' מארחת את יאיר לפיד",
+   "url": "https://www.israelhayom.co.il/news/local/article/21546515",
+   "summary": "היום הגיע אליי לסלון יאיר לפיד- מייסד ויו\"ר מפלגת יש עתיד וראש ממשלת ישראל לשעבר, שמתמודד בבחירות הקרובות במסגרת הרשימה ״ביחד״, בראשות נפתלי בנט • צפו בפרק המלא",
+   "time": "2026-10-05T08:21:12+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "\"לא היה כישרון שלא היה לו\": עודד קוטלר נפרד מאילי גורליצקי",
+   "url": "https://www.israelhayom.co.il/culture/stage/article/21555136",
+   "summary": "השחקן והבמאי, שעבד עם גורליצקי כבר בתחילת דרכו בקאמרי, נזכר בחברו הוותיק: \"הוא שיחק, רקד, שר, ניגן בגיטרה, היה פילוסוף וכתב ספרים\" • וגם: הכישרון המפתיע שלו מחוץ לבמה",
+   "time": "2026-10-05T08:23:13+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "מעריב",
+   "outlet": "מעריב",
+   "title": "הצטרף לקבוצת \"ההתנגדות\" וצילם מקומות בירושלים: תושב העיר נאשם במגע עם סוכן זר",
+   "url": "https://www.maariv.co.il/breaking-news/article-1373779",
+   "summary": "",
+   "time": "2026-10-05T08:27:38+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "מעריב",
+   "outlet": "מעריב",
+   "title": "יום הזיכרון לאירועי 7 באוקטובר בפרטנר tv+ עם ימי שידורים מיוחדים בערוץ \"הגיבורים\"",
+   "url": "https://www.maariv.co.il/breaking-news/article-1373780",
+   "summary": "",
+   "time": "2026-10-05T08:28:10+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "מעריב",
+   "outlet": "מעריב",
+   "title": "כתב אישום נגד מרצה מבן אילן: \"תכנן להוציא תוכנית רצחנית נגד ערבים ישראלים\"",
+   "url": "https://www.maariv.co.il/breaking-news/article-1373781",
+   "summary": "",
+   "time": "2026-10-05T08:29:34+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "תכנן 12 חוליות טרור, ניסה לגייס את פייגלין - ואז איים עליו: אישום חמור נגד מרצה",
+   "url": "https://www.israelhayom.co.il/news/law/article/21555250",
+   "summary": "כתב אישום הוגש נגד מרצה למתמטיקה מאוניברסיטת בר אילן, בן כ-60, שתכנן במשך 3 שנים מתקפת טרור משולבת להשמדת וגירוש הערבים מהארץ, תוך שימוש ב-72 חמושים • הנאשם אף סחט באיומים את יו\"ר מפלגת זהות במטרה לאלץ אותו לגייס פעילים בכנס בחירות",
+   "time": "2026-10-05T08:29:45+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "האח הגדול צופה בך: ICE השתמשה במערכות של פלנטיר - למעקב אחר אזרחים",
+   "url": "https://www.israelhayom.co.il/tech/tech-news/article/21554876",
+   "summary": "תביעה חדשה חושפת כי רשות ההגירה בארה\"ב השתמשה במערכות הניתוח של פלנטיר כדי לאסוף תמונות, לוחיות רישוי ופרטים אישיים של אזרחים שתיעדו מעצרי מהגרים • עוד נטען כי המערכת איימה לסמן אותם כ\"חשודים בטרור\" • במשרד לביטחון המולדת דוחים את הטענות",
+   "time": "2026-10-05T08:36:17+00:00",
    "tier": 2,
    "type": "reporting"
   },
@@ -2822,12 +3392,242 @@
    "type": "reporting"
   },
   {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "השיחות בין ישראל ללבנון יתחדשו - אבל בביירות מנמיכים ציפיות",
+   "url": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21554454",
+   "summary": "מקורות בלבנון טוענים כי השיחות נועדו בעיקר לשמור על ערוץ פתוח, ללא ציפייה לפריצת דרך • ישראל דורשת את פירוק חיזבאללה מנשקו, וביירות דורשת נסיגות נוספות ושחרור אסירים",
+   "time": "2026-10-05T08:41:20+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "קים קרדשיאן על נורת': \"אני עוצרת אותה\"",
+   "url": "https://www.israelhayom.co.il/forreal/global/article/21555248",
+   "summary": "נורת' ווסט רוצה עוד מאור הזרקורים, אבל דווקא אמא קים קרדשיאן היא זו שמנסה להאט אותה. בריאיון חדש היא חושפת את הגבולות שהיא וקניה ווסט מציבים לבתם בת ה-13, שכבר החלה לפתח קריירה משלה, ומסבירה למה לא כל הצעה שמגיעה אליה מקבלת אור ירוק",
+   "time": "2026-10-05T08:42:00+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "מעריב",
+   "outlet": "מעריב",
+   "title": "איתן כבל מודה במשפט נתניהו: \"לא בגללי אלא בגללו, לא ישבתי איתו בבתי קפה\"",
+   "url": "https://www.maariv.co.il/breaking-news/article-1373788",
+   "summary": "",
+   "time": "2026-10-05T08:42:13+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "דור אחר: מה השתנה בבני הנוער מאז ה-7 באוקטובר?",
+   "url": "https://www.israelhayom.co.il/maariv-lanoar/teen-magazine/article/21553749",
+   "summary": "שלוש שנים אחרי היום ששינה את המדינה שלנו לעד, שאלנו אלפי בני נוער מה השתנה בהם מאז. מהקשר למשפחה ולחברים, דרך תחושת הביטחון ועד האופן שבה הם מסתכלים על החיים - זה מה שהם מספרים",
+   "time": "2026-10-05T08:43:15+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "מעריב",
+   "outlet": "מעריב",
+   "title": "דרמה במשפט נתניהו - עו\"ד עמית חדד הימם את העד: \"חקרו אותך בכפפות של משי\" - ואז התחיל הבלגן",
+   "url": "https://www.maariv.co.il/breaking-news/article-1373790",
+   "summary": "",
+   "time": "2026-10-05T08:48:37+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "טרגדיה על הפרקט: השופט התמוטט ומת באמצע משחק כדורסל",
+   "url": "https://www.israelhayom.co.il/sport/world-basketball/article/21555254",
+   "summary": "בראנקו שאריץ' בן ה-22, שסומן כאחד משופטי העתיד של הכדורסל במונטנגרו, קרס במהלך משחק הכנה בין טיאודו טיווט לווקובי זטה • הוא הובהל לבית החולים אך לא שרד: \"משחק שהיה אמור להיות תחרותי ומרגש הפך לעצב בל יתואר\"",
+   "time": "2026-10-05T08:48:40+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "הבקבוק מסריח? הטריק שינקה אותו בשניות",
+   "url": "https://www.israelhayom.co.il/news/trending-online/article/21555252",
+   "summary": "הריח מהבקבוק הרב-פעמי לא עובר ואין לכם מברשת מתאימה? השיטה שמשגעת את הרשת דורשת רק מרכיב אחד שיש לכולנו במטבח, קצת מים וסבון • כך תעשו זאת נכון ותשמרו על היגיינה מושלמת",
+   "time": "2026-10-05T08:52:57+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "שף פרטי ונוף להרים: כאן מת בנה של קרופורד",
+   "url": "https://www.israelhayom.co.il/forreal/global/article/21461976",
+   "summary": "מרכז הגמילה שבו שהה פרסלי גרבר בימיו האחרונים נראה כמעט כמו מלון יוקרה. אבל מאחורי התנאים המפנקים בנכס ששוויו מוערך ב-7.7 מיליון דולר, התנהל מאבק קשה בהתמכרות שהסתיים במותו של בן ה-27. כעת נחשפים פרטים על המקום שבו ניסה להשתקם - ועל הטיפול שקיבל שם",
+   "time": "2026-10-05T08:53:16+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "מעריב",
+   "outlet": "מעריב",
+   "title": "הרצוג בטקס הזיכרון הממלכתי לטבח שבעה באוקטובר: \"עלינו לצפות בנורות האזהרה הבוהקות\"",
+   "url": "https://www.maariv.co.il/breaking-news/article-1373792",
+   "summary": "",
+   "time": "2026-10-05T08:54:17+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Spain’s PM Pedro Sanchez calls snap election amid housing crisis",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/spains-pm-pedro-sanchez-calls-snap-election-amid-housing-crisis?traffic_source=rss",
+   "summary": "Spanish Prime Minister Pedro Sanchez has called a snap election for November 29.",
+   "time": "2026-10-05T08:55:21+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "האזהרות על אובדן שליטה מוגזמות? זה הסיכון האמיתי של ה-AI",
+   "url": "https://www.israelhayom.co.il/tech/tech-news/article/21554676",
+   "summary": "בכירי תעשיית ה-AI מזהירים מתרחישי קיצון וקוראים להדק את הפיקוח, אלא שבשטח, הסיכון המיידי נראה הרבה פחות דרמטי • סוכני AI מקבלים יותר סמכויות, בזמן שמנגנוני הבקרה מתקשים להדביק את הקצב • וברקע עולה השאלה: האם רגולציה מחמירה תגן על השוק - או תקשה על התחרות?",
+   "time": "2026-10-05T08:55:24+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "דיווח מפתיע: הישראלי שמועמד לקבוצת צמרת באיטליה",
+   "url": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21555461",
+   "summary": "ליאל עבדה עשוי לעזוב את שארלוט מה-MLS בסוף השנה • קבוצת הפאר מהסריה אה סימנה אותו כאחד משני שחקני הכנף שהיא בוחנת • אלא ששכרו בארה\"ב עלול להוות מכשול בדרך למעבר",
+   "time": "2026-10-05T08:56:21+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "מעריב",
+   "outlet": "מעריב",
+   "title": "יונית לוי שיגרה מסר חד-משמעי למגי טביבי מערוץ 12",
+   "url": "https://www.maariv.co.il/breaking-news/article-1373794",
+   "summary": "",
+   "time": "2026-10-05T08:56:37+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "מעריב",
+   "outlet": "מעריב",
+   "title": "האירוע ביהודה: שלושת יושבי הרכב, שניסו לפגוע בהאמר צה\"לי - נורו",
+   "url": "https://www.maariv.co.il/breaking-news/article-1373795",
+   "summary": "",
+   "time": "2026-10-05T08:58:56+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "מעריב",
+   "outlet": "מעריב",
+   "title": "כבל מעריך: \"השיחות עסקו בעיקר בענייני ממשלה ולא בחוק ישראל היום\"",
+   "url": "https://www.maariv.co.il/breaking-news/article-1373796",
+   "summary": "",
+   "time": "2026-10-05T08:59:01+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "‘If I didn’t write what moved me, it’d be like putting myself in prison’",
+   "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/10/5/if-i-didnt-write-what-moved-me-itd-be-like-putting-myself-in-prison?traffic_source=rss",
+   "summary": "Award-winning author Arundhati Roy discusses why she&#039;s not afraid to address politically charged topics.",
+   "time": "2026-10-05T09:00:00+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Guardian",
+   "outlet": "Guardian",
+   "title": "Head of Jewish Greens says she may leave party over ‘Zionism is racism’ vote",
+   "url": "https://www.theguardian.com/politics/2026/oct/05/head-of-jewish-greens-says-she-may-leave-party-over-zionism-is-racism-vote",
+   "summary": "Vivien Lichtenstein says she believes motion is unhelpful as anger grows over Zack Polanski’s absence for vote UK politics live – latest updates The head of the Jewish Greens has said she may leave the party after it voted to adopt a policy that equates Zionism with racism and calls for Israel to be",
+   "time": "2026-10-05T09:00:09+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "פיצה רומאית מ-18 שקל: הבר החדש והמפתיע שנפתח בשרון",
+   "url": "https://www.israelhayom.co.il/food/food-news/article/21555500",
+   "summary": "מתחם בילוי חדש נפתח ברעננה ומשלב פיצה בסגנון רומאי, בר מלא עם בירה מהחבית, ישיבה בחוץ ומסך ענק לשידורי ספורט • רק שהמיקום שבו בחרו להקים אותו הוא כנראה האחרון שהייתם מחפשים בו מקום לבילוי ערב",
+   "time": "2026-10-05T09:01:02+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
    "source": "ynet",
    "outlet": "ynet",
    "title": "ניסיון החדירה בסוריה: החשוד טיפס על סוללת המוצב, חייל ירה לעברו עם מאג",
    "url": "https://www.ynet.co.il/news/article/h18bchejfl",
    "summary": "",
    "time": "2026-10-05T09:01:21+03:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Formula One to probe software bug behind Bahrain GP chaos in Sepang",
+   "url": "https://www.aljazeera.com/sports/2026/10/5/formula-one-to-probe-software-bug-behind-bahrain-gp-chaos-in-sepang?traffic_source=rss",
+   "summary": "Drivers faced glitches at the race in Malaysia, where Lewis Hamilton had to stop and restart his car on the track.",
+   "time": "2026-10-05T09:02:06+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "חולדות בארמון: הבעיה שבית המלוכה הבריטי מעדיף שלא תראו",
+   "url": "https://www.israelhayom.co.il/lifestyle/design/article/21555339",
+   "summary": "כשהטמפרטורות יורדות, חולדות ועכברים מחפשים מחסה בתוך ארמון בקינגהאם - והצוות נדרש להתמודד איתם בדיסקרטיות • תיעוד מיוחד של מומחה ההדברה של הארמון חושף את הסיפורים שלא סופרו על התופעה המטרידה • וגם - מה קרה כשאובמה ראה חולדה בביקורו במקום?",
+   "time": "2026-10-05T09:04:23+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "אלונה סער שוקלת לעזוב: \"אין ברירה\"",
+   "url": "https://www.israelhayom.co.il/forreal/localy/article/21555489",
+   "summary": "השחקנית ובתו של שר החוץ גדעון סער סיפרה על אכזבתה בעקבות טיפול לא מספק מבחינתה בבקשתה לבדיקה רפואית. \"למרות שיש לי מחלה והפניה\"",
+   "time": "2026-10-05T09:05:53+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "עכשיו זה רשמי: הזוגיות החדשה של אבנר נתניהו",
+   "url": "https://www.israelhayom.co.il/lifestyle/relationship/article/21554641",
+   "summary": "בנו של ראש הממשלה ובת זוגו דנה צבאג שיתפו תיעוד ראשון מחופשה בלונדון • הקשר נחשף ביולי האחרון וכעת השניים מציגים תמונה משותפת",
+   "time": "2026-10-05T09:08:59+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "מעריב",
+   "outlet": "מעריב",
+   "title": "אוניברסיטת בר אילן בתגובה: \"מזועזעים מהמעשים המיוחסים למרצה - הוא יושעה לאלתר\"",
+   "url": "https://www.maariv.co.il/breaking-news/article-1373800",
+   "summary": "",
+   "time": "2026-10-05T09:09:06+00:00",
    "tier": 2,
    "type": "reporting"
   },
@@ -2842,12 +3642,72 @@
    "type": "reporting"
   },
   {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "כשהקרוז הופך למלון חמישה כוכבים - אבל יש קאץ'",
+   "url": "https://www.israelhayom.co.il/travel/travel-abroad/article/21555128",
+   "summary": "למרות הגודל, אקספלורה 1 מצליחה לשמור על תחושה אינטימית • 460 חדרים, מסעדות, ברים וטרקלינים • בלי תורים והמתנות כמעט באף אחד ממתחמי האונייה • אבל יש כוכבית, והיא המחיר, עוד לפני הטיסות",
+   "time": "2026-10-05T09:13:56+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "אחרי 3 שנים: ניצולי הנובה חושפים תיעודים חדשים מ-7 באוקטובר",
+   "url": "https://www.israelhayom.co.il/culture/internet-culture/article/21555580",
+   "summary": "ניצולים ממסיבת הנובה, מאופקים ומשדרות משתפים ברשתות תיעודים נוספים מבוקר המתקפה, רגע לפני ציון שלוש שנים • הסרטונים מחזירים את תשומת הלב לשלוש מהזירות הקשות של אותו יום, ומוסיפים להן נקודת מבט שלא הכרנו",
+   "time": "2026-10-05T09:15:39+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "תמרים, פיתות ובורות מים: גל ההרעלות בעדרי יהודה ושומרון",
+   "url": "https://www.israelhayom.co.il/news/local/article/21555540",
+   "summary": "בדיקת \"היום\" מתעדת 12 אירועי הרעלה מאז יוני 2025, שבהם מתו ראשי צאן ובקר וכלבי רועים • בחודשים האחרונים התופעה מתרחבת, והרועים כבר משקים כבשה אחת לפני שאר העדר • \"זה נהיה אחד מכלי הנשק להילחם בנו\"",
+   "time": "2026-10-05T09:16:41+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
    "source": "ynet",
    "outlet": "ynet",
    "title": "דגלי ישראל בכנסת הורדו לחצי התורן לציון יום הזיכרון הממלכתי ל-7/10",
    "url": "https://www.ynet.co.il/news/article/s1dx16xsgg",
    "summary": "",
    "time": "2026-10-05T09:16:44+03:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "החל מסוף השבוע: גוגל חוסמת את ג'מיני לחלק מהמשתמשים",
+   "url": "https://www.israelhayom.co.il/tech/tech-news/article/21555538",
+   "summary": "על רקע התחרות הקשה מצד חברות AI: מכה קשה למשתמשי החינם ומנויי ה-Plus של ג'מיני • החל מה-9 באוקטובר הם ייחסמו מדגמי הפרו, ויורדו למסלולי בסיס מצומצמים • במקביל, המנויים היקרים יקבלו את מנוע החשיבה העוצמתי Deep Think",
+   "time": "2026-10-05T09:21:55+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "מעריב",
+   "outlet": "מעריב",
+   "title": "במהלך טקס הזיכרון לשבעה באוקטובר, צעקות לעבר נשיא בית המשפט העליון | תיעוד",
+   "url": "https://www.maariv.co.il/breaking-news/article-1373807",
+   "summary": "",
+   "time": "2026-10-05T09:22:08+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "NYT",
+   "outlet": "NYT",
+   "title": "Turkey Banned a Book by a Jailed Presidential Hopeful. We Read It.",
+   "url": "https://www.nytimes.com/2026/10/05/world/middleeast/turkey-banned-book-opposition-leader.html",
+   "summary": "From jail, the former mayor of Istanbul accuses President Recep Tayyip Erdogan of hollowing out Turkey’s democracy to stay in power.",
+   "time": "2026-10-05T09:23:00+00:00",
    "tier": 2,
    "type": "reporting"
   },
@@ -2862,6 +3722,36 @@
    "type": "reporting"
   },
   {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "המרצה הנאשם בתכנון מתקפת טרור נגד ערבים: \"יש לי מבחנים לבדוק בבית\"",
+   "url": "https://www.israelhayom.co.il/news/law/article/21555761",
+   "summary": "בדיון בעניינו טען איש הסגל מבר־אילן כי אינו מסוכן וביקש לעבור למעצר בית • על האפשרות לקבל חוות דעת פסיכיאטרית אמר: \"עורך הדין שלי הציע לי שאשחק אותה קצת קוקו וזה יקל בעונש. אני לחלוטין כשיר ועומד מאחורי מעשיי\" • עוד ביקש שלא לשהות עם עצורים מוסלמים: \"אני מפחד\"",
+   "time": "2026-10-05T09:24:15+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "\"חוששת לחזור הביתה\": יהודיה במפלגת \"הירוקים\" מספרת כיצד הפכה למטרה",
+   "url": "https://www.israelhayom.co.il/news/world-news/europe/article/21555570",
+   "summary": "אליס בנימין, ראש עיריית אוקספורד לשעבר וחברה ותיקה בירוקים הבריטים, מספרת ל\"היום\" איך הפכה לזרה במפלגה שקבעה כי הציונות היא גזענות • לדבריה, פרטיה ופרטי חברים יהודים נוספים הודלפו לקונספירטור אנטישמי • בזמן שישראל אוסרת על פולנסקי להיכנס לשטחה, ההחלטה מעוררת משבר בשורות המפלגה",
+   "time": "2026-10-05T09:27:27+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "לא רק ישראל: הפרצה העולמית שנחשפה בעקבות ניסיון החטיפה",
+   "url": "https://www.israelhayom.co.il/travel/aviation/article/21555705",
+   "summary": "ניסיון ההשתלטות על טיסת פליי דובאי חשף בעיה שחורגת הרבה מעבר לישראל ולאיחוד האמירויות • מומחי תעופה מזהירים: \"אין משהו שחקוק בסלע לגבי הדרך שבה אנשים נבדקים\"",
+   "time": "2026-10-05T09:27:47+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
    "source": "ynet",
    "outlet": "ynet",
    "title": "הולכת רגל נפגעה מרכב ברמלה, מצבה קשה",
@@ -2870,90 +3760,389 @@
    "time": "2026-10-05T09:28:56+03:00",
    "tier": 2,
    "type": "reporting"
+  },
+  {
+   "source": "מעריב",
+   "outlet": "מעריב",
+   "title": "במהלך חופשה זוגית בלונדון: אבנר נתניהו וזוגתו הדוגמנית נחשפים",
+   "url": "https://www.maariv.co.il/breaking-news/article-1373813",
+   "summary": "",
+   "time": "2026-10-05T09:31:09+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "מעריב",
+   "outlet": "מעריב",
+   "title": "משרד הבריאות מודיע על אזהרת רחצה בחופים צינברי, צמח וגופרה בכנרת",
+   "url": "https://www.maariv.co.il/breaking-news/article-1373815",
+   "summary": "",
+   "time": "2026-10-05T09:36:48+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "יועמ\"שית הכנסת לבג\"ץ: \"לקיים בחירות חוזרות למבקר המדינה בהקדם האפשרי\"",
+   "url": "https://www.ynet.co.il/news/article/r1tlnaejmx",
+   "summary": "",
+   "time": "2026-10-05T09:43:44+03:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "הדס שטייף וגל\"צ יפצו את אפי נוה ב-600 אלף שקלים: \"מעשיה בעלי נופך פלילי\"",
+   "url": "https://www.ynet.co.il/news/article/r1hm006gsml",
+   "summary": "",
+   "time": "2026-10-05T09:49:30+03:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "בן 72 ככה\"נ הוכש ע\"י נחש בשטח חקלאי ברמת הגולן, מצבו קשה",
+   "url": "https://www.ynet.co.il/news/article/s1w65agjfl",
+   "summary": "",
+   "time": "2026-10-05T10:04:38+03:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "ר\"מ ספרד הודיע על הליכה לבחירות",
+   "url": "https://www.ynet.co.il/news/article/Hki8aTgjGe",
+   "summary": "",
+   "time": "2026-10-05T10:10:10+03:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "בשל חפץ חשוד: הופסקה תנועת הרכבות בין ת\"א ההגנה ללוד",
+   "url": "https://www.ynet.co.il/news/article/ryyh3tgigg",
+   "summary": "",
+   "time": "2026-10-05T10:30:17+03:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "רצח פאטמה רג'בי: הוגש אישום נגד הטכנאי - הכה אותה בפטיש ושם את הגופה בחבית",
+   "url": "https://www.ynet.co.il/news/article/b17zgaligg",
+   "summary": "",
+   "time": "2026-10-05T10:45:35+03:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "הלך לעולמו השחקן אילי גורליצקי בגיל 91",
+   "url": "https://www.ynet.co.il/news/article/r1qob0ljzx",
+   "summary": "",
+   "time": "2026-10-05T10:48:23+03:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "משרד הבריאות: אזהרת רחצה בחופים צינברי, צמח וגופרה בכינרת",
+   "url": "https://www.ynet.co.il/news/article/s1hnpceizg",
+   "summary": "",
+   "time": "2026-10-05T10:56:08+03:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "צה\"ל: חוסל מהאוויר מחבל נוחבה שפשט לישראל ב-7/10",
+   "url": "https://www.ynet.co.il/news/article/by3purxigx",
+   "summary": "",
+   "time": "2026-10-05T11:04:59+03:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "כתב אישום חריג: מרצה בבר אילן תכנן פיגועים מקבילים נגד מאות ערבים בישראל",
+   "url": "https://www.ynet.co.il/news/article/rJLwCCgjMl",
+   "summary": "",
+   "time": "2026-10-05T11:22:53+03:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "ראשוני: ניסיון דריסה ביהודה, ללא נפגעים",
+   "url": "https://www.ynet.co.il/news/article/hyaec0ejfl",
+   "summary": "",
+   "time": "2026-10-05T11:24:45+03:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "תנועת הרכבות בין ת\"א ההגנה ללוד שבה לסדרה בהדרגה",
+   "url": "https://www.ynet.co.il/news/article/ryo1b1bjgl",
+   "summary": "",
+   "time": "2026-10-05T11:35:58+03:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "הרצוג בציון 3 שנים לטבח: \"חייבים לחקור איך זה קרה, זמן לא מטשטש את החובה\"",
+   "url": "https://www.ynet.co.il/news/article/skyl5rgoze",
+   "summary": "",
+   "time": "2026-10-05T11:46:04+03:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "ניסיון הדריסה ביהודה: 3 מחבלים נסעו ברכב, אחד מהם חוסל",
+   "url": "https://www.ynet.co.il/news/article/hyu2b111izl",
+   "summary": "",
+   "time": "2026-10-05T11:47:35+03:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "אישום נגד תושב י-ם בגין מגע עם סוכן זר: צילם אתרים של כוחות הביטחון",
+   "url": "https://www.ynet.co.il/news/article/r1cgqkbime",
+   "summary": "",
+   "time": "2026-10-05T11:53:06+03:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "פייגלין: \"קיבלתי מכתבי סחיטה ואיומים מהמרצה בבר אילן - פניתי למשטרה\"",
+   "url": "https://www.ynet.co.il/news/article/byufvywifl",
+   "summary": "",
+   "time": "2026-10-05T12:03:51+03:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "נתניהו בטקס לציון 3 שנים לטבח: \"מי שהחזיק בחטופינו יחיה על זמן שאול\"",
+   "url": "https://www.ynet.co.il/news/article/h1xe4y11ofe",
+   "summary": "",
+   "time": "2026-10-05T12:13:08+03:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "אדם התפרץ לעבר נשיא העליון בטקס הממלכתי: \"לא מגיע לך להניח זר\"",
+   "url": "https://www.ynet.co.il/news/article/b1hucywjml",
+   "summary": "",
+   "time": "2026-10-05T12:20:42+03:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "אוניברסיטת בר אילן: \"מזועזעת מהמעשים שמיוחסים למרצה - יושעה לאלתר\"",
+   "url": "https://www.ynet.co.il/news/article/ryxxhk11jgl",
+   "summary": "",
+   "time": "2026-10-05T12:25:58+03:00",
+   "tier": 2,
+   "type": "reporting"
   }
  ],
- "updated": "2026-10-05T06:45:07.495275+00:00",
+ "updated": "2026-10-05T09:37:22.699185+00:00",
  "clusters": [
   {
-   "id": "1c045b992b",
-   "title": "Flydubai co-pilot’s time in Australia being investigated by security agencies after alleged cockpit attack",
-   "sourceCount": 4,
+   "id": "47ae2fbf26",
+   "title": "פתיחת יום הזיכרון הממלכתי לטבח 7.10: דגל ישראל הורד לחצי התורן ברחבת בית הנשיא",
+   "sourceCount": 3,
    "outlets": [
-    "Al Jazeera",
-    "BBC",
-    "Guardian",
-    "NYT"
+    "ynet",
+    "ישראל היום",
+    "מעריב"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 9,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-05T03:57:16+00:00",
+   "lastSeen": "2026-10-05T12:20:42+03:00",
+   "articles": [
+    {
+     "source": "מעריב",
+     "title": "פתיחת יום הזיכרון הממלכתי לטבח 7.10: דגל ישראל הורד לחצי התורן ברחבת בית הנשיא",
+     "url": "https://www.maariv.co.il/breaking-news/article-1373664",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T03:57:16+00:00"
+    },
+    {
+     "source": "מעריב",
+     "title": "יום הזיכרון הלאומי: פורום מטכ\"ל בדקת דומייה בבסיס זיקים",
+     "url": "https://www.maariv.co.il/breaking-news/article-1373676",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T04:58:43+00:00"
+    },
+    {
+     "source": "ynet",
+     "title": "דגל ישראל הורד לחצי התורן בבית הנשיא לציון יום הזיכרון הממלכתי ל-7/10",
+     "url": "https://www.ynet.co.il/news/article/byj500ceizg",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T06:49:28+03:00"
+    },
+    {
+     "source": "ynet",
+     "title": "פורום המטכ\"ל קיים מעמד זיכרון בבסיס זיקים לציון 7/10",
+     "url": "https://www.ynet.co.il/news/article/ryigaoxifl",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T07:58:27+03:00"
+    },
+    {
+     "source": "ישראל היום",
+     "title": "בלי בושה: הרשימה המשותפת תשיק קמפיין - ביום הזיכרון הממלכתי לטבח",
+     "url": "https://www.israelhayom.co.il/news/politics/article/21554881",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T08:14:20+00:00"
+    },
+    {
+     "source": "מעריב",
+     "title": "הרצוג בטקס הזיכרון הממלכתי לטבח שבעה באוקטובר: \"עלינו לצפות בנורות האזהרה הבוהקות\"",
+     "url": "https://www.maariv.co.il/breaking-news/article-1373792",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T08:54:17+00:00"
+    },
+    {
+     "source": "ynet",
+     "title": "דגלי ישראל בכנסת הורדו לחצי התורן לציון יום הזיכרון הממלכתי ל-7/10",
+     "url": "https://www.ynet.co.il/news/article/s1dx16xsgg",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T09:16:44+03:00"
+    },
+    {
+     "source": "מעריב",
+     "title": "במהלך טקס הזיכרון לשבעה באוקטובר, צעקות לעבר נשיא בית המשפט העליון | תיעוד",
+     "url": "https://www.maariv.co.il/breaking-news/article-1373807",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T09:22:08+00:00"
+    },
+    {
+     "source": "ynet",
+     "title": "אדם התפרץ לעבר נשיא העליון בטקס הממלכתי: \"לא מגיע לך להניח זר\"",
+     "url": "https://www.ynet.co.il/news/article/b1hucywjml",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T12:20:42+03:00"
+    }
+   ]
+  },
+  {
+   "id": "06761a62bf",
+   "title": "צה\"ל: חוסל מחבל נוחבה נוסף שהשתתף ב-7/10, וניהל עמותה שתמכה כלכלית בחמאס",
+   "sourceCount": 3,
+   "outlets": [
+    "ynet",
+    "ישראל היום",
+    "מעריב"
    ],
    "bestTier": 2,
    "hasOfficial": false,
    "reportingCount": 8,
    "opinionOnly": false,
-   "firstSeen": "2026-10-04T01:26:39+00:00",
-   "lastSeen": "2026-10-05T05:52:17+00:00",
+   "firstSeen": "2026-10-04T16:23:29+00:00",
+   "lastSeen": "2026-10-05T11:04:59+03:00",
    "articles": [
     {
-     "source": "Guardian",
-     "title": "Flydubai co-pilot’s time in Australia being investigated by security agencies after alleged cockpit attack",
-     "url": "https://www.theguardian.com/world/2026/oct/04/flydubai-co-pilot-time-in-australia-being-investigated-security-agencies-ntwnfb",
+     "source": "מעריב",
+     "title": "ניהל עמותת \"סיוע\" טורקית: חוסל מחבל נוח'בה שפשט ב-7 באוקטובר",
+     "url": "https://www.maariv.co.il/breaking-news/article-1373565",
      "tier": 2,
      "type": "reporting",
-     "time": "2026-10-04T01:26:39+00:00"
+     "time": "2026-10-04T16:23:29+00:00"
     },
     {
-     "source": "BBC",
-     "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
-     "url": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
+     "source": "ישראל היום",
+     "title": "מחבל הנוח'בה שחוסל בעזה - והקשר לעמותת \"הסיוע\" טורקית",
+     "url": "https://www.israelhayom.co.il/news/defense/article/21551785",
      "tier": 2,
      "type": "reporting",
-     "time": "2026-10-04T04:57:20+00:00"
+     "time": "2026-10-04T16:56:15+00:00"
     },
     {
-     "source": "BBC",
-     "title": "Australia investigating Flydubai co-pilot's links to country",
-     "url": "https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss",
+     "source": "מעריב",
+     "title": "צה\"ל חיסל מפקד ומחבל במערך התצפיות של ארגון הטרור חמאס",
+     "url": "https://www.maariv.co.il/breaking-news/article-1373599",
      "tier": 2,
      "type": "reporting",
-     "time": "2026-10-04T06:19:17+00:00"
+     "time": "2026-10-04T18:01:31+00:00"
     },
     {
-     "source": "NYT",
-     "title": "Omani Co-Pilot on FlyDubai Flight Is Said to Have Extremist Views",
-     "url": "https://www.nytimes.com/2026/10/03/world/middleeast/oman-flydubai-flight-1073-pilot-radicalized.html",
+     "source": "ynet",
+     "title": "צה\"ל: חוסל מחבל נוחבה נוסף שהשתתף ב-7/10, וניהל עמותה שתמכה כלכלית בחמאס",
+     "url": "https://www.ynet.co.il/news/article/hkw92gxifx",
      "tier": 2,
      "type": "reporting",
-     "time": "2026-10-04T08:31:46+00:00"
+     "time": "2026-10-04T19:21:30+03:00"
     },
     {
-     "source": "Al Jazeera",
-     "title": "Police investigating Flydubai co-pilot’s Australia ties",
-     "url": "https://www.aljazeera.com/news/2026/10/4/police-investigating-flydubai-co-pilots-australia-ties?traffic_source=rss",
+     "source": "ynet",
+     "title": "צה\"ל: מפקד בחמאס ומחבל נוסף חוסלו בתקיפות ברצועת עזה",
+     "url": "https://www.ynet.co.il/news/article/rjgjabxjml",
      "tier": 2,
      "type": "reporting",
-     "time": "2026-10-04T17:53:34+00:00"
+     "time": "2026-10-04T20:35:36+03:00"
     },
     {
-     "source": "NYT",
-     "title": "Israeli Authorities Trade Blame for Failure to Flag FlyDubai Co-Pilot",
-     "url": "https://www.nytimes.com/2026/10/04/world/middleeast/flydubai-israel-debate-pilot-security.html",
+     "source": "מעריב",
+     "title": "צה\"ל ושב\"כ חיסלו מפקד מחלקת נוח'בה שפשט לישראל בטבח 7 באוקטובר",
+     "url": "https://www.maariv.co.il/breaking-news/article-1373761",
      "tier": 2,
      "type": "reporting",
-     "time": "2026-10-04T19:07:36+00:00"
+     "time": "2026-10-05T08:02:50+00:00"
     },
     {
-     "source": "NYT",
-     "title": "Who Were the Pilots on the FlyDubai Flight?",
-     "url": "https://www.nytimes.com/2026/10/04/world/middleeast/flydubai-flight-who-were-pilots.html",
+     "source": "ישראל היום",
+     "title": "חוסל מפקד מחלקת נוח׳בה שפשט לישראל ב־7 באוקטובר",
+     "url": "https://www.israelhayom.co.il/news/defense/article/21555020",
      "tier": 2,
      "type": "reporting",
-     "time": "2026-10-04T21:35:14+00:00"
+     "time": "2026-10-05T08:18:26+00:00"
     },
     {
-     "source": "Guardian",
-     "title": "Alleged flydubai attacker left Australia without finishing engineering course, university says",
-     "url": "https://www.theguardian.com/world/2026/oct/05/australia-university-engineering-flydubai-co-pilot-rmit-ntwnfb",
+     "source": "ynet",
+     "title": "צה\"ל: חוסל מהאוויר מחבל נוחבה שפשט לישראל ב-7/10",
+     "url": "https://www.ynet.co.il/news/article/by3purxigx",
      "tier": 2,
      "type": "reporting",
-     "time": "2026-10-05T05:52:17+00:00"
+     "time": "2026-10-05T11:04:59+03:00"
     }
    ]
   },
@@ -3032,8 +4221,74 @@
    ]
   },
   {
-   "id": "06761a62bf",
-   "title": "צה\"ל: חוסל מחבל נוחבה נוסף שהשתתף ב-7/10, וניהל עמותה שתמכה כלכלית בחמאס",
+   "id": "e70657906e",
+   "title": "Israeli Authorities Trade Blame for Failure to Flag FlyDubai Co-Pilot",
+   "sourceCount": 3,
+   "outlets": [
+    "Al Jazeera",
+    "BBC",
+    "NYT"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 6,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-04T04:57:20+00:00",
+   "lastSeen": "2026-10-04T21:35:14+00:00",
+   "articles": [
+    {
+     "source": "BBC",
+     "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
+     "url": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-04T04:57:20+00:00"
+    },
+    {
+     "source": "BBC",
+     "title": "Australia investigating Flydubai co-pilot's links to country",
+     "url": "https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-04T06:19:17+00:00"
+    },
+    {
+     "source": "NYT",
+     "title": "Omani Co-Pilot on FlyDubai Flight Is Said to Have Extremist Views",
+     "url": "https://www.nytimes.com/2026/10/03/world/middleeast/oman-flydubai-flight-1073-pilot-radicalized.html",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-04T08:31:46+00:00"
+    },
+    {
+     "source": "Al Jazeera",
+     "title": "Police investigating Flydubai co-pilot’s Australia ties",
+     "url": "https://www.aljazeera.com/news/2026/10/4/police-investigating-flydubai-co-pilots-australia-ties?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-04T17:53:34+00:00"
+    },
+    {
+     "source": "NYT",
+     "title": "Israeli Authorities Trade Blame for Failure to Flag FlyDubai Co-Pilot",
+     "url": "https://www.nytimes.com/2026/10/04/world/middleeast/flydubai-israel-debate-pilot-security.html",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-04T19:07:36+00:00"
+    },
+    {
+     "source": "NYT",
+     "title": "Who Were the Pilots on the FlyDubai Flight?",
+     "url": "https://www.nytimes.com/2026/10/04/world/middleeast/flydubai-flight-who-were-pilots.html",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-04T21:35:14+00:00"
+    }
+   ]
+  },
+  {
+   "id": "9d7105ca13",
+   "title": "תכנן 12 חוליות טרור, ניסה לגייס את פייגלין - ואז איים עליו: אישום חמור נגד מרצה",
    "sourceCount": 3,
    "outlets": [
     "ynet",
@@ -3044,48 +4299,48 @@
    "hasOfficial": false,
    "reportingCount": 5,
    "opinionOnly": false,
-   "firstSeen": "2026-10-04T16:23:29+00:00",
-   "lastSeen": "2026-10-04T20:35:36+03:00",
+   "firstSeen": "2026-10-05T08:29:34+00:00",
+   "lastSeen": "2026-10-05T12:03:51+03:00",
    "articles": [
     {
      "source": "מעריב",
-     "title": "ניהל עמותת \"סיוע\" טורקית: חוסל מחבל נוח'בה שפשט ב-7 באוקטובר",
-     "url": "https://www.maariv.co.il/breaking-news/article-1373565",
+     "title": "כתב אישום נגד מרצה מבן אילן: \"תכנן להוציא תוכנית רצחנית נגד ערבים ישראלים\"",
+     "url": "https://www.maariv.co.il/breaking-news/article-1373781",
      "tier": 2,
      "type": "reporting",
-     "time": "2026-10-04T16:23:29+00:00"
+     "time": "2026-10-05T08:29:34+00:00"
     },
     {
      "source": "ישראל היום",
-     "title": "מחבל הנוח'בה שחוסל בעזה - והקשר לעמותת \"הסיוע\" טורקית",
-     "url": "https://www.israelhayom.co.il/news/defense/article/21551785",
+     "title": "תכנן 12 חוליות טרור, ניסה לגייס את פייגלין - ואז איים עליו: אישום חמור נגד מרצה",
+     "url": "https://www.israelhayom.co.il/news/law/article/21555250",
      "tier": 2,
      "type": "reporting",
-     "time": "2026-10-04T16:56:15+00:00"
+     "time": "2026-10-05T08:29:45+00:00"
     },
     {
-     "source": "מעריב",
-     "title": "צה\"ל חיסל מפקד ומחבל במערך התצפיות של ארגון הטרור חמאס",
-     "url": "https://www.maariv.co.il/breaking-news/article-1373599",
+     "source": "ישראל היום",
+     "title": "המרצה הנאשם בתכנון מתקפת טרור נגד ערבים: \"יש לי מבחנים לבדוק בבית\"",
+     "url": "https://www.israelhayom.co.il/news/law/article/21555761",
      "tier": 2,
      "type": "reporting",
-     "time": "2026-10-04T18:01:31+00:00"
-    },
-    {
-     "source": "ynet",
-     "title": "צה\"ל: חוסל מחבל נוחבה נוסף שהשתתף ב-7/10, וניהל עמותה שתמכה כלכלית בחמאס",
-     "url": "https://www.ynet.co.il/news/article/hkw92gxifx",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-04T19:21:30+03:00"
+     "time": "2026-10-05T09:24:15+00:00"
     },
     {
      "source": "ynet",
-     "title": "צה\"ל: מפקד בחמאס ומחבל נוסף חוסלו בתקיפות ברצועת עזה",
-     "url": "https://www.ynet.co.il/news/article/rjgjabxjml",
+     "title": "כתב אישום חריג: מרצה בבר אילן תכנן פיגועים מקבילים נגד מאות ערבים בישראל",
+     "url": "https://www.ynet.co.il/news/article/rJLwCCgjMl",
      "tier": 2,
      "type": "reporting",
-     "time": "2026-10-04T20:35:36+03:00"
+     "time": "2026-10-05T11:22:53+03:00"
+    },
+    {
+     "source": "ynet",
+     "title": "פייגלין: \"קיבלתי מכתבי סחיטה ואיומים מהמרצה בבר אילן - פניתי למשטרה\"",
+     "url": "https://www.ynet.co.il/news/article/byufvywifl",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T12:03:51+03:00"
     }
    ]
   },
@@ -3140,6 +4395,56 @@
    ]
   },
   {
+   "id": "c67297c407",
+   "title": "ספרד: פדרו סנצ'ס צפוי למסור הצהרה מיוחדת; השערה - יקדים את הבחירות",
+   "sourceCount": 3,
+   "outlets": [
+    "ynet",
+    "ישראל היום",
+    "מעריב"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 4,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-05T01:13:27+00:00",
+   "lastSeen": "2026-10-05T10:10:10+03:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "ספרד בדרך לבחירות? דיווחים: סאנצ'ס צפוי לפזר היום את הפרלמנט",
+     "url": "https://www.israelhayom.co.il/news/world-news/europe/article/21553405",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T01:13:27+00:00"
+    },
+    {
+     "source": "מעריב",
+     "title": "ספרד: פדרו סנצ'ס צפוי למסור הצהרה מיוחדת; השערה - יקדים את הבחירות",
+     "url": "https://www.maariv.co.il/breaking-news/article-1373700",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T06:29:51+00:00"
+    },
+    {
+     "source": "ישראל היום",
+     "title": "בצל משבר ההגירה והדיור בספרד: פדרו סאנצ'ס הכריז על הליכה לבחירות",
+     "url": "https://www.israelhayom.co.il/news/world-news/europe/article/21553820",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T07:10:04+00:00"
+    },
+    {
+     "source": "ynet",
+     "title": "ר\"מ ספרד הודיע על הליכה לבחירות",
+     "url": "https://www.ynet.co.il/news/article/Hki8aTgjGe",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T10:10:10+03:00"
+    }
+   ]
+  },
+  {
    "id": "ebaf80e099",
    "title": "חשד להתעללות קשה בגן בשרון: 3 סייעות נעצרו - בעלת המעון סירבה להגיב",
    "sourceCount": 3,
@@ -3182,6 +4487,79 @@
    ]
   },
   {
+   "id": "8c15e2967e",
+   "title": "\"30 שניות ממוות\": העדות מטיסת פליי דובאי מעל קבר האח שנפל ב-7.10",
+   "sourceCount": 2,
+   "outlets": [
+    "ישראל היום",
+    "מעריב"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 7,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-04T15:42:54+00:00",
+   "lastSeen": "2026-10-05T08:20:03+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "הנוסעים שמשחזרים את רגעי האימה בטיסת פליי דובאי: \"כמו אריות במצב של הרג\"",
+     "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21551325",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-04T15:42:54+00:00"
+    },
+    {
+     "source": "ישראל היום",
+     "title": "עדיין לא נחשף: מה עשוי להתגלות בקופסה השחורה של טיסת פליי דובאי",
+     "url": "https://www.israelhayom.co.il/travel/aviation/article/21551590",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-04T16:23:10+00:00"
+    },
+    {
+     "source": "ישראל היום",
+     "title": "\"30 שניות ממוות\": העדות מטיסת פליי דובאי מעל קבר האח שנפל ב-7.10",
+     "url": "https://www.israelhayom.co.il/news/local/article/21552997",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-04T20:23:15+00:00"
+    },
+    {
+     "source": "מעריב",
+     "title": "טיסת פליי דובאי: גורמים רשמיים מודים בשיחות סגורות - כשלים משמעותיים בשרשרת האבטחה | דיווח",
+     "url": "https://www.maariv.co.il/breaking-news/article-1373686",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T05:39:56+00:00"
+    },
+    {
+     "source": "ישראל היום",
+     "title": "דיווח: המחבל מטיסת \"פליי דובאי\" תכנן את הפיגוע לפני שהחל לעבוד בחברה",
+     "url": "https://www.israelhayom.co.il/news/world-news/other/article/21553959",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T06:50:33+00:00"
+    },
+    {
+     "source": "ישראל היום",
+     "title": "עומק המחדל: מנהל אבטחת התעופה הישראלי קיבל תשלום מפליי דובאי",
+     "url": "https://www.israelhayom.co.il/travel/aviation/article/21554262",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T06:56:33+00:00"
+    },
+    {
+     "source": "ישראל היום",
+     "title": "חודש לפני טיסת פליי דובאי: הילד הישראלי שתועד עם הטייס ההודי",
+     "url": "https://www.israelhayom.co.il/travel/aviation/article/21555038",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T08:20:03+00:00"
+    }
+   ]
+  },
+  {
    "id": "81a68cbaf7",
    "title": "בריטניה: מפלגת \"הירוקים\" אישרה הצעה הקוראת למעשה להשמדת מדינת ישראל",
    "sourceCount": 2,
@@ -3191,10 +4569,10 @@
    ],
    "bestTier": 2,
    "hasOfficial": false,
-   "reportingCount": 5,
+   "reportingCount": 6,
    "opinionOnly": false,
    "firstSeen": "2026-10-04T14:26:41+00:00",
-   "lastSeen": "2026-10-04T23:00:00+03:00",
+   "lastSeen": "2026-10-05T09:27:27+00:00",
    "articles": [
     {
      "source": "ישראל היום",
@@ -3235,112 +4613,14 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-10-04T23:00:00+03:00"
-    }
-   ]
-  },
-  {
-   "id": "47ae2fbf26",
-   "title": "פתיחת יום הזיכרון הממלכתי לטבח 7.10: דגל ישראל הורד לחצי התורן ברחבת בית הנשיא",
-   "sourceCount": 2,
-   "outlets": [
-    "ynet",
-    "מעריב"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 5,
-   "opinionOnly": false,
-   "firstSeen": "2026-10-05T03:57:16+00:00",
-   "lastSeen": "2026-10-05T09:16:44+03:00",
-   "articles": [
-    {
-     "source": "מעריב",
-     "title": "פתיחת יום הזיכרון הממלכתי לטבח 7.10: דגל ישראל הורד לחצי התורן ברחבת בית הנשיא",
-     "url": "https://www.maariv.co.il/breaking-news/article-1373664",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-05T03:57:16+00:00"
-    },
-    {
-     "source": "מעריב",
-     "title": "יום הזיכרון הלאומי: פורום מטכ\"ל בדקת דומייה בבסיס זיקים",
-     "url": "https://www.maariv.co.il/breaking-news/article-1373676",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-05T04:58:43+00:00"
-    },
-    {
-     "source": "ynet",
-     "title": "דגל ישראל הורד לחצי התורן בבית הנשיא לציון יום הזיכרון הממלכתי ל-7/10",
-     "url": "https://www.ynet.co.il/news/article/byj500ceizg",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-05T06:49:28+03:00"
-    },
-    {
-     "source": "ynet",
-     "title": "פורום המטכ\"ל קיים מעמד זיכרון בבסיס זיקים לציון 7/10",
-     "url": "https://www.ynet.co.il/news/article/ryigaoxifl",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-05T07:58:27+03:00"
-    },
-    {
-     "source": "ynet",
-     "title": "דגלי ישראל בכנסת הורדו לחצי התורן לציון יום הזיכרון הממלכתי ל-7/10",
-     "url": "https://www.ynet.co.il/news/article/s1dx16xsgg",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-05T09:16:44+03:00"
-    }
-   ]
-  },
-  {
-   "id": "8c15e2967e",
-   "title": "\"30 שניות ממוות\": העדות מטיסת פליי דובאי מעל קבר האח שנפל ב-7.10",
-   "sourceCount": 2,
-   "outlets": [
-    "ישראל היום",
-    "מעריב"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 4,
-   "opinionOnly": false,
-   "firstSeen": "2026-10-04T15:42:54+00:00",
-   "lastSeen": "2026-10-05T05:39:56+00:00",
-   "articles": [
-    {
-     "source": "ישראל היום",
-     "title": "הנוסעים שמשחזרים את רגעי האימה בטיסת פליי דובאי: \"כמו אריות במצב של הרג\"",
-     "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21551325",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-04T15:42:54+00:00"
     },
     {
      "source": "ישראל היום",
-     "title": "עדיין לא נחשף: מה עשוי להתגלות בקופסה השחורה של טיסת פליי דובאי",
-     "url": "https://www.israelhayom.co.il/travel/aviation/article/21551590",
+     "title": "\"חוששת לחזור הביתה\": יהודיה במפלגת \"הירוקים\" מספרת כיצד הפכה למטרה",
+     "url": "https://www.israelhayom.co.il/news/world-news/europe/article/21555570",
      "tier": 2,
      "type": "reporting",
-     "time": "2026-10-04T16:23:10+00:00"
-    },
-    {
-     "source": "ישראל היום",
-     "title": "\"30 שניות ממוות\": העדות מטיסת פליי דובאי מעל קבר האח שנפל ב-7.10",
-     "url": "https://www.israelhayom.co.il/news/local/article/21552997",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-04T20:23:15+00:00"
-    },
-    {
-     "source": "מעריב",
-     "title": "טיסת פליי דובאי: גורמים רשמיים מודים בשיחות סגורות - כשלים משמעותיים בשרשרת האבטחה | דיווח",
-     "url": "https://www.maariv.co.il/breaking-news/article-1373686",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-05T05:39:56+00:00"
+     "time": "2026-10-05T09:27:27+00:00"
     }
    ]
   },
@@ -3394,6 +4674,47 @@
    ]
   },
   {
+   "id": "e88e013b6a",
+   "title": "As it happened: Israel condemns Green party passing ‘Zionism is racism’ as a ‘stain on history of UK’",
+   "sourceCount": 2,
+   "outlets": [
+    "Al Jazeera",
+    "Guardian"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 3,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-04T16:32:00+00:00",
+   "lastSeen": "2026-10-05T09:00:09+00:00",
+   "articles": [
+    {
+     "source": "Guardian",
+     "title": "As it happened: Israel condemns Green party passing ‘Zionism is racism’ as a ‘stain on history of UK’",
+     "url": "https://www.theguardian.com/politics/live/2026/oct/04/conservatives-tories-conference-kemi-badenoch-james-cleverly-labour-jury-trials-green-party-zionism-uk-politics-latest-news-updates",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-04T16:32:00+00:00"
+    },
+    {
+     "source": "Al Jazeera",
+     "title": "Israel lashes out as UK’s Green Party formally defines Zionism as ‘racism’",
+     "url": "https://www.aljazeera.com/news/2026/10/4/israel-lashes-out-as-uks-green-party-formally-defines-zionism-as-racism?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-04T20:38:56+00:00"
+    },
+    {
+     "source": "Guardian",
+     "title": "Head of Jewish Greens says she may leave party over ‘Zionism is racism’ vote",
+     "url": "https://www.theguardian.com/politics/2026/oct/05/head-of-jewish-greens-says-she-may-leave-party-over-zionism-is-racism-vote",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T09:00:09+00:00"
+    }
+   ]
+  },
+  {
    "id": "adf4878dcb",
    "title": "אחרי ניסיון הפיגוע: ארה\"ב פינתה את המפציצים מבסיס פיירפורד בבריטניה",
    "sourceCount": 2,
@@ -3431,6 +4752,88 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-10-05T02:08:27+03:00"
+    }
+   ]
+  },
+  {
+   "id": "abc6faeb57",
+   "title": "אילי גורליצקי הלך לעולמו: השחקן והזמר, ממקימי אגודת אמני ישראל, היה בן 91",
+   "sourceCount": 2,
+   "outlets": [
+    "ynet",
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 3,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-05T07:48:06+00:00",
+   "lastSeen": "2026-10-05T10:48:23+03:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "אילי גורליצקי הלך לעולמו: השחקן והזמר, ממקימי אגודת אמני ישראל, היה בן 91",
+     "url": "https://www.israelhayom.co.il/culture/stage/article/21554751",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T07:48:06+00:00"
+    },
+    {
+     "source": "ישראל היום",
+     "title": "\"לא היה כישרון שלא היה לו\": עודד קוטלר נפרד מאילי גורליצקי",
+     "url": "https://www.israelhayom.co.il/culture/stage/article/21555136",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T08:23:13+00:00"
+    },
+    {
+     "source": "ynet",
+     "title": "הלך לעולמו השחקן אילי גורליצקי בגיל 91",
+     "url": "https://www.ynet.co.il/news/article/r1qob0ljzx",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T10:48:23+03:00"
+    }
+   ]
+  },
+  {
+   "id": "99224c6097",
+   "title": "ניסיון הדריסה ביהודה: 3 מחבלים נסעו ברכב, אחד מהם חוסל",
+   "sourceCount": 2,
+   "outlets": [
+    "ynet",
+    "מעריב"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 3,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-05T08:20:17+00:00",
+   "lastSeen": "2026-10-05T11:47:35+03:00",
+   "articles": [
+    {
+     "source": "מעריב",
+     "title": "ראשוני: דיווח על ניסיון דריסה בחטיבת יהודה, אין נפגעים",
+     "url": "https://www.maariv.co.il/breaking-news/article-1373770",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T08:20:17+00:00"
+    },
+    {
+     "source": "ynet",
+     "title": "ראשוני: ניסיון דריסה ביהודה, ללא נפגעים",
+     "url": "https://www.ynet.co.il/news/article/hyaec0ejfl",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T11:24:45+03:00"
+    },
+    {
+     "source": "ynet",
+     "title": "ניסיון הדריסה ביהודה: 3 מחבלים נסעו ברכב, אחד מהם חוסל",
+     "url": "https://www.ynet.co.il/news/article/hyu2b111izl",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T11:47:35+03:00"
     }
    ]
   },
@@ -3497,39 +4900,6 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-10-04T19:31:12+03:00"
-    }
-   ]
-  },
-  {
-   "id": "e88e013b6a",
-   "title": "As it happened: Israel condemns Green party passing ‘Zionism is racism’ as a ‘stain on history of UK’",
-   "sourceCount": 2,
-   "outlets": [
-    "Al Jazeera",
-    "Guardian"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 2,
-   "opinionOnly": false,
-   "firstSeen": "2026-10-04T16:32:00+00:00",
-   "lastSeen": "2026-10-04T20:38:56+00:00",
-   "articles": [
-    {
-     "source": "Guardian",
-     "title": "As it happened: Israel condemns Green party passing ‘Zionism is racism’ as a ‘stain on history of UK’",
-     "url": "https://www.theguardian.com/politics/live/2026/oct/04/conservatives-tories-conference-kemi-badenoch-james-cleverly-labour-jury-trials-green-party-zionism-uk-politics-latest-news-updates",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-04T16:32:00+00:00"
-    },
-    {
-     "source": "Al Jazeera",
-     "title": "Israel lashes out as UK’s Green Party formally defines Zionism as ‘racism’",
-     "url": "https://www.aljazeera.com/news/2026/10/4/israel-lashes-out-as-uks-green-party-formally-defines-zionism-as-racism?traffic_source=rss",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-04T20:38:56+00:00"
     }
    ]
   },
@@ -3662,39 +5032,6 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-10-04T20:01:47+00:00"
-    }
-   ]
-  },
-  {
-   "id": "c67297c407",
-   "title": "ספרד: פדרו סנצ'ס צפוי למסור הצהרה מיוחדת; השערה - יקדים את הבחירות",
-   "sourceCount": 2,
-   "outlets": [
-    "ישראל היום",
-    "מעריב"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 2,
-   "opinionOnly": false,
-   "firstSeen": "2026-10-05T01:13:27+00:00",
-   "lastSeen": "2026-10-05T06:29:51+00:00",
-   "articles": [
-    {
-     "source": "ישראל היום",
-     "title": "ספרד בדרך לבחירות? דיווחים: סאנצ'ס צפוי לפזר היום את הפרלמנט",
-     "url": "https://www.israelhayom.co.il/news/world-news/europe/article/21553405",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-05T01:13:27+00:00"
-    },
-    {
-     "source": "מעריב",
-     "title": "ספרד: פדרו סנצ'ס צפוי למסור הצהרה מיוחדת; השערה - יקדים את הבחירות",
-     "url": "https://www.maariv.co.il/breaking-news/article-1373700",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-05T06:29:51+00:00"
     }
    ]
   },
@@ -3864,6 +5201,171 @@
    ]
   },
   {
+   "id": "b6f0a6c99b",
+   "title": "יועמ\"שית הכנסת לבג\"ץ: \"בחירות חוזרות למבקר המדינה בהקדם - למרות הפגרה\"",
+   "sourceCount": 2,
+   "outlets": [
+    "ynet",
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 2,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-05T06:49:36+00:00",
+   "lastSeen": "2026-10-05T09:43:44+03:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "יועמ\"שית הכנסת לבג\"ץ: \"בחירות חוזרות למבקר המדינה בהקדם - למרות הפגרה\"",
+     "url": "https://www.israelhayom.co.il/news/law/article/21554208",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T06:49:36+00:00"
+    },
+    {
+     "source": "ynet",
+     "title": "יועמ\"שית הכנסת לבג\"ץ: \"לקיים בחירות חוזרות למבקר המדינה בהקדם האפשרי\"",
+     "url": "https://www.ynet.co.il/news/article/r1tlnaejmx",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T09:43:44+03:00"
+    }
+   ]
+  },
+  {
+   "id": "a2a79947aa",
+   "title": "הדס שטייף וגל\"צ יפצו את אפי נוה ב-600 אלף שקלים: \"מעשיה בעלי נופך פלילי\"",
+   "sourceCount": 2,
+   "outlets": [
+    "ynet",
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 2,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-05T07:01:01+00:00",
+   "lastSeen": "2026-10-05T09:49:30+03:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "פרשת הפריצה לטלפון: שטייף תפצה את אפי נווה במאות אלפי שקלים",
+     "url": "https://www.israelhayom.co.il/news/law/article/21554294",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T07:01:01+00:00"
+    },
+    {
+     "source": "ynet",
+     "title": "הדס שטייף וגל\"צ יפצו את אפי נוה ב-600 אלף שקלים: \"מעשיה בעלי נופך פלילי\"",
+     "url": "https://www.ynet.co.il/news/article/r1hm006gsml",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T09:49:30+03:00"
+    }
+   ]
+  },
+  {
+   "id": "545a0533e1",
+   "title": "הצטרף לקבוצת \"ההתנגדות\" וצילם מקומות בירושלים: תושב העיר נאשם במגע עם סוכן זר",
+   "sourceCount": 2,
+   "outlets": [
+    "ynet",
+    "מעריב"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 2,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-05T08:27:38+00:00",
+   "lastSeen": "2026-10-05T11:53:06+03:00",
+   "articles": [
+    {
+     "source": "מעריב",
+     "title": "הצטרף לקבוצת \"ההתנגדות\" וצילם מקומות בירושלים: תושב העיר נאשם במגע עם סוכן זר",
+     "url": "https://www.maariv.co.il/breaking-news/article-1373779",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T08:27:38+00:00"
+    },
+    {
+     "source": "ynet",
+     "title": "אישום נגד תושב י-ם בגין מגע עם סוכן זר: צילם אתרים של כוחות הביטחון",
+     "url": "https://www.ynet.co.il/news/article/r1cgqkbime",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T11:53:06+03:00"
+    }
+   ]
+  },
+  {
+   "id": "fa6aa9a698",
+   "title": "אוניברסיטת בר אילן בתגובה: \"מזועזעים מהמעשים המיוחסים למרצה - הוא יושעה לאלתר\"",
+   "sourceCount": 2,
+   "outlets": [
+    "ynet",
+    "מעריב"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 2,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-05T09:09:06+00:00",
+   "lastSeen": "2026-10-05T12:25:58+03:00",
+   "articles": [
+    {
+     "source": "מעריב",
+     "title": "אוניברסיטת בר אילן בתגובה: \"מזועזעים מהמעשים המיוחסים למרצה - הוא יושעה לאלתר\"",
+     "url": "https://www.maariv.co.il/breaking-news/article-1373800",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T09:09:06+00:00"
+    },
+    {
+     "source": "ynet",
+     "title": "אוניברסיטת בר אילן: \"מזועזעת מהמעשים שמיוחסים למרצה - יושעה לאלתר\"",
+     "url": "https://www.ynet.co.il/news/article/ryxxhk11jgl",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T12:25:58+03:00"
+    }
+   ]
+  },
+  {
+   "id": "fa430f0859",
+   "title": "משרד הבריאות מודיע על אזהרת רחצה בחופים צינברי, צמח וגופרה בכנרת",
+   "sourceCount": 2,
+   "outlets": [
+    "ynet",
+    "מעריב"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 2,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-05T09:36:48+00:00",
+   "lastSeen": "2026-10-05T10:56:08+03:00",
+   "articles": [
+    {
+     "source": "מעריב",
+     "title": "משרד הבריאות מודיע על אזהרת רחצה בחופים צינברי, צמח וגופרה בכנרת",
+     "url": "https://www.maariv.co.il/breaking-news/article-1373815",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T09:36:48+00:00"
+    },
+    {
+     "source": "ynet",
+     "title": "משרד הבריאות: אזהרת רחצה בחופים צינברי, צמח וגופרה בכינרת",
+     "url": "https://www.ynet.co.il/news/article/s1hnpceizg",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T10:56:08+03:00"
+    }
+   ]
+  },
+  {
    "id": "7eec05e43d",
    "title": "מזל טלה, תחזית הורוסקופ יומית 05.10.2026",
    "sourceCount": 1,
@@ -3968,10 +5470,10 @@
    ],
    "bestTier": 2,
    "hasOfficial": false,
-   "reportingCount": 5,
+   "reportingCount": 7,
    "opinionOnly": false,
    "firstSeen": "2026-10-04T14:50:14+00:00",
-   "lastSeen": "2026-10-05T05:40:01+00:00",
+   "lastSeen": "2026-10-05T07:05:54+00:00",
    "articles": [
     {
      "source": "ישראל היום",
@@ -4012,6 +5514,62 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-10-05T05:40:01+00:00"
+    },
+    {
+     "source": "ישראל היום",
+     "title": "הדרמה ביורוליג: הקבוצות שמקדימות את הפועל תל אביב וירושלים",
+     "url": "https://www.israelhayom.co.il/sport/world-basketball/article/21554066",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T07:00:05+00:00"
+    },
+    {
+     "source": "ישראל היום",
+     "title": "\"למכבי תל אביב אין סיבה לפאניקה, תסתכלו על העונה שעברה\"",
+     "url": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21553939",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T07:05:54+00:00"
+    }
+   ]
+  },
+  {
+   "id": "7dfb5c1358",
+   "title": "France vs Belgium: UEFA Nations League – Olise, De Bruyne, teams and format",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 3,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-04T15:47:10+00:00",
+   "lastSeen": "2026-10-05T08:05:25+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "LIVE: Portugal vs Norway – UEFA Nations League",
+     "url": "https://www.aljazeera.com/sports/liveblog/2026/10/4/live-portugal-vs-norway-uefa-nations-league?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-04T15:47:10+00:00"
+    },
+    {
+     "source": "Al Jazeera",
+     "title": "Ronaldo-less Portugal beat Norway 2-1 to reach Nations League quarterfinals",
+     "url": "https://www.aljazeera.com/sports/2026/10/4/ronaldo-less-portugal-beat-norway-2-1-to-reach-nations-league-quarterfinals?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-04T21:10:00+00:00"
+    },
+    {
+     "source": "Al Jazeera",
+     "title": "France vs Belgium: UEFA Nations League – Olise, De Bruyne, teams and format",
+     "url": "https://www.aljazeera.com/sports/2026/10/5/france-belgium-uefa-nations-league-olise-de-bruyne-tielemans-teams-format?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T08:05:25+00:00"
     }
    ]
   },
@@ -4056,34 +5614,66 @@
    ]
   },
   {
-   "id": "7dfb5c1358",
-   "title": "Ronaldo-less Portugal beat Norway 2-1 to reach Nations League quarterfinals",
+   "id": "f7fb4fff75",
+   "title": "קוקה-קולה משיקה פחית מיוחדת כאן בישראל - לזמן מוגבל",
    "sourceCount": 1,
    "outlets": [
-    "Al Jazeera"
+    "ישראל היום"
    ],
    "bestTier": 2,
    "hasOfficial": false,
    "reportingCount": 2,
    "opinionOnly": false,
-   "firstSeen": "2026-10-04T15:47:10+00:00",
-   "lastSeen": "2026-10-04T21:10:00+00:00",
+   "firstSeen": "2026-10-04T15:57:00+00:00",
+   "lastSeen": "2026-10-05T08:03:22+00:00",
    "articles": [
     {
-     "source": "Al Jazeera",
-     "title": "LIVE: Portugal vs Norway – UEFA Nations League",
-     "url": "https://www.aljazeera.com/sports/liveblog/2026/10/4/live-portugal-vs-norway-uefa-nations-league?traffic_source=rss",
+     "source": "ישראל היום",
+     "title": "אחרי 7 שנים: קוקה קולה משיקה טעם חדש - וראשון מסוגו",
+     "url": "https://www.israelhayom.co.il/food/food-news/article/21551321",
      "tier": 2,
      "type": "reporting",
-     "time": "2026-10-04T15:47:10+00:00"
+     "time": "2026-10-04T15:57:00+00:00"
     },
     {
-     "source": "Al Jazeera",
-     "title": "Ronaldo-less Portugal beat Norway 2-1 to reach Nations League quarterfinals",
-     "url": "https://www.aljazeera.com/sports/2026/10/4/ronaldo-less-portugal-beat-norway-2-1-to-reach-nations-league-quarterfinals?traffic_source=rss",
+     "source": "ישראל היום",
+     "title": "קוקה-קולה משיקה פחית מיוחדת כאן בישראל - לזמן מוגבל",
+     "url": "https://www.israelhayom.co.il/food/new-products/article/21554835",
      "tier": 2,
      "type": "reporting",
-     "time": "2026-10-04T21:10:00+00:00"
+     "time": "2026-10-05T08:03:22+00:00"
+    }
+   ]
+  },
+  {
+   "id": "0661d561cb",
+   "title": "הפתעה בכדורגל הישראלי: ישראל דויטש מ״ווארט״ חתם בקבוצה חדשה",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 2,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-04T18:08:23+00:00",
+   "lastSeen": "2026-10-05T06:47:48+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "הפתעה בכדורגל הישראלי: ישראל דויטש מ״ווארט״ חתם בקבוצה חדשה",
+     "url": "https://www.israelhayom.co.il/culture/internet-culture/article/21552167",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-04T18:08:23+00:00"
+    },
+    {
+     "source": "ישראל היום",
+     "title": "ישראל דויטש: \"נגמר, זה לא עובד\"",
+     "url": "https://www.israelhayom.co.il/forreal/localy/article/21554042",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T06:47:48+00:00"
     }
    ]
   },
@@ -4180,6 +5770,166 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-10-05T02:28:48+00:00"
+    }
+   ]
+  },
+  {
+   "id": "421a31deed",
+   "title": "תמונה ששווה אלף מילים: גרושתו של חנן בן ארי חוגגת",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 2,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-05T06:51:05+00:00",
+   "lastSeen": "2026-10-05T07:10:06+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "תמונה ששווה אלף מילים: גרושתו של חנן בן ארי חוגגת",
+     "url": "https://www.israelhayom.co.il/culture/internet-culture/article/21554166",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T06:51:05+00:00"
+    },
+    {
+     "source": "ישראל היום",
+     "title": "גרושתו של חנן בן ארי: \"מצאתי אהבה\"",
+     "url": "https://www.israelhayom.co.il/forreal/localy/article/21554256",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T07:10:06+00:00"
+    }
+   ]
+  },
+  {
+   "id": "226a2eb753",
+   "title": "Spain’s PM Pedro Sanchez calls snap election amid housing crisis",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 2,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-05T07:14:41+00:00",
+   "lastSeen": "2026-10-05T08:55:21+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "Spain’s Pedro Sanchez announces snap election amid housing crisis",
+     "url": "https://www.aljazeera.com/news/2026/10/5/spanish-prime-minister-pedro-sanchez-announces-snap-election?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T07:14:41+00:00"
+    },
+    {
+     "source": "Al Jazeera",
+     "title": "Spain’s PM Pedro Sanchez calls snap election amid housing crisis",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/spains-pm-pedro-sanchez-calls-snap-election-amid-housing-crisis?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T08:55:21+00:00"
+    }
+   ]
+  },
+  {
+   "id": "ec2ae77e9e",
+   "title": "יעל שלביה ולאנס סטרול משתוללים: כמה עולה החופשה בתאילנד?",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 2,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-05T07:17:44+00:00",
+   "lastSeen": "2026-10-05T08:16:18+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "יעל שלביה ולאנס סטרול משתוללים: כמה עולה החופשה בתאילנד?",
+     "url": "https://www.israelhayom.co.il/sport/offside/article/21553825",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T07:17:44+00:00"
+    },
+    {
+     "source": "ישראל היום",
+     "title": "כבר מחכה לו שם: היעד הרומנטי של יעל שלביה ולאנס סטרול",
+     "url": "https://www.israelhayom.co.il/sport/offside/article/21555060",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T08:16:18+00:00"
+    }
+   ]
+  },
+  {
+   "id": "fe685423cd",
+   "title": "בשל חפץ חשוד: הופסקה תנועת הרכבות בין ת\"א ההגנה ללוד",
+   "sourceCount": 1,
+   "outlets": [
+    "ynet"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 2,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-05T10:30:17+03:00",
+   "lastSeen": "2026-10-05T11:35:58+03:00",
+   "articles": [
+    {
+     "source": "ynet",
+     "title": "בשל חפץ חשוד: הופסקה תנועת הרכבות בין ת\"א ההגנה ללוד",
+     "url": "https://www.ynet.co.il/news/article/ryyh3tgigg",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T10:30:17+03:00"
+    },
+    {
+     "source": "ynet",
+     "title": "תנועת הרכבות בין ת\"א ההגנה ללוד שבה לסדרה בהדרגה",
+     "url": "https://www.ynet.co.il/news/article/ryo1b1bjgl",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T11:35:58+03:00"
+    }
+   ]
+  },
+  {
+   "id": "648d5bb12c",
+   "title": "הרצוג בציון 3 שנים לטבח: \"חייבים לחקור איך זה קרה, זמן לא מטשטש את החובה\"",
+   "sourceCount": 1,
+   "outlets": [
+    "ynet"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 2,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-05T11:46:04+03:00",
+   "lastSeen": "2026-10-05T12:13:08+03:00",
+   "articles": [
+    {
+     "source": "ynet",
+     "title": "הרצוג בציון 3 שנים לטבח: \"חייבים לחקור איך זה קרה, זמן לא מטשטש את החובה\"",
+     "url": "https://www.ynet.co.il/news/article/skyl5rgoze",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T11:46:04+03:00"
+    },
+    {
+     "source": "ynet",
+     "title": "נתניהו בטקס לציון 3 שנים לטבח: \"מי שהחזיק בחטופינו יחיה על זמן שאול\"",
+     "url": "https://www.ynet.co.il/news/article/h1xe4y11ofe",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T12:13:08+03:00"
     }
    ]
   },
@@ -5072,30 +6822,6 @@
    ]
   },
   {
-   "id": "f7fb4fff75",
-   "title": "אחרי 7 שנים: קוקה קולה משיקה טעם חדש - וראשון מסוגו",
-   "sourceCount": 1,
-   "outlets": [
-    "ישראל היום"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-10-04T15:57:00+00:00",
-   "lastSeen": "2026-10-04T15:57:00+00:00",
-   "articles": [
-    {
-     "source": "ישראל היום",
-     "title": "אחרי 7 שנים: קוקה קולה משיקה טעם חדש - וראשון מסוגו",
-     "url": "https://www.israelhayom.co.il/food/food-news/article/21551321",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-04T15:57:00+00:00"
-    }
-   ]
-  },
-  {
    "id": "abb136c193",
    "title": "סין מצמצמת סחר עם איראן - והמשבר הכלכלי מחריף",
    "sourceCount": 1,
@@ -5908,30 +7634,6 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-10-04T18:08:02+00:00"
-    }
-   ]
-  },
-  {
-   "id": "0661d561cb",
-   "title": "הפתעה בכדורגל הישראלי: ישראל דויטש מ״ווארט״ חתם בקבוצה חדשה",
-   "sourceCount": 1,
-   "outlets": [
-    "ישראל היום"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-10-04T18:08:23+00:00",
-   "lastSeen": "2026-10-04T18:08:23+00:00",
-   "articles": [
-    {
-     "source": "ישראל היום",
-     "title": "הפתעה בכדורגל הישראלי: ישראל דויטש מ״ווארט״ חתם בקבוצה חדשה",
-     "url": "https://www.israelhayom.co.il/culture/internet-culture/article/21552167",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-04T18:08:23+00:00"
     }
    ]
   },
@@ -8168,6 +9870,30 @@
    ]
   },
   {
+   "id": "3ca4292314",
+   "title": "Alleged flydubai attacker left Australia without finishing engineering course, university says",
+   "sourceCount": 1,
+   "outlets": [
+    "Guardian"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-05T05:52:17+00:00",
+   "lastSeen": "2026-10-05T05:52:17+00:00",
+   "articles": [
+    {
+     "source": "Guardian",
+     "title": "Alleged flydubai attacker left Australia without finishing engineering course, university says",
+     "url": "https://www.theguardian.com/world/2026/oct/05/australia-university-engineering-flydubai-co-pilot-rmit-ntwnfb",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T05:52:17+00:00"
+    }
+   ]
+  },
+  {
    "id": "e1a7e55701",
    "title": "התשואות בארה\"ב מזנקות, האירו נחלש - ומה קורה בישראל?",
    "sourceCount": 1,
@@ -8408,6 +10134,606 @@
    ]
   },
   {
+   "id": "31a5126eb6",
+   "title": "דירות 5 חדרים החל מ-3.5 מיליון שקל: משהב משיקה פרויקט מגורים חדש בקריית השרון בנתניה",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-05T06:30:27+00:00",
+   "lastSeen": "2026-10-05T06:30:27+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "דירות 5 חדרים החל מ-3.5 מיליון שקל: משהב משיקה פרויקט מגורים חדש בקריית השרון בנתניה",
+     "url": "https://www.israelhayom.co.il/business/real-estate/article/21554010",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T06:30:27+00:00"
+    }
+   ]
+  },
+  {
+   "id": "a4aacdec01",
+   "title": "אור לוזון חוגגת אחרי סערת עומר אדם: \"הסיפור הכי יפה\"",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-05T06:38:47+00:00",
+   "lastSeen": "2026-10-05T06:38:47+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "אור לוזון חוגגת אחרי סערת עומר אדם: \"הסיפור הכי יפה\"",
+     "url": "https://www.israelhayom.co.il/lifestyle/relationship/article/21554019",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T06:38:47+00:00"
+    }
+   ]
+  },
+  {
+   "id": "ae514ee056",
+   "title": "כתבה חדשה",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-05T06:47:55+00:00",
+   "lastSeen": "2026-10-05T06:47:55+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "כתבה חדשה",
+     "url": "https://www.israelhayom.co.il/news/local/article/21554160",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T06:47:55+00:00"
+    }
+   ]
+  },
+  {
+   "id": "192d09a9b5",
+   "title": "62 מטרות בלילה אחד: ערב הסעודית מעלה הילוך נגד החות'ים",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-05T06:50:04+00:00",
+   "lastSeen": "2026-10-05T06:50:04+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "62 מטרות בלילה אחד: ערב הסעודית מעלה הילוך נגד החות'ים",
+     "url": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21554076",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T06:50:04+00:00"
+    }
+   ]
+  },
+  {
+   "id": "d7e7c20750",
+   "title": "אחרי 80 שנה: רשת האופנה הוותיקה סוגרת 120 חנויות",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-05T06:54:20+00:00",
+   "lastSeen": "2026-10-05T06:54:20+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "אחרי 80 שנה: רשת האופנה הוותיקה סוגרת 120 חנויות",
+     "url": "https://www.israelhayom.co.il/lifestyle/fashion/article/21554189",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T06:54:20+00:00"
+    }
+   ]
+  },
+  {
+   "id": "38e73cdb9a",
+   "title": "אל תשלחו קורות חיים לפני שתקראו את זה: כך תגיעו למשרות הכי שוות לפני כולם",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-05T06:59:41+00:00",
+   "lastSeen": "2026-10-05T06:59:41+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "אל תשלחו קורות חיים לפני שתקראו את זה: כך תגיעו למשרות הכי שוות לפני כולם",
+     "url": "https://www.israelhayom.co.il/tech/apps/article/21554097",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T06:59:41+00:00"
+    }
+   ]
+  },
+  {
+   "id": "8bd9368b50",
+   "title": "ליאור רז עוצר הכל ומרגיע: ''לא לדאוג''",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-05T07:04:54+00:00",
+   "lastSeen": "2026-10-05T07:04:54+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "ליאור רז עוצר הכל ומרגיע: ''לא לדאוג''",
+     "url": "https://www.israelhayom.co.il/culture/internet-culture/article/21554327",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T07:04:54+00:00"
+    }
+   ]
+  },
+  {
+   "id": "d60114d50d",
+   "title": "World Space Week: Which countries have sent people to space?",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-05T07:06:18+00:00",
+   "lastSeen": "2026-10-05T07:06:18+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "World Space Week: Which countries have sent people to space?",
+     "url": "https://www.aljazeera.com/news/2026/10/5/world-space-week-which-countries-have-sent-people-to-space?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T07:06:18+00:00"
+    }
+   ]
+  },
+  {
+   "id": "6c01bec746",
+   "title": "נעדר כבר חודשים - בגלל ניתוח כושל: מה קרה לאקס מכבי חיפה",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-05T07:11:00+00:00",
+   "lastSeen": "2026-10-05T07:11:00+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "נעדר כבר חודשים - בגלל ניתוח כושל: מה קרה לאקס מכבי חיפה",
+     "url": "https://www.israelhayom.co.il/sport/world-soccer/article/21554375",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T07:11:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "393c94d180",
+   "title": "13 הורים איבדו את ילדיהם ב-7 באוקטובר - ונסעו להודו לתהליך ריפוי",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-05T07:17:42+00:00",
+   "lastSeen": "2026-10-05T07:17:42+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "13 הורים איבדו את ילדיהם ב-7 באוקטובר - ונסעו להודו לתהליך ריפוי",
+     "url": "https://www.israelhayom.co.il/culture/tv/article/21554104",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T07:17:42+00:00"
+    }
+   ]
+  },
+  {
+   "id": "1ac3b00f19",
+   "title": "עסקת הענק של יצחק תשובה בקנדה: רוכש נכסים בשווי של מיליארד דולרים",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-05T07:25:39+00:00",
+   "lastSeen": "2026-10-05T07:25:39+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "עסקת הענק של יצחק תשובה בקנדה: רוכש נכסים בשווי של מיליארד דולרים",
+     "url": "https://www.israelhayom.co.il/business/business-new/article/21554489",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T07:25:39+00:00"
+    }
+   ]
+  },
+  {
+   "id": "be04a19bef",
+   "title": "אלי פיניש: \"הבנתי מי הולך לנצח בבחירות\"",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-05T07:26:24+00:00",
+   "lastSeen": "2026-10-05T07:26:24+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "אלי פיניש: \"הבנתי מי הולך לנצח בבחירות\"",
+     "url": "https://www.israelhayom.co.il/forreal/localy/article/21554544",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T07:26:24+00:00"
+    }
+   ]
+  },
+  {
+   "id": "730e44d63f",
+   "title": "איתי דנקנר מונה למנכ\"ל חדשות 13 ויעזוב את קשת 12",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-05T07:30:15+00:00",
+   "lastSeen": "2026-10-05T07:30:15+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "איתי דנקנר מונה למנכ\"ל חדשות 13 ויעזוב את קשת 12",
+     "url": "https://www.israelhayom.co.il/culture/clique/article/21554477",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T07:30:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": "f62dd56f12",
+   "title": "\"אל תדברו איתי לפני הקפה\": זה מה שקפאין באמת עושה למוח",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-05T07:35:03+00:00",
+   "lastSeen": "2026-10-05T07:35:03+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "\"אל תדברו איתי לפני הקפה\": זה מה שקפאין באמת עושה למוח",
+     "url": "https://www.israelhayom.co.il/tech/research/article/21554106",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T07:35:03+00:00"
+    }
+   ]
+  },
+  {
+   "id": "c66aac2356",
+   "title": "המפלה הגדולה של הדס שטייף במשפט: \"מי שנוהג כך - צריך לשלם\"",
+   "sourceCount": 1,
+   "outlets": [
+    "מעריב"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-05T07:38:23+00:00",
+   "lastSeen": "2026-10-05T07:38:23+00:00",
+   "articles": [
+    {
+     "source": "מעריב",
+     "title": "המפלה הגדולה של הדס שטייף במשפט: \"מי שנוהג כך - צריך לשלם\"",
+     "url": "https://www.maariv.co.il/breaking-news/article-1373748",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T07:38:23+00:00"
+    }
+   ]
+  },
+  {
+   "id": "730fd2131e",
+   "title": "מה עושה דני קושמרו בפסטיבל עם טראנס ואמבטיות קרח",
+   "sourceCount": 1,
+   "outlets": [
+    "מעריב"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-05T07:39:47+00:00",
+   "lastSeen": "2026-10-05T07:39:47+00:00",
+   "articles": [
+    {
+     "source": "מעריב",
+     "title": "מה עושה דני קושמרו בפסטיבל עם טראנס ואמבטיות קרח",
+     "url": "https://www.maariv.co.il/breaking-news/article-1373750",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T07:39:47+00:00"
+    }
+   ]
+  },
+  {
+   "id": "087850a127",
+   "title": "נתניהו עוקץ: \"למוסריות של חיילינו אין אח ורע – למטיפים לנו, אנחנו מגינים גם עליכם\"",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-05T07:40:25+00:00",
+   "lastSeen": "2026-10-05T07:40:25+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "נתניהו עוקץ: \"למוסריות של חיילינו אין אח ורע – למטיפים לנו, אנחנו מגינים גם עליכם\"",
+     "url": "https://www.israelhayom.co.il/news/local/article/21554650",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T07:40:25+00:00"
+    }
+   ]
+  },
+  {
+   "id": "a9651ed244",
+   "title": "האירי שסבל נגד ישראל: \"קשה לו שהורידו ראש בהמנון\"",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-05T07:41:05+00:00",
+   "lastSeen": "2026-10-05T07:41:05+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "האירי שסבל נגד ישראל: \"קשה לו שהורידו ראש בהמנון\"",
+     "url": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21554652",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T07:41:05+00:00"
+    }
+   ]
+  },
+  {
+   "id": "5a029b309f",
+   "title": "אחד הקניונים הגדולים משנה את פניו - וייראה אחרת לגמרי",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-05T07:42:29+00:00",
+   "lastSeen": "2026-10-05T07:42:29+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "אחד הקניונים הגדולים משנה את פניו - וייראה אחרת לגמרי",
+     "url": "https://www.israelhayom.co.il/food/food-news/article/21554622",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T07:42:29+00:00"
+    }
+   ]
+  },
+  {
+   "id": "4ccc8c1f5b",
+   "title": "קים קרדשיאן חושפת: המספר המפתיע של המטפלות",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-05T07:46:33+00:00",
+   "lastSeen": "2026-10-05T07:46:33+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "קים קרדשיאן חושפת: המספר המפתיע של המטפלות",
+     "url": "https://www.israelhayom.co.il/lifestyle/family-and-parenting/article/21554578",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T07:46:33+00:00"
+    }
+   ]
+  },
+  {
+   "id": "cab35dd252",
+   "title": "“בשביל לשרת את המדינה, זה לגמרי שווה את זה\"",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-05T07:46:45+00:00",
+   "lastSeen": "2026-10-05T07:46:45+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "“בשביל לשרת את המדינה, זה לגמרי שווה את זה\"",
+     "url": "https://www.israelhayom.co.il/news/local/article/21554133",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T07:46:45+00:00"
+    }
+   ]
+  },
+  {
+   "id": "3cb230ebed",
+   "title": "כוכב \"האח הגדול\" מבקש עזרה: מחפש עבודה",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-05T07:48:08+00:00",
+   "lastSeen": "2026-10-05T07:48:08+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "כוכב \"האח הגדול\" מבקש עזרה: מחפש עבודה",
+     "url": "https://www.israelhayom.co.il/forreal/localy/article/21554628",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T07:48:08+00:00"
+    }
+   ]
+  },
+  {
+   "id": "3cfdaf9a39",
+   "title": "משך כסף מחשבון הנרצחת וטשטש ראיות - עד שקרוב משפחתו הסגיר אותו",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-05T07:48:50+00:00",
+   "lastSeen": "2026-10-05T07:48:50+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "משך כסף מחשבון הנרצחת וטשטש ראיות - עד שקרוב משפחתו הסגיר אותו",
+     "url": "https://www.israelhayom.co.il/news/law/article/21554643",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T07:48:50+00:00"
+    }
+   ]
+  },
+  {
+   "id": "35387660e4",
+   "title": "טלטלה בעולם הפשע: \"אירוע ירי נגד שלום דומרני ובנו - גם רכבו של נתניהו מעורב בתקרית\"",
+   "sourceCount": 1,
+   "outlets": [
+    "מעריב"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-05T08:02:07+00:00",
+   "lastSeen": "2026-10-05T08:02:07+00:00",
+   "articles": [
+    {
+     "source": "מעריב",
+     "title": "טלטלה בעולם הפשע: \"אירוע ירי נגד שלום דומרני ובנו - גם רכבו של נתניהו מעורב בתקרית\"",
+     "url": "https://www.maariv.co.il/breaking-news/article-1373760",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T08:02:07+00:00"
+    }
+   ]
+  },
+  {
+   "id": "a814bef7b3",
+   "title": "למה כל כך קשה לחזור להתאמן אחרי החגים - ואיך בכל זאת עושים את זה?",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-05T08:11:36+00:00",
+   "lastSeen": "2026-10-05T08:11:36+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "למה כל כך קשה לחזור להתאמן אחרי החגים - ואיך בכל זאת עושים את זה?",
+     "url": "https://www.israelhayom.co.il/lifestyle/well-being-and-fitness/article/21554783",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T08:11:36+00:00"
+    }
+   ]
+  },
+  {
    "id": "bcb58d4737",
    "title": "הפלסטינים: צה\"ל פשט על אונ' ליד רמאללה - והרס מצבה לבכירי חמאס וגא\"פ",
    "sourceCount": 1,
@@ -8428,6 +10754,558 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-10-05T08:12:11+03:00"
+    }
+   ]
+  },
+  {
+   "id": "a073e1b223",
+   "title": "בגיל 54 בלבד: כוכבת שנות ה-90 הלכה לעולמה",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-05T08:13:52+00:00",
+   "lastSeen": "2026-10-05T08:13:52+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "בגיל 54 בלבד: כוכבת שנות ה-90 הלכה לעולמה",
+     "url": "https://www.israelhayom.co.il/culture/music/article/21554939",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T08:13:52+00:00"
+    }
+   ]
+  },
+  {
+   "id": "06904e519d",
+   "title": "קבוצת היורוליג עשתה טעות הזויה - והרסה רצף של 44 ניצחונות",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-05T08:16:33+00:00",
+   "lastSeen": "2026-10-05T08:16:33+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "קבוצת היורוליג עשתה טעות הזויה - והרסה רצף של 44 ניצחונות",
+     "url": "https://www.israelhayom.co.il/sport/world-basketball/article/21554737",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T08:16:33+00:00"
+    }
+   ]
+  },
+  {
+   "id": "9fff9c2fcb",
+   "title": "אחרי שהזוגיות נחשפה: מיכל חזן יוצאת לדרך חדשה",
+   "sourceCount": 1,
+   "outlets": [
+    "מעריב"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-05T08:18:34+00:00",
+   "lastSeen": "2026-10-05T08:18:34+00:00",
+   "articles": [
+    {
+     "source": "מעריב",
+     "title": "אחרי שהזוגיות נחשפה: מיכל חזן יוצאת לדרך חדשה",
+     "url": "https://www.maariv.co.il/breaking-news/article-1373768",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T08:18:34+00:00"
+    }
+   ]
+  },
+  {
+   "id": "0c0f182ab8",
+   "title": "שפל של כ-17 חודשים: המפלה של עמנואל מקרון וצרפת - ישראל הרוויחה בגדול",
+   "sourceCount": 1,
+   "outlets": [
+    "מעריב"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-05T08:19:51+00:00",
+   "lastSeen": "2026-10-05T08:19:51+00:00",
+   "articles": [
+    {
+     "source": "מעריב",
+     "title": "שפל של כ-17 חודשים: המפלה של עמנואל מקרון וצרפת - ישראל הרוויחה בגדול",
+     "url": "https://www.maariv.co.il/breaking-news/article-1373769",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T08:19:51+00:00"
+    }
+   ]
+  },
+  {
+   "id": "09c30b3c82",
+   "title": "Pakistan installs fishing nets at security outposts to block drone attacks",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-05T08:20:34+00:00",
+   "lastSeen": "2026-10-05T08:20:34+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "Pakistan installs fishing nets at security outposts to block drone attacks",
+     "url": "https://www.aljazeera.com/news/2026/10/5/pakistan-installs-fishing-nets-at-security-outposts-to-block-drone-attacks?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T08:20:34+00:00"
+    }
+   ]
+  },
+  {
+   "id": "08bfb38668",
+   "title": "בסלון של יסמין: יסמין לוקץ' מארחת את יאיר לפיד",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-05T08:21:12+00:00",
+   "lastSeen": "2026-10-05T08:21:12+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "בסלון של יסמין: יסמין לוקץ' מארחת את יאיר לפיד",
+     "url": "https://www.israelhayom.co.il/news/local/article/21546515",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T08:21:12+00:00"
+    }
+   ]
+  },
+  {
+   "id": "f2013fd0e0",
+   "title": "יום הזיכרון לאירועי 7 באוקטובר בפרטנר tv+ עם ימי שידורים מיוחדים בערוץ \"הגיבורים\"",
+   "sourceCount": 1,
+   "outlets": [
+    "מעריב"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-05T08:28:10+00:00",
+   "lastSeen": "2026-10-05T08:28:10+00:00",
+   "articles": [
+    {
+     "source": "מעריב",
+     "title": "יום הזיכרון לאירועי 7 באוקטובר בפרטנר tv+ עם ימי שידורים מיוחדים בערוץ \"הגיבורים\"",
+     "url": "https://www.maariv.co.il/breaking-news/article-1373780",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T08:28:10+00:00"
+    }
+   ]
+  },
+  {
+   "id": "62fb1ed484",
+   "title": "האח הגדול צופה בך: ICE השתמשה במערכות של פלנטיר - למעקב אחר אזרחים",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-05T08:36:17+00:00",
+   "lastSeen": "2026-10-05T08:36:17+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "האח הגדול צופה בך: ICE השתמשה במערכות של פלנטיר - למעקב אחר אזרחים",
+     "url": "https://www.israelhayom.co.il/tech/tech-news/article/21554876",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T08:36:17+00:00"
+    }
+   ]
+  },
+  {
+   "id": "37a1c61391",
+   "title": "השיחות בין ישראל ללבנון יתחדשו - אבל בביירות מנמיכים ציפיות",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-05T08:41:20+00:00",
+   "lastSeen": "2026-10-05T08:41:20+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "השיחות בין ישראל ללבנון יתחדשו - אבל בביירות מנמיכים ציפיות",
+     "url": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21554454",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T08:41:20+00:00"
+    }
+   ]
+  },
+  {
+   "id": "e89ffe63e5",
+   "title": "קים קרדשיאן על נורת': \"אני עוצרת אותה\"",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-05T08:42:00+00:00",
+   "lastSeen": "2026-10-05T08:42:00+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "קים קרדשיאן על נורת': \"אני עוצרת אותה\"",
+     "url": "https://www.israelhayom.co.il/forreal/global/article/21555248",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T08:42:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "8f36330022",
+   "title": "איתן כבל מודה במשפט נתניהו: \"לא בגללי אלא בגללו, לא ישבתי איתו בבתי קפה\"",
+   "sourceCount": 1,
+   "outlets": [
+    "מעריב"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-05T08:42:13+00:00",
+   "lastSeen": "2026-10-05T08:42:13+00:00",
+   "articles": [
+    {
+     "source": "מעריב",
+     "title": "איתן כבל מודה במשפט נתניהו: \"לא בגללי אלא בגללו, לא ישבתי איתו בבתי קפה\"",
+     "url": "https://www.maariv.co.il/breaking-news/article-1373788",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T08:42:13+00:00"
+    }
+   ]
+  },
+  {
+   "id": "cb6c880643",
+   "title": "דור אחר: מה השתנה בבני הנוער מאז ה-7 באוקטובר?",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-05T08:43:15+00:00",
+   "lastSeen": "2026-10-05T08:43:15+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "דור אחר: מה השתנה בבני הנוער מאז ה-7 באוקטובר?",
+     "url": "https://www.israelhayom.co.il/maariv-lanoar/teen-magazine/article/21553749",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T08:43:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": "3bf9682bcc",
+   "title": "דרמה במשפט נתניהו - עו\"ד עמית חדד הימם את העד: \"חקרו אותך בכפפות של משי\" - ואז התחיל הבלגן",
+   "sourceCount": 1,
+   "outlets": [
+    "מעריב"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-05T08:48:37+00:00",
+   "lastSeen": "2026-10-05T08:48:37+00:00",
+   "articles": [
+    {
+     "source": "מעריב",
+     "title": "דרמה במשפט נתניהו - עו\"ד עמית חדד הימם את העד: \"חקרו אותך בכפפות של משי\" - ואז התחיל הבלגן",
+     "url": "https://www.maariv.co.il/breaking-news/article-1373790",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T08:48:37+00:00"
+    }
+   ]
+  },
+  {
+   "id": "c5a2862cde",
+   "title": "טרגדיה על הפרקט: השופט התמוטט ומת באמצע משחק כדורסל",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-05T08:48:40+00:00",
+   "lastSeen": "2026-10-05T08:48:40+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "טרגדיה על הפרקט: השופט התמוטט ומת באמצע משחק כדורסל",
+     "url": "https://www.israelhayom.co.il/sport/world-basketball/article/21555254",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T08:48:40+00:00"
+    }
+   ]
+  },
+  {
+   "id": "7a64ef5e02",
+   "title": "הבקבוק מסריח? הטריק שינקה אותו בשניות",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-05T08:52:57+00:00",
+   "lastSeen": "2026-10-05T08:52:57+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "הבקבוק מסריח? הטריק שינקה אותו בשניות",
+     "url": "https://www.israelhayom.co.il/news/trending-online/article/21555252",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T08:52:57+00:00"
+    }
+   ]
+  },
+  {
+   "id": "c4931f55a4",
+   "title": "שף פרטי ונוף להרים: כאן מת בנה של קרופורד",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-05T08:53:16+00:00",
+   "lastSeen": "2026-10-05T08:53:16+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "שף פרטי ונוף להרים: כאן מת בנה של קרופורד",
+     "url": "https://www.israelhayom.co.il/forreal/global/article/21461976",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T08:53:16+00:00"
+    }
+   ]
+  },
+  {
+   "id": "00030f39ff",
+   "title": "האזהרות על אובדן שליטה מוגזמות? זה הסיכון האמיתי של ה-AI",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-05T08:55:24+00:00",
+   "lastSeen": "2026-10-05T08:55:24+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "האזהרות על אובדן שליטה מוגזמות? זה הסיכון האמיתי של ה-AI",
+     "url": "https://www.israelhayom.co.il/tech/tech-news/article/21554676",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T08:55:24+00:00"
+    }
+   ]
+  },
+  {
+   "id": "f4b0be38ad",
+   "title": "דיווח מפתיע: הישראלי שמועמד לקבוצת צמרת באיטליה",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-05T08:56:21+00:00",
+   "lastSeen": "2026-10-05T08:56:21+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "דיווח מפתיע: הישראלי שמועמד לקבוצת צמרת באיטליה",
+     "url": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21555461",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T08:56:21+00:00"
+    }
+   ]
+  },
+  {
+   "id": "3bdda2210a",
+   "title": "יונית לוי שיגרה מסר חד-משמעי למגי טביבי מערוץ 12",
+   "sourceCount": 1,
+   "outlets": [
+    "מעריב"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-05T08:56:37+00:00",
+   "lastSeen": "2026-10-05T08:56:37+00:00",
+   "articles": [
+    {
+     "source": "מעריב",
+     "title": "יונית לוי שיגרה מסר חד-משמעי למגי טביבי מערוץ 12",
+     "url": "https://www.maariv.co.il/breaking-news/article-1373794",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T08:56:37+00:00"
+    }
+   ]
+  },
+  {
+   "id": "ad88b22508",
+   "title": "האירוע ביהודה: שלושת יושבי הרכב, שניסו לפגוע בהאמר צה\"לי - נורו",
+   "sourceCount": 1,
+   "outlets": [
+    "מעריב"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-05T08:58:56+00:00",
+   "lastSeen": "2026-10-05T08:58:56+00:00",
+   "articles": [
+    {
+     "source": "מעריב",
+     "title": "האירוע ביהודה: שלושת יושבי הרכב, שניסו לפגוע בהאמר צה\"לי - נורו",
+     "url": "https://www.maariv.co.il/breaking-news/article-1373795",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T08:58:56+00:00"
+    }
+   ]
+  },
+  {
+   "id": "3d18075baa",
+   "title": "כבל מעריך: \"השיחות עסקו בעיקר בענייני ממשלה ולא בחוק ישראל היום\"",
+   "sourceCount": 1,
+   "outlets": [
+    "מעריב"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-05T08:59:01+00:00",
+   "lastSeen": "2026-10-05T08:59:01+00:00",
+   "articles": [
+    {
+     "source": "מעריב",
+     "title": "כבל מעריך: \"השיחות עסקו בעיקר בענייני ממשלה ולא בחוק ישראל היום\"",
+     "url": "https://www.maariv.co.il/breaking-news/article-1373796",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T08:59:01+00:00"
+    }
+   ]
+  },
+  {
+   "id": "a324e16446",
+   "title": "‘If I didn’t write what moved me, it’d be like putting myself in prison’",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-05T09:00:00+00:00",
+   "lastSeen": "2026-10-05T09:00:00+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "‘If I didn’t write what moved me, it’d be like putting myself in prison’",
+     "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/10/5/if-i-didnt-write-what-moved-me-itd-be-like-putting-myself-in-prison?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T09:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "95955c114d",
+   "title": "פיצה רומאית מ-18 שקל: הבר החדש והמפתיע שנפתח בשרון",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-05T09:01:02+00:00",
+   "lastSeen": "2026-10-05T09:01:02+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "פיצה רומאית מ-18 שקל: הבר החדש והמפתיע שנפתח בשרון",
+     "url": "https://www.israelhayom.co.il/food/food-news/article/21555500",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T09:01:02+00:00"
     }
    ]
   },
@@ -8456,6 +11334,102 @@
    ]
   },
   {
+   "id": "b62f2afb3f",
+   "title": "Formula One to probe software bug behind Bahrain GP chaos in Sepang",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-05T09:02:06+00:00",
+   "lastSeen": "2026-10-05T09:02:06+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "Formula One to probe software bug behind Bahrain GP chaos in Sepang",
+     "url": "https://www.aljazeera.com/sports/2026/10/5/formula-one-to-probe-software-bug-behind-bahrain-gp-chaos-in-sepang?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T09:02:06+00:00"
+    }
+   ]
+  },
+  {
+   "id": "45b895e7ac",
+   "title": "חולדות בארמון: הבעיה שבית המלוכה הבריטי מעדיף שלא תראו",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-05T09:04:23+00:00",
+   "lastSeen": "2026-10-05T09:04:23+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "חולדות בארמון: הבעיה שבית המלוכה הבריטי מעדיף שלא תראו",
+     "url": "https://www.israelhayom.co.il/lifestyle/design/article/21555339",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T09:04:23+00:00"
+    }
+   ]
+  },
+  {
+   "id": "b563e1896d",
+   "title": "אלונה סער שוקלת לעזוב: \"אין ברירה\"",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-05T09:05:53+00:00",
+   "lastSeen": "2026-10-05T09:05:53+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "אלונה סער שוקלת לעזוב: \"אין ברירה\"",
+     "url": "https://www.israelhayom.co.il/forreal/localy/article/21555489",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T09:05:53+00:00"
+    }
+   ]
+  },
+  {
+   "id": "de27f95923",
+   "title": "עכשיו זה רשמי: הזוגיות החדשה של אבנר נתניהו",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-05T09:08:59+00:00",
+   "lastSeen": "2026-10-05T09:08:59+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "עכשיו זה רשמי: הזוגיות החדשה של אבנר נתניהו",
+     "url": "https://www.israelhayom.co.il/lifestyle/relationship/article/21554641",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T09:08:59+00:00"
+    }
+   ]
+  },
+  {
    "id": "ec8308c601",
    "title": "התייר שנעצר בת\"א: חשוד שצילם בקריה ודיבר על פיגוע, ככה\"נ לא כשיר נפשית",
    "sourceCount": 1,
@@ -8476,6 +11450,222 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-10-05T09:09:32+03:00"
+    }
+   ]
+  },
+  {
+   "id": "2c84f6f0f9",
+   "title": "כשהקרוז הופך למלון חמישה כוכבים - אבל יש קאץ'",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-05T09:13:56+00:00",
+   "lastSeen": "2026-10-05T09:13:56+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "כשהקרוז הופך למלון חמישה כוכבים - אבל יש קאץ'",
+     "url": "https://www.israelhayom.co.il/travel/travel-abroad/article/21555128",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T09:13:56+00:00"
+    }
+   ]
+  },
+  {
+   "id": "e68c14f430",
+   "title": "אחרי 3 שנים: ניצולי הנובה חושפים תיעודים חדשים מ-7 באוקטובר",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-05T09:15:39+00:00",
+   "lastSeen": "2026-10-05T09:15:39+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "אחרי 3 שנים: ניצולי הנובה חושפים תיעודים חדשים מ-7 באוקטובר",
+     "url": "https://www.israelhayom.co.il/culture/internet-culture/article/21555580",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T09:15:39+00:00"
+    }
+   ]
+  },
+  {
+   "id": "2157780f23",
+   "title": "תמרים, פיתות ובורות מים: גל ההרעלות בעדרי יהודה ושומרון",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-05T09:16:41+00:00",
+   "lastSeen": "2026-10-05T09:16:41+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "תמרים, פיתות ובורות מים: גל ההרעלות בעדרי יהודה ושומרון",
+     "url": "https://www.israelhayom.co.il/news/local/article/21555540",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T09:16:41+00:00"
+    }
+   ]
+  },
+  {
+   "id": "cacfaa6f78",
+   "title": "החל מסוף השבוע: גוגל חוסמת את ג'מיני לחלק מהמשתמשים",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-05T09:21:55+00:00",
+   "lastSeen": "2026-10-05T09:21:55+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "החל מסוף השבוע: גוגל חוסמת את ג'מיני לחלק מהמשתמשים",
+     "url": "https://www.israelhayom.co.il/tech/tech-news/article/21555538",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T09:21:55+00:00"
+    }
+   ]
+  },
+  {
+   "id": "fd85eae4c9",
+   "title": "Turkey Banned a Book by a Jailed Presidential Hopeful. We Read It.",
+   "sourceCount": 1,
+   "outlets": [
+    "NYT"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-05T09:23:00+00:00",
+   "lastSeen": "2026-10-05T09:23:00+00:00",
+   "articles": [
+    {
+     "source": "NYT",
+     "title": "Turkey Banned a Book by a Jailed Presidential Hopeful. We Read It.",
+     "url": "https://www.nytimes.com/2026/10/05/world/middleeast/turkey-banned-book-opposition-leader.html",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T09:23:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "39a136e4c4",
+   "title": "לא רק ישראל: הפרצה העולמית שנחשפה בעקבות ניסיון החטיפה",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-05T09:27:47+00:00",
+   "lastSeen": "2026-10-05T09:27:47+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "לא רק ישראל: הפרצה העולמית שנחשפה בעקבות ניסיון החטיפה",
+     "url": "https://www.israelhayom.co.il/travel/aviation/article/21555705",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T09:27:47+00:00"
+    }
+   ]
+  },
+  {
+   "id": "b744824a17",
+   "title": "במהלך חופשה זוגית בלונדון: אבנר נתניהו וזוגתו הדוגמנית נחשפים",
+   "sourceCount": 1,
+   "outlets": [
+    "מעריב"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-05T09:31:09+00:00",
+   "lastSeen": "2026-10-05T09:31:09+00:00",
+   "articles": [
+    {
+     "source": "מעריב",
+     "title": "במהלך חופשה זוגית בלונדון: אבנר נתניהו וזוגתו הדוגמנית נחשפים",
+     "url": "https://www.maariv.co.il/breaking-news/article-1373813",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T09:31:09+00:00"
+    }
+   ]
+  },
+  {
+   "id": "ad8a553cd7",
+   "title": "בן 72 ככה\"נ הוכש ע\"י נחש בשטח חקלאי ברמת הגולן, מצבו קשה",
+   "sourceCount": 1,
+   "outlets": [
+    "ynet"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-05T10:04:38+03:00",
+   "lastSeen": "2026-10-05T10:04:38+03:00",
+   "articles": [
+    {
+     "source": "ynet",
+     "title": "בן 72 ככה\"נ הוכש ע\"י נחש בשטח חקלאי ברמת הגולן, מצבו קשה",
+     "url": "https://www.ynet.co.il/news/article/s1w65agjfl",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T10:04:38+03:00"
+    }
+   ]
+  },
+  {
+   "id": "7bc46cc269",
+   "title": "רצח פאטמה רג'בי: הוגש אישום נגד הטכנאי - הכה אותה בפטיש ושם את הגופה בחבית",
+   "sourceCount": 1,
+   "outlets": [
+    "ynet"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-05T10:45:35+03:00",
+   "lastSeen": "2026-10-05T10:45:35+03:00",
+   "articles": [
+    {
+     "source": "ynet",
+     "title": "רצח פאטמה רג'בי: הוגש אישום נגד הטכנאי - הכה אותה בפטיש ושם את הגופה בחבית",
+     "url": "https://www.ynet.co.il/news/article/b17zgaligg",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T10:45:35+03:00"
     }
    ]
   },
@@ -8625,8 +11815,8 @@
   }
  ],
  "stats": {
-  "articles": 287,
-  "clusters": 215,
-  "multiSource": 23
+  "articles": 397,
+  "clusters": 290,
+  "multiSource": 31
  }
 }
