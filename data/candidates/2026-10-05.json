@@ -2,26 +2,6 @@
  "date": "2026-10-05",
  "articles": [
   {
-   "source": "NYT",
-   "outlet": "NYT",
-   "title": "How RAF Fairford in a Quiet Corner of England Became a U.S.-Iran Flashpoint",
-   "url": "https://www.nytimes.com/2026/10/03/world/europe/raf-fairford-air-base-incident-iran.html",
-   "summary": "A mysterious call last Sunday near a military base used by the U.S. set in motion a huge counterterrorism response and days of uncertainty in Britain.",
-   "time": "2026-10-03T16:19:06+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
-   "source": "NYT",
-   "outlet": "NYT",
-   "title": "What Happened on the FlyDubai Flight to Israel? What We Know About the Cockpit Stabbing.",
-   "url": "https://www.nytimes.com/2026/09/30/world/middleeast/flydubai-dubai-israel-flight-diverted.html",
-   "summary": "Prime Minister Benjamin Netanyahu of Israel has said the attack might have been an attempt to crash the flight from Dubai to Tel Aviv.",
-   "time": "2026-10-03T16:41:00+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
    "source": "Guardian",
    "outlet": "Guardian",
    "title": "Flydubai co-pilot’s time in Australia being investigated by security agencies after alleged cockpit attack",
@@ -1792,12 +1772,42 @@
    "type": "reporting"
   },
   {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Ireland refuse handshake with Israel and don armbands in Nations League tie",
+   "url": "https://www.aljazeera.com/sports/2026/10/4/ireland-refuse-handshake-with-israel-and-don-armbands-in-nations-league-tie?traffic_source=rss",
+   "summary": "Republic of Ireland football players again wear black armbands and refuse handshakes with Israel in UEFA Nations League.",
+   "time": "2026-10-04T21:30:22+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
    "source": "NYT",
    "outlet": "NYT",
    "title": "Who Were the Pilots on the FlyDubai Flight?",
    "url": "https://www.nytimes.com/2026/10/04/world/middleeast/flydubai-flight-who-were-pilots.html",
    "summary": "The co-pilot’s embrace of extreme Islamist views prompted Omani officials to scrutinize him, according to two people briefed on the investigation.",
    "time": "2026-10-04T21:35:14+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Cornell case puts New York’s progressive image at odds with its rape laws",
+   "url": "https://www.aljazeera.com/news/2026/10/4/cornell-case-puts-new-yorks-progressive-image-at-odds-with-its-rape-laws?traffic_source=rss",
+   "summary": "New York lawmakers will review sexual-assault laws, including voluntary intoxication rule at the heart of Cornell case.",
+   "time": "2026-10-04T21:39:55+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "ניסה לחדור למוצב צה\"ל בדרום סוריה - וחוסל",
+   "url": "https://www.israelhayom.co.il/news/defense/article/21553297",
+   "summary": "האירוע התרחש במרחב האבטחה בדרום המדינה • לא היו נפגעים בקרב הכוחות • הצבא מסר כי ימשיך לפעול באזור להסרת איומים",
+   "time": "2026-10-04T21:46:53+00:00",
    "tier": 2,
    "type": "reporting"
   },
@@ -1812,12 +1822,52 @@
    "type": "reporting"
   },
   {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "מחט באורך 3.8 ס\"מ נשכחה בגופה של יולדת בארה\"ב",
+   "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21553290",
+   "summary": "בדיקת CT חשפה לאחר שנים את הגוף הזר שהוביל לניתוח נוסף ועורר בעיות בריאותיות אצל האישה • כעת, האישה ובעלה דורשים פיצויים מבית החולים ומשלושה רופאים",
+   "time": "2026-10-04T22:00:05+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
    "source": "ynet",
    "outlet": "ynet",
    "title": "נער נפצע קשה בתאונה בתל חי",
    "url": "https://www.ynet.co.il/news/article/hkzsnxxjzx",
    "summary": "",
    "time": "2026-10-04T22:12:38+03:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "US withdraws B-1 bomber aircraft from UK’s Fairford base amid Iran fears",
+   "url": "https://www.aljazeera.com/news/2026/10/4/us-withdraws-b-1-bomber-aircraft-from-uks-fairford-base-amid-iran-fears?traffic_source=rss",
+   "summary": "The abrupt redeployment to the US comes after several &#039;terrorism-related&#039; arrests were made outside RAF Fairford.",
+   "time": "2026-10-04T22:23:30+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "\"אם יש לך זמן להישען, יש לך זמן לנקות\": הקרב על הכיסא בארה\"ב",
+   "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21553324",
+   "summary": "המאבק סביב תנאי העבודה נמשך כבר שנים ומגיע גם לבתי המשפט • עובדים מספרים על נהלים המגבילים את האפשרות לנוח במהלך המשמרת • במקביל, הופצו ברשת סרטונים המתעדים עובדים מנסים למצוא תנוחות מנוחה",
+   "time": "2026-10-04T22:35:58+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Nicaragua says it will withdraw from Central American Parliament",
+   "url": "https://www.aljazeera.com/news/2026/10/4/nicaragua-says-it-will-withdraw-from-central-american-parliament?traffic_source=rss",
+   "summary": "The country&#039;s crackdown on human rights has left it increasingly isolated in Latin America.",
+   "time": "2026-10-04T22:36:54+00:00",
    "tier": 2,
    "type": "reporting"
   },
@@ -1832,12 +1882,62 @@
    "type": "reporting"
   },
   {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Man’s miraculous catch saves child after balcony fall in Egypt",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/mans-miraculous-catch-saves-child-after-balcony-fall-in-egypt?traffic_source=rss",
+   "summary": "Dramatic video shows a man in Egypt rushing and catching a child who fell from the second floor.",
+   "time": "2026-10-04T22:47:18+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Mysterious luminous object burns in the skies above Libya",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/mysterious-luminous-object-burns-in-the-skies-above-libya?traffic_source=rss",
+   "summary": "A mysterious object has been filmed flying over Tripoli and western Libya, followed by reports of a loud explosion.",
+   "time": "2026-10-04T22:56:32+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
    "source": "ynet",
    "outlet": "ynet",
    "title": "משרד החוץ: נאסרה כניסתו של יו\"ר מפלגת הירוקים הבריטית לישראל",
    "url": "https://www.ynet.co.il/news/article/rk9paxljfl",
    "summary": "",
    "time": "2026-10-04T23:00:00+03:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "סיכום חודש ספטמבר: חם מהממוצע - עם גשמים חריגים בצפון",
+   "url": "https://www.israelhayom.co.il/weather/article/21553333",
+   "summary": "המחצית הראשונה התאפיינה בחום ניכר, וב-18 בספטמבר חלה התקררות משמעותית • בארבעת הימים האחרונים של החודש נרשמו טמפרטורות נמוכות ב-4 עד 5 מעלות מהממוצע • בצפון נמדדו עד 25 מ\"מ גשם בתחנות מסוימות",
+   "time": "2026-10-04T23:03:21+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Cristiano Ronaldo can return to Portugal team if he wants, says Jesus",
+   "url": "https://www.aljazeera.com/sports/2026/10/4/cristiano-ronaldo-can-return-to-portugal-team-if-he-wants-says-jesus?traffic_source=rss",
+   "summary": "Ex-Manchester United and Real Madrid star Cristiano Ronaldo left Portugal squad on Wednesday, but door open for return.",
+   "time": "2026-10-04T23:16:18+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Manchester City must be relegated, says Canada’s ex-Leeds manager",
+   "url": "https://www.aljazeera.com/sports/2026/10/4/manchester-city-must-be-relegated-says-canadas-ex-leeds-manager?traffic_source=rss",
+   "summary": "Jesse Marsch alleges Man City&#039;s financial wrongdoing was widely known in the Premier League, and relegation must follow.",
+   "time": "2026-10-04T23:22:02+00:00",
    "tier": 2,
    "type": "reporting"
   },
@@ -1852,12 +1952,42 @@
    "type": "reporting"
   },
   {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Israel face spitting allegation as Ireland boss ‘delighted’ ties after over",
+   "url": "https://www.aljazeera.com/sports/2026/10/4/israel-face-spitting-allegation-as-ireland-boss-delighted-ties-after-over?traffic_source=rss",
+   "summary": "Ireland manager says &#039;disciplinary committee will look at&#039; allegations Israel player spat at one of his coaching staff.",
+   "time": "2026-10-04T23:52:49+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Iran war live: Yemen fighting intensifies; Tehran says ready for US attacks",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/10/5/iran-war-live-fighting-in-yemen-intensifies-tehran-says-ready-for-us-war?traffic_source=rss",
+   "summary": "Yemeni government announces major offensive against Houthis, as Iran says it is ready to defend itself if US attacks.",
+   "time": "2026-10-05T00:00:00+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
    "source": "ynet",
    "outlet": "ynet",
    "title": "אחרי ניסיון הפיגוע: ארה\"ב פינתה את המפציצים מבסיס פיירפורד בבריטניה",
    "url": "https://www.ynet.co.il/news/article/hjhrnelogx",
    "summary": "",
    "time": "2026-10-05T00:01:00+03:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "הפתעה בברזיל: בולסונארו מקדים את לולה - אך סיבוב שני צפוי",
+   "url": "https://www.israelhayom.co.il/news/world-news/article/21553352",
+   "summary": "אחרי ספירת רוב הקלפיות פלאביו בולסונארו ניפץ את תחזיות הסוקרים, אך אינו חוצה את רף ה-50% הדרוש לניצחון • הימין גם בשורה של ניצחון בסנאט ובמרוצי המושלים • ברמאללה הצביעו ללולה, ובתל אביב העניקו לבנו של בולסונארו רוב מוחץ",
+   "time": "2026-10-05T00:03:07+00:00",
    "tier": 2,
    "type": "reporting"
   },
@@ -1870,12 +2000,62 @@
    "time": "2026-10-05T00:27:30+03:00",
    "tier": 2,
    "type": "reporting"
+  },
+  {
+   "source": "Guardian",
+   "outlet": "Guardian",
+   "title": "Yemen’s Saudi-backed government launches military drive to retake all Houthi-held territory",
+   "url": "https://www.theguardian.com/world/2026/oct/05/saudi-backed-yemen-government-military-drive-retake-houthi-territory",
+   "summary": "The announcement came hours after Iranian-backed Houthis reportedly cut a vital supply route to besieged city of Taiz Yemen’s Saudi-backed government has announced the start of a new military operation to retake all territory held by the Houthis, even as the militant group made fresh gains on the gr",
+   "time": "2026-10-05T00:38:54+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "הבחירות לנשיאות בברזיל: בולסונרו מוביל על לולה דה סילבה, כ-65% מהקולות נספרו",
+   "url": "https://www.ynet.co.il/news/article/sybwfheime",
+   "summary": "",
+   "time": "2026-10-05T01:08:16+03:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "דיווח: ארה\"ב הוציאה את המפציצים מבריטניה עקב \"איומים על מזימה איראנית\"",
+   "url": "https://www.ynet.co.il/news/article/sj8gzuxogl",
+   "summary": "",
+   "time": "2026-10-05T02:08:27+03:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "הבחירות בברזיל: נספרו כ-90% מהקולות, מסתמן שההכרעה תעבור לסבב השני",
+   "url": "https://www.ynet.co.il/news/article/sylohixifl",
+   "summary": "",
+   "time": "2026-10-05T02:16:27+03:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "הבחירות בברזיל: בולסונרו גבר על הנשיא לולה, ההכרעה עוברת לסיבוב השני",
+   "url": "https://www.ynet.co.il/news/article/rkt111dxjzx",
+   "summary": "",
+   "time": "2026-10-05T03:10:00+03:00",
+   "tier": 2,
+   "type": "reporting"
   }
  ],
- "updated": "2026-10-04T21:42:11.916987+00:00",
+ "updated": "2026-10-05T00:43:22.914389+00:00",
  "clusters": [
   {
-   "id": "7ca33839ad",
+   "id": "1c045b992b",
    "title": "Flydubai co-pilot’s time in Australia being investigated by security agencies after alleged cockpit attack",
    "sourceCount": 4,
    "outlets": [
@@ -1886,19 +2066,11 @@
    ],
    "bestTier": 2,
    "hasOfficial": false,
-   "reportingCount": 8,
+   "reportingCount": 7,
    "opinionOnly": false,
-   "firstSeen": "2026-10-03T16:41:00+00:00",
+   "firstSeen": "2026-10-04T01:26:39+00:00",
    "lastSeen": "2026-10-04T21:35:14+00:00",
    "articles": [
-    {
-     "source": "NYT",
-     "title": "What Happened on the FlyDubai Flight to Israel? What We Know About the Cockpit Stabbing.",
-     "url": "https://www.nytimes.com/2026/09/30/world/middleeast/flydubai-dubai-israel-flight-diverted.html",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-03T16:41:00+00:00"
-    },
     {
      "source": "Guardian",
      "title": "Flydubai co-pilot’s time in Australia being investigated by security agencies after alleged cockpit attack",
@@ -2016,6 +2188,48 @@
    ]
   },
   {
+   "id": "48a6799929",
+   "title": "אירוע חריג: צה\"ל חיסל חשוד שניסה לחדור למוצב בדרום סוריה",
+   "sourceCount": 3,
+   "outlets": [
+    "ynet",
+    "ישראל היום",
+    "מעריב"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 3,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-04T21:26:18+00:00",
+   "lastSeen": "2026-10-05T00:27:30+03:00",
+   "articles": [
+    {
+     "source": "מעריב",
+     "title": "אירוע חריג: צה\"ל חיסל חשוד שניסה לחדור למוצב בדרום סוריה",
+     "url": "https://www.maariv.co.il/breaking-news/article-1373652",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-04T21:26:18+00:00"
+    },
+    {
+     "source": "ישראל היום",
+     "title": "ניסה לחדור למוצב צה\"ל בדרום סוריה - וחוסל",
+     "url": "https://www.israelhayom.co.il/news/defense/article/21553297",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-04T21:46:53+00:00"
+    },
+    {
+     "source": "ynet",
+     "title": "חשוד התקרב למוצב צה\"ל בסוריה ונורה למוות",
+     "url": "https://www.ynet.co.il/news/article/hkqe0nxigl",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T00:27:30+03:00"
+    }
+   ]
+  },
+  {
    "id": "81a68cbaf7",
    "title": "בריטניה: מפלגת \"הירוקים\" אישרה הצעה הקוראת למעשה להשמדת מדינת ישראל",
    "sourceCount": 2,
@@ -2073,6 +2287,63 @@
    ]
   },
   {
+   "id": "c2d087a5e0",
+   "title": "ההכרעה בברזיל: ברמאללה הצביעו ללולה - בולסונארו ניצח בת\"א | לקראת תוצאות האמת",
+   "sourceCount": 2,
+   "outlets": [
+    "ynet",
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 5,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-04T18:48:21+00:00",
+   "lastSeen": "2026-10-05T03:10:00+03:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "ההכרעה בברזיל: ברמאללה הצביעו ללולה - בולסונארו ניצח בת\"א | לקראת תוצאות האמת",
+     "url": "https://www.israelhayom.co.il/news/world-news/other/article/21552491",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-04T18:48:21+00:00"
+    },
+    {
+     "source": "ישראל היום",
+     "title": "הפתעה בברזיל: בולסונארו מקדים את לולה - אך סיבוב שני צפוי",
+     "url": "https://www.israelhayom.co.il/news/world-news/article/21553352",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T00:03:07+00:00"
+    },
+    {
+     "source": "ynet",
+     "title": "הבחירות לנשיאות בברזיל: בולסונרו מוביל על לולה דה סילבה, כ-65% מהקולות נספרו",
+     "url": "https://www.ynet.co.il/news/article/sybwfheime",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T01:08:16+03:00"
+    },
+    {
+     "source": "ynet",
+     "title": "הבחירות בברזיל: נספרו כ-90% מהקולות, מסתמן שההכרעה תעבור לסבב השני",
+     "url": "https://www.ynet.co.il/news/article/sylohixifl",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T02:16:27+03:00"
+    },
+    {
+     "source": "ynet",
+     "title": "הבחירות בברזיל: בולסונרו גבר על הנשיא לולה, ההכרעה עוברת לסיבוב השני",
+     "url": "https://www.ynet.co.il/news/article/rkt111dxjzx",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T03:10:00+03:00"
+    }
+   ]
+  },
+  {
    "id": "59c621d532",
    "title": "אופ\"א אישרה: שחקני נבחרת ישראל יענדו מול אירלנד סרטים שחורים לזכר קורבנות 7/10",
    "sourceCount": 2,
@@ -2118,6 +2389,47 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-10-04T21:50:33+03:00"
+    }
+   ]
+  },
+  {
+   "id": "adf4878dcb",
+   "title": "אחרי ניסיון הפיגוע: ארה\"ב פינתה את המפציצים מבסיס פיירפורד בבריטניה",
+   "sourceCount": 2,
+   "outlets": [
+    "ynet",
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 3,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-04T20:41:54+00:00",
+   "lastSeen": "2026-10-05T02:08:27+03:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "בעקבות המזימה האיראנית: הצעד החריג של ארה\"ב בבריטניה",
+     "url": "https://www.israelhayom.co.il/news/world-news/article/21553117",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-04T20:41:54+00:00"
+    },
+    {
+     "source": "ynet",
+     "title": "אחרי ניסיון הפיגוע: ארה\"ב פינתה את המפציצים מבסיס פיירפורד בבריטניה",
+     "url": "https://www.ynet.co.il/news/article/hjhrnelogx",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T00:01:00+03:00"
+    },
+    {
+     "source": "ynet",
+     "title": "דיווח: ארה\"ב הוציאה את המפציצים מבריטניה עקב \"איומים על מזימה איראנית\"",
+     "url": "https://www.ynet.co.il/news/article/sj8gzuxogl",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T02:08:27+03:00"
     }
    ]
   },
@@ -2349,39 +2661,6 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-10-04T20:01:47+00:00"
-    }
-   ]
-  },
-  {
-   "id": "48a6799929",
-   "title": "אירוע חריג: צה\"ל חיסל חשוד שניסה לחדור למוצב בדרום סוריה",
-   "sourceCount": 2,
-   "outlets": [
-    "ynet",
-    "מעריב"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 2,
-   "opinionOnly": false,
-   "firstSeen": "2026-10-04T21:26:18+00:00",
-   "lastSeen": "2026-10-05T00:27:30+03:00",
-   "articles": [
-    {
-     "source": "מעריב",
-     "title": "אירוע חריג: צה\"ל חיסל חשוד שניסה לחדור למוצב בדרום סוריה",
-     "url": "https://www.maariv.co.il/breaking-news/article-1373652",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-04T21:26:18+00:00"
-    },
-    {
-     "source": "ynet",
-     "title": "חשוד התקרב למוצב צה\"ל בסוריה ונורה למוות",
-     "url": "https://www.ynet.co.il/news/article/hkqe0nxigl",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-05T00:27:30+03:00"
     }
    ]
   },
@@ -2638,30 +2917,6 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-10-04T21:10:00+00:00"
-    }
-   ]
-  },
-  {
-   "id": "f570070b80",
-   "title": "How RAF Fairford in a Quiet Corner of England Became a U.S.-Iran Flashpoint",
-   "sourceCount": 1,
-   "outlets": [
-    "NYT"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-10-03T16:19:06+00:00",
-   "lastSeen": "2026-10-03T16:19:06+00:00",
-   "articles": [
-    {
-     "source": "NYT",
-     "title": "How RAF Fairford in a Quiet Corner of England Became a U.S.-Iran Flashpoint",
-     "url": "https://www.nytimes.com/2026/10/03/world/europe/raf-fairford-air-base-incident-iran.html",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-03T16:19:06+00:00"
     }
    ]
   },
@@ -4682,30 +4937,6 @@
    ]
   },
   {
-   "id": "c2d087a5e0",
-   "title": "ההכרעה בברזיל: ברמאללה הצביעו ללולה - בולסונארו ניצח בת\"א | לקראת תוצאות האמת",
-   "sourceCount": 1,
-   "outlets": [
-    "ישראל היום"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-10-04T18:48:21+00:00",
-   "lastSeen": "2026-10-04T18:48:21+00:00",
-   "articles": [
-    {
-     "source": "ישראל היום",
-     "title": "ההכרעה בברזיל: ברמאללה הצביעו ללולה - בולסונארו ניצח בת\"א | לקראת תוצאות האמת",
-     "url": "https://www.israelhayom.co.il/news/world-news/other/article/21552491",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-04T18:48:21+00:00"
-    }
-   ]
-  },
-  {
    "id": "5b8e827227",
    "title": "פסילת סאמי אבו שחאדה - בג\"ץ אומר לא לדרישת בן גביר",
    "sourceCount": 1,
@@ -5330,30 +5561,6 @@
    ]
   },
   {
-   "id": "adf4878dcb",
-   "title": "בעקבות המזימה האיראנית: הצעד החריג של ארה\"ב בבריטניה",
-   "sourceCount": 1,
-   "outlets": [
-    "ישראל היום"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-10-04T20:41:54+00:00",
-   "lastSeen": "2026-10-04T20:41:54+00:00",
-   "articles": [
-    {
-     "source": "ישראל היום",
-     "title": "בעקבות המזימה האיראנית: הצעד החריג של ארה\"ב בבריטניה",
-     "url": "https://www.israelhayom.co.il/news/world-news/article/21553117",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-04T20:41:54+00:00"
-    }
-   ]
-  },
-  {
    "id": "9baa263f71",
    "title": "\"לא חושב שלשחקנים נותר מה לתת, הגיע לנו לנצח\"",
    "sourceCount": 1,
@@ -5474,6 +5681,270 @@
    ]
   },
   {
+   "id": "199ab6d861",
+   "title": "Ireland refuse handshake with Israel and don armbands in Nations League tie",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-04T21:30:22+00:00",
+   "lastSeen": "2026-10-04T21:30:22+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "Ireland refuse handshake with Israel and don armbands in Nations League tie",
+     "url": "https://www.aljazeera.com/sports/2026/10/4/ireland-refuse-handshake-with-israel-and-don-armbands-in-nations-league-tie?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-04T21:30:22+00:00"
+    }
+   ]
+  },
+  {
+   "id": "8899d2383b",
+   "title": "Cornell case puts New York’s progressive image at odds with its rape laws",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-04T21:39:55+00:00",
+   "lastSeen": "2026-10-04T21:39:55+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "Cornell case puts New York’s progressive image at odds with its rape laws",
+     "url": "https://www.aljazeera.com/news/2026/10/4/cornell-case-puts-new-yorks-progressive-image-at-odds-with-its-rape-laws?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-04T21:39:55+00:00"
+    }
+   ]
+  },
+  {
+   "id": "898b9c2e05",
+   "title": "מחט באורך 3.8 ס\"מ נשכחה בגופה של יולדת בארה\"ב",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-04T22:00:05+00:00",
+   "lastSeen": "2026-10-04T22:00:05+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "מחט באורך 3.8 ס\"מ נשכחה בגופה של יולדת בארה\"ב",
+     "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21553290",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-04T22:00:05+00:00"
+    }
+   ]
+  },
+  {
+   "id": "bed595434e",
+   "title": "US withdraws B-1 bomber aircraft from UK’s Fairford base amid Iran fears",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-04T22:23:30+00:00",
+   "lastSeen": "2026-10-04T22:23:30+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "US withdraws B-1 bomber aircraft from UK’s Fairford base amid Iran fears",
+     "url": "https://www.aljazeera.com/news/2026/10/4/us-withdraws-b-1-bomber-aircraft-from-uks-fairford-base-amid-iran-fears?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-04T22:23:30+00:00"
+    }
+   ]
+  },
+  {
+   "id": "44e8657299",
+   "title": "\"אם יש לך זמן להישען, יש לך זמן לנקות\": הקרב על הכיסא בארה\"ב",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-04T22:35:58+00:00",
+   "lastSeen": "2026-10-04T22:35:58+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "\"אם יש לך זמן להישען, יש לך זמן לנקות\": הקרב על הכיסא בארה\"ב",
+     "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21553324",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-04T22:35:58+00:00"
+    }
+   ]
+  },
+  {
+   "id": "fb6e510a69",
+   "title": "Nicaragua says it will withdraw from Central American Parliament",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-04T22:36:54+00:00",
+   "lastSeen": "2026-10-04T22:36:54+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "Nicaragua says it will withdraw from Central American Parliament",
+     "url": "https://www.aljazeera.com/news/2026/10/4/nicaragua-says-it-will-withdraw-from-central-american-parliament?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-04T22:36:54+00:00"
+    }
+   ]
+  },
+  {
+   "id": "4ec2815cdb",
+   "title": "Man’s miraculous catch saves child after balcony fall in Egypt",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-04T22:47:18+00:00",
+   "lastSeen": "2026-10-04T22:47:18+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "Man’s miraculous catch saves child after balcony fall in Egypt",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/mans-miraculous-catch-saves-child-after-balcony-fall-in-egypt?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-04T22:47:18+00:00"
+    }
+   ]
+  },
+  {
+   "id": "73ecce21b4",
+   "title": "Mysterious luminous object burns in the skies above Libya",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-04T22:56:32+00:00",
+   "lastSeen": "2026-10-04T22:56:32+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "Mysterious luminous object burns in the skies above Libya",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/mysterious-luminous-object-burns-in-the-skies-above-libya?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-04T22:56:32+00:00"
+    }
+   ]
+  },
+  {
+   "id": "ad5c24a699",
+   "title": "סיכום חודש ספטמבר: חם מהממוצע - עם גשמים חריגים בצפון",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-04T23:03:21+00:00",
+   "lastSeen": "2026-10-04T23:03:21+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "סיכום חודש ספטמבר: חם מהממוצע - עם גשמים חריגים בצפון",
+     "url": "https://www.israelhayom.co.il/weather/article/21553333",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-04T23:03:21+00:00"
+    }
+   ]
+  },
+  {
+   "id": "0511dc6940",
+   "title": "Cristiano Ronaldo can return to Portugal team if he wants, says Jesus",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-04T23:16:18+00:00",
+   "lastSeen": "2026-10-04T23:16:18+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "Cristiano Ronaldo can return to Portugal team if he wants, says Jesus",
+     "url": "https://www.aljazeera.com/sports/2026/10/4/cristiano-ronaldo-can-return-to-portugal-team-if-he-wants-says-jesus?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-04T23:16:18+00:00"
+    }
+   ]
+  },
+  {
+   "id": "d004835b93",
+   "title": "Manchester City must be relegated, says Canada’s ex-Leeds manager",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-04T23:22:02+00:00",
+   "lastSeen": "2026-10-04T23:22:02+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "Manchester City must be relegated, says Canada’s ex-Leeds manager",
+     "url": "https://www.aljazeera.com/sports/2026/10/4/manchester-city-must-be-relegated-says-canadas-ex-leeds-manager?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-04T23:22:02+00:00"
+    }
+   ]
+  },
+  {
    "id": "1be159c51b",
    "title": "ליגת האומות: ישראל ואירלנד נפרדו ב-1:1",
    "sourceCount": 1,
@@ -5498,26 +5969,74 @@
    ]
   },
   {
-   "id": "d686635b82",
-   "title": "אחרי ניסיון הפיגוע: ארה\"ב פינתה את המפציצים מבסיס פיירפורד בבריטניה",
+   "id": "dceb3dc6a3",
+   "title": "Israel face spitting allegation as Ireland boss ‘delighted’ ties after over",
    "sourceCount": 1,
    "outlets": [
-    "ynet"
+    "Al Jazeera"
    ],
    "bestTier": 2,
    "hasOfficial": false,
    "reportingCount": 1,
    "opinionOnly": false,
-   "firstSeen": "2026-10-05T00:01:00+03:00",
-   "lastSeen": "2026-10-05T00:01:00+03:00",
+   "firstSeen": "2026-10-04T23:52:49+00:00",
+   "lastSeen": "2026-10-04T23:52:49+00:00",
    "articles": [
     {
-     "source": "ynet",
-     "title": "אחרי ניסיון הפיגוע: ארה\"ב פינתה את המפציצים מבסיס פיירפורד בבריטניה",
-     "url": "https://www.ynet.co.il/news/article/hjhrnelogx",
+     "source": "Al Jazeera",
+     "title": "Israel face spitting allegation as Ireland boss ‘delighted’ ties after over",
+     "url": "https://www.aljazeera.com/sports/2026/10/4/israel-face-spitting-allegation-as-ireland-boss-delighted-ties-after-over?traffic_source=rss",
      "tier": 2,
      "type": "reporting",
-     "time": "2026-10-05T00:01:00+03:00"
+     "time": "2026-10-04T23:52:49+00:00"
+    }
+   ]
+  },
+  {
+   "id": "eeaad0f9c1",
+   "title": "Iran war live: Yemen fighting intensifies; Tehran says ready for US attacks",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-05T00:00:00+00:00",
+   "lastSeen": "2026-10-05T00:00:00+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "Iran war live: Yemen fighting intensifies; Tehran says ready for US attacks",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/10/5/iran-war-live-fighting-in-yemen-intensifies-tehran-says-ready-for-us-war?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T00:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "f1dcd06478",
+   "title": "Yemen’s Saudi-backed government launches military drive to retake all Houthi-held territory",
+   "sourceCount": 1,
+   "outlets": [
+    "Guardian"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-05T00:38:54+00:00",
+   "lastSeen": "2026-10-05T00:38:54+00:00",
+   "articles": [
+    {
+     "source": "Guardian",
+     "title": "Yemen’s Saudi-backed government launches military drive to retake all Houthi-held territory",
+     "url": "https://www.theguardian.com/world/2026/oct/05/saudi-backed-yemen-government-military-drive-retake-houthi-territory",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T00:38:54+00:00"
     }
    ]
   },
@@ -5643,8 +6162,8 @@
   }
  ],
  "stats": {
-  "articles": 187,
-  "clusters": 142,
-  "multiSource": 12
+  "articles": 205,
+  "clusters": 154,
+  "multiSource": 14
  }
 }
