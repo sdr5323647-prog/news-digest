@@ -111,5 +111,5 @@ Update `data/index.json` (`{"daily": [...], "weekly": [...]}`: add today, keep s
 last 60 daily / 26 weekly and delete older files). Then:
 `git add -A && git commit -m "Digest TODAY" && git push origin HEAD:main` (on rejection: `git pull --rebase origin main` and push again).
 
-Do not modify `index.html`, `js/`, `scripts/`, `tests/` or `.github/`. Do not create or comment on issues.
+Do not modify `index.html`, `js/`, `scripts/`, `tests/`, `.github/`, `data/weather.json` or `data/breaking.json`. Do not create or comment on issues.
 Finish with a 3-line summary: how many candidates, how many events published (by status), what was left out and why.

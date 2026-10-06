@@ -42,7 +42,7 @@
     return {
       v: 2, cats: Object.keys(CATEGORIES), minImp: 2, maxItems: 8, freq: "weekly",
       w: {}, votes: {}, reasons: {}, counts: {}, soft: {}, prefs: { changesOnly: [], showUnverified: [], lessRepeats: false },
-      teach: [], mutedEntities: [], mutedIds: [], seen: {}, theme: "", dismissedAlert: ""
+      teach: [], mutedEntities: [], mutedIds: [], seen: {}, theme: "", dismissedAlert: "", weatherCity: "510", showWeather: true
     };
   }
 
@@ -365,7 +365,7 @@
     return { important, less, prefs, teach: s.teach.slice() };
   }
   function forget(s, what) {
-    if (what === "all") return Object.assign(defaults(), { cats: s.cats, theme: s.theme, minImp: s.minImp, maxItems: s.maxItems, freq: s.freq, seen: s.seen });
+    if (what === "all") return Object.assign(defaults(), { cats: s.cats, theme: s.theme, minImp: s.minImp, maxItems: s.maxItems, freq: s.freq, seen: s.seen, weatherCity: s.weatherCity, showWeather: s.showWeather });
     if (what.startsWith("pref:")) {
       const p = what.slice(5);
       if (p === "lessRepeats") { s.prefs.lessRepeats = false; s.counts.known = 0; }

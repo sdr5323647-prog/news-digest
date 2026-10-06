@@ -1,5 +1,5 @@
 // Network-first: always try fresh news, fall back to the last cached copy when offline.
-const CACHE = "tamzit-v4";
+const CACHE = "tamzit-v5";
 const SHELL = ["./", "index.html", "js/engine.js", "manifest.webmanifest", "icons/icon-192.png", "icons/icon-512.png"];
 
 self.addEventListener("install", e => {

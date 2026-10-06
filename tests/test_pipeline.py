@@ -2,7 +2,7 @@
 import json, sys, tempfile, unittest
 from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "scripts"))
-import collect, validate, registry, feeds
+import collect, validate, registry, feeds, weather
 
 
 def art(source, title, url, t="2026-10-03T10:00:00+00:00", tier=2, typ="reporting"):
@@ -126,6 +126,40 @@ class Validation(unittest.TestCase):
         self.assertTrue(any("too many events" in e for e in check(daily("2026-10-03", many))))
 
 
+class Weather(unittest.TestCase):
+    CITIES = """<?xml version="1.0" encoding="utf-8"?><IsraelCitiesWeatherForecastMorning><Location><LocationMetaData>
+      <LocationId>510</LocationId><LocationNameEng>Jerusalem</LocationNameEng><LocationNameHeb>ירושלים</LocationNameHeb></LocationMetaData>
+      <LocationData><TimeUnitData><Date>2099-01-10</Date>
+        <Element><ElementName>Maximum temperature</ElementName><ElementValue>6</ElementValue></Element>
+        <Element><ElementName>Minimum temperature</ElementName><ElementValue>1</ElementValue></Element>
+        <Element><ElementName>Weather code</ElementName><ElementValue>1060</ElementValue></Element>
+      </TimeUnitData></LocationData></Location></IsraelCitiesWeatherForecastMorning>""".encode()
+    SIXHR = """<?xml version="1.0" encoding="utf-8"?><LocationForecasts><Location><LocationMetaData><LocationId>717</LocationId>
+      <LocationNameEng>Mount Hermon</LocationNameEng></LocationMetaData><LocationData>
+      <Forecast><ForecastTime>2099-01-10 03:00:00</ForecastTime><Temperature>-3.2</Temperature><WeatherCode>1230</WeatherCode></Forecast>
+      <Forecast><ForecastTime>2099-01-10 09:00:00</ForecastTime><Temperature>-1</Temperature><WeatherCode>1520</WeatherCode></Forecast>
+      </LocationData></Location></LocationForecasts>""".encode()
+    ALERTS = b"""<?xml version='1.0' encoding='us-ascii'?><rss version="2.0"><channel><item><title>&#1513;&#1500;&#1490;</title>
+      <description>&lt;p&gt;&#1488;&#1494;&#1492;&#1512;&#1492; &#1499;&#1514;&#1493;&#1502;&#1492;&lt;/p&gt;</description><pubDate>x</pubDate></item></channel></rss>"""
+
+    def test_parse_forecast_snow_and_alerts(self):
+        d = weather.build(self.CITIES, self.SIXHR, self.ALERTS)
+        names = [c["name"] for c in d["cities"]]
+        self.assertEqual(names, ["החרמון", "ירושלים"])
+        jer = d["cities"][1]["days"][0]
+        self.assertEqual((jer["min"], jer["max"], jer["desc"]), (1, 6, "שלג"))
+        hermon = d["cities"][0]["days"][0]
+        self.assertEqual((hermon["min"], hermon["max"], hermon["desc"]), (-3, -1, "שלג כבד"), "worst 6-hour code wins")
+        self.assertEqual(d["snow"], [{"place": "החרמון", "dates": ["2099-01-10"]}])
+        self.assertEqual(d["alerts"][0]["title"], "שלג")
+        self.assertEqual(d["alerts"][0]["text"], "אזהרה כתומה")
+
+    def test_missing_files_do_not_crash(self):
+        d = weather.build(self.CITIES, None, None)
+        self.assertEqual(d["snow"], [])
+        self.assertEqual(d["alerts"], [])
+
+
 class PublishedData(unittest.TestCase):
     def test_every_published_digest_is_valid(self):
         self.assertEqual(validate.main([]), 0)
@@ -147,7 +181,7 @@ class NoPaidDependencies(unittest.TestCase):
     def test_python_uses_stdlib_only(self):
         root = Path(__file__).resolve().parent.parent / "scripts"
         allowed = {"argparse", "hashlib", "json", "re", "sys", "urllib", "datetime", "email", "pathlib", "xml", "zoneinfo",
-                   "feeds", "collect", "registry", "validate", "tempfile", "unittest"}
+                   "feeds", "collect", "registry", "validate", "weather", "tempfile", "unittest", "html"}
         import re as _re
         for p in root.glob("*.py"):
             for m in _re.finditer(r"^(?:from|import)\s+([\w.]+)", p.read_text(encoding="utf-8"), _re.M):

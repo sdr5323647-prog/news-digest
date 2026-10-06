@@ -136,6 +136,22 @@ textarea{width:100%;min-height:72px;border:1px solid var(--line);border-radius:1
 .toast button{background:none;border:0;color:var(--accent);margin-inline-start:10px;cursor:pointer;font-weight:700}
 .admin{font-size:12px;background:var(--accent-soft);color:var(--accent);padding:2px 8px;border-radius:999px}
 footer{font-size:13px;color:var(--muted);text-align:center;margin-top:30px}
+.wx{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:10px 14px;margin:16px 0 0;font-size:14px}
+.wx-now{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+.wx-now .ic{font-size:22px}
+.wx-now b{font-size:15px}
+.wx-now select{margin-inline-start:auto;background:var(--bg);border:1px solid var(--line);border-radius:8px;padding:2px 6px;font-size:13px}
+.wx-days{display:flex;gap:6px;margin-top:8px;overflow-x:auto}
+.wx-day{flex:1;min-width:64px;text-align:center;background:var(--bg);border-radius:10px;padding:4px 2px;font-size:12.5px;color:var(--muted)}
+.wx-day b{display:block;color:var(--ink);font-size:13px}
+.wx-alert{margin-top:8px;padding:6px 10px;border-radius:10px;background:var(--amber-soft);color:var(--amber);font-size:13.5px}
+.wx-alert a{color:inherit}
+.wx-snow{margin-top:8px;padding:8px 10px;border-radius:10px;background:#e6f2ff;color:#0b4a8b;font-size:14.5px;font-weight:500}
+:root[data-theme="dark"] .wx-snow{background:#132a45;color:#9cc8ff}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]) .wx-snow{background:#132a45;color:#9cc8ff}}
+.wx-src{font-size:11.5px;color:var(--muted);margin-top:6px}
+.wx-src a{color:inherit}
+.stale{font-size:13.5px;color:var(--muted);background:var(--bg);border:1px dashed var(--line);border-radius:10px;padding:6px 10px;margin:0 0 12px}
 </style>
 </head>
 <body>
@@ -154,6 +170,7 @@ footer{font-size:13px;color:var(--muted);text-align:center;margin-top:30px}
 
 <main class="wrap">
   <div id="breaking"></div>
+  <div id="weather"></div>
   <div class="datebar">
     <select id="dateSel" aria-label="בחר תאריך"></select>
   </div>
@@ -178,6 +195,9 @@ footer{font-size:13px;color:var(--muted);text-align:center;margin-top:30px}
   <h4>מה למדתי עליך</h4>
   <div id="learnedBox"></div>
   <p><button class="btn" id="resetLearn" style="margin-top:8px">אפס את כל הלמידה</button></p>
+
+  <h4>מזג אוויר</h4>
+  <label class="row" style="font-size:14px"><input type="checkbox" id="wxShow"> להציג תחזית ואזהרות של השירות המטאורולוגי</label>
 
   <h4>תצוגת ברירת מחדל</h4>
   <div class="row"><select id="freqSel" class="btn"><option value="weekly">השבוע (מומלץ)</option><option value="daily">היום</option></select></div>
@@ -213,7 +233,7 @@ footer{font-size:13px;color:var(--muted);text-align:center;margin-top:30px}
 
 <div class="toast" id="toast"></div>
 
-<script src="js/engine.js"></script>
+<script src="js/engine.js?v=5"></script>
 <script>
 const REPO = "sdr5323647-prog/news-digest";
 const E = window.Engine;
@@ -226,7 +246,9 @@ const store = {
 let S = store.get();
 let view = S.freq || "weekly", index = {daily:[],weekly:[]}, current = null, currentKey = "";
 let showHidden = false, openFolds = {}, openInfo = {}, openReasons = {};
-const today = new Date().toLocaleDateString("sv-SE", {timeZone:"Asia/Jerusalem"});
+const today = new Date().toLocaleDateString("sv-SE", {timeZone:"Asia/Jerusalem"});   // Israel date, whatever the device's clock zone
+const yesterday = new Date(Date.now()-864e5).toLocaleDateString("sv-SE", {timeZone:"Asia/Jerusalem"});
+const dayLabel = d => d===today ? "היום · "+fmtDate(d) : d===yesterday ? "אתמול · "+fmtDate(d) : fmtDate(d);
 // events the reader already saw on an EARLIER day (snapshot at load, so re-renders don't hide things)
 const seenBefore = {};
 Object.entries(S.seen||{}).forEach(([id,v])=>{ if(v && v.d < today) seenBefore[id]=v.u; });
@@ -262,7 +284,7 @@ function fillDates(){
     if((index.daily||[]).length) opts.push({v:"rollup", t:"7 הימים האחרונים"});
     (index.weekly||[]).slice().sort().reverse().forEach(d=>opts.push({v:"w:"+d, t:"השבוע שהסתיים ב־"+fmtDate(d)}));
   } else {
-    (index.daily||[]).slice().sort().reverse().forEach(d=>opts.push({v:"d:"+d, t:fmtDate(d)}));
+    (index.daily||[]).slice().sort().reverse().forEach(d=>opts.push({v:"d:"+d, t:dayLabel(d)}));
   }
   $("dateSel").innerHTML = opts.map(o=>`<option value="${o.v}">${esc(o.t)}</option>`).join("");
   if(opts.length) load(opts[0].v); else { current=null; render(); }
@@ -291,6 +313,11 @@ function render(){
   const n = sec.main.length + sec.knowImportant.length;
   if(current.type==="weekly-rollup") $("lead").innerHTML = n ? `<b>${n} דברים שחשוב לדעת</b> מ־${fmtShort(current.from)} עד ${fmtShort(current.date)}. המטרה: לסיים לקרוא.` : "";
   else $("lead").innerHTML = current.headline ? `<b>בקצרה:</b> ${esc(current.headline)}` : "";
+  // the digest is written every evening at 20:00 Israel time - say so instead of silently showing yesterday
+  if(isLatest() && current.date && current.date < today){
+    const when = current.date===yesterday ? "של אתמול בערב" : "האחרון ("+fmtDate(current.date)+")";
+    $("lead").innerHTML = `<div class="stale">זה הסיכום ${when}. הסיכום של היום יתפרסם הערב ב-20:00.</div>` + $("lead").innerHTML;
+  }
 
   let html = "";
   if(!n && !sec.unverified.length){
@@ -450,6 +477,7 @@ function renderSettings(){
     : `<span class="hint">אין.</span>`;
   $("mutedBox").querySelectorAll("button").forEach(b=>b.onclick=()=>{ if(b.dataset.ids) S.mutedIds=[]; else S.mutedEntities=S.mutedEntities.filter(t=>t!==b.dataset.t); save(); renderSettings(); render(); });
   $("themeSel").value=S.theme;
+  $("wxShow").checked = S.showWeather;
 
   const L = E.learnedSummary(S);
   const tag = (x,cls,extra) => `<span class="tag ${cls}">${esc(x.label)}${extra?` · ${extra}`:""}<button data-forget="${esc(x.f)}" aria-label="שכח">×</button></span>`;
@@ -473,6 +501,7 @@ $("minImp").oninput=e=>{S.minImp=+e.target.value; save(); renderSettings(); rend
 $("maxItems").oninput=e=>{S.maxItems=+e.target.value; save(); renderSettings(); render();};
 $("freqSel").onchange=e=>{S.freq=e.target.value; save(); setView(S.freq);};
 $("themeSel").onchange=e=>{S.theme=e.target.value; save(); applyTheme();};
+$("wxShow").onchange=e=>{S.showWeather=e.target.checked; save(); renderWeather();};
 
 function open(id){ $("overlay").classList.add("open"); $(id).classList.add("open"); }
 function closePanels(){ $("overlay").classList.remove("open"); document.querySelectorAll(".panel").forEach(p=>p.classList.remove("open")); }
@@ -526,7 +555,35 @@ async function loadBreaking(){
 document.addEventListener("visibilitychange", ()=>{ if(!document.hidden) loadBreaking(); });
 
 $("vDaily").setAttribute("aria-pressed",view==="daily"); $("vWeekly").setAttribute("aria-pressed",view==="weekly");
+// ---- weather: official IMS forecast + warnings, refreshed every 15 min by a GitHub Action (data/weather.json) ----
+let WX = null;
+async function loadWeather(){ try{ WX = await getJSON("data/weather.json"); }catch(e){ WX = null; } renderWeather(); }
+function renderWeather(){
+  const box = $("weather");
+  if(!WX || !S.showWeather || !(WX.cities||[]).length){ box.innerHTML = ""; return; }
+  const city = WX.cities.find(c=>c.id===S.weatherCity) || WX.cities.find(c=>c.id==="510") || WX.cities[0];
+  const days = city.days.filter(d=>d.date>=today);
+  if(!days.length){ box.innerHTML = ""; return; }
+  const t = days[0];
+  const wd = d => d===today ? "היום" : d===new Date(Date.now()+864e5).toLocaleDateString("sv-SE",{timeZone:"Asia/Jerusalem"}) ? "מחר" : new Date(d+"T12:00:00").toLocaleDateString("he-IL",{weekday:"short"});
+  const snow = (WX.snow||[]).filter(s=>s.dates.some(d=>d>=today));
+  const fmtD = ds => ds.filter(d=>d>=today).map(d=>wd(d)).join(", ");
+  box.innerHTML = `<section class="wx" aria-label="מזג אוויר">
+    <div class="wx-now"><span class="ic" aria-hidden="true">${t.icon||"🌡️"}</span>
+      <b>${esc(city.name)}${t.date===today?"":" · "+wd(t.date)}: ${t.min}°–${t.max}°</b><span>${esc(t.desc||"")}</span>
+      <select id="wxCity" aria-label="בחר עיר">${WX.cities.map(c=>`<option value="${c.id}" ${c.id===city.id?"selected":""}>${esc(c.name)}</option>`).join("")}</select>
+    </div>
+    <div class="wx-days">${days.slice(1,4).map(d=>`<div class="wx-day"><b>${wd(d.date)}</b>${d.icon||""} ${d.min}°–${d.max}°</div>`).join("")}</div>
+    ${snow.length ? `<div class="wx-snow">❄️ צפוי שלג: ${snow.map(s=>`${esc(s.place)} (${fmtD(s.dates)})`).join(" · ")}</div>` : ""}
+    ${(WX.alerts||[]).map(a=>`<div class="wx-alert">⚠️ <b>${esc(a.title)}</b> ${esc(a.text)} · <a href="${esc(a.url)}" target="_blank" rel="noopener">לפרטים</a></div>`).join("")}
+    <div class="wx-src">מקור: <a href="${esc(WX.sourceUrl)}" target="_blank" rel="noopener">${esc(WX.source)}</a></div>
+  </section>`;
+  $("wxCity").onchange = e=>{ S.weatherCity = e.target.value; save(); renderWeather(); };
+}
+document.addEventListener("visibilitychange", ()=>{ if(!document.hidden) loadWeather(); });
+
 loadIndex();
+loadWeather();
 loadBreaking();
 </script>
 </body>
