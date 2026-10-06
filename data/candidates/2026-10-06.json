@@ -2,16 +2,6 @@
  "date": "2026-10-06",
  "articles": [
   {
-   "source": "Guardian",
-   "outlet": "Guardian",
-   "title": "Head of Jewish Greens says she may leave party over ‘Zionism is racism’ vote",
-   "url": "https://www.theguardian.com/politics/2026/oct/05/head-of-jewish-greens-says-she-may-leave-party-over-zionism-is-racism-vote",
-   "summary": "Vivien Lichtenstein says she believes motion is unhelpful as anger grows over Zack Polanski’s absence for vote The head of the Jewish Greens has said she may leave the party after it voted to adopt a policy that equates Zionism with racism and calls for Israel to be replaced by a single Palestinian ",
-   "time": "2026-10-05T09:00:09+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
    "source": "BBC",
    "outlet": "BBC",
    "title": "Flydubai co-pilot planned to crash plane into Tel Aviv airport or building, reports say",
@@ -4942,7 +4932,7 @@
    "type": "reporting"
   }
  ],
- "updated": "2026-10-06T12:39:34.786402+00:00",
+ "updated": "2026-10-06T17:09:20.965627+00:00",
  "clusters": [
   {
    "id": "99de142edf",
@@ -6678,30 +6668,6 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-10-06T10:21:53+00:00"
-    }
-   ]
-  },
-  {
-   "id": "9f93a7e24d",
-   "title": "Head of Jewish Greens says she may leave party over ‘Zionism is racism’ vote",
-   "sourceCount": 1,
-   "outlets": [
-    "Guardian"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-10-05T09:00:09+00:00",
-   "lastSeen": "2026-10-05T09:00:09+00:00",
-   "articles": [
-    {
-     "source": "Guardian",
-     "title": "Head of Jewish Greens says she may leave party over ‘Zionism is racism’ vote",
-     "url": "https://www.theguardian.com/politics/2026/oct/05/head-of-jewish-greens-says-she-may-leave-party-over-zionism-is-racism-vote",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-05T09:00:09+00:00"
     }
    ]
   },
@@ -15427,8 +15393,8 @@
   }
  ],
  "stats": {
-  "articles": 494,
-  "clusters": 407,
+  "articles": 493,
+  "clusters": 406,
   "multiSource": 29
  }
 }

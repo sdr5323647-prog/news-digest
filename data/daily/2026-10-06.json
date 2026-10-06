@@ -1,0 +1,426 @@
+{
+ "schema": 2,
+ "date": "2026-10-06",
+ "type": "daily",
+ "headline": "פליידובאי: שב\"כ באמירויות וויכוח על מעורבות איראן, מהומות במודיעין סביב מעצר עריק, וטורקיה ופקיסטן יפרסו כוחות בסעודיה.",
+ "events": [
+  {
+   "id": "flydubai-attack",
+   "title": "פרשת פליידובאי: אנשי שב\"כ הגיעו לאמירויות; טראמפ: איראן אחראית, ואנס: אין ממצאים חד-משמעיים",
+   "summary": "לפי ישראל היום ו-ynet, אנשי שב\"כ הגיעו לאיחוד האמירויות ומשתתפים בחקירת הטייס. הנשיא טראמפ אמר, לפי מעריב, ynet וישראל היום, שלדעתו האישית איראן אחראית לניסיון, בעוד סגן הנשיא ואנס אמר, לפי ynet, שאין ממצאים חד-משמעיים שקושרים את איראן לתקרית. לפי BBC והגרדיאן, חוקרים מעריכים שטייס-המשנה תכנן להתרסק על שדה התעופה בתל אביב או על בניין, ושתכנן במקור את המתקפה ליולי.",
+   "why": "האירוע נחקר כפיגוע טרור, והשאלה אם איראן מעורבת משפיעה על המתיחות האזורית ועל בטיחות טיסות לישראל.",
+   "change": "שב\"כ הצטרף לחקירה באמירויות; טראמפ ואנס הציגו הערכות שונות לגבי מעורבות איראן.",
+   "next": "ממצאי החקירה באמירויות והחלטות נוספות בנושא אבטחת התעופה.",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "security",
+    "israel_world"
+   ],
+   "kind": "event",
+   "entities": [
+    "פליידובאי",
+    "איחוד האמירויות",
+    "נתניהו",
+    "תעופה",
+    "איראן"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/defense/article/21559988",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/rjdwaewsfg",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1374043",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/cm3691y79xp5o",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "הגרדיאן",
+     "url": "https://www.theguardian.com/world/2026/oct/05/flydubai-co-pilot-originally-planned-attack-for-july-investigators-believe",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 5,
+   "firstSeen": "2026-10-01",
+   "lastUpdated": "2026-10-06"
+  },
+  {
+   "id": "saudi-houthi-fighting",
+   "title": "תימן: טורקיה ופקיסטן הסכימו לפרוס כוחות בסעודיה; מחלוקת על השליטה בנמל מוחא",
+   "summary": "לפי אל-ג'זירה, ynet וישראל היום, טורקיה ופקיסטן הסכימו לפרוס כוחות בסעודיה במסגרת הסכם מכה. צבא תימן, לפי BBC ו-ynet, מסר שכוחותיו כבשו מחדש את מוחא והבטיחו את נתיב המים בים סוף, ולפי דיווח סעודי הנמל שוחרר. החות'ים הכחישו, לפי ynet, וטענו שבמוחא אין איש מלבדם והמקומיים. אל-ג'זירה מדווחת שסעודיה מסרה על שלושה פצועים בתקיפות על שדות תעופה סמוך לגבול תימן. הטענות על השליטה בשטח מגיעות מהצדדים הלוחמים ולא אומתו באופן עצמאי.",
+   "why": "הסלמה בין סעודיה לחות'ים וכניסת מדינות נוספות עלולה להשפיע על נתיבי הסחר בים סוף ועל האזור, ישראל בכלל.",
+   "change": "הוסכם על פריסת כוחות טורקיים ופקיסטניים בסעודיה, ונוצרה מחלוקת על מוחא.",
+   "next": "פריסת הכוחות בפועל והמשך הלחימה.",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "security",
+    "world"
+   ],
+   "kind": "event",
+   "entities": [
+    "החות'ים",
+    "סעודיה",
+    "תימן"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "אל-ג'זירה",
+     "url": "https://www.aljazeera.com/news/2026/10/5/mecca-alliance-agrees-to-activate-collective-deterrence-measures",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/sj8c4w11omx",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21560435",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/sj0hmvwsmx",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 4,
+   "firstSeen": "2026-10-03",
+   "lastUpdated": "2026-10-06"
+  },
+  {
+   "id": "haredi-draft-modiin",
+   "title": "מהומות חרדים במודיעין בעקבות מעצר עריק; צה\"ל הודה בדיון אצל היועמ\"שית שנמנע ממעצרים יזומים",
+   "summary": "לפי ynet ומעריב, חרדים התפרעו במודיעין בעקבות פעילות למעצר עריק, והעריק שוחרר; ישראל היום מדווח על חילופי האשמות בין צה\"ל למשטרה מי החליט על שחרורו. דובר צה\"ל אמר שפעולות האכיפה נגד עריקים תימשכנה. לפי ynet וישראל היום, צה\"ל הודה בדיון אצל היועמ\"שית שנמנע ממעצרים יזומים של עריקים, והיועמ\"שית אמרה שהדבר \"לא הולם את צורכי הביטחון\". גדי איזנקוט גינה את האירועים ואמר שהם הופכים השתמטות לנורמה.",
+   "why": "הפרשה נוגעת לאכיפת גיוס החרדים, ליחסי צה\"ל, המשטרה והיועצת המשפטית, ולמחלוקת הפוליטית על השתמטות.",
+   "change": "",
+   "next": "המשך אכיפה נגד עריקים והתייחסות היועמ\"שית לצעדים שנמנעו.",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "society",
+    "law",
+    "politics"
+   ],
+   "kind": "dispute",
+   "entities": [
+    "גיוס חרדים",
+    "עריקים",
+    "צה\"ל",
+    "היועמ\"שית"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/r152i911sgg",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1374064",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1374146",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/crime/article/21563835",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/hyusdefjfl",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/law/article/21563073",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1374104",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-10-06",
+   "lastUpdated": "2026-10-06"
+  },
+  {
+   "id": "zini-cabinet-detentions",
+   "title": "ראש השב\"כ בקבינט: ייתכן שידרוש להחזיר את המעצרים המינהליים ביהודה ושומרון",
+   "summary": "לפי ynet וישראל היום, ראש השב\"כ דוד זיני אמר בקבינט שהוא עשוי לדרוש את החזרת המעצרים המינהליים ביהודה ושומרון. הוא אמר גם שהאויב לומד ומתאים את עצמו, ושאין להישען על תפיסות רק משום ששירתו בעבר.",
+   "why": "החזרת מעצרים מינהליים תשנה את דרכי הפעולה נגד חשודים בטרור וכרוכה בוויכוח ציבורי ומשפטי.",
+   "change": "",
+   "next": "החלטה אם יוגש דרישה רשמית, ודיון בקבינט.",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "security",
+    "politics"
+   ],
+   "kind": "statement",
+   "entities": [
+    "שב\"כ",
+    "מעצר מינהלי",
+    "יהודה ושומרון"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/rjushuwizx",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/defense/article/21559243",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/rktgxlzjzl",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-10-06",
+   "lastUpdated": "2026-10-06"
+  },
+  {
+   "id": "uk-israel-consulate",
+   "title": "בריטניה מאיימת לגרש דיפלומטים ישראלים בשל סגירה מתוכננת של הקונסוליה במזרח ירושלים",
+   "summary": "לפי הגרדיאן ואל-ג'זירה, בריטניה מאיימת לגרש דיפלומטים ישראלים בשל סגירה מתוכננת של הקונסוליה במזרח ירושלים. אל-ג'זירה מצטטת דיווח שלפיו מדובר ב-27 דיפלומטים. הפרטים נמסרו בדיווחים תקשורתיים ולא באו מהצהרה רשמית שראינו.",
+   "why": "משבר דיפלומטי בין ישראל לבריטניה עלול להשפיע על מעמד הנציגויות ועל היחסים בין המדינות.",
+   "change": "",
+   "next": "תגובת ישראל והמשך המגעים בין המדינות.",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "politics",
+    "israel_world"
+   ],
+   "kind": "dispute",
+   "entities": [
+    "בריטניה",
+    "ירושלים",
+    "דיפלומטיה"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "הגרדיאן",
+     "url": "https://www.theguardian.com/world/2026/oct/05/uk-threatens-to-expel-israeli-diplomats-after-closing-of-east-jerusalem-consulate",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "אל-ג'זירה",
+     "url": "https://www.aljazeera.com/news/2026/10/5/uk-threatens-to-expel-27-israeli-diplomats-over-jerusalem-consulate",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-10-06",
+   "lastUpdated": "2026-10-06"
+  },
+  {
+   "id": "gaza-tunnel-destroyed",
+   "title": "צה\"ל: הושמד ברצועה תוואי תת-קרקעי באורך קילומטר וחצי",
+   "summary": "לפי ynet ומעריב, צה\"ל מסר שהושמד תוואי תת-קרקעי באורך קילומטר וחצי ברצועת עזה, מזרחית לקו הצהוב.",
+   "why": "הרס תשתיות תת-קרקעיות הוא חלק מהפעילות הצבאית בעזה גם בזמן ההסדרים.",
+   "change": "",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "security"
+   ],
+   "kind": "event",
+   "entities": [
+    "עזה",
+    "צה\"ל",
+    "מנהרות"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/hksumqzsmx",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1374153",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-10-06",
+   "lastUpdated": "2026-10-06"
+  },
+  {
+   "id": "benyamin-farm-attack",
+   "title": "ניסיון הפיגוע בחווה בבנימין: נעצר המחבל השני",
+   "summary": "לפי ynet ומעריב, בתום מצוד עצרו כוחות צה\"ל את המחבל השני מניסיון הפיגוע בחווה בבנימין, סמוך לכפר רימון.",
+   "why": "מעצר המחבל השני סוגר מעגל של פיגוע שלא הושלם.",
+   "change": "",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "security"
+   ],
+   "kind": "event",
+   "entities": [
+    "פיגוע",
+    "בנימין",
+    "צה\"ל"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/ryjnkpzsfe",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1374009",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-10-06",
+   "lastUpdated": "2026-10-06"
+  },
+  {
+   "id": "us-measles-emergency",
+   "title": "התפרצות חצבת בארה\"ב: מושלת ניו יורק הכריזה על מצב חירום",
+   "summary": "לפי מעריב וישראל היום, מושלת מדינת ניו יורק הכריזה על מצב חירום בעקבות התפרצות חצבת. ישראל היום מדווח על כ-1,000 מקרים בפנסילבניה.",
+   "why": "התפרצות חצבת מאתגרת את מערכת הבריאות בארה\"ב ורלוונטית גם לקהילות ולנוסעים.",
+   "change": "",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "world",
+    "society"
+   ],
+   "kind": "event",
+   "entities": [
+    "חצבת",
+    "ארה\"ב",
+    "בריאות הציבור"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1374068",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21563208",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-10-06",
+   "lastUpdated": "2026-10-06"
+  },
+  {
+   "id": "germany-spy-chief-arrest",
+   "title": "גרמניה: ראש שירות הביון הזר לשעבר נעצר בחשד לריגול ובגידה",
+   "summary": "לפי ynet וישראל היום, ראש שירות הביון הזר של גרמניה לשעבר נעצר בחשד לריגול ובגידה.",
+   "why": "מעצר בכיר לשעבר בשירות ביון של בעלת ברית מרכזית מעלה שאלות על חשיפת מידע מודיעיני.",
+   "change": "",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "world",
+    "law"
+   ],
+   "kind": "legal",
+   "entities": [
+    "גרמניה",
+    "ריגול"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/bykxevmsmx",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/world-news/europe/article/21562977",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-10-06",
+   "lastUpdated": "2026-10-06"
+  }
+ ],
+ "unverified": [],
+ "filtered_out": 397,
+ "note": ""
+}
