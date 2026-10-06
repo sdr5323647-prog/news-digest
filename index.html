@@ -486,7 +486,7 @@ function toast(msg, undo){
   clearTimeout(tt); tt=setTimeout(()=>t.style.display="none", 4000);
 }
 
-function setView(v){ view=v; $("vDaily").setAttribute("aria-pressed",v==="daily"); $("vWeekly").setAttribute("aria-pressed",v==="weekly"); fillDates(); }
+function setView(v){ view=v; S.freq=v; save(); $("vDaily").setAttribute("aria-pressed",v==="daily"); $("vWeekly").setAttribute("aria-pressed",v==="weekly"); fillDates(); }
 $("vDaily").onclick=()=>setView("daily"); $("vWeekly").onclick=()=>setView("weekly");
 $("dateSel").onchange=e=>load(e.target.value);
 
