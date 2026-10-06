@@ -2,26 +2,6 @@
  "date": "2026-10-06",
  "articles": [
   {
-   "source": "Guardian",
-   "outlet": "Guardian",
-   "title": "As it happened: Israel condemns Green party passing ‘Zionism is racism’ as a ‘stain on history of UK’",
-   "url": "https://www.theguardian.com/politics/live/2026/oct/04/conservatives-tories-conference-kemi-badenoch-james-cleverly-labour-jury-trials-green-party-zionism-uk-politics-latest-news-updates",
-   "summary": "Party formally adopts policy which equates Zionism with racism, as all Green party votes to adopt policy that equates Zionism with racism On Friday the Times revealed that Katie Lam , the communities secretary, told a meeting in private earlier this year that the state pension system needs a fundame",
-   "time": "2026-10-04T16:32:00+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
-   "source": "BBC",
-   "outlet": "BBC",
-   "title": "Yemen's government announces all-out war to reclaim land from Houthis",
-   "url": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss",
-   "summary": "The Yemeni president's announcement comes amid an exchange of strikes between the Houthis and the Saudi-led coalition.",
-   "time": "2026-10-04T16:51:30+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
    "source": "NYT",
    "outlet": "NYT",
    "title": "Israeli Authorities Trade Blame for Failure to Flag FlyDubai Co-Pilot",
@@ -1932,6 +1912,56 @@
    "type": "reporting"
   },
   {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "‘Smash the patriarchy’: Activists graffiti Cornell hall over gang rape case",
+   "url": "https://www.aljazeera.com/news/2026/10/5/smash-the-patriarchy-activists-graffiti-cornell-hall-over-gang-rape-case?traffic_source=rss",
+   "summary": "Student groups call for the abolition of Greek life and more punitive action in the wake of fraternity assault allegations.",
+   "time": "2026-10-05T21:50:59+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "מעריב",
+   "outlet": "מעריב",
+   "title": "בעקבות מעצר עריק: הפרות סדר בעיר מודיעין - כוחות משטרה במקום",
+   "url": "https://www.maariv.co.il/breaking-news/article-1374063",
+   "summary": "",
+   "time": "2026-10-05T21:52:37+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "\"רעות חולות\": מכון טיהור בדרום הוצת בגלל פרוטקשן",
+   "url": "https://www.israelhayom.co.il/news/environment/article/21561132",
+   "summary": "עבריינים הציתו את חדר החשמל במכון שוקת לטיהור שפכים לאחר שתאגיד המים סירב לשלם דמי חסות • כעת זורמים מדי יום 30 אלף מ\"ק ביוב לנחלי הדרום • \"הצחנה מספרת על רעות חולות\", טוענים בתנועת רגבים שמתריעים יחד עם עמותת ירוק עכשיו מקריסת תשתיות ומנזק אסטרטגי",
+   "time": "2026-10-05T21:55:40+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "שוטרת הותקפה, חיילים נלכדו: המשטרה שחררה עריק כדי לעצור הפגנת חרדים",
+   "url": "https://www.israelhayom.co.il/news/crime/article/21561134",
+   "summary": "מאות מפגינים צרו על בניין ולכדו חיילים שהגיעו לעצור צעיר שלא התייצב • לאחר תקיפת שוטרת התנהל משא ומתן עם המשטרה, בסיומו הוחלט לשחרר את העריק ופעילים השתמשו בכרוז מד\"א כדי לפנות את ההמון • יו\"ר מפלגת 'הציבור החרדי: \"מקומם של פראי האדם האלה מאחורי סורג ובריח\"",
+   "time": "2026-10-05T22:03:32+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "מעריב",
+   "outlet": "מעריב",
+   "title": "תיעודים נוספים מהמהומות במודיעין בעקבות מעצר העריק | צפו",
+   "url": "https://www.maariv.co.il/breaking-news/article-1374064",
+   "summary": "",
+   "time": "2026-10-05T22:11:13+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
    "source": "ynet",
    "outlet": "ynet",
    "title": "מחלקת המדינה של ארה\"ב: רוביו ונתניהו שוחחו טלפונית",
@@ -1942,12 +1972,32 @@
    "type": "reporting"
   },
   {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Trump’s approval hits new low among Hispanic voters ahead of midterms",
+   "url": "https://www.aljazeera.com/news/2026/10/5/trumps-approval-hits-new-low-among-hispanic-voters-ahead-of-midterms?traffic_source=rss",
+   "summary": "Hispanic voters are twice as likely to favour Democratic Party over Trump&#039;s Republican Party in the November elections.",
+   "time": "2026-10-05T22:17:30+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
    "source": "ynet",
    "outlet": "ynet",
    "title": "בנימינה: \"צפוי אימון לילי של צה\"ל באזור, תורגש פעילות של הכוחות\"",
    "url": "https://www.ynet.co.il/news/article/sjno00o11ogg",
    "summary": "",
    "time": "2026-10-05T22:30:38+03:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "טל מורד לאבינתן אור: ״אני מעריץ אותך״",
+   "url": "https://www.israelhayom.co.il/news/trending-online/article/21561136",
+   "summary": "הדוגמן טל מורד שיתף את עוקביו בתחושותיו לאחר צפייה בראיון של שורד השבי בתוכנית עובדה • זאת בהמשך לראיון של אור לאילנה דיין בעובדה על ימיו בשבי חמאס",
+   "time": "2026-10-05T22:33:33+00:00",
    "tier": 2,
    "type": "reporting"
   },
@@ -1982,12 +2032,42 @@
    "type": "reporting"
   },
   {
+   "source": "מעריב",
+   "outlet": "מעריב",
+   "title": "בהמשך למהומה במודיעין: העריק שוחרר - המשטרה כורזת למפגינים להתפזר | דיווח",
+   "url": "https://www.maariv.co.il/breaking-news/article-1374067",
+   "summary": "",
+   "time": "2026-10-05T23:02:00+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
    "source": "ynet",
    "outlet": "ynet",
    "title": "ארה\"ב מתריעה כי תטיל סנקציות על מוסדות כלכליים שיקיימו קשרים עם איראן",
    "url": "https://www.ynet.co.il/news/article/bjkpzywjgg",
    "summary": "",
    "time": "2026-10-05T23:15:51+03:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "מעריב",
+   "outlet": "מעריב",
+   "title": "מושלת ניו יורק הכריזה על מצב חירום בעקבות התפרצות חצבת",
+   "url": "https://www.maariv.co.il/breaking-news/article-1374068",
+   "summary": "",
+   "time": "2026-10-05T23:19:20+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Whistleblower warns that humans don’t control AI",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/whistleblower-warns-that-humans-dont-control-ai?traffic_source=rss",
+   "summary": "Former Anthropic researcher Jacob Coxon warns that AI companies ‘don’t fully control’ their models.",
+   "time": "2026-10-05T23:23:47+00:00",
    "tier": 2,
    "type": "reporting"
   },
@@ -2002,6 +2082,66 @@
    "type": "reporting"
   },
   {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "עמית סגל: ״האמת על החטופים יוצאת לאור״",
+   "url": "https://www.israelhayom.co.il/news/trending-online/article/21561188",
+   "summary": "הפרשן הפוליטי מפרסם התבטאויות של ברט מקגורק שסותרות את הטענה שלחץ צבאי הוביל למותם של חטופים • לפי הדיווח מקגורק טען כי ללא פעולה צבאית לא היו מתקיימים מגעים לעסקה • מה עמד מאחורי ההתנגדות לפעולה ברפיח ומדוע הוסתרו הדברים עד כה",
+   "time": "2026-10-05T23:28:26+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "What’s happening in Ethiopia?",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/whats-happening-in-ethiopia?traffic_source=rss",
+   "summary": "Ethiopia is facing renewed fighting in the north, just four years after the devastating Tigray war ended.",
+   "time": "2026-10-05T23:38:51+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "\"כמו ב-1938\": תיאטרון בשיקגו ביטל הפקת מחזה של הסופרת היהודיה",
+   "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21561200",
+   "summary": "מנהלת תיאטרון \"ארס יודיקה\" חזרה בה מהפקת המחזה, לאחר שאנשי צוות ושחקנים סירבו לעבוד עם \"ציונית וישראלית\" • רגן תקפה את הכניעה ללחצים והבהירה כי מוסד תרבותי שאינו מסוגל להגן על אמנים יהודים צריך לסגור את שעריו",
+   "time": "2026-10-05T23:42:00+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Iran war live: Yemen forces reclaim strategic port city Mocha from Houthis",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/10/6/iran-war-live-yemen-forces-reclaim-strategic-port-city-mocha-from-houthis?traffic_source=rss",
+   "summary": "Turkiye and Pakistan agree to rapidly deploy militaries to bolster Saudi security as part of the Mecca defence pact.",
+   "time": "2026-10-06T00:00:00+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "New York state declares measles disaster amid resurgence of disease in US",
+   "url": "https://www.aljazeera.com/news/2026/10/6/new-york-state-declares-measles-disaster-amid-resurgence-of-disease-in-us?traffic_source=rss",
+   "summary": "US had largely eliminated disease by 2000 but has seen several outbreaks amid declining vaccination rates.",
+   "time": "2026-10-06T00:00:36+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Trump officials pursue record number of cases to strip US citizenship",
+   "url": "https://www.aljazeera.com/news/2026/10/6/trump-officials-pursue-record-number-of-cases-to-strip-us-citizenship?traffic_source=rss",
+   "summary": "Top officials have sought to expand the use of rarely invoked laws that can strip naturalised Americans of citizenship.",
+   "time": "2026-10-06T00:02:23+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
    "source": "ynet",
    "outlet": "ynet",
    "title": "הסופר ג'פרי ארצ'ר הלך לעולמו בגיל 86",
@@ -2010,9 +2150,69 @@
    "time": "2026-10-06T00:06:01+03:00",
    "tier": 2,
    "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Police clash with Kosovo protesters over bid to curb Hague war crimes court",
+   "url": "https://www.aljazeera.com/news/2026/10/6/police-clash-with-kosovo-protesters-over-bid-to-curb-hague-war-crimes-court?traffic_source=rss",
+   "summary": "The political dispute over the court has become a factor in negotiations to hold a new presidential election.",
+   "time": "2026-10-06T00:10:27+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "גם ממדאני יהיה שם: המועמד האנטי-ישראלי מגיע לניו יורק",
+   "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21561210",
+   "summary": "עבדול אל-סייד יקיים הערב אירוע התרמה במנהטן בהשתתפות בכירי השמאל הפרוגרסיבי • על רקע נטישת תורמים יהודים בגלל עמדותיו, המפלגה הדמוקרטית מגייסת את אובמה במטרה לשמור על המושב • הפער מול היריב הרפובליקני עומד על אחוז בודד ועשוי להכריע את הרוב",
+   "time": "2026-10-06T00:12:12+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Moroccan journalists recount years of surveillance amid new Amnesty claim",
+   "url": "https://www.aljazeera.com/news/2026/10/6/moroccan-journalists-recount-years-of-surveillance-amid-new-amnesty-claim?traffic_source=rss",
+   "summary": "Amnesty cites a whistleblower’s account of how Morocco allegedly uses surveillance to silence journalists.",
+   "time": "2026-10-06T00:13:16+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Syrian Airlines unveils laser-sharp look for the future",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/syrian-airlines-unveils-laser-sharp-look-for-the-future?traffic_source=rss",
+   "summary": "Syrian Airlines unveils a new visual identity as it rebrands amid Syria’s post-Assad development.",
+   "time": "2026-10-06T00:25:01+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "חרדים מתפרעים במודיעין עקב פעילות למעצר עריק",
+   "url": "https://www.ynet.co.il/news/article/r152i911sgg",
+   "summary": "",
+   "time": "2026-10-06T01:00:00+03:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "טראמפ ישלם מכספו על פרסומות לבחירות האמצע: \"כי השמאל לא מרוצה\"",
+   "url": "https://www.ynet.co.il/news/article/hjaxhh11ofg",
+   "summary": "",
+   "time": "2026-10-06T02:59:12+03:00",
+   "tier": 2,
+   "type": "reporting"
   }
  ],
- "updated": "2026-10-05T21:33:01.539306+00:00",
+ "updated": "2026-10-06T00:43:47.993793+00:00",
  "clusters": [
   {
    "id": "f1dcd06478",
@@ -2026,10 +2226,10 @@
    ],
    "bestTier": 2,
    "hasOfficial": false,
-   "reportingCount": 6,
+   "reportingCount": 7,
    "opinionOnly": false,
    "firstSeen": "2026-10-05T00:38:54+00:00",
-   "lastSeen": "2026-10-05T21:22:29+00:00",
+   "lastSeen": "2026-10-06T00:00:00+00:00",
    "articles": [
     {
      "source": "Guardian",
@@ -2078,6 +2278,14 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-10-05T21:22:29+00:00"
+    },
+    {
+     "source": "Al Jazeera",
+     "title": "Iran war live: Yemen forces reclaim strategic port city Mocha from Houthis",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/10/6/iran-war-live-yemen-forces-reclaim-strategic-port-city-mocha-from-houthis?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-06T00:00:00+00:00"
     }
    ]
   },
@@ -2545,6 +2753,39 @@
    ]
   },
   {
+   "id": "f901fb4fd2",
+   "title": "תיעודים נוספים מהמהומות במודיעין בעקבות מעצר העריק | צפו",
+   "sourceCount": 2,
+   "outlets": [
+    "ynet",
+    "מעריב"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 2,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-05T22:11:13+00:00",
+   "lastSeen": "2026-10-06T01:00:00+03:00",
+   "articles": [
+    {
+     "source": "מעריב",
+     "title": "תיעודים נוספים מהמהומות במודיעין בעקבות מעצר העריק | צפו",
+     "url": "https://www.maariv.co.il/breaking-news/article-1374064",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T22:11:13+00:00"
+    },
+    {
+     "source": "ynet",
+     "title": "חרדים מתפרעים במודיעין עקב פעילות למעצר עריק",
+     "url": "https://www.ynet.co.il/news/article/r152i911sgg",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-06T01:00:00+03:00"
+    }
+   ]
+  },
+  {
    "id": "e85eb9d841",
    "title": "מזל טלה, תחזית הורוסקופ יומית 06.10.2026",
    "sourceCount": 1,
@@ -2721,38 +2962,6 @@
    ]
   },
   {
-   "id": "e88e013b6a",
-   "title": "As it happened: Israel condemns Green party passing ‘Zionism is racism’ as a ‘stain on history of UK’",
-   "sourceCount": 1,
-   "outlets": [
-    "Guardian"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 2,
-   "opinionOnly": false,
-   "firstSeen": "2026-10-04T16:32:00+00:00",
-   "lastSeen": "2026-10-05T09:00:09+00:00",
-   "articles": [
-    {
-     "source": "Guardian",
-     "title": "As it happened: Israel condemns Green party passing ‘Zionism is racism’ as a ‘stain on history of UK’",
-     "url": "https://www.theguardian.com/politics/live/2026/oct/04/conservatives-tories-conference-kemi-badenoch-james-cleverly-labour-jury-trials-green-party-zionism-uk-politics-latest-news-updates",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-04T16:32:00+00:00"
-    },
-    {
-     "source": "Guardian",
-     "title": "Head of Jewish Greens says she may leave party over ‘Zionism is racism’ vote",
-     "url": "https://www.theguardian.com/politics/2026/oct/05/head-of-jewish-greens-says-she-may-leave-party-over-zionism-is-racism-vote",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-05T09:00:09+00:00"
-    }
-   ]
-  },
-  {
    "id": "a9ea966861",
    "title": "Why did the US rush to withdraw bombers from RAF Fairford? - The Latest",
    "sourceCount": 1,
@@ -2913,30 +3122,6 @@
    ]
   },
   {
-   "id": "c663564d4e",
-   "title": "Yemen's government announces all-out war to reclaim land from Houthis",
-   "sourceCount": 1,
-   "outlets": [
-    "BBC"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-10-04T16:51:30+00:00",
-   "lastSeen": "2026-10-04T16:51:30+00:00",
-   "articles": [
-    {
-     "source": "BBC",
-     "title": "Yemen's government announces all-out war to reclaim land from Houthis",
-     "url": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-04T16:51:30+00:00"
-    }
-   ]
-  },
-  {
    "id": "ff6499d606",
    "title": "Houthis Claim Attack on Aramco as Yemen Conflict Escalates",
    "sourceCount": 1,
@@ -3053,6 +3238,30 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-10-05T05:52:17+00:00"
+    }
+   ]
+  },
+  {
+   "id": "9f93a7e24d",
+   "title": "Head of Jewish Greens says she may leave party over ‘Zionism is racism’ vote",
+   "sourceCount": 1,
+   "outlets": [
+    "Guardian"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-05T09:00:09+00:00",
+   "lastSeen": "2026-10-05T09:00:09+00:00",
+   "articles": [
+    {
+     "source": "Guardian",
+     "title": "Head of Jewish Greens says she may leave party over ‘Zionism is racism’ vote",
+     "url": "https://www.theguardian.com/politics/2026/oct/05/head-of-jewish-greens-says-she-may-leave-party-over-zionism-is-racism-vote",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T09:00:09+00:00"
     }
    ]
   },
@@ -5961,6 +6170,126 @@
    ]
   },
   {
+   "id": "1e23e88255",
+   "title": "‘Smash the patriarchy’: Activists graffiti Cornell hall over gang rape case",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-05T21:50:59+00:00",
+   "lastSeen": "2026-10-05T21:50:59+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "‘Smash the patriarchy’: Activists graffiti Cornell hall over gang rape case",
+     "url": "https://www.aljazeera.com/news/2026/10/5/smash-the-patriarchy-activists-graffiti-cornell-hall-over-gang-rape-case?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T21:50:59+00:00"
+    }
+   ]
+  },
+  {
+   "id": "0e6a388207",
+   "title": "בעקבות מעצר עריק: הפרות סדר בעיר מודיעין - כוחות משטרה במקום",
+   "sourceCount": 1,
+   "outlets": [
+    "מעריב"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-05T21:52:37+00:00",
+   "lastSeen": "2026-10-05T21:52:37+00:00",
+   "articles": [
+    {
+     "source": "מעריב",
+     "title": "בעקבות מעצר עריק: הפרות סדר בעיר מודיעין - כוחות משטרה במקום",
+     "url": "https://www.maariv.co.il/breaking-news/article-1374063",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T21:52:37+00:00"
+    }
+   ]
+  },
+  {
+   "id": "7a2879303b",
+   "title": "\"רעות חולות\": מכון טיהור בדרום הוצת בגלל פרוטקשן",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-05T21:55:40+00:00",
+   "lastSeen": "2026-10-05T21:55:40+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "\"רעות חולות\": מכון טיהור בדרום הוצת בגלל פרוטקשן",
+     "url": "https://www.israelhayom.co.il/news/environment/article/21561132",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T21:55:40+00:00"
+    }
+   ]
+  },
+  {
+   "id": "18e11d9e3e",
+   "title": "שוטרת הותקפה, חיילים נלכדו: המשטרה שחררה עריק כדי לעצור הפגנת חרדים",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-05T22:03:32+00:00",
+   "lastSeen": "2026-10-05T22:03:32+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "שוטרת הותקפה, חיילים נלכדו: המשטרה שחררה עריק כדי לעצור הפגנת חרדים",
+     "url": "https://www.israelhayom.co.il/news/crime/article/21561134",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T22:03:32+00:00"
+    }
+   ]
+  },
+  {
+   "id": "c99a9894dd",
+   "title": "Trump’s approval hits new low among Hispanic voters ahead of midterms",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-05T22:17:30+00:00",
+   "lastSeen": "2026-10-05T22:17:30+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "Trump’s approval hits new low among Hispanic voters ahead of midterms",
+     "url": "https://www.aljazeera.com/news/2026/10/5/trumps-approval-hits-new-low-among-hispanic-voters-ahead-of-midterms?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T22:17:30+00:00"
+    }
+   ]
+  },
+  {
    "id": "62e0db4459",
    "title": "בנימינה: \"צפוי אימון לילי של צה\"ל באזור, תורגש פעילות של הכוחות\"",
    "sourceCount": 1,
@@ -5981,6 +6310,30 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-10-05T22:30:38+03:00"
+    }
+   ]
+  },
+  {
+   "id": "cc8a8b480e",
+   "title": "טל מורד לאבינתן אור: ״אני מעריץ אותך״",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-05T22:33:33+00:00",
+   "lastSeen": "2026-10-05T22:33:33+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "טל מורד לאבינתן אור: ״אני מעריץ אותך״",
+     "url": "https://www.israelhayom.co.il/news/trending-online/article/21561136",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T22:33:33+00:00"
     }
    ]
   },
@@ -6009,6 +6362,30 @@
    ]
   },
   {
+   "id": "b16854fb14",
+   "title": "בהמשך למהומה במודיעין: העריק שוחרר - המשטרה כורזת למפגינים להתפזר | דיווח",
+   "sourceCount": 1,
+   "outlets": [
+    "מעריב"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-05T23:02:00+00:00",
+   "lastSeen": "2026-10-05T23:02:00+00:00",
+   "articles": [
+    {
+     "source": "מעריב",
+     "title": "בהמשך למהומה במודיעין: העריק שוחרר - המשטרה כורזת למפגינים להתפזר | דיווח",
+     "url": "https://www.maariv.co.il/breaking-news/article-1374067",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T23:02:00+00:00"
+    }
+   ]
+  },
+  {
    "id": "3199f7dbc5",
    "title": "ארה\"ב מתריעה כי תטיל סנקציות על מוסדות כלכליים שיקיימו קשרים עם איראן",
    "sourceCount": 1,
@@ -6033,6 +6410,54 @@
    ]
   },
   {
+   "id": "b90e088b39",
+   "title": "מושלת ניו יורק הכריזה על מצב חירום בעקבות התפרצות חצבת",
+   "sourceCount": 1,
+   "outlets": [
+    "מעריב"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-05T23:19:20+00:00",
+   "lastSeen": "2026-10-05T23:19:20+00:00",
+   "articles": [
+    {
+     "source": "מעריב",
+     "title": "מושלת ניו יורק הכריזה על מצב חירום בעקבות התפרצות חצבת",
+     "url": "https://www.maariv.co.il/breaking-news/article-1374068",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T23:19:20+00:00"
+    }
+   ]
+  },
+  {
+   "id": "5e7d16fb27",
+   "title": "Whistleblower warns that humans don’t control AI",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-05T23:23:47+00:00",
+   "lastSeen": "2026-10-05T23:23:47+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "Whistleblower warns that humans don’t control AI",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/whistleblower-warns-that-humans-dont-control-ai?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T23:23:47+00:00"
+    }
+   ]
+  },
+  {
    "id": "59ce72ec3a",
    "title": "הורים מקדימה צורן צפויים להשבית את הלימודים: \"חשש מקרינת פאנלים סולריים\"",
    "sourceCount": 1,
@@ -6053,6 +6478,246 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-10-05T23:27:50+03:00"
+    }
+   ]
+  },
+  {
+   "id": "b7c120c922",
+   "title": "עמית סגל: ״האמת על החטופים יוצאת לאור״",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-05T23:28:26+00:00",
+   "lastSeen": "2026-10-05T23:28:26+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "עמית סגל: ״האמת על החטופים יוצאת לאור״",
+     "url": "https://www.israelhayom.co.il/news/trending-online/article/21561188",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T23:28:26+00:00"
+    }
+   ]
+  },
+  {
+   "id": "b29aca689f",
+   "title": "What’s happening in Ethiopia?",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-05T23:38:51+00:00",
+   "lastSeen": "2026-10-05T23:38:51+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "What’s happening in Ethiopia?",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/whats-happening-in-ethiopia?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T23:38:51+00:00"
+    }
+   ]
+  },
+  {
+   "id": "4bf17e88a7",
+   "title": "\"כמו ב-1938\": תיאטרון בשיקגו ביטל הפקת מחזה של הסופרת היהודיה",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-05T23:42:00+00:00",
+   "lastSeen": "2026-10-05T23:42:00+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "\"כמו ב-1938\": תיאטרון בשיקגו ביטל הפקת מחזה של הסופרת היהודיה",
+     "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21561200",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T23:42:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "5f71c5ca44",
+   "title": "New York state declares measles disaster amid resurgence of disease in US",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-06T00:00:36+00:00",
+   "lastSeen": "2026-10-06T00:00:36+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "New York state declares measles disaster amid resurgence of disease in US",
+     "url": "https://www.aljazeera.com/news/2026/10/6/new-york-state-declares-measles-disaster-amid-resurgence-of-disease-in-us?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-06T00:00:36+00:00"
+    }
+   ]
+  },
+  {
+   "id": "ebf8f354c8",
+   "title": "Trump officials pursue record number of cases to strip US citizenship",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-06T00:02:23+00:00",
+   "lastSeen": "2026-10-06T00:02:23+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "Trump officials pursue record number of cases to strip US citizenship",
+     "url": "https://www.aljazeera.com/news/2026/10/6/trump-officials-pursue-record-number-of-cases-to-strip-us-citizenship?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-06T00:02:23+00:00"
+    }
+   ]
+  },
+  {
+   "id": "333285413e",
+   "title": "Police clash with Kosovo protesters over bid to curb Hague war crimes court",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-06T00:10:27+00:00",
+   "lastSeen": "2026-10-06T00:10:27+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "Police clash with Kosovo protesters over bid to curb Hague war crimes court",
+     "url": "https://www.aljazeera.com/news/2026/10/6/police-clash-with-kosovo-protesters-over-bid-to-curb-hague-war-crimes-court?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-06T00:10:27+00:00"
+    }
+   ]
+  },
+  {
+   "id": "f98e13d1df",
+   "title": "גם ממדאני יהיה שם: המועמד האנטי-ישראלי מגיע לניו יורק",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-06T00:12:12+00:00",
+   "lastSeen": "2026-10-06T00:12:12+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "גם ממדאני יהיה שם: המועמד האנטי-ישראלי מגיע לניו יורק",
+     "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21561210",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-06T00:12:12+00:00"
+    }
+   ]
+  },
+  {
+   "id": "917e56da17",
+   "title": "Moroccan journalists recount years of surveillance amid new Amnesty claim",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-06T00:13:16+00:00",
+   "lastSeen": "2026-10-06T00:13:16+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "Moroccan journalists recount years of surveillance amid new Amnesty claim",
+     "url": "https://www.aljazeera.com/news/2026/10/6/moroccan-journalists-recount-years-of-surveillance-amid-new-amnesty-claim?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-06T00:13:16+00:00"
+    }
+   ]
+  },
+  {
+   "id": "bf439fc422",
+   "title": "Syrian Airlines unveils laser-sharp look for the future",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-06T00:25:01+00:00",
+   "lastSeen": "2026-10-06T00:25:01+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "Syrian Airlines unveils laser-sharp look for the future",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/syrian-airlines-unveils-laser-sharp-look-for-the-future?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-06T00:25:01+00:00"
+    }
+   ]
+  },
+  {
+   "id": "d45b84b5b3",
+   "title": "טראמפ ישלם מכספו על פרסומות לבחירות האמצע: \"כי השמאל לא מרוצה\"",
+   "sourceCount": 1,
+   "outlets": [
+    "ynet"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-06T02:59:12+03:00",
+   "lastSeen": "2026-10-06T02:59:12+03:00",
+   "articles": [
+    {
+     "source": "ynet",
+     "title": "טראמפ ישלם מכספו על פרסומות לבחירות האמצע: \"כי השמאל לא מרוצה\"",
+     "url": "https://www.ynet.co.il/news/article/hjaxhh11ofg",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-06T02:59:12+03:00"
     }
    ]
   },
@@ -6154,8 +6819,8 @@
   }
  ],
  "stats": {
-  "articles": 201,
-  "clusters": 158,
-  "multiSource": 14
+  "articles": 221,
+  "clusters": 177,
+  "multiSource": 15
  }
 }
