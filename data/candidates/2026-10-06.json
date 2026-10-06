@@ -4,26 +4,6 @@
   {
    "source": "NYT",
    "outlet": "NYT",
-   "title": "Israeli Authorities Trade Blame for Failure to Flag FlyDubai Co-Pilot",
-   "url": "https://www.nytimes.com/2026/10/04/world/middleeast/flydubai-israel-debate-pilot-security.html",
-   "summary": "The Omani co-pilot who officials said tried to crash the plane was said to have embraced extremist Islamist views.",
-   "time": "2026-10-04T19:07:37+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
-   "source": "NYT",
-   "outlet": "NYT",
-   "title": "Houthis Claim Attack on Aramco as Yemen Conflict Escalates",
-   "url": "https://www.nytimes.com/2026/10/04/world/middleeast/houthis-oil-attack-saudi-arabia-yemen.html",
-   "summary": "More than 200 U.S. intelligence and military analysts are in Saudi Arabia helping it provide assistance to its Yemeni allies, current and former U.S. officials say.",
-   "time": "2026-10-04T21:11:10+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
-   "source": "NYT",
-   "outlet": "NYT",
    "title": "Who Were the Pilots on the FlyDubai Flight?",
    "url": "https://www.nytimes.com/2026/10/04/world/middleeast/flydubai-flight-who-were-pilots.html",
    "summary": "The co-pilot’s embrace of extreme Islamist views prompted Omani officials to scrutinize him, according to two people briefed on the investigation.",
@@ -2192,12 +2172,122 @@
    "type": "reporting"
   },
   {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "מתיחות בארה\"ב: דרישה להגן על טקסי 7 באוקטובר",
+   "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21561241",
+   "summary": "ארגון הקהילה הישראלית-אמריקאית פנה ליותר מ-100 נשיאי מוסדות אקדמיים בבקשה להיערך להפגנות המתוכננות ביום השנה לטבח • בארגון מזהירים מחיכוך בקמפוסים ומדגישים: \"7 באוקטובר הוא קודם כל יום של אבל, זיכרון וטראומה\"",
+   "time": "2026-10-06T00:57:19+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
    "source": "ynet",
    "outlet": "ynet",
    "title": "חרדים מתפרעים במודיעין עקב פעילות למעצר עריק",
    "url": "https://www.ynet.co.il/news/article/r152i911sgg",
    "summary": "",
    "time": "2026-10-06T01:00:00+03:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "אחרי שאכל סשימי מהמקרר: גבר אושפז שלושה שבועות עם דלקת קרום המוח",
+   "url": "https://www.israelhayom.co.il/news/world-news/other/article/21561248",
+   "summary": "הגבר פיתח חום גבוה, צמרמורות וכאבי ראש עזים לאחר שאכל דג נא שנשמר במקרר במשך כמה ימים. הבדיקות קבעו: הזיהום נגרם מחיידק ליסטריה",
+   "time": "2026-10-06T01:24:42+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Former ‘American Idol’ singer Caleb Flynn gets life for wife’s murder",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/former-american-idol-singer-caleb-flynn-gets-life-for-wifes-murder?traffic_source=rss",
+   "summary": "Former ‘American Idol’ singer Caleb Flynn is sentenced to life without parole after being convicted of his wife&#039;s murder",
+   "time": "2026-10-06T01:24:53+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Turkiye, Pakistan to deploy forces to Saudi as Yemen fighting grows",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/10-6-yemen-war-update-sv?traffic_source=rss",
+   "summary": "During emergency talks in Riyadh, Turkiye and Pakistan agreed to send rapid deployment forces to Saudi Arabia.",
+   "time": "2026-10-06T01:39:54+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Trump says taxpayers will no longer fund TV ads that praise him",
+   "url": "https://www.aljazeera.com/news/2026/10/6/trump-says-taxpayers-will-no-longer-fund-tv-ads-that-praise-him?traffic_source=rss",
+   "summary": "Move comes after ethics experts criticised three nationally broadcast ads and called for independent investigations.",
+   "time": "2026-10-06T01:51:32+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "שלוש שנים ל-7 באוקטובר: ההצדעה בוושינגטון לגיבורים שהצילו חיים",
+   "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21561258",
+   "summary": "שגרירות ישראל בוושינגטון ציינה שלוש שנים למתקפת 7 באוקטובר בטקס זיכרון • סגן היועץ לביטחון לאומי בארה\"ב התייחס לבנו של שגריר ישראל שנפצע אנושות והצהיר כי \"זהו הקו המפריד בין ציוויליזציה לברבריות\"",
+   "time": "2026-10-06T02:00:55+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "שמש מתעתעת: מתי שוב יפתיע אותנו הגשם?",
+   "url": "https://www.israelhayom.co.il/weather/article/21561220",
+   "summary": "המגמה תתהפך בימים הקרובים ותוביל לטמפרטורות גבוהות מהממוצע לעונה ברחבי הארץ • למרות החום, מודלי החיזוי מצביעים על תפנית נוספת שתגיע בתחילת השבוע הבא עם היתכנות לסופות רעמים • היכן יורגש השינוי ומתי תחל התקררות משמעותית",
+   "time": "2026-10-06T02:13:06+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "אל ניניו חריג: הסתיו באירופה עלול להיות סוער, והחורף קר במיוחד",
+   "url": "https://www.israelhayom.co.il/news/world-news/other/article/21561274",
+   "summary": "החזאים בבריטניה מזהירים מפני אירוע אל ניניו עוצמתי במיוחד, שעשוי לשנות את דפוסי מזג האוויר בחודשים הקרובים: יותר גשם ורוחות בצפון־מערב אירופה, לצד סיכון מוגבר לגלי קור ושלג בהמשך החורף",
+   "time": "2026-10-06T02:16:37+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "\"נמשיך להפעיל כל אמצעי להגן על יהודים וישראלים בברלין\"",
+   "url": "https://www.israelhayom.co.il/news/world-news/europe/article/21560679",
+   "summary": "ראש עיריית ברלין היוצא, קאי וגנר, היום לביקור בישראל ומתחייב: \"7 באוקטובר לא יישכח\" • הדברים נאמרו ל\"היום\" אחרי הבחירות שבהן הפכה מפלגת \"די לינקה\", שרבים מחבריה התבטאו באופן אנטי־ישראלי, למפלגה הגדולה בעיר",
+   "time": "2026-10-06T02:30:38+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "הקרב על הסיפור הלאומי: מי ינציח את 7 באוקטובר?",
+   "url": "https://www.israelhayom.co.il/news/local/article/21560647",
+   "summary": "שלוש שנים אחרי הטבח, השאלה היא - מי יקים את \"יד ושם\" לזיכרון היום הנורא? • האם יהיה זה מפעל ממלכתי שיציג סיפור אחיד, או מרחב פתוח שיאפשר קולות שונים? • וכשהרשויות נאבקות, המחלוקות כבר מתבטאות בשטח • במועצה אזורית אשכול אומרים: \"לפעמים השאיפה של האחד היא הכאב של האחר\"",
+   "time": "2026-10-06T02:40:00+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "UN rights council condemns attacks on civilians in Sudan, calls for truce",
+   "url": "https://www.aljazeera.com/news/2026/10/6/un-rights-council-condemns-attacks-on-civilians-in-sudan-calls-for-truce?traffic_source=rss",
+   "summary": "Resolution demands an immediate ceasefire and extends the mandate of the mission investigating abuses in Sudan.",
+   "time": "2026-10-06T02:54:31+00:00",
    "tier": 2,
    "type": "reporting"
   },
@@ -2210,9 +2300,59 @@
    "time": "2026-10-06T02:59:12+03:00",
    "tier": 2,
    "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "אבנר נתניהו ודנה צבאג בתמונה זוגית מלונדון",
+   "url": "https://www.israelhayom.co.il/forreal/localy/article/21561289",
+   "summary": "אחרי שהקשר נחשף בקיץ, דנה צבאג שיתפה בסטורי תמונה משותפת עם בנו של ראש הממשלה. ברקע: הפרידה מעמית ירדני וביטול החתונה בשנה שעברה",
+   "time": "2026-10-06T03:11:19+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Secessionist Parti Quebecois wins Quebec election in Canada",
+   "url": "https://www.aljazeera.com/news/2026/10/6/secessionist-parti-quebecois-wins-quebec-election-in-canada?traffic_source=rss",
+   "summary": "Parti Quebecois returns to power, promising a third referendum on Quebec&#039;s independence from Canada.",
+   "time": "2026-10-06T03:11:44+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "בצל עליית מחירי הנפט: טראמפ חתם על צו המרחיב את השימוש ב\"סולר אדום\"",
+   "url": "https://www.ynet.co.il/news/article/sjnquawsfe",
+   "summary": "",
+   "time": "2026-10-06T03:59:29+03:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "אוסטרליה: חייל נהרג וחמישה נפצעו בתאונת אימונים בצפון המדינה",
+   "url": "https://www.ynet.co.il/news/article/bkror0zsze",
+   "summary": "",
+   "time": "2026-10-06T04:59:17+03:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "תחזית מזג האוויר: טמפרטורות נמוכות מהרגיל, גשם קל בדרום",
+   "url": "https://www.ynet.co.il/news/article/ryfbzygofe",
+   "summary": "",
+   "time": "2026-10-06T05:51:45+03:00",
+   "tier": 2,
+   "type": "reporting"
   }
  ],
- "updated": "2026-10-06T00:43:47.993793+00:00",
+ "updated": "2026-10-06T03:33:22.472174+00:00",
  "clusters": [
   {
    "id": "f1dcd06478",
@@ -2226,10 +2366,10 @@
    ],
    "bestTier": 2,
    "hasOfficial": false,
-   "reportingCount": 7,
+   "reportingCount": 10,
    "opinionOnly": false,
    "firstSeen": "2026-10-05T00:38:54+00:00",
-   "lastSeen": "2026-10-06T00:00:00+00:00",
+   "lastSeen": "2026-10-06T01:39:54+00:00",
    "articles": [
     {
      "source": "Guardian",
@@ -2256,12 +2396,28 @@
      "time": "2026-10-05T17:49:59+00:00"
     },
     {
+     "source": "Al Jazeera",
+     "title": "Turkiye, Pakistan agree Saudi Arabia military deployment under Mecca pact",
+     "url": "https://www.aljazeera.com/news/2026/10/5/mecca-alliance-agrees-to-activate-collective-deterrence-measures?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T18:32:04+00:00"
+    },
+    {
      "source": "Guardian",
      "title": "Saudi-backed forces recapture key areas around strait from Houthis in Yemen",
      "url": "https://www.theguardian.com/world/2026/oct/05/saudi-forces-recapture-key-areas-strait-houthis-yemen",
      "tier": 2,
      "type": "reporting",
      "time": "2026-10-05T19:44:01+00:00"
+    },
+    {
+     "source": "Al Jazeera",
+     "title": "Turkiye, Pakistan agree to military deployment to Saudi Arabia",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/turkiye-pakistan-agree-to-military-deployment-to-saudi-arabia?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T20:17:35+00:00"
     },
     {
      "source": "Al Jazeera",
@@ -2286,6 +2442,14 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-10-06T00:00:00+00:00"
+    },
+    {
+     "source": "Al Jazeera",
+     "title": "Turkiye, Pakistan to deploy forces to Saudi as Yemen fighting grows",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/10-6-yemen-war-update-sv?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-06T01:39:54+00:00"
     }
    ]
   },
@@ -2336,48 +2500,6 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-10-05T22:42:22+03:00"
-    }
-   ]
-  },
-  {
-   "id": "795b3e71de",
-   "title": "Flydubai co-pilot planned to crash plane into Tel Aviv airport or building, reports say",
-   "sourceCount": 3,
-   "outlets": [
-    "BBC",
-    "Guardian",
-    "NYT"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 3,
-   "opinionOnly": false,
-   "firstSeen": "2026-10-04T19:07:37+00:00",
-   "lastSeen": "2026-10-05T18:00:47+00:00",
-   "articles": [
-    {
-     "source": "NYT",
-     "title": "Israeli Authorities Trade Blame for Failure to Flag FlyDubai Co-Pilot",
-     "url": "https://www.nytimes.com/2026/10/04/world/middleeast/flydubai-israel-debate-pilot-security.html",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-04T19:07:37+00:00"
-    },
-    {
-     "source": "BBC",
-     "title": "Flydubai co-pilot planned to crash plane into Tel Aviv airport or building, reports say",
-     "url": "https://www.bbc.co.uk/news/articles/cm3691y79xp5o?at_medium=RSS&at_campaign=rss",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-05T11:34:59+00:00"
-    },
-    {
-     "source": "Guardian",
-     "title": "Flydubai co-pilot originally planned attack for July, investigators believe",
-     "url": "https://www.theguardian.com/world/2026/oct/05/flydubai-co-pilot-originally-planned-attack-for-july-investigators-believe",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-05T18:00:47+00:00"
     }
    ]
   },
@@ -2452,6 +2574,39 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-10-05T14:16:14+00:00"
+    }
+   ]
+  },
+  {
+   "id": "3def3bf8ef",
+   "title": "Flydubai co-pilot planned to crash plane into Tel Aviv airport or building, reports say",
+   "sourceCount": 2,
+   "outlets": [
+    "BBC",
+    "Guardian"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 2,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-05T11:34:59+00:00",
+   "lastSeen": "2026-10-05T18:00:47+00:00",
+   "articles": [
+    {
+     "source": "BBC",
+     "title": "Flydubai co-pilot planned to crash plane into Tel Aviv airport or building, reports say",
+     "url": "https://www.bbc.co.uk/news/articles/cm3691y79xp5o?at_medium=RSS&at_campaign=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T11:34:59+00:00"
+    },
+    {
+     "source": "Guardian",
+     "title": "Flydubai co-pilot originally planned attack for July, investigators believe",
+     "url": "https://www.theguardian.com/world/2026/oct/05/flydubai-co-pilot-originally-planned-attack-for-july-investigators-believe",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-05T18:00:47+00:00"
     }
    ]
   },
@@ -3058,38 +3213,6 @@
    ]
   },
   {
-   "id": "deb1f7e34d",
-   "title": "Turkiye, Pakistan agree Saudi Arabia military deployment under Mecca pact",
-   "sourceCount": 1,
-   "outlets": [
-    "Al Jazeera"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 2,
-   "opinionOnly": false,
-   "firstSeen": "2026-10-05T18:32:04+00:00",
-   "lastSeen": "2026-10-05T20:17:35+00:00",
-   "articles": [
-    {
-     "source": "Al Jazeera",
-     "title": "Turkiye, Pakistan agree Saudi Arabia military deployment under Mecca pact",
-     "url": "https://www.aljazeera.com/news/2026/10/5/mecca-alliance-agrees-to-activate-collective-deterrence-measures?traffic_source=rss",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-05T18:32:04+00:00"
-    },
-    {
-     "source": "Al Jazeera",
-     "title": "Turkiye, Pakistan agree to military deployment to Saudi Arabia",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/turkiye-pakistan-agree-to-military-deployment-to-saudi-arabia?traffic_source=rss",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-05T20:17:35+00:00"
-    }
-   ]
-  },
-  {
    "id": "0b4e126811",
    "title": "החות'ים מכחישים את טענות הסעודים: \"באל-מוחא אין איש מלבדנו והמקומיים\"",
    "sourceCount": 1,
@@ -3118,30 +3241,6 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-10-05T20:56:26+03:00"
-    }
-   ]
-  },
-  {
-   "id": "ff6499d606",
-   "title": "Houthis Claim Attack on Aramco as Yemen Conflict Escalates",
-   "sourceCount": 1,
-   "outlets": [
-    "NYT"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-10-04T21:11:10+00:00",
-   "lastSeen": "2026-10-04T21:11:10+00:00",
-   "articles": [
-    {
-     "source": "NYT",
-     "title": "Houthis Claim Attack on Aramco as Yemen Conflict Escalates",
-     "url": "https://www.nytimes.com/2026/10/04/world/middleeast/houthis-oil-attack-saudi-arabia-yemen.html",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-04T21:11:10+00:00"
     }
    ]
   },
@@ -6698,6 +6797,246 @@
    ]
   },
   {
+   "id": "35e50bd717",
+   "title": "מתיחות בארה\"ב: דרישה להגן על טקסי 7 באוקטובר",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-06T00:57:19+00:00",
+   "lastSeen": "2026-10-06T00:57:19+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "מתיחות בארה\"ב: דרישה להגן על טקסי 7 באוקטובר",
+     "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21561241",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-06T00:57:19+00:00"
+    }
+   ]
+  },
+  {
+   "id": "bd7e236b48",
+   "title": "אחרי שאכל סשימי מהמקרר: גבר אושפז שלושה שבועות עם דלקת קרום המוח",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-06T01:24:42+00:00",
+   "lastSeen": "2026-10-06T01:24:42+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "אחרי שאכל סשימי מהמקרר: גבר אושפז שלושה שבועות עם דלקת קרום המוח",
+     "url": "https://www.israelhayom.co.il/news/world-news/other/article/21561248",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-06T01:24:42+00:00"
+    }
+   ]
+  },
+  {
+   "id": "d25b9e367e",
+   "title": "Former ‘American Idol’ singer Caleb Flynn gets life for wife’s murder",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-06T01:24:53+00:00",
+   "lastSeen": "2026-10-06T01:24:53+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "Former ‘American Idol’ singer Caleb Flynn gets life for wife’s murder",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/former-american-idol-singer-caleb-flynn-gets-life-for-wifes-murder?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-06T01:24:53+00:00"
+    }
+   ]
+  },
+  {
+   "id": "67a3ced891",
+   "title": "Trump says taxpayers will no longer fund TV ads that praise him",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-06T01:51:32+00:00",
+   "lastSeen": "2026-10-06T01:51:32+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "Trump says taxpayers will no longer fund TV ads that praise him",
+     "url": "https://www.aljazeera.com/news/2026/10/6/trump-says-taxpayers-will-no-longer-fund-tv-ads-that-praise-him?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-06T01:51:32+00:00"
+    }
+   ]
+  },
+  {
+   "id": "944301fc81",
+   "title": "שלוש שנים ל-7 באוקטובר: ההצדעה בוושינגטון לגיבורים שהצילו חיים",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-06T02:00:55+00:00",
+   "lastSeen": "2026-10-06T02:00:55+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "שלוש שנים ל-7 באוקטובר: ההצדעה בוושינגטון לגיבורים שהצילו חיים",
+     "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21561258",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-06T02:00:55+00:00"
+    }
+   ]
+  },
+  {
+   "id": "575dbfc6b4",
+   "title": "שמש מתעתעת: מתי שוב יפתיע אותנו הגשם?",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-06T02:13:06+00:00",
+   "lastSeen": "2026-10-06T02:13:06+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "שמש מתעתעת: מתי שוב יפתיע אותנו הגשם?",
+     "url": "https://www.israelhayom.co.il/weather/article/21561220",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-06T02:13:06+00:00"
+    }
+   ]
+  },
+  {
+   "id": "9ff63ef181",
+   "title": "אל ניניו חריג: הסתיו באירופה עלול להיות סוער, והחורף קר במיוחד",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-06T02:16:37+00:00",
+   "lastSeen": "2026-10-06T02:16:37+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "אל ניניו חריג: הסתיו באירופה עלול להיות סוער, והחורף קר במיוחד",
+     "url": "https://www.israelhayom.co.il/news/world-news/other/article/21561274",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-06T02:16:37+00:00"
+    }
+   ]
+  },
+  {
+   "id": "f9e1e6c538",
+   "title": "\"נמשיך להפעיל כל אמצעי להגן על יהודים וישראלים בברלין\"",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-06T02:30:38+00:00",
+   "lastSeen": "2026-10-06T02:30:38+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "\"נמשיך להפעיל כל אמצעי להגן על יהודים וישראלים בברלין\"",
+     "url": "https://www.israelhayom.co.il/news/world-news/europe/article/21560679",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-06T02:30:38+00:00"
+    }
+   ]
+  },
+  {
+   "id": "b03292cf15",
+   "title": "הקרב על הסיפור הלאומי: מי ינציח את 7 באוקטובר?",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-06T02:40:00+00:00",
+   "lastSeen": "2026-10-06T02:40:00+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "הקרב על הסיפור הלאומי: מי ינציח את 7 באוקטובר?",
+     "url": "https://www.israelhayom.co.il/news/local/article/21560647",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-06T02:40:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "3bc717aee4",
+   "title": "UN rights council condemns attacks on civilians in Sudan, calls for truce",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-06T02:54:31+00:00",
+   "lastSeen": "2026-10-06T02:54:31+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "UN rights council condemns attacks on civilians in Sudan, calls for truce",
+     "url": "https://www.aljazeera.com/news/2026/10/6/un-rights-council-condemns-attacks-on-civilians-in-sudan-calls-for-truce?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-06T02:54:31+00:00"
+    }
+   ]
+  },
+  {
    "id": "d45b84b5b3",
    "title": "טראמפ ישלם מכספו על פרסומות לבחירות האמצע: \"כי השמאל לא מרוצה\"",
    "sourceCount": 1,
@@ -6718,6 +7057,126 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-10-06T02:59:12+03:00"
+    }
+   ]
+  },
+  {
+   "id": "45c0aa9742",
+   "title": "אבנר נתניהו ודנה צבאג בתמונה זוגית מלונדון",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-06T03:11:19+00:00",
+   "lastSeen": "2026-10-06T03:11:19+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "אבנר נתניהו ודנה צבאג בתמונה זוגית מלונדון",
+     "url": "https://www.israelhayom.co.il/forreal/localy/article/21561289",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-06T03:11:19+00:00"
+    }
+   ]
+  },
+  {
+   "id": "bd23472452",
+   "title": "Secessionist Parti Quebecois wins Quebec election in Canada",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-06T03:11:44+00:00",
+   "lastSeen": "2026-10-06T03:11:44+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "Secessionist Parti Quebecois wins Quebec election in Canada",
+     "url": "https://www.aljazeera.com/news/2026/10/6/secessionist-parti-quebecois-wins-quebec-election-in-canada?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-06T03:11:44+00:00"
+    }
+   ]
+  },
+  {
+   "id": "4372ed50b4",
+   "title": "בצל עליית מחירי הנפט: טראמפ חתם על צו המרחיב את השימוש ב\"סולר אדום\"",
+   "sourceCount": 1,
+   "outlets": [
+    "ynet"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-06T03:59:29+03:00",
+   "lastSeen": "2026-10-06T03:59:29+03:00",
+   "articles": [
+    {
+     "source": "ynet",
+     "title": "בצל עליית מחירי הנפט: טראמפ חתם על צו המרחיב את השימוש ב\"סולר אדום\"",
+     "url": "https://www.ynet.co.il/news/article/sjnquawsfe",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-06T03:59:29+03:00"
+    }
+   ]
+  },
+  {
+   "id": "92dde0155c",
+   "title": "אוסטרליה: חייל נהרג וחמישה נפצעו בתאונת אימונים בצפון המדינה",
+   "sourceCount": 1,
+   "outlets": [
+    "ynet"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-06T04:59:17+03:00",
+   "lastSeen": "2026-10-06T04:59:17+03:00",
+   "articles": [
+    {
+     "source": "ynet",
+     "title": "אוסטרליה: חייל נהרג וחמישה נפצעו בתאונת אימונים בצפון המדינה",
+     "url": "https://www.ynet.co.il/news/article/bkror0zsze",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-06T04:59:17+03:00"
+    }
+   ]
+  },
+  {
+   "id": "869f0862b0",
+   "title": "תחזית מזג האוויר: טמפרטורות נמוכות מהרגיל, גשם קל בדרום",
+   "sourceCount": 1,
+   "outlets": [
+    "ynet"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-06T05:51:45+03:00",
+   "lastSeen": "2026-10-06T05:51:45+03:00",
+   "articles": [
+    {
+     "source": "ynet",
+     "title": "תחזית מזג האוויר: טמפרטורות נמוכות מהרגיל, גשם קל בדרום",
+     "url": "https://www.ynet.co.il/news/article/ryfbzygofe",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-06T05:51:45+03:00"
     }
    ]
   },
@@ -6819,8 +7278,8 @@
   }
  ],
  "stats": {
-  "articles": 221,
-  "clusters": 177,
+  "articles": 235,
+  "clusters": 190,
   "multiSource": 15
  }
 }
