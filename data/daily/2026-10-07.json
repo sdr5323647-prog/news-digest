@@ -1,0 +1,482 @@
+{
+  "schema": 2,
+  "date": "2026-10-07",
+  "type": "daily",
+  "headline": "פליידובאי: צוות לאבטחת תעופה זרה, תמונות לוויין מאיראן, וסולברג מורה להסיר סרטון של נתניהו מבסיס חיל האוויר.",
+  "events": [
+    {
+      "id": "flydubai-attack",
+      "title": "פרשת פליידובאי: משרד התחבורה סיים תחקיר ראשוני, ראש המל\"ל מינה צוות לבחינת אבטחת תעופה זרה; אות הנשיא לשישה מגיבורי הטיסה יוענק ביום חמישי",
+      "summary": "לפי ynet, משרד התחבורה סיים את התחקיר הראשוני על טיסת פליי דובאי, ושרת התחבורה רגב פנתה לראש המל\"ל. עוד לפי ynet, ראש המל\"ל מינה אלוף במילואים לעמוד בראש צוות שיבחן את אבטחת התעופה הזרה לישראל. ynet וישראל היום מדווחים שהענקת אות הנשיא לשישה מגיבורי הטיסה תתקיים ביום חמישי. לפי מעריב וישראל היום, נבחנות גם השלכות הפרשה על הפטור מוויזה לארה\"ב.",
+      "why": "הפרשה נוגעת לביטחון נוסעים ישראלים בטיסות של חברות זרות וליחסי ישראל עם איחוד האמירויות.",
+      "change": "משרד התחבורה סיים תחקיר ראשוני, ראש המל\"ל מינה צוות לבחינת אבטחת התעופה הזרה, ונקבע מועד להענקת אות הנשיא לגיבורי הטיסה.",
+      "next": "הענקת אות הנשיא ביום חמישי; המשך בחינת אבטחת התעופה.",
+      "status": "VERIFIED",
+      "importance": 4,
+      "categories": [
+        "security",
+        "israel_world"
+      ],
+      "kind": "decision",
+      "entities": [
+        "פליידובאי",
+        "איחוד האמירויות",
+        "תעופה"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/ryku0umjzg",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/r1stnhgsme",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/byu82kfizg",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/news/local/article/21566648",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "מעריב",
+          "url": "https://www.maariv.co.il/breaking-news/article-1374257",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/travel/tourism-news/article/21569832",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 3,
+      "firstSeen": "2026-10-01",
+      "lastUpdated": "2026-10-07"
+    },
+    {
+      "id": "dubai-israelis-return",
+      "title": "ynet: איחוד האמירויות ביטל את הסלוטים של טיסות החילוץ הישראליות",
+      "summary": "לפי ynet, האמירויות ביטלו את הסלוטים שהוקצו לטיסות החילוץ הישראליות מדובאי. ישראל היום דיווח במקביל שטיסות החילוץ מדובאי בסכנה ושהמוסד נכנס לתמונה.",
+      "why": "הדיווח נוגע ליכולת להחזיר ישראלים שנתקעו באמירויות.",
+      "change": "לפי ynet, האמירויות ביטלו את הסלוטים של טיסות החילוץ הישראליות.",
+      "next": "לא ידוע אם ומתי יחודשו הטיסות.",
+      "status": "REPORTED",
+      "importance": 3,
+      "categories": [
+        "israel_world",
+        "society"
+      ],
+      "kind": "event",
+      "entities": [
+        "איחוד האמירויות",
+        "פליידובאי"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/hjlaqnzsfe",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/travel/aviation/article/21567654",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 2,
+      "firstSeen": "2026-10-03",
+      "lastUpdated": "2026-10-07"
+    },
+    {
+      "id": "iran-nuclear-site-rebuild",
+      "title": "תמונות לוויין: פעילות מחודשת באתר גרעין באיראן שישראל תקפה",
+      "summary": "לפי ynet וישראל היום, תמונות לוויין חשפו פעילות מחודשת באתר גרעין באיראן שישראל תקפה בעבר, ולפי הדיווחים איראן משקמת את המתחם.",
+      "why": "שיקום אתרי גרעין שנפגעו משפיע על הערכות הסיכון מול איראן ועל המגעים בינה לבין ארה\"ב.",
+      "change": "",
+      "next": "תגובות ישראליות ואמריקניות, והשפעה על המגעים מול איראן.",
+      "status": "VERIFIED",
+      "importance": 4,
+      "categories": [
+        "security",
+        "israel_world"
+      ],
+      "kind": "data",
+      "entities": [
+        "איראן",
+        "תוכנית הגרעין"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/syn9n0zifl",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21568679",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 2,
+      "firstSeen": "2026-10-07",
+      "lastUpdated": "2026-10-07"
+    },
+    {
+      "id": "us-iran-talks",
+      "title": "ואנס: איראן חייבת לצמצם את העשרת האורניום כדי לסיים את המלחמה; רוביו: איראן החמיצה הזדמנויות להסכם",
+      "summary": "לפי ynet, סגן הנשיא ואנס אמר שאיראן חייבת לצמצם את יכולת העשרת האורניום כדי לסיים את המלחמה, ומזכיר המדינה רוביו אמר שאיראן החמיצה כמה הזדמנויות להסכם עם ארה\"ב.",
+      "why": "ההצהרות מראות את תנאי ארה\"ב להסכם עם איראן, שמשפיע על המשך הלחימה באזור.",
+      "change": "ואנס ורוביו חזרו על תנאי ארה\"ב: צמצום ההעשרה, ולדבריהם איראן החמיצה הזדמנויות להסכם.",
+      "next": "האם יחודשו המגעים העקיפים.",
+      "status": "REPORTED",
+      "importance": 4,
+      "categories": [
+        "security",
+        "israel_world"
+      ],
+      "kind": "negotiation",
+      "entities": [
+        "איראן",
+        "ארה\"ב",
+        "תוכנית הגרעין"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/ryagclqjmg",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/ry7mfumjzx",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 1,
+      "firstSeen": "2026-10-01",
+      "lastUpdated": "2026-10-07"
+    },
+    {
+      "id": "nsc-travel-warning",
+      "title": "המל\"ל מזהיר ישראלים בחו\"ל מ\"סיכון מוגבר לפיגועים מחר\"",
+      "summary": "לפי ynet, המל\"ל פרסם אזהרה לישראלים בחו\"ל מפני סיכון מוגבר לפיגועים מחר.",
+      "why": "אזהרה רשמית שנוגעת לביטחון ישראלים שנמצאים או מתכננים לנסוע לחו\"ל.",
+      "change": "",
+      "next": "עדכוני המל\"ל לקראת מחר.",
+      "status": "REPORTED",
+      "importance": 4,
+      "categories": [
+        "security",
+        "israel_world"
+      ],
+      "kind": "statement",
+      "entities": [
+        "המל\"ל",
+        "פיגועים בחו\"ל"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/HJKFddGoGg",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 1,
+      "firstSeen": "2026-10-07",
+      "lastUpdated": "2026-10-07"
+    },
+    {
+      "id": "solberg-netanyahu-video",
+      "title": "יו\"ר ועדת הבחירות סולברג הורה להסיר מחשבונותיו של נתניהו סרטון שצולם בבסיס חיל האוויר",
+      "summary": "לפי ynet וישראל היום, יו\"ר ועדת הבחירות המרכזית, השופט נעם סולברג, קבע שסרטון האזהרה שצילם ראש הממשלה נתניהו בבסיס חיל האוויר יוסר מחשבונותיו האישיים. ישראל היום מגדיר זאת כהחלטה נגד נתניהו בעניין תעמולה מבסיס צבאי.",
+      "why": "ההחלטה מציבה גבול לשימוש בתשתיות צבאיות לתעמולה בתקופת בחירות.",
+      "change": "",
+      "next": "האם נתניהו יציית להחלטה או יערער עליה.",
+      "status": "VERIFIED",
+      "importance": 4,
+      "categories": [
+        "politics",
+        "law"
+      ],
+      "kind": "legal",
+      "entities": [
+        "נתניהו",
+        "ועדת הבחירות",
+        "בחירות 2026"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/synlzozsgg",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/news/politics/article/21567310",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 2,
+      "firstSeen": "2026-10-07",
+      "lastUpdated": "2026-10-07"
+    },
+    {
+      "id": "elections-security-meeting",
+      "title": "הרמטכ\"ל, ראש השב\"כ והמפכ\"ל קיימו הערכת מצב משותפת לקראת הבחירות",
+      "summary": "לפי ynet ומעריב, הרמטכ\"ל, ראש השב\"כ ומפכ\"ל המשטרה קיימו הערכת מצב משותפת. לפי ynet, המטרה היא להבטיח את קיומן התקין של הבחירות.",
+      "why": "ההערכה המשותפת מעידה על היערכות מערכת הביטחון לשמירה על מהלך הבחירות.",
+      "change": "",
+      "next": "",
+      "status": "VERIFIED",
+      "importance": 3,
+      "categories": [
+        "security",
+        "politics"
+      ],
+      "kind": "event",
+      "entities": [
+        "בחירות 2026",
+        "שב\"כ",
+        "משטרת ישראל"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/SJ51jYzsfl",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "מעריב",
+          "url": "https://www.maariv.co.il/breaking-news/article-1374352",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 2,
+      "firstSeen": "2026-10-07",
+      "lastUpdated": "2026-10-07"
+    },
+    {
+      "id": "bar-ilan-lecturer-indictment",
+      "title": "הותר לפרסום: פרופ' שחר נבו הוא המרצה מבר-אילן שהואשם בתכנון פיגוע המוני נגד ערבים",
+      "summary": "ynet, ישראל היום ומעריב דיווחו שהותר לפרסום שמו של המרצה מאוניברסיטת בר-אילן, שנגדו הוגש כתב אישום בגין תכנון פיגועים נגד ערבים: פרופ' שחר נבו.",
+      "why": "מדובר בכתב אישום על תכנון טרור יהודי נגד אזרחים.",
+      "change": "הותר לפרסום שם הנאשם: פרופ' שחר נבו.",
+      "next": "המשך ההליך המשפטי.",
+      "status": "VERIFIED",
+      "importance": 3,
+      "categories": [
+        "law",
+        "security"
+      ],
+      "kind": "legal",
+      "entities": [
+        "טרור יהודי",
+        "בר-אילן"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/news/law/article/21570440",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "מעריב",
+          "url": "https://www.maariv.co.il/breaking-news/article-1374559",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/hjio0kmome",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 3,
+      "firstSeen": "2026-10-05",
+      "lastUpdated": "2026-10-07"
+    },
+    {
+      "id": "northern-streams-pollution",
+      "title": "משרד הבריאות והמשרד להגנת הסביבה: תוצאות חריגות בדיגום 9 נחלים בצפון",
+      "summary": "לפי ynet ומעריב, משרד הבריאות והמשרד להגנת הסביבה דיווחו על תוצאות חריגות בבדיקת הזיהומים בנחלי הצפון. לפי ynet, תשעה נחלים עלולים להיות מסוכנים לרחצה.",
+      "why": "נוגע לבריאות הציבור ולבטיחות הרחצה בנחלים.",
+      "change": "",
+      "next": "",
+      "status": "VERIFIED",
+      "importance": 3,
+      "categories": [
+        "society"
+      ],
+      "kind": "data",
+      "entities": [
+        "נחלי הצפון",
+        "בריאות הציבור"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "מעריב",
+          "url": "https://www.maariv.co.il/breaking-news/article-1374353",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/rydhctgjfg",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 2,
+      "firstSeen": "2026-10-07",
+      "lastUpdated": "2026-10-07"
+    },
+    {
+      "id": "fly-and-vote-compromise",
+      "title": "פשרה בעתירת הליכוד: מיזם Fly&Vote לא יציע טיסות נוספות לקראת הבחירות",
+      "summary": "לפי ynet וישראל היום, הושגה פשרה בין הליכוד למפעילי מיזם הטסת ישראלים מחו\"ל להצבעה, שלפיה המיזם לא יציע טיסות נוספות לקראת הבחירות.",
+      "why": "נוגע לכללי ההשתתפות בבחירות הקרובות.",
+      "change": "",
+      "next": "",
+      "status": "VERIFIED",
+      "importance": 3,
+      "categories": [
+        "politics",
+        "law"
+      ],
+      "kind": "legal",
+      "entities": [
+        "בחירות 2026",
+        "הליכוד"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/news/politics/article/21566310",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/r1gswyzsgg",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 2,
+      "firstSeen": "2026-10-07",
+      "lastUpdated": "2026-10-07"
+    }
+  ],
+  "unverified": [
+    {
+      "id": "lebanon-no-withdrawal",
+      "title": "גורם צבאי לסקיי ניוז: צה\"ל לא ייסוג מדרום לבנון בשנים הקרובות",
+      "summary": "לפי דיווח של ynet וישראל היום, גורם צבאי ישראלי אמר לסקיי ניוז, ללא ציון שמו, שצה\"ל לא ייסוג מדרום לבנון בשנים הקרובות ושתושבים לא יחזרו לשם. מדובר בהצהרה של גורם לא מזוהה, ולא בהחלטה רשמית שפורסמה.",
+      "why": "אם יתברר שזו המדיניות, היא משפיעה על העורף ועל הגבול הצפוני.",
+      "change": "",
+      "next": "הבהרה רשמית של צה\"ל או הממשלה.",
+      "status": "CLAIM",
+      "importance": 3,
+      "categories": [
+        "security"
+      ],
+      "kind": "statement",
+      "entities": [
+        "לבנון",
+        "צה\"ל"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21571878",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/hkgmfcmjze",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 2,
+      "firstSeen": "2026-10-07",
+      "lastUpdated": "2026-10-07"
+    },
+    {
+      "id": "zini-bedouin-claims",
+      "title": "זיני הזהיר בקבינט מהתארגנויות טרור בפזורה הבדואית; בכיר במשטרה: \"לא ברור מאיפה המידע\"",
+      "summary": "לפי דיווח של ynet, ראש השב\"כ זיני אמר בקבינט שיש התארגנויות טרור מדאיגות מאוד בפזורה הבדואית. בכיר במשטרה, לפי ynet, אמר שלא ברור מאיפה המידע על התארגנויות צבאיות בפזורה.",
+      "why": "מחלוקת בין השב\"כ למשטרה על הערכת איום ביטחוני פנימי.",
+      "change": "",
+      "next": "הבהרות מהשב\"כ והמשטרה.",
+      "status": "CONFLICTING",
+      "importance": 3,
+      "categories": [
+        "security"
+      ],
+      "kind": "dispute",
+      "entities": [
+        "שב\"כ",
+        "פזורה בדואית",
+        "משטרת ישראל"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/s1d1u2gife",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/rkyufvxigx",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 1,
+      "firstSeen": "2026-10-07",
+      "lastUpdated": "2026-10-07"
+    }
+  ],
+  "filtered_out": 270,
+  "note": ""
+}

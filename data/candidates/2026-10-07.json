@@ -2,46 +2,6 @@
  "date": "2026-10-07",
  "articles": [
   {
-   "source": "BBC",
-   "outlet": "BBC",
-   "title": "Children brave snipers and mortars to go to school near Yemen front line",
-   "url": "https://www.bbc.co.uk/news/articles/c670pzpv9gk4o?at_medium=RSS&at_campaign=rss",
-   "summary": "In rare access to Taiz, the BBC World Service speaks to children, teachers and families affected by the war.",
-   "time": "2026-10-06T07:23:24+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
-   "source": "BBC",
-   "outlet": "BBC",
-   "title": "Yemeni military says it has 'secured' Red Sea waterway",
-   "url": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
-   "summary": "Saudi-backed forces gave conflicting reports of whether they had also seized the port city of Mokha, near the Bab al-Mandab Strait.",
-   "time": "2026-10-06T07:43:07+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
-   "source": "Guardian",
-   "outlet": "Guardian",
-   "title": "‘A return to prison is always looming’: Iran’s Nobel laureate recounts torture in jail and hopes for the future",
-   "url": "https://www.theguardian.com/global-development/2026/oct/06/iranian-nobel-laureate-narges-mohammadi-recounts-prison-beating",
-   "summary": "The human rights activist Narges Mohammadi was severely beaten by security forces and denied medical care. In an interview with the Guardian, she discusses her shifting sense of identity and being a mother in jail The human rights activist Narges Mohammadi has described being beaten so severely by I",
-   "time": "2026-10-06T08:00:06+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
-   "source": "מעריב",
-   "outlet": "מעריב",
-   "title": "אהוד יערי הופתע ממינוי אביחי אדרעי בחדשות 12 - וחשף בטעות דרמת ענק מאחורי הקלעים",
-   "url": "https://www.maariv.co.il/breaking-news/article-1374253",
-   "summary": "",
-   "time": "2026-10-06T11:04:31+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
    "source": "מעריב",
    "outlet": "מעריב",
    "title": "אחרי פליי דובאי: המחדל שנמנע בדקה ה-90 בטיסה לישראל - \"מאוד מטריד\"",
@@ -3712,7 +3672,7 @@
    "type": "reporting"
   }
  ],
- "updated": "2026-10-07T10:20:55.135855+00:00",
+ "updated": "2026-10-07T17:09:27.205541+00:00",
  "clusters": [
   {
    "id": "350c77018b",
@@ -4007,39 +3967,6 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-10-07T10:19:19+00:00"
-    }
-   ]
-  },
-  {
-   "id": "d9446a8b4c",
-   "title": "Children brave snipers and mortars to go to school near Yemen front line",
-   "sourceCount": 2,
-   "outlets": [
-    "Al Jazeera",
-    "BBC"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 2,
-   "opinionOnly": false,
-   "firstSeen": "2026-10-06T07:23:24+00:00",
-   "lastSeen": "2026-10-07T06:15:44+00:00",
-   "articles": [
-    {
-     "source": "BBC",
-     "title": "Children brave snipers and mortars to go to school near Yemen front line",
-     "url": "https://www.bbc.co.uk/news/articles/c670pzpv9gk4o?at_medium=RSS&at_campaign=rss",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-06T07:23:24+00:00"
-    },
-    {
-     "source": "Al Jazeera",
-     "title": "Yemen’s displaced children dream of returning to school",
-     "url": "https://www.aljazeera.com/news/2026/10/7/yemens-displaced-children-dream-of-returning-to-school?traffic_source=rss",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-07T06:15:44+00:00"
     }
    ]
   },
@@ -5095,78 +5022,6 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-10-07T08:28:26+03:00"
-    }
-   ]
-  },
-  {
-   "id": "ea812963d2",
-   "title": "Yemeni military says it has 'secured' Red Sea waterway",
-   "sourceCount": 1,
-   "outlets": [
-    "BBC"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-10-06T07:43:07+00:00",
-   "lastSeen": "2026-10-06T07:43:07+00:00",
-   "articles": [
-    {
-     "source": "BBC",
-     "title": "Yemeni military says it has 'secured' Red Sea waterway",
-     "url": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-06T07:43:07+00:00"
-    }
-   ]
-  },
-  {
-   "id": "a6d5f8831f",
-   "title": "‘A return to prison is always looming’: Iran’s Nobel laureate recounts torture in jail and hopes for the future",
-   "sourceCount": 1,
-   "outlets": [
-    "Guardian"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-10-06T08:00:06+00:00",
-   "lastSeen": "2026-10-06T08:00:06+00:00",
-   "articles": [
-    {
-     "source": "Guardian",
-     "title": "‘A return to prison is always looming’: Iran’s Nobel laureate recounts torture in jail and hopes for the future",
-     "url": "https://www.theguardian.com/global-development/2026/oct/06/iranian-nobel-laureate-narges-mohammadi-recounts-prison-beating",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-06T08:00:06+00:00"
-    }
-   ]
-  },
-  {
-   "id": "9c5f48cfd4",
-   "title": "אהוד יערי הופתע ממינוי אביחי אדרעי בחדשות 12 - וחשף בטעות דרמת ענק מאחורי הקלעים",
-   "sourceCount": 1,
-   "outlets": [
-    "מעריב"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-10-06T11:04:31+00:00",
-   "lastSeen": "2026-10-06T11:04:31+00:00",
-   "articles": [
-    {
-     "source": "מעריב",
-     "title": "אהוד יערי הופתע ממינוי אביחי אדרעי בחדשות 12 - וחשף בטעות דרמת ענק מאחורי הקלעים",
-     "url": "https://www.maariv.co.il/breaking-news/article-1374253",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-06T11:04:31+00:00"
     }
    ]
   },
@@ -8923,6 +8778,30 @@
    ]
   },
   {
+   "id": "e0b5ad7f82",
+   "title": "Yemen’s displaced children dream of returning to school",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-07T06:15:44+00:00",
+   "lastSeen": "2026-10-07T06:15:44+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "Yemen’s displaced children dream of returning to school",
+     "url": "https://www.aljazeera.com/news/2026/10/7/yemens-displaced-children-dream-of-returning-to-school?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-07T06:15:44+00:00"
+    }
+   ]
+  },
+  {
    "id": "af91b2fe15",
    "title": "At least 11 killed as Russia launches ‘massive’ attack on Ukraine",
    "sourceCount": 1,
@@ -11588,8 +11467,8 @@
   }
  ],
  "stats": {
-  "articles": 371,
-  "clusters": 306,
-  "multiSource": 22
+  "articles": 367,
+  "clusters": 303,
+  "multiSource": 21
  }
 }
