@@ -2,56 +2,6 @@
  "date": "2026-10-08",
  "articles": [
   {
-   "source": "Guardian",
-   "outlet": "Guardian",
-   "title": "I was tortured because I’m a Somali woman who dared to speak out | Sadia Moalim Ali",
-   "url": "https://www.theguardian.com/global-development/2026/oct/07/tortured-somalia-woman-dared-speak-out-human-rights-prison",
-   "summary": "I was sentenced to three years in jail for insulting government institutions. Now I am free, I will carry on fighting for the women I met in prison ‘Why don’t you just drive your tuk-tuk and do your work?” the judge asked me after videos from my social media accounts were shown during my court heari",
-   "time": "2026-10-07T05:00:35+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
-   "source": "BBC",
-   "outlet": "BBC",
-   "title": "Residents of kibbutz destroyed in 7 October Hamas-led attacks grapple with how to rebuild",
-   "url": "https://www.bbc.co.uk/news/articles/cqrmyz4mdn94o?at_medium=RSS&at_campaign=rss",
-   "summary": "Three years on from the attack on Nir Oz, in which 47 people were killed and 76 taken hostage, some survivors have returned to live there.",
-   "time": "2026-10-07T05:02:18+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
-   "source": "Guardian",
-   "outlet": "Guardian",
-   "title": "Flydubai attack investigation widens as alleged hijacker’s training in New Zealand scrutinised",
-   "url": "https://www.theguardian.com/world/2026/oct/07/flydubai-attack-investigation-widens-as-alleged-hijackers-training-in-new-zealand-scrutinised-ntwnfb",
-   "summary": "Hamam al-Hammami spent 175 days in New Zealand until May 2019, as Australian Jewish group calls for full investigation into his time in Melbourne New Zealand authorities have launched their own investigation into the flydubai co-pilot who allegedly tried to hijack an Israel-bound plane, after police",
-   "time": "2026-10-07T05:25:10+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
-   "source": "NYT",
-   "outlet": "NYT",
-   "title": "How a Small Business Got Entangled in U.S. Sanctions on Iranian Oil",
-   "url": "https://www.nytimes.com/2026/10/07/world/asia/malaysia-shipping-iran-oil-us-sanctions.html",
-   "summary": "The case of a small Malaysian shipping agency illustrates the challenges Washington faces in its effort to stanch the flow of Iranian oil.",
-   "time": "2026-10-07T09:02:02+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
-   "source": "BBC",
-   "outlet": "BBC",
-   "title": "The situation in Gaza three years on",
-   "url": "https://www.bbc.co.uk/news/videos/c6pwgrgd9zpzo?at_medium=RSS&at_campaign=rss",
-   "summary": "The BBC's Gaza correspondent Rushdi Abualouf describes the situation in Gaza three years on from the 7 October attack.",
-   "time": "2026-10-07T09:19:21+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
    "source": "ישראל היום",
    "outlet": "ישראל היום",
    "title": "בגלל ה-7 באוקטובר: קובי פרץ ביטל הופעת ענק מעבר לים",
@@ -3752,7 +3702,7 @@
    "type": "reporting"
   }
  ],
- "updated": "2026-10-08T10:40:47.782304+00:00",
+ "updated": "2026-10-08T17:09:25.994164+00:00",
  "clusters": [
   {
    "id": "52fb48ebc7",
@@ -4089,63 +4039,6 @@
    ]
   },
   {
-   "id": "a684256221",
-   "title": "Residents of kibbutz destroyed in 7 October Hamas-led attacks grapple with how to rebuild",
-   "sourceCount": 2,
-   "outlets": [
-    "BBC",
-    "Guardian"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 5,
-   "opinionOnly": false,
-   "firstSeen": "2026-10-07T05:02:18+00:00",
-   "lastSeen": "2026-10-07T20:27:03+00:00",
-   "articles": [
-    {
-     "source": "BBC",
-     "title": "Residents of kibbutz destroyed in 7 October Hamas-led attacks grapple with how to rebuild",
-     "url": "https://www.bbc.co.uk/news/articles/cqrmyz4mdn94o?at_medium=RSS&at_campaign=rss",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-07T05:02:18+00:00"
-    },
-    {
-     "source": "BBC",
-     "title": "The situation in Gaza three years on",
-     "url": "https://www.bbc.co.uk/news/videos/c6pwgrgd9zpzo?at_medium=RSS&at_campaign=rss",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-07T09:19:21+00:00"
-    },
-    {
-     "source": "BBC",
-     "title": "Israelis demand accountability over 7 October failures three years after attacks",
-     "url": "https://www.bbc.co.uk/news/articles/c5zjx7xx3487o?at_medium=RSS&at_campaign=rss",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-07T16:00:18+00:00"
-    },
-    {
-     "source": "Guardian",
-     "title": "Commemorations for victims of the 7 October Hamas attacks – in pictures",
-     "url": "https://www.theguardian.com/world/gallery/2026/oct/07/commemorations-for-the-7-october-hamas-attacks-in-pictures",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-07T18:29:27+00:00"
-    },
-    {
-     "source": "BBC",
-     "title": "Israelis mourn 7 October attack victims three years after deadly Hamas raid",
-     "url": "https://www.bbc.co.uk/news/articles/cwkgj0g30m5jo?at_medium=RSS&at_campaign=rss",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-07T20:27:03+00:00"
-    }
-   ]
-  },
-  {
    "id": "85654f3851",
    "title": "\"החל לנשום בכוחות עצמו\": אחרי שנפצע קשה בפיגוע, השגריר לייטר מעדכן על מצב בנו",
    "sourceCount": 2,
@@ -4183,6 +4076,47 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-10-07T23:05:37+00:00"
+    }
+   ]
+  },
+  {
+   "id": "ab1cc787d8",
+   "title": "Israelis mourn 7 October attack victims three years after deadly Hamas raid",
+   "sourceCount": 2,
+   "outlets": [
+    "BBC",
+    "Guardian"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 3,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-07T16:00:18+00:00",
+   "lastSeen": "2026-10-07T20:27:03+00:00",
+   "articles": [
+    {
+     "source": "BBC",
+     "title": "Israelis demand accountability over 7 October failures three years after attacks",
+     "url": "https://www.bbc.co.uk/news/articles/c5zjx7xx3487o?at_medium=RSS&at_campaign=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-07T16:00:18+00:00"
+    },
+    {
+     "source": "Guardian",
+     "title": "Commemorations for victims of the 7 October Hamas attacks – in pictures",
+     "url": "https://www.theguardian.com/world/gallery/2026/oct/07/commemorations-for-the-7-october-hamas-attacks-in-pictures",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-07T18:29:27+00:00"
+    },
+    {
+     "source": "BBC",
+     "title": "Israelis mourn 7 October attack victims three years after deadly Hamas raid",
+     "url": "https://www.bbc.co.uk/news/articles/cwkgj0g30m5jo?at_medium=RSS&at_campaign=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-07T20:27:03+00:00"
     }
    ]
   },
@@ -5394,78 +5328,6 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-10-08T09:17:29+00:00"
-    }
-   ]
-  },
-  {
-   "id": "f1dcd7d98b",
-   "title": "I was tortured because I’m a Somali woman who dared to speak out | Sadia Moalim Ali",
-   "sourceCount": 1,
-   "outlets": [
-    "Guardian"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-10-07T05:00:35+00:00",
-   "lastSeen": "2026-10-07T05:00:35+00:00",
-   "articles": [
-    {
-     "source": "Guardian",
-     "title": "I was tortured because I’m a Somali woman who dared to speak out | Sadia Moalim Ali",
-     "url": "https://www.theguardian.com/global-development/2026/oct/07/tortured-somalia-woman-dared-speak-out-human-rights-prison",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-07T05:00:35+00:00"
-    }
-   ]
-  },
-  {
-   "id": "907b54c357",
-   "title": "Flydubai attack investigation widens as alleged hijacker’s training in New Zealand scrutinised",
-   "sourceCount": 1,
-   "outlets": [
-    "Guardian"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-10-07T05:25:10+00:00",
-   "lastSeen": "2026-10-07T05:25:10+00:00",
-   "articles": [
-    {
-     "source": "Guardian",
-     "title": "Flydubai attack investigation widens as alleged hijacker’s training in New Zealand scrutinised",
-     "url": "https://www.theguardian.com/world/2026/oct/07/flydubai-attack-investigation-widens-as-alleged-hijackers-training-in-new-zealand-scrutinised-ntwnfb",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-07T05:25:10+00:00"
-    }
-   ]
-  },
-  {
-   "id": "9cb0b1e174",
-   "title": "How a Small Business Got Entangled in U.S. Sanctions on Iranian Oil",
-   "sourceCount": 1,
-   "outlets": [
-    "NYT"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-10-07T09:02:02+00:00",
-   "lastSeen": "2026-10-07T09:02:02+00:00",
-   "articles": [
-    {
-     "source": "NYT",
-     "title": "How a Small Business Got Entangled in U.S. Sanctions on Iranian Oil",
-     "url": "https://www.nytimes.com/2026/10/07/world/asia/malaysia-shipping-iran-oil-us-sanctions.html",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-07T09:02:02+00:00"
     }
    ]
   },
@@ -11495,8 +11357,8 @@
   }
  ],
  "stats": {
-  "articles": 375,
-  "clusters": 295,
+  "articles": 370,
+  "clusters": 292,
   "multiSource": 28
  }
 }

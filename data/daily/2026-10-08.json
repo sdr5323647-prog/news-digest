@@ -1,0 +1,495 @@
+{
+ "schema": 2,
+ "date": "2026-10-08",
+ "type": "daily",
+ "headline": "ההסלמה במפרץ: החות'ים תקפו נמלי תעופה בסעודיה, מכלית נפגעה מול קטאר, וישראל והקונסוליה הבריטית במזרח ירושלים.",
+ "events": [
+  {
+   "id": "saudi-houthi-fighting",
+   "title": "שלושה הרוגים בתקיפות חות'ים על נמלי תעופה בסעודיה",
+   "summary": "לפי סעודיה, כפי שדווח ב-BBC ובאל-ג'זירה, שלושה בני אדם נהרגו בתקיפות על נמלי תעופה בממלכה. החות'ים נטלו אחריות על התקיפות. ה-New York Times מדווח על פיצוצים בריאד ועל התקיפות הקטלניות ביותר של החות'ים בסעודיה עד כה.",
+   "why": "הסלמה בין סעודיה לחות'ים מאיימת על יציבות המפרץ ועל נתיבי התעופה והסחר באזור.",
+   "change": "סעודיה אישרה שלושה הרוגים בתקיפות החות'ים על נמלי התעופה, והחות'ים נטלו אחריות.",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "security",
+    "world"
+   ],
+   "kind": "event",
+   "entities": [
+    "חות'ים",
+    "סעודיה",
+    "תימן"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "NYT",
+     "url": "https://www.nytimes.com/2026/10/07/world/middleeast/saudi-arabia-airports-houthis.html",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/saudi-arabia-confirms-three-dead-in-houthi-strikes-on-its-airports",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/cwn8d5rx22rdo",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "NYT",
+     "url": "https://www.nytimes.com/2026/10/08/world/middleeast/saudi-yemen-houthis-attack.html",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/byrihwnoge",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 4,
+   "firstSeen": "2026-10-03",
+   "lastUpdated": "2026-10-08"
+  },
+  {
+   "id": "tanker-qatar-attack",
+   "title": "מכלית נפגעה מקליעים מול חופי קטאר, כך לפי סוכנות הימאות הבריטית UKMTO",
+   "summary": "לפי UKMTO, כפי שדווח ב-BBC ובאל-ג'זירה, מכלית נפגעה מכמה קליעים במפרץ מול החוף הצפוני של קטאר. הדיווחים אינם מציינים מי אחראי לתקיפה.",
+   "why": "פגיעה בספנות במפרץ עלולה להשפיע על שוק האנרגיה ועל המתיחות האזורית.",
+   "change": "",
+   "next": "בירור זהות התוקף ומצב המכלית.",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "security",
+    "world",
+    "economy"
+   ],
+   "kind": "event",
+   "entities": [
+    "מפרץ",
+    "קטאר",
+    "ספנות"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/8/tanker-hit-by-multiple-projectiles-off-north-coast-of-qatar-ukmto-says",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/cqlydk7796wdo",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-10-08",
+   "lastUpdated": "2026-10-08"
+  },
+  {
+   "id": "oil-prices-iran-fears",
+   "title": "מחירי הנפט עולים על רקע מתיחות במזרח התיכון; בורסות בארה\"ב ירדו",
+   "summary": "לפי אל-ג'זירה והגרדיאן, מחירי הנפט עלו בחדות על רקע המתיחות במזרח התיכון, חשש מחידוש המלחמה עם איראן ואיום סערה בארה\"ב. אל-ג'זירה מדווחת כי המניות בארה\"ב ירדו.",
+   "why": "מחירי האנרגיה משפיעים על מחירי הדלק ועל יוקר המחיה בישראל.",
+   "change": "",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "economy",
+    "world"
+   ],
+   "kind": "data",
+   "entities": [
+    "נפט",
+    "איראן",
+    "שווקים"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/8/us-stocks-slide-as-oil-prices-fluctuate-over-renewed-iran-war-fears",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Guardian",
+     "url": "https://www.theguardian.com/business/2026/oct/08/oil-prices-rise-middle-east-tensions-us-hurricane-threat",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-10-08",
+   "lastUpdated": "2026-10-08"
+  },
+  {
+   "id": "trump-iran-strike-plans",
+   "title": "דיווח: טראמפ ביקש תוכניות לתקיפה באיראן שניתן לממש לפני בחירות אמצע הקדנציה",
+   "summary": "ynet, מעריב וישראל היום מדווחים, על סמך דיווח שהתפרסם בארה\"ב, שנשיא ארה\"ב טראמפ ביקש לגבש תוכניות לתקיפה באיראן שניתן לממשן לפני בחירות אמצע הקדנציה. הדיווחים אינם כוללים אישור רשמי מהבית הלבן.",
+   "why": "תקיפה אמריקנית באיראן תשפיע ישירות על ישראל ועל האזור.",
+   "change": "",
+   "next": "אישור או הכחשה מהבית הלבן.",
+   "status": "REPORTED",
+   "importance": 4,
+   "categories": [
+    "security",
+    "israel_world"
+   ],
+   "kind": "negotiation",
+   "entities": [
+    "טראמפ",
+    "איראן"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1374797",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21576901",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/h18exxejgx",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-10-08",
+   "lastUpdated": "2026-10-08"
+  },
+  {
+   "id": "uk-israel-consulate",
+   "title": "הקונסוליה הבריטית במזרח ירושלים הופכת ל\"נציגות\"; רוב הדיפלומטים יעזבו, לפי ישראל",
+   "summary": "לפי BBC, ישראל מסרה כי רוב הדיפלומטים הבריטים יעזבו את הקונסוליה במזרח ירושלים. שר החוץ הבריטי מיליבנד אמר כי \"שירותים חיוניים\" יימשכו. לפי אל-ג'זירה והגרדיאן, השילוט הוסר והקונסוליה תפעל כנציגות בריטית.",
+   "why": "המהלך מבטא משבר דיפלומטי בין ישראל לבריטניה סביב מעמד מזרח ירושלים.",
+   "change": "המועד שקבעה ישראל חלף: השילוט הוסר, הקונסוליה הוגדרה מחדש כנציגות ורוב הדיפלומטים יעזבו.",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "politics",
+    "israel_world"
+   ],
+   "kind": "decision",
+   "entities": [
+    "בריטניה",
+    "מזרח ירושלים",
+    "קונסוליה"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "Guardian",
+     "url": "https://www.theguardian.com/world/2026/oct/07/uk-consulate-east-jerusalem-prepares-close-israel",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/israels-deadline-to-close-uk-consulate-in-east-jerusalem-nears",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/8/signage-at-uk-consulate-in-east-jerusalem-removed-as-israels-deadline-over",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/video-signs-removed-from-british-consulate-in-occupied-east-jerusalem",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Guardian",
+     "url": "https://www.theguardian.com/politics/2026/oct/08/uk-consulate-east-jerusalem-remain-open-uk-mission-ed-miliband",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-10-06",
+   "lastUpdated": "2026-10-08"
+  },
+  {
+   "id": "oct7-memorial-day",
+   "title": "טקס הזיכרון הלאומי לשלוש שנים לטבח ה-7 באוקטובר: קריאות לחקירת האמת",
+   "summary": "לפי ynet, מעריב וישראל היום, טקס הזיכרון הלאומי של משפחות 7 באוקטובר נפתח בדקת דומייה. ניצול הטבח בבארי אמר בטקס כי \"ללא חקירת האמת לא נוכל לתקן\", ושורד השבי אלי שרעבי קרא לחקור איך האירוע קרה.",
+   "why": "הדרישה לחקירה ממלכתית ממשיכה להיות במוקד הוויכוח הציבורי לקראת הבחירות.",
+   "change": "הטקס הלאומי התקיים בערב ה-7 באוקטובר, עם קריאות מצד משפחות ושורדים לחקירת האמת.",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "society",
+    "politics"
+   ],
+   "kind": "event",
+   "entities": [
+    "7 באוקטובר",
+    "ועדת חקירה"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/local/article/21576196",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1374787",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/hygt211nszx",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/bytnwfvizx",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-10-05",
+   "lastUpdated": "2026-10-08"
+  },
+  {
+   "id": "kassif-conviction",
+   "title": "ח\"כ עופר כסיף הורשע בתקיפת שוטר בנסיבות מחמירות",
+   "summary": "לפי ynet, מעריב וישראל היום, בית המשפט הרשיע את ח\"כ עופר כסיף בתקיפת שוטר בנסיבות מחמירות, באירוע בהפגנה בדרום הר חברון לפני ארבע שנים.",
+   "why": "הרשעת חבר כנסת מכהן בעבירת אלימות עשויה להשפיע על מעמדו ועל מערכת הבחירות.",
+   "change": "",
+   "next": "גזר דין.",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "law",
+    "politics"
+   ],
+   "kind": "legal",
+   "entities": [
+    "עופר כסיף",
+    "רשימה משותפת"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1374889",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/local/article/21578371",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/Hy2aEpEizg",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-10-08",
+   "lastUpdated": "2026-10-08"
+  },
+  {
+   "id": "haredi-protest-ben-gurion",
+   "title": "מחאת חרדים סמוך לנתב\"ג: צפויים עומסי תנועה ושיבושים בדרכי הגישה",
+   "summary": "לפי ynet, מעריב וישראל היום, נתב\"ג פרסם הודעה חריגה על עומסי תנועה ושיבושים אפשריים בדרכי ההגעה, בעקבות מחאות של חרדים באזור. ynet מקשר את המחאות למעצרי עריקים.",
+   "why": "המחאה עלולה לפגוע בנוסעים ובתנועה בציר מרכזי, והיא חלק מהמחלוקת על גיוס חרדים.",
+   "change": "",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "society",
+    "politics"
+   ],
+   "kind": "event",
+   "entities": [
+    "גיוס חרדים",
+    "נתב\"ג"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/travel/aviation/article/21578784",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1374939",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/sktcvceomg",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-10-08",
+   "lastUpdated": "2026-10-08"
+  },
+  {
+   "id": "pharmacy-student-poison-plot",
+   "title": "אישום: סטודנט לרוקחות תכנן פיגוע הרעלה המוני בירושלים",
+   "summary": "לפי ynet וישראל היום, הוגש כתב אישום נגד סטודנט לרוקחות בחשד שרכש כימיקלים וערך ניסוי כדי לתכנן פיגוע באמצעות רעלים קטלניים בירושלים.",
+   "why": "תכנון פיגוע המוני מצביע על איום ביטחוני מסוג חדש.",
+   "change": "",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "security",
+    "law"
+   ],
+   "kind": "legal",
+   "entities": [
+    "פיגוע",
+    "ירושלים",
+    "כתב אישום"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/law/article/21579378",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/HJm3j04jfe",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-10-08",
+   "lastUpdated": "2026-10-08"
+  },
+  {
+   "id": "russia-kyiv-escalation",
+   "title": "אוקראינה: מתקפה רוסית רחבה, לפחות 24 הרוגים לפי אל-ג'זירה",
+   "summary": "אל-ג'זירה מדווחת על מתקפה רוסית רחבה באוקראינה שבה נהרגו לפחות 24 בני אדם. ynet מדווח על הרוגים בקייב ובמזרח המדינה, ועל מניין הרוגים שעלה ל-30.",
+   "why": "המשך ההסלמה ברוסיה-אוקראינה משפיע על אנרגיה, ביטחון באירופה ויחסי המעצמות.",
+   "change": "מתקפה רוסית רחבה נוספת עם עשרות הרוגים.",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "world"
+   ],
+   "kind": "event",
+   "entities": [
+    "רוסיה",
+    "אוקראינה"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/at-least-24-killed-as-russia-launches-massive-attack-on-ukraine?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/rklj8ybofg",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-10-04",
+   "lastUpdated": "2026-10-08"
+  }
+ ],
+ "unverified": [
+  {
+   "id": "eritrea-ethiopia-troops",
+   "title": "דיווח: צבא אריתריאה נכנס לאתיופיה; אל-ג'זירה מצטטת עדים",
+   "summary": "על פי דיווח של ישראל היום, צבא אריתריאה פלש לאתיופיה. על פי אל-ג'זירה, עדים ראו חיילים אריתריאים בצפון אתיופיה. אין אישור רשמי.",
+   "why": "הרחבת הלחימה בקרן אפריקה עלולה להפוך לעימות אזורי.",
+   "change": "",
+   "next": "",
+   "status": "UNCONFIRMED",
+   "importance": 4,
+   "categories": [
+    "world"
+   ],
+   "kind": "event",
+   "entities": [
+    "אתיופיה",
+    "אריתריאה"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/7/witnesses-spot-eritrean-troops-inside-northern-ethiopia-as-tensions-flare?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/world-news/article/21573566",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-10-08",
+   "lastUpdated": "2026-10-08"
+  }
+ ],
+ "filtered_out": 281,
+ "note": ""
+}
