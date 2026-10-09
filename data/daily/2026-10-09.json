@@ -1,0 +1,384 @@
+{
+ "schema": 2,
+ "date": "2026-10-09",
+ "type": "daily",
+ "headline": "טראמפ: אין תקיפה באיראן לפני בחירות האמצע, החות'ים ממשיכים לפגוע בסעודיה, ואיזנקוט פונה ליועמ\"שית בפרשת 7 באוקטובר.",
+ "events": [
+  {
+   "id": "trump-iran-strike-plans",
+   "title": "טראמפ: ארה\"ב לא תתקוף את איראן לפני בחירות האמצע; דיווחים על היערכות למתקפה בת שלושה ימים",
+   "summary": "ynet, מעריב וישראל היום מדווחים כי טראמפ אמר שארה\"ב לא תתקוף באיראן לפני בחירות האמצע בנובמבר. במקביל, ynet וישראל היום מביאים דיווחים (שמקורם בארה\"ב) כי ארה\"ב נערכת למתקפה של שלושה ימים, כי טראמפ דחה עד כה כמה תוכניות תקיפה, וכי מתווכים ביקשו ממנו זמן נוסף למשא ומתן. הדיווחים על התוכניות לא אושרו רשמית.",
+   "why": "הצהרה על העיתוי האפשרי של תקיפה באיראן משפיעה על ההערכות הביטחוניות והכלכליות בישראל ובאזור.",
+   "change": "טראמפ הצהיר בפומבי שלא תהיה תקיפה באיראן לפני בחירות האמצע, אחרי הדיווח אתמול על בקשתו לתוכניות לפני המועד.",
+   "next": "בחירות האמצע בארה\"ב בנובמבר; המשך המגעים עם איראן דרך מתווכים.",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "security",
+    "israel_world"
+   ],
+   "kind": "statement",
+   "entities": [
+    "איראן",
+    "ארה\"ב",
+    "טראמפ"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/S1ZTzBBiMl",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1375124",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21584008",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/bkm6kqssfl",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-10-08",
+   "lastUpdated": "2026-10-09"
+  },
+  {
+   "id": "lebanon-humvee-rollover",
+   "title": "סרן אליאב חיים צפלמוס, קצין בחטיבה 7, נהרג בהתהפכות האמר בדרום לבנון",
+   "summary": "לפי ynet, מעריב וישראל היום, סרן אליאב חיים צפלמוס, קצין בחטיבה 7, נהרג בדרום לבנון. ישראל היום וynet מדווחים כי מדובר בהתהפכות של רכב האמר, ומעריב מגדיר זאת תאונה מבצעית. הלווייתו התקיימה היום.",
+   "why": "אובדן חיים בפעילות הצבאית המתמשכת בדרום לבנון.",
+   "change": "",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "security"
+   ],
+   "kind": "event",
+   "entities": [
+    "צה\"ל",
+    "לבנון"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/b1y25lbsze",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1375162",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/defense/article/21584202",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-10-09",
+   "lastUpdated": "2026-10-09"
+  },
+  {
+   "id": "saudi-houthi-fighting",
+   "title": "שלושה סעודים נהרגו בתקיפות חות'ים על נמל התעופה בריאד; טיסות הושעו",
+   "summary": "לפי BBC והגרדיאן, שלושה אזרחים סעודים נהרגו בתקיפות על נמל התעופה בריאד, והחות'ים נטלו אחריות. הגרדיאן מדווח על השעיית טיסות, וה-New York Times על ביטולי טיסות רבים.",
+   "why": "פגיעה בתעופה האזרחית בסעודיה מעידה על הסלמה שמאיימת על יציבות המפרץ.",
+   "change": "דווח על השעיית טיסות בנמל התעופה בריאד וביטולים רבים.",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "security",
+    "world"
+   ],
+   "kind": "event",
+   "entities": [
+    "חות'ים",
+    "סעודיה",
+    "תימן"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Guardian",
+     "url": "https://www.theguardian.com/world/2026/oct/09/riyadh-airport-flights-suspended-houthis-claim-attack",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "NYT",
+     "url": "https://www.nytimes.com/2026/10/08/world/middleeast/saudi-yemen-houthis-attack.html",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-10-03",
+   "lastUpdated": "2026-10-09"
+  },
+  {
+   "id": "eisenkot-ag-oct7-statement",
+   "title": "איזנקוט פנה ליועמ\"שית בבקשה לבדוק אם נתניהו מסר הצהרה חלקית על 7 באוקטובר למבקר המדינה",
+   "summary": "לפי מעריב וynet, יו\"ר \"ישר!\" גדי איזנקוט פנה ליועצת המשפטית לממשלה בדרישה לבדוק אם נתניהו השמיט מידע ממסמכים שקדמו ל-7 באוקטובר בהצהרה שמסר למבקר המדינה ולציבור. הפנייה היא בקשה בלבד; עד כה לא דווח על החלטה של היועמ\"שית.",
+   "why": "הפנייה מבקשת בחינה משפטית של דברי ראש הממשלה בפרשת 7 באוקטובר, בתקופת מערכת בחירות.",
+   "change": "",
+   "next": "תגובת היועמ\"שית לפנייה.",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "politics",
+    "law"
+   ],
+   "kind": "legal",
+   "entities": [
+    "נתניהו",
+    "7 באוקטובר",
+    "בחירות 2026"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1375132",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/bj12d4sszg",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-10-09",
+   "lastUpdated": "2026-10-09"
+  },
+  {
+   "id": "pa-elections-postponed",
+   "title": "דיווחים: הבחירות לפרלמנט הפלסטיני יידחו",
+   "summary": "לפי ynet וישראל היום, הבחירות ברשות הפלסטינית צפויות להידחות. ynet מדווח שסגנו של אבו מאזן מסר לצרפת כי הבחירות לפרלמנט הפלסטיני יידחו. ישראל היום מביא גם הסברים מנוגדים: הידרדרות בתנאים לעומת חשש מהפסד. לא נמצא אישור רשמי מהרשות.",
+   "why": "דחיית הבחירות משפיעה על הלגיטימיות ועל עתיד ההנהגה הפלסטינית.",
+   "change": "",
+   "next": "הודעה רשמית של הרשות הפלסטינית על המועד החדש.",
+   "status": "REPORTED",
+   "importance": 3,
+   "categories": [
+    "politics",
+    "israel_world"
+   ],
+   "kind": "decision",
+   "entities": [
+    "הרשות הפלסטינית",
+    "אבו מאזן"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/hkxnveisfe",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21587957",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-10-09",
+   "lastUpdated": "2026-10-09"
+  },
+  {
+   "id": "israel-trafficking-tier1",
+   "title": "מחלקת המדינה האמריקנית: ישראל חזרה לדירוג הראשון במאבק בסחר בבני אדם",
+   "summary": "לפי ynet וישראל היום, בדוח של מחלקת המדינה האמריקנית עלתה ישראל לדירוג הראשון במאבק בסחר בבני אדם, לראשונה מזה חמש שנים.",
+   "why": "הדירוג משקף הערכה של ארה\"ב לגבי מאמצי ישראל בתחום.",
+   "change": "",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "law",
+    "israel_world"
+   ],
+   "kind": "data",
+   "entities": [
+    "ארה\"ב",
+    "סחר בבני אדם"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/hyl5qrhofx",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/law/article/21584341",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-10-09",
+   "lastUpdated": "2026-10-09"
+  },
+  {
+   "id": "nobel-peace-pillay",
+   "title": "פרס נובל לשלום 2026 הוענק לנאווי פילאי, שופטת לשעבר בהאג",
+   "summary": "לפי אל-ג'זירה, מעריב, ynet וישראל היום, פרס נובל לשלום לשנת 2026 הוענק לנאווי פילאי (נוואנטם פילאי), משפטנית דרום-אפריקנית ושופטת לשעבר בבית הדין בהאג. ישראל היום וynet מציינים שהיא מבקרת את ישראל, וישראל היום כותב שהיא מאשימה אותה ברצח עם בעזה.",
+   "why": "הפרס מקנה במה בינלאומית לדמות המזוהה עם ביקורת על ישראל.",
+   "change": "",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "israel_world",
+    "world"
+   ],
+   "kind": "event",
+   "entities": [
+    "נובל",
+    "האג"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/9/2026-nobel-peace-prize-awarded-to-navi-pillay",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1375289",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/ry211oquome",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/world-news/europe/article/21587678",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 4,
+   "firstSeen": "2026-10-09",
+   "lastUpdated": "2026-10-09"
+  }
+ ],
+ "unverified": [
+  {
+   "id": "pmo-protocol-forgery-claim",
+   "title": "לטענת המזכיר הצבאי של נתניהו ב-7 באוקטובר: בלשכת נתניהו זויפו פרוטוקולים",
+   "summary": "על פי ynet, המזכיר הצבאי של נתניהו ב-7 באוקטובר טען כי בלשכת נתניהו זייפו פרוטוקולים. ישראל היום מדווח על דרישה לחקור חשד לזיוף, ועל תגובת גורם במשטרה. מדובר בטענות של צדדים מעורבים במחלוקת פוליטית; לא פורסם אישור עצמאי או הליך חקירה.",
+   "why": "טענה חמורה על מסמכי הלשכה סביב 7 באוקטובר, שעשויה להשפיע על הדיון הציבורי בבחירות.",
+   "change": "",
+   "next": "",
+   "status": "CLAIM",
+   "importance": 4,
+   "categories": [
+    "politics",
+    "law"
+   ],
+   "kind": "dispute",
+   "entities": [
+    "נתניהו",
+    "7 באוקטובר",
+    "בחירות 2026"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/b1c7iwsjgx",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/law/article/21587924",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-10-09",
+   "lastUpdated": "2026-10-09"
+  },
+  {
+   "id": "gaza-hamas-operatives-killed",
+   "title": "לטענת צה\"ל: חוסלו בעזה פעילי חמאס שהחזיקו בעבר בחטופים ופעילים שקידמו מתווי טרור",
+   "summary": "על פי מעריב, צה\"ל מסר כי חוסלו ברצועה שני פעילי חמאס שהחזיקו בעבר במספר חטופים, וכן שלושה פעילי חמאס וג'יהאד אסלאמי שקידמו מתווי טרור נגד כוחות צה\"ל. הדיווח מבוסס על הודעת צה\"ל בלבד ולא אומת באופן עצמאי.",
+   "why": "המשך פעילות צה\"ל נגד חמאס ברצועה.",
+   "change": "",
+   "next": "",
+   "status": "CLAIM",
+   "importance": 3,
+   "categories": [
+    "security"
+   ],
+   "kind": "event",
+   "entities": [
+    "עזה",
+    "חמאס",
+    "צה\"ל"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1375114",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1375303",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 1,
+   "firstSeen": "2026-10-09",
+   "lastUpdated": "2026-10-09"
+  }
+ ],
+ "filtered_out": 239,
+ "note": ""
+}

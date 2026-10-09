@@ -2,36 +2,6 @@
  "date": "2026-10-09",
  "articles": [
   {
-   "source": "BBC",
-   "outlet": "BBC",
-   "title": "US and Lebanon protecting wanted Syrian general, BBC finds",
-   "url": "https://www.bbc.co.uk/news/articles/c81dldewl5gwo?at_medium=RSS&at_campaign=rss",
-   "summary": "Bassam al-Hassan is being sheltered in return for information - including about abducted US reporter Austin Tice.",
-   "time": "2026-10-08T05:00:44+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
-   "source": "BBC",
-   "outlet": "BBC",
-   "title": "'Every day there is killing': Gazans face Israeli strikes despite ceasefire as peace deal stalls",
-   "url": "https://www.bbc.co.uk/news/articles/cmx2qlz7qrd4o?at_medium=RSS&at_campaign=rss",
-   "summary": "Many Palestinians are still living in cramped tent cities, with the US plan to end the war largely stalled.",
-   "time": "2026-10-08T05:06:09+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
-   "source": "NYT",
-   "outlet": "NYT",
-   "title": "3 Killed and Dozens Injured in Attacks on Saudi Airports, as Houthis Claim Strikes",
-   "url": "https://www.nytimes.com/2026/10/07/world/middleeast/saudi-arabia-airports-houthis.html",
-   "summary": "Residents of Saudi Arabia’s capital reported hearing booms on Thursday, a day after the Saudi government said two women and a Sudanese man died in strikes on two airports.",
-   "time": "2026-10-08T08:33:45+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
    "source": "Guardian",
    "outlet": "Guardian",
    "title": "Oil prices jump 5% on Middle East tensions and US hurricane threat",
@@ -3252,7 +3222,7 @@
    "type": "reporting"
   }
  ],
- "updated": "2026-10-09T10:39:47.696335+00:00",
+ "updated": "2026-10-09T17:09:08.928860+00:00",
  "clusters": [
   {
    "id": "de1712d870",
@@ -3367,56 +3337,6 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-10-08T22:12:40+03:00"
-    }
-   ]
-  },
-  {
-   "id": "9b52baf3c3",
-   "title": "3 Killed and Dozens Injured in Attacks on Saudi Airports, as Houthis Claim Strikes",
-   "sourceCount": 3,
-   "outlets": [
-    "BBC",
-    "Guardian",
-    "NYT"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 4,
-   "opinionOnly": false,
-   "firstSeen": "2026-10-08T08:33:45+00:00",
-   "lastSeen": "2026-10-09T10:07:04+00:00",
-   "articles": [
-    {
-     "source": "NYT",
-     "title": "3 Killed and Dozens Injured in Attacks on Saudi Airports, as Houthis Claim Strikes",
-     "url": "https://www.nytimes.com/2026/10/07/world/middleeast/saudi-arabia-airports-houthis.html",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-08T08:33:45+00:00"
-    },
-    {
-     "source": "NYT",
-     "title": "Houthi Attacks on Saudi Airports Prompt Mass Cancellations",
-     "url": "https://www.nytimes.com/2026/10/08/world/middleeast/saudi-yemen-houthis-attack.html",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-08T18:17:07+00:00"
-    },
-    {
-     "source": "Guardian",
-     "title": "Three Saudis killed in Riyadh airport attack claimed by Houthis",
-     "url": "https://www.theguardian.com/world/2026/oct/09/riyadh-airport-flights-suspended-houthis-claim-attack",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-09T09:47:10+00:00"
-    },
-    {
-     "source": "BBC",
-     "title": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
-     "url": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-09T10:07:04+00:00"
     }
    ]
   },
@@ -3559,6 +3479,48 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-10-08T19:20:09+03:00"
+    }
+   ]
+  },
+  {
+   "id": "4e2cb2b3fe",
+   "title": "Three Saudis killed in Riyadh airport attack claimed by Houthis",
+   "sourceCount": 3,
+   "outlets": [
+    "BBC",
+    "Guardian",
+    "NYT"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 3,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-08T18:17:07+00:00",
+   "lastSeen": "2026-10-09T10:07:04+00:00",
+   "articles": [
+    {
+     "source": "NYT",
+     "title": "Houthi Attacks on Saudi Airports Prompt Mass Cancellations",
+     "url": "https://www.nytimes.com/2026/10/08/world/middleeast/saudi-yemen-houthis-attack.html",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-08T18:17:07+00:00"
+    },
+    {
+     "source": "Guardian",
+     "title": "Three Saudis killed in Riyadh airport attack claimed by Houthis",
+     "url": "https://www.theguardian.com/world/2026/oct/09/riyadh-airport-flights-suspended-houthis-claim-attack",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-09T09:47:10+00:00"
+    },
+    {
+     "source": "BBC",
+     "title": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
+     "url": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-09T10:07:04+00:00"
     }
    ]
   },
@@ -4607,54 +4569,6 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-10-09T09:28:18+00:00"
-    }
-   ]
-  },
-  {
-   "id": "64542f3c27",
-   "title": "US and Lebanon protecting wanted Syrian general, BBC finds",
-   "sourceCount": 1,
-   "outlets": [
-    "BBC"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-10-08T05:00:44+00:00",
-   "lastSeen": "2026-10-08T05:00:44+00:00",
-   "articles": [
-    {
-     "source": "BBC",
-     "title": "US and Lebanon protecting wanted Syrian general, BBC finds",
-     "url": "https://www.bbc.co.uk/news/articles/c81dldewl5gwo?at_medium=RSS&at_campaign=rss",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-08T05:00:44+00:00"
-    }
-   ]
-  },
-  {
-   "id": "1d4d72e564",
-   "title": "'Every day there is killing': Gazans face Israeli strikes despite ceasefire as peace deal stalls",
-   "sourceCount": 1,
-   "outlets": [
-    "BBC"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-10-08T05:06:09+00:00",
-   "lastSeen": "2026-10-08T05:06:09+00:00",
-   "articles": [
-    {
-     "source": "BBC",
-     "title": "'Every day there is killing': Gazans face Israeli strikes despite ceasefire as peace deal stalls",
-     "url": "https://www.bbc.co.uk/news/articles/cmx2qlz7qrd4o?at_medium=RSS&at_campaign=rss",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-08T05:06:09+00:00"
     }
    ]
   },
@@ -9868,8 +9782,8 @@
   }
  ],
  "stats": {
-  "articles": 325,
-  "clusters": 250,
+  "articles": 322,
+  "clusters": 248,
   "multiSource": 21
  }
 }
