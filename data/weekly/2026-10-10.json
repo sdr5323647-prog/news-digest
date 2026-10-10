@@ -1,0 +1,580 @@
+{
+  "schema": 2,
+  "date": "2026-10-10",
+  "type": "weekly",
+  "headline": "השבוע: פרשת פליידובאי הגיעה לחשיפת כוונת הטייס, המתיחות מול איראן, הלחימה בתימן וסנקציות אמריקאיות על בית הדין בהאג",
+  "events": [
+    {
+      "id": "flydubai-attack",
+      "title": "פרשת פליידובאי: תביעת האמירויות מסרה כי הטייס המשנה תכנן לרסק את המטוס בנתב\"ג",
+      "summary": "לפי ynet, ישראל היום, אל-ג'זירה, הגרדיאן וניו יורק טיימס, התביעה באמירויות מסרה כי הטייס המשנה בטיסת פליי דובאי תכנן להתרסק עם המטוס בנמל התעופה בן גוריון. לפי הדיווחים הוא התאמן ולמד את המסלול מראש, ותהליך ההקצנה שלו החל באוסטרליה. מעריב מדווח במקביל על התייחסות לאיראן בפרשה, ו-ynet וישראל היום מדווחים על פקודה בצה\"ל לסיכול חטיפת מטוסים שהופעלה באירוע.",
+      "why": "לראשונה מפורסמת בידי גורם רשמי באמירויות מטרת המתקפה, והדבר משפיע על אבטחת התעופה ועל היחסים עם האמירויות.",
+      "change": "מאבטחים אוסטרליים בדקו את הקשר של הטייס המשנה, שב\"כ הגיע לאמירויות, נתניהו הנחה לבחון אבטחת תעופה זרה, ובסוף השבוע האמירויות מסרו שתכנן להתרסק בנתב\"ג.",
+      "next": "המשך החקירה באמירויות ובחינת אבטחת התעופה הזרה בישראל.",
+      "status": "VERIFIED",
+      "importance": 5,
+      "categories": [
+        "security",
+        "israel_world"
+      ],
+      "kind": "event",
+      "entities": [
+        "פרשת פליידובאי",
+        "אמירויות",
+        "אבטחת תעופה"
+      ],
+      "sources": [
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/r12g458sme",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/h1hqlqlogl",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21589622",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/9/flydubai-co-pilot-plotted-suicide-attack-on-israel-uae-says",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/09/flydubai-co-pilot-planned-suicide-attack-on-israeli-airport-uae-prosecutors-say",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "NYT",
+          "url": "https://www.nytimes.com/2026/10/09/world/middleeast/flydubai-pilot-attack.html",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "firstSeen": "2026-10-01",
+      "noise": [],
+      "sourceCount": 5,
+      "lastUpdated": "2026-10-10"
+    },
+    {
+      "id": "trump-iran-strike-plans",
+      "title": "טראמפ: ארה\"ב לא תתקוף את איראן לפני בחירות האמצע; דיווחים על היערכות למתקפה בת שלושה ימים",
+      "summary": "ynet, מעריב וישראל היום מדווחים כי טראמפ אמר שארה\"ב לא תתקוף באיראן לפני בחירות האמצע בנובמבר. במקביל, ynet וישראל היום מביאים דיווחים (שמקורם בארה\"ב) כי ארה\"ב נערכת למתקפה של שלושה ימים, כי טראמפ דחה עד כה כמה תוכניות תקיפה, וכי מתווכים ביקשו ממנו זמן נוסף למשא ומתן. הדיווחים על התוכניות לא אושרו רשמית.",
+      "why": "הצהרה על העיתוי האפשרי של תקיפה באיראן משפיעה על ההערכות הביטחוניות והכלכליות בישראל ובאזור.",
+      "change": "בתחילת השבוע דווח על בקשת טראמפ לתוכניות תקיפה; בסופו הצהיר כי לא תהיה תקיפה באיראן לפני בחירות האמצע.",
+      "next": "בחירות האמצע בארה\"ב בנובמבר; המשך המגעים עם איראן דרך מתווכים.",
+      "status": "VERIFIED",
+      "importance": 4,
+      "categories": [
+        "security",
+        "israel_world"
+      ],
+      "kind": "statement",
+      "entities": [
+        "איראן",
+        "ארה\"ב",
+        "טראמפ"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/S1ZTzBBiMl",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "מעריב",
+          "url": "https://www.maariv.co.il/breaking-news/article-1375124",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21584008",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/bkm6kqssfl",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 3,
+      "firstSeen": "2026-10-08",
+      "lastUpdated": "2026-10-10"
+    },
+    {
+      "id": "saudi-houthi-fighting",
+      "title": "שלושה סעודים נהרגו בתקיפות חות'ים על נמל התעופה בריאד; טיסות הושעו",
+      "summary": "לפי BBC והגרדיאן, שלושה אזרחים סעודים נהרגו בתקיפות על נמל התעופה בריאד, והחות'ים נטלו אחריות. הגרדיאן מדווח על השעיית טיסות, וה-New York Times על ביטולי טיסות רבים.",
+      "why": "פגיעה בתעופה האזרחית בסעודיה מעידה על הסלמה שמאיימת על יציבות המפרץ.",
+      "change": "מתקפת כוחות הממשלה בתימן בסיוע סעודיה, ובהמשך תקיפות חות'ים קטלניות על נמלי תעופה בסעודיה, כולל שלושה הרוגים בריאד.",
+      "next": "",
+      "status": "VERIFIED",
+      "importance": 3,
+      "categories": [
+        "security",
+        "world"
+      ],
+      "kind": "event",
+      "entities": [
+        "חות'ים",
+        "סעודיה",
+        "תימן"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/09/riyadh-airport-flights-suspended-houthis-claim-attack",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "NYT",
+          "url": "https://www.nytimes.com/2026/10/08/world/middleeast/saudi-yemen-houthis-attack.html",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 3,
+      "firstSeen": "2026-10-03",
+      "lastUpdated": "2026-10-10"
+    },
+    {
+      "id": "us-icc-sanctions",
+      "title": "ארה\"ב הטילה סנקציות על בית הדין הפלילי הבינלאומי בהאג",
+      "summary": "לפי ynet, ישראל היום ואל-ג'זירה, ארה\"ב הטילה סנקציות על בית הדין הפלילי הבינלאומי. נשיא בית הדין מסר בתגובה כי מדובר במתקפה על מדינות ריבוניות ו\"ההיסטוריה תשפוט את הרגע\". האיחוד האירופי, בריטניה, גרמניה, יפן, קנדה ומזכ\"ל האו\"ם גינו את הצעד.",
+      "why": "בית הדין מנהל הליכים הנוגעים גם לישראל, והסנקציות משנות את מאזן הלחצים סביבו.",
+      "next": "תגובות נוספות של מדינות חברות בבית הדין.",
+      "status": "VERIFIED",
+      "importance": 4,
+      "categories": [
+        "law",
+        "world",
+        "israel_world"
+      ],
+      "kind": "decision",
+      "entities": [
+        "בית הדין הפלילי הבינלאומי",
+        "ארה\"ב",
+        "סנקציות"
+      ],
+      "sources": [
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/hkehuu8jzx",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21589234",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "firstSeen": "2026-10-10",
+      "change": "",
+      "noise": [],
+      "sourceCount": 3,
+      "lastUpdated": "2026-10-10"
+    },
+    {
+      "id": "trump-russia-diesel-deal",
+      "title": "טראמפ הודיע על רכישת דלק דיזל מרוסיה והקלה בסנקציות; פוטין: סיכויי השיחות על אוקראינה נמוכים",
+      "summary": "לפי ynet, מעריב, ישראל היום, ניו יורק טיימס ואל-ג'זירה, טראמפ הודיע כי רוסיה תספק לארה\"ב כ-300 אלף טון דלק, ובעקבות זאת יוקלו סנקציות על רוסיה, על רקע עליית מחירי הדלק בארה\"ב. זלנסקי מתח ביקורת על המהלך. לפי אל-ג'זירה, פוטין אמר לטראמפ ששיחות שלום אינן סבירות, ואוקראינה תקפה אתר דלק ברוסיה. ynet מדווח על 8 הרוגים בהתקפה רוסית בזפוריז'יה.",
+      "why": "הקלה בסנקציות על רוסיה משנה את מאזן הלחצים במלחמה באוקראינה ומשפיעה על שוקי האנרגיה.",
+      "status": "VERIFIED",
+      "importance": 4,
+      "categories": [
+        "world",
+        "economy"
+      ],
+      "kind": "decision",
+      "entities": [
+        "רוסיה",
+        "אוקראינה",
+        "טראמפ",
+        "מחירי אנרגיה"
+      ],
+      "next": "תגובת אוקראינה ובעלות בריתה, והמשך שיחות השלום.",
+      "sources": [
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/hydoknijmx",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "מעריב",
+          "url": "https://www.maariv.co.il/breaking-news/article-1375456",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21590071",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "NYT",
+          "url": "https://www.nytimes.com/2026/10/09/us/politics/trump-russia-diesel-putin.html",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/10/9/trump-announces-russian-diesel-deal-amid-soaring-us-fuel-prices",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "firstSeen": "2026-10-10",
+      "change": "",
+      "noise": [],
+      "sourceCount": 5,
+      "lastUpdated": "2026-10-10"
+    },
+    {
+      "id": "iran-nuclear-site-rebuild",
+      "title": "תמונות לוויין: פעילות מחודשת באתר גרעין באיראן שישראל תקפה",
+      "summary": "לפי ynet וישראל היום, תמונות לוויין חשפו פעילות מחודשת באתר גרעין באיראן שישראל תקפה בעבר, ולפי הדיווחים איראן משקמת את המתחם.",
+      "why": "שיקום אתרי גרעין שנפגעו משפיע על הערכות הסיכון מול איראן ועל המגעים בינה לבין ארה\"ב.",
+      "change": "",
+      "next": "תגובות ישראליות ואמריקניות, והשפעה על המגעים מול איראן.",
+      "status": "VERIFIED",
+      "importance": 4,
+      "categories": [
+        "security",
+        "israel_world"
+      ],
+      "kind": "data",
+      "entities": [
+        "איראן",
+        "תוכנית הגרעין"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/syn9n0zifl",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21568679",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 2,
+      "firstSeen": "2026-10-07",
+      "lastUpdated": "2026-10-10"
+    },
+    {
+      "id": "sinwar-successor-strike",
+      "title": "צה\"ל מאשר: ניסה לחסל הלילה את יורשו של סינוואר, התוצאות בבדיקה",
+      "summary": "לפי ynet, צה\"ל אישר שניסה לחסל בלילה את מי שמכונה \"היורש של סינוואר\" בעזה, והתוצאות נבדקות. ישראל היום מדווח על הערכה בחמאס בעקבות הניסיון ועל הנחיה דחופה שניתנה לפעילים.",
+      "why": "חיסול מנהיג בכיר בחמאס עשוי להשפיע על המשך הלחימה בעזה.",
+      "change": "צה\"ל אישר את הניסיון; אתמול דווח עליו רק בעזה.",
+      "next": "תוצאות הבדיקה והתגובה של חמאס.",
+      "status": "VERIFIED",
+      "importance": 4,
+      "categories": [
+        "security"
+      ],
+      "kind": "event",
+      "entities": [
+        "חמאס",
+        "עזה",
+        "סינוואר"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/h1001z0rcml",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21542127",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "מעריב",
+          "url": "https://www.maariv.co.il/breaking-news/article-1373167",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 3,
+      "firstSeen": "2026-10-03",
+      "lastUpdated": "2026-10-10"
+    },
+    {
+      "id": "haredi-draft-modiin",
+      "title": "מהומות חרדים במודיעין בעקבות מעצר עריק; צה\"ל הודה בדיון אצל היועמ\"שית שנמנע ממעצרים יזומים",
+      "summary": "לפי ynet ומעריב, חרדים התפרעו במודיעין בעקבות פעילות למעצר עריק, והעריק שוחרר; ישראל היום מדווח על חילופי האשמות בין צה\"ל למשטרה מי החליט על שחרורו. דובר צה\"ל אמר שפעולות האכיפה נגד עריקים תימשכנה. לפי ynet וישראל היום, צה\"ל הודה בדיון אצל היועמ\"שית שנמנע ממעצרים יזומים של עריקים, והיועמ\"שית אמרה שהדבר \"לא הולם את צורכי הביטחון\". גדי איזנקוט גינה את האירועים ואמר שהם הופכים השתמטות לנורמה.",
+      "why": "הפרשה נוגעת לאכיפת גיוס החרדים, ליחסי צה\"ל, המשטרה והיועצת המשפטית, ולמחלוקת הפוליטית על השתמטות.",
+      "change": "",
+      "next": "המשך אכיפה נגד עריקים והתייחסות היועמ\"שית לצעדים שנמנעו.",
+      "status": "VERIFIED",
+      "importance": 4,
+      "categories": [
+        "society",
+        "law",
+        "politics"
+      ],
+      "kind": "dispute",
+      "entities": [
+        "גיוס חרדים",
+        "עריקים",
+        "צה\"ל",
+        "היועמ\"שית"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/r152i911sgg",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "מעריב",
+          "url": "https://www.maariv.co.il/breaking-news/article-1374064",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "מעריב",
+          "url": "https://www.maariv.co.il/breaking-news/article-1374146",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/news/crime/article/21563835",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/hyusdefjfl",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/news/law/article/21563073",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "מעריב",
+          "url": "https://www.maariv.co.il/breaking-news/article-1374104",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 3,
+      "firstSeen": "2026-10-06",
+      "lastUpdated": "2026-10-10"
+    },
+    {
+      "id": "uk-israel-consulate",
+      "title": "הקונסוליה הבריטית במזרח ירושלים הופכת ל\"נציגות\"; רוב הדיפלומטים יעזבו, לפי ישראל",
+      "summary": "לפי BBC, ישראל מסרה כי רוב הדיפלומטים הבריטים יעזבו את הקונסוליה במזרח ירושלים. שר החוץ הבריטי מיליבנד אמר כי \"שירותים חיוניים\" יימשכו. לפי אל-ג'זירה והגרדיאן, השילוט הוסר והקונסוליה תפעל כנציגות בריטית.",
+      "why": "המהלך מבטא משבר דיפלומטי בין ישראל לבריטניה סביב מעמד מזרח ירושלים.",
+      "change": "המועד שקבעה ישראל חלף: השילוט הוסר, הקונסוליה הוגדרה מחדש כנציגות ורוב הדיפלומטים יעזבו.",
+      "next": "",
+      "status": "VERIFIED",
+      "importance": 4,
+      "categories": [
+        "politics",
+        "israel_world"
+      ],
+      "kind": "decision",
+      "entities": [
+        "בריטניה",
+        "מזרח ירושלים",
+        "קונסוליה"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/07/uk-consulate-east-jerusalem-prepares-close-israel",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/israels-deadline-to-close-uk-consulate-in-east-jerusalem-nears",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/8/signage-at-uk-consulate-in-east-jerusalem-removed-as-israels-deadline-over",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/video-signs-removed-from-british-consulate-in-occupied-east-jerusalem",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "Guardian",
+          "url": "https://www.theguardian.com/politics/2026/oct/08/uk-consulate-east-jerusalem-remain-open-uk-mission-ed-miliband",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 3,
+      "firstSeen": "2026-10-06",
+      "lastUpdated": "2026-10-10"
+    },
+    {
+      "id": "solberg-netanyahu-video",
+      "title": "יו\"ר ועדת הבחירות סולברג הורה להסיר מחשבונותיו של נתניהו סרטון שצולם בבסיס חיל האוויר",
+      "summary": "לפי ynet וישראל היום, יו\"ר ועדת הבחירות המרכזית, השופט נעם סולברג, קבע שסרטון האזהרה שצילם ראש הממשלה נתניהו בבסיס חיל האוויר יוסר מחשבונותיו האישיים. ישראל היום מגדיר זאת כהחלטה נגד נתניהו בעניין תעמולה מבסיס צבאי.",
+      "why": "ההחלטה מציבה גבול לשימוש בתשתיות צבאיות לתעמולה בתקופת בחירות.",
+      "change": "",
+      "next": "האם נתניהו יציית להחלטה או יערער עליה.",
+      "status": "VERIFIED",
+      "importance": 4,
+      "categories": [
+        "politics",
+        "law"
+      ],
+      "kind": "legal",
+      "entities": [
+        "נתניהו",
+        "ועדת הבחירות",
+        "בחירות 2026"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/synlzozsgg",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/news/politics/article/21567310",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 2,
+      "firstSeen": "2026-10-07",
+      "lastUpdated": "2026-10-10"
+    },
+    {
+      "id": "oct7-memorial-day",
+      "title": "טקס הזיכרון הלאומי לשלוש שנים לטבח ה-7 באוקטובר: קריאות לחקירת האמת",
+      "summary": "לפי ynet, מעריב וישראל היום, טקס הזיכרון הלאומי של משפחות 7 באוקטובר נפתח בדקת דומייה. ניצול הטבח בבארי אמר בטקס כי \"ללא חקירת האמת לא נוכל לתקן\", ושורד השבי אלי שרעבי קרא לחקור איך האירוע קרה.",
+      "why": "הדרישה לחקירה ממלכתית ממשיכה להיות במוקד הוויכוח הציבורי לקראת הבחירות.",
+      "change": "טקסי הזיכרון לשלוש שנים לטבח, וקריאות לחקירת אמת; בהמשך פנה איזנקוט ליועמ\"שית בעניין הצהרה על 7 באוקטובר.",
+      "next": "",
+      "status": "VERIFIED",
+      "importance": 3,
+      "categories": [
+        "society",
+        "politics"
+      ],
+      "kind": "event",
+      "entities": [
+        "7 באוקטובר",
+        "ועדת חקירה"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/news/local/article/21576196",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "מעריב",
+          "url": "https://www.maariv.co.il/breaking-news/article-1374787",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/hygt211nszx",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/bytnwfvizx",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "מעריב",
+          "url": "https://www.maariv.co.il/breaking-news/article-1375132",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/bj12d4sszg",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 3,
+      "firstSeen": "2026-10-05",
+      "lastUpdated": "2026-10-10"
+    }
+  ],
+  "unverified": [],
+  "filtered_out": 0,
+  "note": "סיכום 4–10 באוקטובר, מבוסס על הדיגסטים היומיים של השבוע."
+}

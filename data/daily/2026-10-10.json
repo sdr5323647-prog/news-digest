@@ -1,0 +1,330 @@
+{
+  "schema": 2,
+  "date": "2026-10-10",
+  "type": "daily",
+  "headline": "פרשת פליידובאי: האמירויות מסרו שהטייס תכנן להתרסק בנתב\"ג; ארה\"ב הטילה סנקציות על בית הדין בהאג; טראמפ מקל על רוסיה.",
+  "events": [
+    {
+      "id": "flydubai-attack",
+      "title": "פרשת פליידובאי: תביעת האמירויות מסרה כי הטייס המשנה תכנן לרסק את המטוס בנתב\"ג",
+      "summary": "לפי ynet, ישראל היום, אל-ג'זירה, הגרדיאן וניו יורק טיימס, התביעה באמירויות מסרה כי הטייס המשנה בטיסת פליי דובאי תכנן להתרסק עם המטוס בנמל התעופה בן גוריון. לפי הדיווחים הוא התאמן ולמד את המסלול מראש, ותהליך ההקצנה שלו החל באוסטרליה. מעריב מדווח במקביל על התייחסות לאיראן בפרשה, ו-ynet וישראל היום מדווחים על פקודה בצה\"ל לסיכול חטיפת מטוסים שהופעלה באירוע.",
+      "why": "לראשונה מפורסמת בידי גורם רשמי באמירויות מטרת המתקפה, והדבר משפיע על אבטחת התעופה ועל היחסים עם האמירויות.",
+      "change": "התביעה באמירויות פרסמה את ממצאי החקירה: כוונה להתרסק בנתב\"ג, אימונים מוקדמים והקצנה שהחלה באוסטרליה.",
+      "next": "המשך החקירה באמירויות ובחינת אבטחת התעופה הזרה בישראל.",
+      "status": "VERIFIED",
+      "importance": 5,
+      "categories": [
+        "security",
+        "israel_world"
+      ],
+      "kind": "event",
+      "entities": [
+        "פרשת פליידובאי",
+        "אמירויות",
+        "אבטחת תעופה"
+      ],
+      "sources": [
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/r12g458sme",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/h1hqlqlogl",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21589622",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/9/flydubai-co-pilot-plotted-suicide-attack-on-israel-uae-says",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/09/flydubai-co-pilot-planned-suicide-attack-on-israeli-airport-uae-prosecutors-say",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "NYT",
+          "url": "https://www.nytimes.com/2026/10/09/world/middleeast/flydubai-pilot-attack.html",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "firstSeen": "2026-10-01",
+      "noise": [],
+      "sourceCount": 5,
+      "lastUpdated": "2026-10-10"
+    },
+    {
+      "id": "us-icc-sanctions",
+      "title": "ארה\"ב הטילה סנקציות על בית הדין הפלילי הבינלאומי בהאג",
+      "summary": "לפי ynet, ישראל היום ואל-ג'זירה, ארה\"ב הטילה סנקציות על בית הדין הפלילי הבינלאומי. נשיא בית הדין מסר בתגובה כי מדובר במתקפה על מדינות ריבוניות ו\"ההיסטוריה תשפוט את הרגע\". האיחוד האירופי, בריטניה, גרמניה, יפן, קנדה ומזכ\"ל האו\"ם גינו את הצעד.",
+      "why": "בית הדין מנהל הליכים הנוגעים גם לישראל, והסנקציות משנות את מאזן הלחצים סביבו.",
+      "next": "תגובות נוספות של מדינות חברות בבית הדין.",
+      "status": "VERIFIED",
+      "importance": 4,
+      "categories": [
+        "law",
+        "world",
+        "israel_world"
+      ],
+      "kind": "decision",
+      "entities": [
+        "בית הדין הפלילי הבינלאומי",
+        "ארה\"ב",
+        "סנקציות"
+      ],
+      "sources": [
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/hkehuu8jzx",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21589234",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "firstSeen": "2026-10-10",
+      "change": "",
+      "noise": [],
+      "sourceCount": 3,
+      "lastUpdated": "2026-10-10"
+    },
+    {
+      "id": "trump-russia-diesel-deal",
+      "title": "טראמפ הודיע על רכישת דלק דיזל מרוסיה והקלה בסנקציות; פוטין: סיכויי השיחות על אוקראינה נמוכים",
+      "summary": "לפי ynet, מעריב, ישראל היום, ניו יורק טיימס ואל-ג'זירה, טראמפ הודיע כי רוסיה תספק לארה\"ב כ-300 אלף טון דלק, ובעקבות זאת יוקלו סנקציות על רוסיה, על רקע עליית מחירי הדלק בארה\"ב. זלנסקי מתח ביקורת על המהלך. לפי אל-ג'זירה, פוטין אמר לטראמפ ששיחות שלום אינן סבירות, ואוקראינה תקפה אתר דלק ברוסיה. ynet מדווח על 8 הרוגים בהתקפה רוסית בזפוריז'יה.",
+      "why": "הקלה בסנקציות על רוסיה משנה את מאזן הלחצים במלחמה באוקראינה ומשפיעה על שוקי האנרגיה.",
+      "status": "VERIFIED",
+      "importance": 4,
+      "categories": [
+        "world",
+        "economy"
+      ],
+      "kind": "decision",
+      "entities": [
+        "רוסיה",
+        "אוקראינה",
+        "טראמפ",
+        "מחירי אנרגיה"
+      ],
+      "next": "תגובת אוקראינה ובעלות בריתה, והמשך שיחות השלום.",
+      "sources": [
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/hydoknijmx",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "מעריב",
+          "url": "https://www.maariv.co.il/breaking-news/article-1375456",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21590071",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "NYT",
+          "url": "https://www.nytimes.com/2026/10/09/us/politics/trump-russia-diesel-putin.html",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/10/9/trump-announces-russian-diesel-deal-amid-soaring-us-fuel-prices",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "firstSeen": "2026-10-10",
+      "change": "",
+      "noise": [],
+      "sourceCount": 5,
+      "lastUpdated": "2026-10-10"
+    },
+    {
+      "id": "panama-earthquake",
+      "title": "רעידת אדמה בעוצמה של כ-7.6 פגעה בפנמה; אזהרת הצונאמי בוטלה",
+      "summary": "לפי ynet, מעריב וישראל היום, רעידת אדמה בעוצמה 7.6 הורגשה בפנמה סיטי; אל-ג'זירה מדווחת על 7.7. ynet מדווח על 27 פצועים בבירה, על רעידה נוספת בעוצמה 6.6, על ביטול אזהרת הצונאמי בארה\"ב ועל פתיחה מחודשת של נמל התעופה.",
+      "why": "אסון טבע גדול ברוחב אזורי; אין דיווח על ישראלים שנפגעו.",
+      "status": "VERIFIED",
+      "importance": 3,
+      "categories": [
+        "world"
+      ],
+      "kind": "event",
+      "entities": [
+        "פנמה",
+        "רעידת אדמה"
+      ],
+      "sources": [
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/ryrcajismg",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "מעריב",
+          "url": "https://www.maariv.co.il/breaking-news/article-1375400",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/news/world-news/article/21589930",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "firstSeen": "2026-10-10",
+      "change": "",
+      "next": "",
+      "noise": [],
+      "sourceCount": 4,
+      "lastUpdated": "2026-10-10"
+    },
+    {
+      "id": "pa-elections-postponed",
+      "title": "הרשות הפלסטינית: הבחירות לפרלמנט הפלסטיני יידחו",
+      "summary": "לפי ניו יורק טיימס, הרשות הפלסטינית מסרה כי הבחירות ידחו. אתמול פורסמו על כך דיווחים לא רשמיים.",
+      "why": "דחיית הבחירות משפיעה על היציבות הפוליטית ברשות ועל הדיון בעתיד הרצועה.",
+      "change": "הדחייה פורסמה כעת בידי הרשות עצמה, לפי ניו יורק טיימס, ולא רק בדיווחים.",
+      "status": "REPORTED",
+      "importance": 3,
+      "categories": [
+        "politics",
+        "israel_world"
+      ],
+      "kind": "statement",
+      "entities": [
+        "הרשות הפלסטינית",
+        "בחירות פלסטיניות"
+      ],
+      "sources": [
+        {
+          "name": "NYT",
+          "url": "https://www.nytimes.com",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "firstSeen": "2026-10-09",
+      "next": "",
+      "noise": [],
+      "sourceCount": 1,
+      "lastUpdated": "2026-10-10"
+    }
+  ],
+  "unverified": [
+    {
+      "id": "lebanon-syria-border-strike",
+      "title": "צה\"ל: תקפנו בגבול לבנון-סוריה מחבל שפעל בהכוונת איראן; בלבנון דווח על תקיפות ופצועים",
+      "summary": "לפי הודעת צה\"ל כפי שדווחה ב-ynet ובמעריב, הצבא תקף בגבול לבנון-סוריה פעיל סורי שקידם מתווי טרור בהכוונת איראן. לפי אל-ג'זירה ו-ynet, בלבנון דווחו תקיפות ישראליות במזרח ובדרום המדינה, ושישה נפצעו. זהות הנתקף והיקף הפגיעה לא אומתו ממקור עצמאי.",
+      "why": "המשך פעילות צה\"ל בלבנון ובגבול סוריה על רקע המתיחות עם איראן.",
+      "status": "CLAIM",
+      "importance": 3,
+      "categories": [
+        "security"
+      ],
+      "kind": "event",
+      "entities": [
+        "לבנון",
+        "סוריה",
+        "איראן",
+        "צה\"ל"
+      ],
+      "sources": [
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/bymhnilogg",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "מעריב",
+          "url": "https://www.maariv.co.il/breaking-news/article-1375391",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "firstSeen": "2026-10-10",
+      "change": "",
+      "next": "",
+      "noise": [],
+      "sourceCount": 3,
+      "lastUpdated": "2026-10-10"
+    },
+    {
+      "id": "iran-us-drone-claim",
+      "title": "דיווחים באיראן: מטוס ריגול אמריקאי הופל",
+      "summary": "על פי דיווח של מעריב, בכלי תקשורת באיראן דווח על הפלת מטוס ריגול אמריקאי. לא פורסם אישור מארה\"ב או ממקור עצמאי.",
+      "why": "אם יאושר, מדובר בהסלמה ישירה מול ארה\"ב על רקע המתיחות סביב תוכנית הגרעין.",
+      "status": "UNCONFIRMED",
+      "importance": 4,
+      "categories": [
+        "security",
+        "israel_world"
+      ],
+      "kind": "event",
+      "entities": [
+        "איראן",
+        "ארה\"ב"
+      ],
+      "sources": [
+        {
+          "name": "מעריב",
+          "url": "https://www.maariv.co.il",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "firstSeen": "2026-10-10",
+      "change": "",
+      "next": "",
+      "noise": [],
+      "sourceCount": 1,
+      "lastUpdated": "2026-10-10"
+    }
+  ],
+  "filtered_out": 170,
+  "note": ""
+}
