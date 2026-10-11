@@ -1,0 +1,298 @@
+{
+ "schema": 2,
+ "date": "2026-10-11",
+ "type": "daily",
+ "headline": "מתקפה חות'ית קטלנית על נמל התעופה בריאד, מנדלבליט העיד במשפט נתניהו וטראמפ קורא להחלפת נשיא אוקראינה.",
+ "events": [
+  {
+   "id": "saudi-houthi-fighting",
+   "title": "מתקפת החות'ים על נמל התעופה בריאד: 12 הרוגים ויותר מ-300 פצועים; טראמפ שוקל להצטרף לתקיפות נגד החות'ים",
+   "summary": "לפי אל-ג'זירה, 12 בני אדם נהרגו ויותר מ-300 נפצעו בתקיפה החות'ית על נמל התעופה בריאד. לפי ynet, סעודיה מסרה כי מספר הפצועים עלה ל-309, ומזכיר המדינה האמריקני רוביו אישר שאזרח אמריקני נהרג. אל-ג'זירה מדווחת שטראמפ אמר כי ארה\"ב \"אולי\" תצטרף לתקיפות סעודיות נגד החות'ים, ושורת מדינות וגורמים, בהם מזכ\"ל האו\"ם ופקיסטן, גינו את המתקפה.",
+   "why": "פגיעה המונית באזרחים בנמל תעופה מרכזי והסלמה אזורית שעלולה להרחיב את מעורבות ארה\"ב במלחמה.",
+   "change": "מספר ההרוגים והפצועים עלה משמעותית (12 הרוגים, 309 פצועים), אזרח אמריקני נמנה עם ההרוגים, וטראמפ לא שלל הצטרפות לתקיפות נגד החות'ים.",
+   "next": "שיחת טראמפ עם יורש העצר הסעודי והחלטה אפשרית על מעורבות אמריקנית.",
+   "status": "VERIFIED",
+   "importance": 5,
+   "categories": [
+    "security",
+    "israel_world",
+    "world"
+   ],
+   "kind": "event",
+   "entities": [
+    "חות'ים",
+    "סעודיה",
+    "ארה\"ב",
+    "איראן"
+   ],
+   "sources": [
+    {
+     "name": "Guardian",
+     "url": "https://www.theguardian.com/world/2026/oct/10/yemen-government-allied-forces-recapture-bab-al-mandab-strait-houthis-taiz",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/10/attack-on-airport-in-saudi-capital-riyadh-leaves-several-injured?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/damage-seen-inside-saudi-airport-after-third-attack-this-week?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/bk3cq4oofe",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/b1xwp800imx",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "firstSeen": "2026-10-03",
+   "noise": [],
+   "lastUpdated": "2026-10-11",
+   "sourceCount": 4
+  },
+  {
+   "id": "mandelblit-testimony",
+   "title": "מנדלבליט העיד במשפט נתניהו; נתניהו נכח באולם",
+   "summary": "לפי ynet, ישראל היום ומעריב, היועץ המשפטי לשעבר אביחי מנדלבליט עלה לדוכן העדים במשפט נתניהו ונתניהו נכח באולם. מעריב מדווח כי העדות הסתיימה לאחר שעות. שר החוץ סער התייחס למשפט כאל \"רדיפה\".",
+   "why": "עדותו של מי שהגיש את כתבי האישום היא שלב מרכזי במשפט ראש הממשלה, כשהבחירות מתקרבות.",
+   "next": "המשך עדות מנדלבליט ועדות נוספות במשפט.",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "law",
+    "politics"
+   ],
+   "kind": "legal",
+   "entities": [
+    "נתניהו",
+    "משפט נתניהו",
+    "מנדלבליט"
+   ],
+   "sources": [
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/geopolitics/article/21594289",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1375709",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/law/article/21594660",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1375716",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/rj67y900ife",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "firstSeen": "2026-10-11",
+   "change": "",
+   "noise": [],
+   "lastUpdated": "2026-10-11",
+   "sourceCount": 3
+  },
+  {
+   "id": "trump-ukraine-new-president",
+   "title": "טראמפ: אוקראינה זקוקה לנשיא חדש; קרא לקיים בחירות",
+   "summary": "לפי ynet, ישראל היום ואל-ג'זירה, טראמפ אמר כי הגיע הזמן שלאוקראינה יהיה נשיא חדש שיסכים לסיים את המלחמה. לפי אל-ג'זירה הוא קרא לקיים בחירות באוקראינה וטען כי זלנסקי נכשל בסיום המלחמה.",
+   "why": "קריאה של נשיא ארה\"ב להחלפת ההנהגה באוקראינה משנה את הלחץ על קייב ואת מאזן המגעים עם רוסיה.",
+   "next": "תגובת קייב ואירופה.",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "world",
+    "politics"
+   ],
+   "kind": "statement",
+   "entities": [
+    "טראמפ",
+    "אוקראינה",
+    "זלנסקי",
+    "רוסיה"
+   ],
+   "sources": [
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/world-news/europe/article/21591307",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/hymw1edozl",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/trump-calls-for-new-president-in-ukraine?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/10/trump-says-ukraine-needs-a-new-president-who-will-agree-to-end-the-war?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/trump-calls-for-ukraine-election-says-zelenskyy-failed-to-end-war?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "firstSeen": "2026-10-11",
+   "change": "",
+   "noise": [],
+   "lastUpdated": "2026-10-11",
+   "sourceCount": 3
+  },
+  {
+   "id": "djibouti-migrant-boat",
+   "title": "ג'יבוטי: לפחות 109 הרוגים ויותר מ-100 נעדרים בטביעת סירת מהגרים",
+   "summary": "לפי הגרדיאן ואל-ג'זירה, סירה שהובילה מהגרים התהפכה מול חופי ג'יבוטי. לפחות 109 בני אדם נהרגו, בהם ילדים, ויותר מ-100 נעדרים.",
+   "why": "אחד האסונות הקשים בנתיב ההגירה מהקרן האפריקנית לחצי האי ערב.",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "world"
+   ],
+   "kind": "event",
+   "entities": [
+    "ג'יבוטי",
+    "הגירה"
+   ],
+   "sources": [
+    {
+     "name": "Guardian",
+     "url": "https://www.theguardian.com/world/2026/oct/11/deaths-migrant-boat-capsizes-djibouti",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/11/at-least-109-dead-over-100-missing-as-migrant-boat-capsizes-off-djibouti?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "firstSeen": "2026-10-11",
+   "change": "",
+   "noise": [],
+   "lastUpdated": "2026-10-11",
+   "sourceCount": 2
+  },
+  {
+   "id": "pope-surgery",
+   "title": "האפיפיור יעבור ניתוח בימים הקרובים לאחר שאותר נזק בריאה",
+   "summary": "לפי ynet ומעריב, אצל האפיפיור אותר ממצא בריאה בשלב מוקדם, והוא עתיד לעבור ניתוח בימים הקרובים.",
+   "why": "מצבו הרפואי של מנהיג הכנסייה הקתולית, בעלת מיליארד מאמינים.",
+   "next": "מועד הניתוח והודעות הוותיקן.",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "world",
+    "judaism"
+   ],
+   "kind": "event",
+   "entities": [
+    "האפיפיור",
+    "הוותיקן"
+   ],
+   "sources": [
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1375938",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/b1ltsjkjmg",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "firstSeen": "2026-10-11",
+   "change": "",
+   "noise": [],
+   "lastUpdated": "2026-10-11",
+   "sourceCount": 2
+  }
+ ],
+ "unverified": [
+  {
+   "id": "katz-hamas-threat",
+   "title": "שר הביטחון כ\"ץ איים על ראש הלשכה המדינית של חמאס חליל אל חייא",
+   "summary": "לפי ynet ומעריב, כ\"ץ טען כי ישראל חיסלה את ראשי חמאס בעזה ואמר כי \"תורו של חליל אל חייא יגיע\". כ\"ץ גם תקף את ארדואן. מדובר בהצהרה של שר בישראל, לא בהחלטה מבצעית שפורסמה.",
+   "why": "איום מפורש מצד שר הביטחון על בכיר חמאס בחו\"ל, עם השלכות אפשריות על יחסי ישראל וטורקיה.",
+   "status": "CLAIM",
+   "importance": 3,
+   "categories": [
+    "security",
+    "israel_world"
+   ],
+   "kind": "statement",
+   "entities": [
+    "כ\"ץ",
+    "חמאס",
+    "טורקיה"
+   ],
+   "sources": [
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1375958",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/r1f75xfjfl",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "firstSeen": "2026-10-11",
+   "change": "",
+   "noise": [],
+   "lastUpdated": "2026-10-11",
+   "sourceCount": 2
+  }
+ ],
+ "filtered_out": 320,
+ "note": ""
+}
