@@ -1,0 +1,492 @@
+{
+ "schema": 2,
+ "date": "2026-10-12",
+ "type": "daily",
+ "headline": "תקיפה חות'ית שנייה בנמל התעופה בריאד, עימות בעדות מנדלבליט במשפט נתניהו, ובנט מציג תוכנית גיוס לקראת הבחירות.",
+ "events": [
+  {
+   "id": "saudi-houthi-fighting",
+   "title": "התקיפה החות'ית השנייה בנמל התעופה בריאד: אזרח פקיסטני נהרג ו-11 נפצעו; סעודיה מבטיחה \"תגובה רצינית\"",
+   "summary": "לפי סעודיה, כפי שדווח ב-BBC ובאל-ג'זירה, אזרח פקיסטני נהרג ו-11 בני אדם נפצעו בתקיפה חות'ית נוספת על נמל התעופה בריאד, יומיים אחרי התקיפה שבה נהרגו 12. לפי BBC, שר סעודי הבטיח \"תגובה רצינית\". לפי אל-ג'זירה ומעריב, שרי החוץ של סעודיה ואיראן שוחחו ואיראן קראה לסעודיה לנקוט דיפלומטיה, ומדינות פרסמו אזהרות נסיעה לסעודיה.",
+   "why": "פגיעות חוזרות בנמל תעופה מרכזי בסעודיה מעמיקות את ההסלמה האזורית ועלולות להרחיב את מעורבות ארה\"ב ואיראן.",
+   "change": "תקיפה שנייה בנמל התעופה (הרוג אחד, 11 פצועים), הבטחה סעודית ל\"תגובה רצינית\", שיחת שרי החוץ של סעודיה ואיראן ואזהרות נסיעה.",
+   "next": "תגובה סעודית אפשרית נגד החות'ים והחלטת ארה\"ב אם להצטרף.",
+   "status": "VERIFIED",
+   "importance": 5,
+   "categories": [
+    "security",
+    "israel_world",
+    "world"
+   ],
+   "kind": "event",
+   "entities": [
+    "חות'ים",
+    "סעודיה",
+    "ארה\"ב",
+    "איראן"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/12/saudi-arabia-says-1-dead-11-injured-in-latest-attack-on-riyadh-airport",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Guardian",
+     "url": "https://www.theguardian.com/world/2026/oct/11/saudi-coalition-retaliation-houthi-attack-riyadh-airport",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/hyh27qtsfg",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1376124",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 5,
+   "firstSeen": "2026-10-03",
+   "lastUpdated": "2026-10-12"
+  },
+  {
+   "id": "mandelblit-testimony",
+   "title": "עדות מנדלבליט במשפט נתניהו הופסקה אחרי עימות בין הסנגור לתביעה; בליכוד דורשים לסגור את המשפט",
+   "summary": "לפי ynet ומעריב, עדותו של אביחי מנדלבליט הופסקה לאחר עימות חריף בין עו\"ד חדד, מהצד של נתניהו, לבין התובעת תירוש. לפי ynet, אחרי העדות פנה ח\"כ אוחנה לנשיא הרצוג בבקשה \"לחון את נתניהו\", ובליכוד קראו לעצור את העד ולסגור את המשפט. אלה דרישות של פוליטיקאים, ולא החלטה של בית המשפט.",
+   "why": "המשפט הפלילי של ראש הממשלה נמשך בעיצומו של קמפיין בחירות, וההחלטות בו עשויות להשפיע על המערכת הפוליטית.",
+   "change": "הדיון הופסק בעקבות עימות בין הצדדים; הליכוד דורש לסגור את המשפט ואוחנה פנה להרצוג בבקשת חנינה.",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "law",
+    "politics"
+   ],
+   "kind": "legal",
+   "entities": [
+    "נתניהו",
+    "משפט נתניהו",
+    "מנדלבליט"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/b17wrz5szx",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1376223",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/ry7vyxfogg",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/hklw0qtimx",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-10-11",
+   "lastUpdated": "2026-10-12"
+  },
+  {
+   "id": "netanyahu-naza-probe",
+   "title": "נתניהו דורש לפתוח בחקירה נגד משתתפי הסרט \"נז\"א\" ולהעמיד אותם לדין",
+   "summary": "לפי מעריב, ynet וישראל היום, נתניהו דרש לפתוח בחקירה נגד המשתתפים בסרט \"נז\"א\" וכינה אותו \"עלילה שקרית, מטעה ומגמתית\". לפי אל-ג'זירה, הוא דורש לבדוק את מקורות הסרט, שזכה בפרס. מדובר בדרישה של ראש הממשלה, ולא בצעד של רשות אכיפה.",
+   "why": "דרישה של ראש הממשלה להעמיד לדין יוצרים ומשתתפים בסרט נוגעת לחופש הביטוי ולתפקוד רשויות האכיפה.",
+   "change": "",
+   "next": "האם גורמי אכיפה יפתחו בבדיקה.",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "politics",
+    "law",
+    "culture"
+   ],
+   "kind": "statement",
+   "entities": [
+    "נתניהו",
+    "נז\"א"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1376068",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/law/article/21602153",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/syir11bysmg",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/12/netanyahu-demands-probe-into-sources-for-award-winning-gaza-film-naza",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 4,
+   "firstSeen": "2026-10-12",
+   "lastUpdated": "2026-10-12"
+  },
+  {
+   "id": "bennett-draft-plan",
+   "title": "בנט הציג תוכנית גיוס: העברת תקציבים ממשתמטים למשרתים; \"לא נשב עם נתניהו\"",
+   "summary": "לפי ynet וישראל היום, נפתלי בנט הציג תוכנית שבמסגרתה כספים שמופנים היום לתמיכה בלומדי תורה יועברו למי ששירת, כולל סיוע של עד מיליון שקל לדירה וביטול קצבאות אברכים. בנט אמר כי נתניהו מתנגד לגיוס לכל ולוועדת חקירה ממלכתית ולכן לא ישב איתו, אך אמר שנתניהו יוכל להיות שר אם יקבל את עקרונותיו.",
+   "why": "הגיוס והרכב הקואליציה הם שאלות מרכזיות לקראת הבחירות הקרובות.",
+   "change": "",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "politics",
+    "society"
+   ],
+   "kind": "statement",
+   "entities": [
+    "בנט",
+    "גיוס",
+    "בחירות 2026",
+    "נתניהו"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/rk11115nkjzg",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/politics/article/21602203",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/hyhofwyomx",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-10-12",
+   "lastUpdated": "2026-10-12"
+  },
+  {
+   "id": "kreuzer-police-assault-probe",
+   "title": "היועמ\"שית אישרה: ח\"כ קרויזר ייחקר באזהרה בחשד לתקיפת שוטר",
+   "summary": "לפי ynet, מעריב וישראל היום, היועצת המשפטית לממשלה אישרה לחקור את ח\"כ קרויזר בחשד לתקיפת שוטר. לפי מעריב, החקירה תהיה באזהרה. חשד אינו הרשעה.",
+   "why": "חקירה של חבר כנסת מכהן בחשד לאלימות כלפי שוטר נוגעת לאכיפה כלפי נבחרי ציבור, ואירעה בתקופת בחירות.",
+   "change": "",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "law",
+    "politics"
+   ],
+   "kind": "legal",
+   "entities": [
+    "ח\"כ קרויזר",
+    "היועצת המשפטית לממשלה"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/skrdzq9szx",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1376282",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/politics/article/21605675",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-10-12",
+   "lastUpdated": "2026-10-12"
+  },
+  {
+   "id": "kfar-saba-mayor-bribery",
+   "title": "ראש עיריית כפר סבא ורעייתו חשודים בשוחד תמורת מכרזים",
+   "summary": "לפי ynet וישראל היום, ראש עיריית כפר סבא ורעייתו חשודים בקבלת שוחד, בהם חופשות ורכבי יוקרה, תמורת מכרזים. לפי ynet, נתפסו אצלם שעונים ותכשיטים יוקרתיים. אלה חשדות בלבד.",
+   "why": "חשד לשחיתות בשלטון המקומי בעיר גדולה, שעלול להשפיע על ניהול העיר.",
+   "change": "",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "law",
+    "society"
+   ],
+   "kind": "legal",
+   "entities": [
+    "שחיתות שלטונית",
+    "כפר סבא"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/s1fmseqsme",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/crime/article/21604016",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-10-12",
+   "lastUpdated": "2026-10-12"
+  },
+  {
+   "id": "trump-energy-ceasefire",
+   "title": "טראמפ הכריז על \"הפסקת אש אנרגטית\" ברוסיה–אוקראינה; זלנסקי: \"ההכרזה הייתה חדשה לי\"",
+   "summary": "לפי ישראל היום וynet, טראמפ הכריז על \"הפסקת אש אנרגטית\", וזלנסקי אמר כי ההכרזה הייתה חדשה לו. לפי ישראל היום, פוטין תקף בכל זאת תחנת כוח אוקראינית. לפי מעריב, ארה\"ב מאיימת לעצור משלוחי נשק לאוקראינה בגלל תקיפות אוקראיניות על בתי זיקוק ברוסיה.",
+   "why": "הסדר אנרגיה בין הצדדים יכול להשפיע על המלחמה ועל מחירי האנרגיה העולמיים.",
+   "change": "",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "world",
+    "economy"
+   ],
+   "kind": "statement",
+   "entities": [
+    "טראמפ",
+    "אוקראינה",
+    "זלנסקי",
+    "רוסיה",
+    "מחירי אנרגיה"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/world-news/europe/article/21603491",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/ry4cnqtigg",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1376303",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-10-12",
+   "lastUpdated": "2026-10-12"
+  },
+  {
+   "id": "djibouti-migrant-boat",
+   "title": "ג'יבוטי: מספר ההרוגים בטביעת סירת המהגרים עלה ל-139 לפחות",
+   "summary": "לפי הגרדיאן, BBC ואל-ג'זירה, לפחות 139 בני אדם, בהם ילדים, מתו כשסירה שהפליגה מג'יבוטי לתימן התהפכה. BBC מציין שהנתון מגיע מהאו\"ם.",
+   "why": "אחד מאסונות ההגירה הקטלניים של השנה, באזור שבו מתנהלת לחימה.",
+   "change": "מספר ההרוגים עלה מ-109 ל-139 לפחות.",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "world"
+   ],
+   "kind": "event",
+   "entities": [
+    "ג'יבוטי",
+    "הגירה"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "Guardian",
+     "url": "https://www.theguardian.com/world/2026/oct/11/deaths-migrant-boat-capsizes-djibouti",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/at-least-139-dead-as-migrant-boat-from-djibouti-to-yemen-capsizes",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-10-11",
+   "lastUpdated": "2026-10-12"
+  },
+  {
+   "id": "sudan-gold-mine-strike",
+   "title": "סודאן: עשרות חופרי זהב נהרגו בתקיפות אוויריות ליד גבול מצרים",
+   "summary": "לפי BBC ואל-ג'זירה, עשרות אנשים נהרגו בתקיפה אווירית על אתר לכריית זהב סמוך לגבול סודאן–מצרים. BBC מייחס את המידע לארגון זכויות אדם.",
+   "why": "המלחמה בסודאן ממשיכה לפגוע באזרחים ובאזורי כרייה סמוכים לגבול מצרים.",
+   "change": "",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "world"
+   ],
+   "kind": "event",
+   "entities": [
+    "סודאן"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/cqy43vrk8wv8o",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/deadly-air-strike-kills-dozens-at-sudan-gold-mine-near-egypt-border",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-10-12",
+   "lastUpdated": "2026-10-12"
+  },
+  {
+   "id": "decart-amazon-report",
+   "title": "דיווח: אמזון עשויה לרכוש את דקארט הישראלית בכ-7 מיליארד דולר",
+   "summary": "לפי ynet וישראל היום, שמצטטים את וול סטריט ג'ורנל, אמזון עשויה לרכוש את חברת דקארט הישראלית במיליארדי דולרים. העסקה לא אושרה רשמית.",
+   "why": "עסקה כזו תהיה מהגדולות בהייטק הישראלי.",
+   "change": "",
+   "next": "הודעה רשמית מהחברות.",
+   "status": "REPORTED",
+   "importance": 3,
+   "categories": [
+    "economy",
+    "tech"
+   ],
+   "kind": "event",
+   "entities": [
+    "הייטק",
+    "אמזון"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/syrmzoksgl",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/tech/tech-news/article/21603585",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-10-12",
+   "lastUpdated": "2026-10-12"
+  }
+ ],
+ "unverified": [
+  {
+   "id": "iran-us-reply-inadequate",
+   "title": "לטענת איראן: ארה\"ב השיבה לתנאיה במשא ומתן, אך תשובתה \"אינה מספקת\"",
+   "summary": "על פי דיווח של ynet ואל-ג'זירה, גורם איראני טען כי ארה\"ב השיבה לתנאים שאיראן הציעה במשא ומתן, אך התשובה אינה מספקת. לא פורסם אישור או נוסח התשובה מצד ארה\"ב.",
+   "why": "מצב המגעים בין ארה\"ב לאיראן משפיע על הסיכון להסלמה אזורית.",
+   "change": "",
+   "next": "",
+   "status": "CLAIM",
+   "importance": 4,
+   "categories": [
+    "security",
+    "israel_world"
+   ],
+   "kind": "negotiation",
+   "entities": [
+    "איראן",
+    "ארה\"ב"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/hyo5wekigg",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/10/12/iran-war-live-riyadh-airport-hit-again-tehran-says-us-reply-inadequate",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-10-12",
+   "lastUpdated": "2026-10-12"
+  }
+ ],
+ "filtered_out": 265,
+ "note": ""
+}
