@@ -1,0 +1,226 @@
+{
+ "schema": 2,
+ "date": "2026-10-13",
+ "type": "daily",
+ "headline": "פיצוץ חפץ נפל בטיול שנתי ברכס רמים הרג נער בן 14, ומתקפות החות'ים על ריאד נמשכות.",
+ "events": [
+  {
+   "id": "ramim-school-trip-blast",
+   "title": "נער בן 14 נהרג בפיצוץ חפץ נפל בטיול שנתי ברכס רמים; 13 פצועים פונו",
+   "summary": "לפי ynet ומעריב, נער בן 14 נהרג ו-13 בני אדם פונו לבית החולים זיו, בהם שניים במצב קשה, בפיצוץ בטיול שנתי ברכס רמים בצפון. לפי עדויות שפורסמו במעריב, אחד התלמידים הכניס רימון מצרר לתיק, ושם התפוצץ. לפי מעריב, צה\"ל מסר שלפי תחקיר ראשוני ככל הנראה מדובר בפצצת מצרר של חיזבאללה. ראש הממשלה אמר, לפי מעריב, שהוא ממשיך לקיים הערכות מצב.",
+   "why": "אסון של בני נוער בטיול מאורגן מעלה שאלות על הימצאות תחמושת לא מפוצצת בשטחי טיול בגבול הצפון ועל אחריות הגורמים המארגנים.",
+   "change": "",
+   "next": "המשך תחקיר צה\"ל ובדיקת נסיבות האירוע והאחריות לאבטחת הטיול.",
+   "status": "VERIFIED",
+   "importance": 5,
+   "categories": [
+    "security",
+    "society"
+   ],
+   "kind": "event",
+   "entities": [
+    "צפון",
+    "חיזבאללה",
+    "תחמושת לא מפוצצת"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/b1ctii9ifl",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1376409",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1376408",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/defense/article/21607907",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-10-13",
+   "lastUpdated": "2026-10-13"
+  },
+  {
+   "id": "saudi-houthi-fighting",
+   "title": "שלישי ברציפות: טיל חות'י לעבר ריאד; סעודיה משעה עוד טיסות",
+   "summary": "לפי אל-ג'זירה, מתקפת טילים חות'ית כוונה לבירת סעודיה ריאד זה היום השלישי ברציפות. לפי הגרדיאן, סעודיה הרחיבה את השעיית הטיסות לאחר התקיפה הקטלנית האחרונה על נמל התעופה. ניו יורק טיימס מדווח שסעודיה ניצבת בפני תקיפות נוספות.",
+   "why": "פגיעות חוזרות בתשתיות אזרחיות בסעודיה מעמיקות את ההסלמה האזורית ומשפיעות על התעופה ועל שוק האנרגיה.",
+   "change": "מתקפת טילים שלישית ברציפות לעבר ריאד והרחבת השעיית הטיסות בסעודיה.",
+   "next": "תגובה סעודית אפשרית והחלטה אם ארה\"ב תצטרף.",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "security",
+    "israel_world",
+    "world"
+   ],
+   "kind": "event",
+   "entities": [
+    "חות'ים",
+    "סעודיה",
+    "ארה\"ב",
+    "איראן"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/12/houthi-missile-attack-targets-saudi-capital-riyadh-for-third-day-in-a-row",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Guardian",
+     "url": "https://www.theguardian.com/world/2026/oct/12/saudi-arabia-suspends-flights-latest-deadly-houthi-attack-airport",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "NYT",
+     "url": "https://www.nytimes.com/2026/10/12/world/middleeast/iran-houthis-saudi-arabia.html",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-10-03",
+   "lastUpdated": "2026-10-13"
+  },
+  {
+   "id": "samaria-pij-plot-foiled",
+   "title": "צה\"ל: סוכל פיגוע בצפון השומרון, ארבעה פעילי הג'יהאד האסלאמי נעצרו",
+   "summary": "לפי הודעת צה\"ל כפי שדווחה ב-ynet, במעריב ובישראל היום, סוכל פיגוע בצפון השומרון וארבעה פעילי הג'יהאד האסלאמי נעצרו. פרטים נוספים על אופי הפיגוע המתוכנן לא פורסמו בכותרות הדיווחים.",
+   "why": "סיכול פיגועים ביהודה ושומרון משקף את רמת האיום הביטחוני המתמשכת באזור.",
+   "change": "",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "security"
+   ],
+   "kind": "event",
+   "entities": [
+    "שומרון",
+    "הג'יהאד האסלאמי"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/h18mahsigg",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1376564",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/defense/article/21612159",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-10-13",
+   "lastUpdated": "2026-10-13"
+  },
+  {
+   "id": "kfar-saba-mayor-bribery",
+   "title": "כפר סבא: מעצרם של ראש העיר ורעייתו הוארך ב-8 ימים",
+   "summary": "לפי ynet, בית המשפט הרחיב ב-8 ימים את מעצרם של ראש עיריית כפר סבא ורעייתו, החשודים בפרשיית שחיתות ציבורית. ישראל היום מפרסם פרטים נוספים על החשדות.",
+   "why": "חשד לשחיתות בראשות רשות מקומית גדולה נוגע לאמון הציבור בשלטון המקומי.",
+   "change": "מעצרם של החשודים הוארך ב-8 ימים.",
+   "next": "המשך החקירה והחלטה אם יוגשו כתבי אישום.",
+   "status": "REPORTED",
+   "importance": 3,
+   "categories": [
+    "law",
+    "politics"
+   ],
+   "kind": "legal",
+   "entities": [
+    "שחיתות שלטונית",
+    "כפר סבא"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/s1edbw9sgx",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/crime/article/21612293",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-10-12",
+   "lastUpdated": "2026-10-13"
+  }
+ ],
+ "unverified": [
+  {
+   "id": "fairford-plot-iran-link",
+   "title": "לטענת ראש ממשלת בריטניה: המזימה נגד בסיס פיירפורד תואמה ככל הנראה באיראן",
+   "summary": "על פי דיווח של ynet, ראש ממשלת בריטניה אמר כי המזימה לפגוע בבסיס פיירפורד, שבו נעשה שימוש אמריקני, תואמה ככל הנראה באיראן. ישראל היום מצטט אותו כמייחס את המזימה למשמרות המהפכה. איראן הכחישה בעבר קשר לאירוע. לא פורסמו ראיות פומביות לטענה.",
+   "why": "ייחוס מזימה בבריטניה לגורמים איראניים עלול להשפיע על היחסים ועל ההסלמה בין המערב לאיראן.",
+   "change": "",
+   "next": "",
+   "status": "CLAIM",
+   "importance": 4,
+   "categories": [
+    "security",
+    "israel_world",
+    "world"
+   ],
+   "kind": "statement",
+   "entities": [
+    "איראן",
+    "בריטניה",
+    "פיירפורד"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/sjtlod9img",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/world-news/europe/article/21609761",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-10-13",
+   "lastUpdated": "2026-10-13"
+  }
+ ],
+ "filtered_out": 330,
+ "note": ""
+}

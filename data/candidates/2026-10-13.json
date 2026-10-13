@@ -2,46 +2,6 @@
  "date": "2026-10-13",
  "articles": [
   {
-   "source": "Guardian",
-   "outlet": "Guardian",
-   "title": "The Gulf has entered a new era of instability. If its leaders think they can rely on old alliances, they are wrong | Nesrine Malik",
-   "url": "https://www.theguardian.com/commentisfree/2026/oct/12/gulf-new-era-instability-alliances-houthi-rebels-saudi-arabia",
-   "summary": "The latest attack by Houthi rebels on Saudi Arabia may prove to be more calamitous for the region than the world imagines On Saturday, Houthi rebels launched a shocking and deadly attack on Saudi Arabia’s capital city, Riyadh. At the time of writing, the missile strike on King Khalid international a",
-   "time": "2026-10-12T06:00:49+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
-   "source": "Guardian",
-   "outlet": "Guardian",
-   "title": "A Fidai Film review – Palestinian collage film transforms suppressed footage into works of art",
-   "url": "https://www.theguardian.com/film/2026/oct/12/a-fidai-film-review-palestinian-collage-true-story",
-   "summary": "Using archive material of destroyed houses, terrorised children and dead bodies, Kamal Aljafari adds humanity to the reels by overlaying poems by Palestinian authors In Arabic, “fidai” means someone willing to sacrifice themselves for the greater good. Borrowing this word, which is at times used in ",
-   "time": "2026-10-12T08:00:49+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
-   "source": "Guardian",
-   "outlet": "Guardian",
-   "title": "CCTV from inside Riyadh airport shows moment of deadly airstrike – video",
-   "url": "https://www.theguardian.com/world/video/2026/oct/12/cctv-riyadh-airport-footage-deadly-airstrike-saudi-arabia-video",
-   "summary": "CCTV released by Saudi Arabia shows the moment of an attack on King Khalid international airport that killed 13 people and wounded more than 300 on 10 October. Footage shows passengers queueing, making their way through a security gate and sitting in a waiting area moments before the blast, after wh",
-   "time": "2026-10-12T09:11:20+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
-   "source": "BBC",
-   "outlet": "BBC",
-   "title": "Watch: CCTV shows people take cover as missile hits Riyadh airport",
-   "url": "https://www.bbc.co.uk/news/videos/cj4g17wz7gv0o?at_medium=RSS&at_campaign=rss",
-   "summary": "Footage from inside the airport shows the moment the strike hit on Saturday.",
-   "time": "2026-10-12T09:38:03+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
    "source": "מעריב",
    "outlet": "מעריב",
    "title": "צפו: תיעוד מתוך תוואי תת-קרקעי והשמדתו בדרום לבנון",
@@ -4152,7 +4112,7 @@
    "type": "reporting"
   }
  ],
- "updated": "2026-10-13T10:42:18.437565+00:00",
+ "updated": "2026-10-13T17:09:33.775892+00:00",
  "clusters": [
   {
    "id": "b191ac1a28",
@@ -4572,39 +4532,6 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-10-13T06:59:49+00:00"
-    }
-   ]
-  },
-  {
-   "id": "cd1abec92a",
-   "title": "Watch: CCTV shows people take cover as missile hits Riyadh airport",
-   "sourceCount": 2,
-   "outlets": [
-    "BBC",
-    "Guardian"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 2,
-   "opinionOnly": false,
-   "firstSeen": "2026-10-12T09:11:20+00:00",
-   "lastSeen": "2026-10-12T09:38:03+00:00",
-   "articles": [
-    {
-     "source": "Guardian",
-     "title": "CCTV from inside Riyadh airport shows moment of deadly airstrike – video",
-     "url": "https://www.theguardian.com/world/video/2026/oct/12/cctv-riyadh-airport-footage-deadly-airstrike-saudi-arabia-video",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-12T09:11:20+00:00"
-    },
-    {
-     "source": "BBC",
-     "title": "Watch: CCTV shows people take cover as missile hits Riyadh airport",
-     "url": "https://www.bbc.co.uk/news/videos/cj4g17wz7gv0o?at_medium=RSS&at_campaign=rss",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-12T09:38:03+00:00"
     }
    ]
   },
@@ -5423,54 +5350,6 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-10-13T09:55:07+00:00"
-    }
-   ]
-  },
-  {
-   "id": "d1986d06da",
-   "title": "The Gulf has entered a new era of instability. If its leaders think they can rely on old alliances, they are wrong | Nesrine Malik",
-   "sourceCount": 1,
-   "outlets": [
-    "Guardian"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-10-12T06:00:49+00:00",
-   "lastSeen": "2026-10-12T06:00:49+00:00",
-   "articles": [
-    {
-     "source": "Guardian",
-     "title": "The Gulf has entered a new era of instability. If its leaders think they can rely on old alliances, they are wrong | Nesrine Malik",
-     "url": "https://www.theguardian.com/commentisfree/2026/oct/12/gulf-new-era-instability-alliances-houthi-rebels-saudi-arabia",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-12T06:00:49+00:00"
-    }
-   ]
-  },
-  {
-   "id": "f3834b3a90",
-   "title": "A Fidai Film review – Palestinian collage film transforms suppressed footage into works of art",
-   "sourceCount": 1,
-   "outlets": [
-    "Guardian"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-10-12T08:00:49+00:00",
-   "lastSeen": "2026-10-12T08:00:49+00:00",
-   "articles": [
-    {
-     "source": "Guardian",
-     "title": "A Fidai Film review – Palestinian collage film transforms suppressed footage into works of art",
-     "url": "https://www.theguardian.com/film/2026/oct/12/a-fidai-film-review-palestinian-collage-true-story",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-12T08:00:49+00:00"
     }
    ]
   },
@@ -12844,8 +12723,8 @@
   }
  ],
  "stats": {
-  "articles": 415,
-  "clusters": 340,
-  "multiSource": 19
+  "articles": 411,
+  "clusters": 337,
+  "multiSource": 18
  }
 }
