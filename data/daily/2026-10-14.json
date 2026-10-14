@@ -1,0 +1,268 @@
+{
+ "schema": 2,
+ "date": "2026-10-14",
+ "type": "daily",
+ "headline": "רונן בר תבע את נתניהו, האפיפיור אובחן בסרטן ריאות ועבר ניתוח, ולחימה מחריפה בין סעודיה לחות'ים.",
+ "events": [
+  {
+   "id": "ronen-bar-lawsuit",
+   "title": "רונן בר הגיש תביעה נגד ראש הממשלה נתניהו",
+   "summary": "לפי ynet, מעריב וישראל היום, הגיש רונן בר תביעה כספית נגד נתניהו. בכתב התביעה, כפי שדווח, נטען כי נתניהו קיבל התרעה בליל 7 באוקטובר ב-03:03 ושהמידע הגיע למזכירות הצבאית ב-03:55. אלה טענותיו של בר, שמעורב במחלוקת; נתניהו טרם נשמעה תגובה מפורטת בדיווחים שנבדקו, ובכירים באופוזיציה כבר הגיבו.",
+   "why": "מדובר בהליך משפטי שעשוי לחשוף גרסאות חדשות על האירועים בליל הטבח ולהשפיע על הוויכוח הציבורי והפוליטי לקראת הבחירות.",
+   "change": "",
+   "next": "תגובת נתניהו וקביעת דיון בבית המשפט.",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "law",
+    "politics",
+    "security"
+   ],
+   "kind": "legal",
+   "entities": [
+    "רונן בר",
+    "נתניהו",
+    "7 באוקטובר"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/h1sms03smg",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1377110",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/law/article/21619628",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-10-14",
+   "lastUpdated": "2026-10-14"
+  },
+  {
+   "id": "pope-surgery",
+   "title": "האפיפיור עבר ניתוח ובעקבותיו אובחן בסרטן ריאות",
+   "summary": "לפי ynet, מעריב וישראל היום, הוותיקן הודיע כי הניתוח באפיפיור הושלם בהצלחה. נמסר כי הוסרה אונה מהריאה הימנית וכי האפיפיור אובחן כחולה בסרטן ריאות.",
+   "why": "בריאותו של ראש הכנסייה הקתולית, המונה כ-1.4 מיליארד מאמינים, משפיעה על הנהגת הכנסייה והעולם הקתולי.",
+   "change": "הניתוח בוצע בהצלחה לפי הוותיקן, ונמסר לראשונה על אבחנה של סרטן ריאות והסרת אונה מהריאה הימנית.",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "world",
+    "judaism"
+   ],
+   "kind": "event",
+   "entities": [
+    "האפיפיור",
+    "הוותיקן"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/sypdll2jfl",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1376924",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/world-news/europe/article/21619258",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/13/pope-leo-diagnosed-with-cancer-after-surgery-to-remove-part-of-lung",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 4,
+   "firstSeen": "2026-10-11",
+   "lastUpdated": "2026-10-14"
+  },
+  {
+   "id": "saudi-houthi-fighting",
+   "title": "הקרב בין סעודיה לחות'ים מחריף: תקיפות במתקני נפט בתימן וטילים לעבר ריאד",
+   "summary": "לפי הגרדיאן, BBC ואל-ג'זירה, הקואליציה בהובלת סעודיה תקפה מחסני דלק ומתקני נפט בסביבת צנעא, וטילים שנורו לעבר ריאד יורטו. לפי ynet, סעודיה מסרה כי ארבעה בני אדם נפצעו בריאד משברי יירוט וכי מבנים של ארמקו הותקפו.",
+   "why": "הלחימה פוגעת בתשתיות אנרגיה מרכזיות באזור ומשפיעה על שווקי הנפט ועל המערכה המתרחבת מול איראן.",
+   "change": "הקואליציה תקפה מתקני דלק בתימן, וטילים חות'יים יורטו מעל ריאד; מבנים של ארמקו הותקפו וארבעה נפצעו בריאד.",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "security",
+    "world",
+    "economy"
+   ],
+   "kind": "event",
+   "entities": [
+    "סעודיה",
+    "החות'ים",
+    "ארמקו"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "Guardian",
+     "url": "https://www.theguardian.com/world/2026/oct/13/saudi-arabia-strikes-strategic-oil-depots-near-yemen-capital",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/14/saudi-led-coalition-intercepts-houthi-missile-launched-towards-riyadh",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/rymzqlnjgg",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 4,
+   "firstSeen": "2026-10-03",
+   "lastUpdated": "2026-10-14"
+  },
+  {
+   "id": "intel-kiryat-gat-blast",
+   "title": "פיצוץ ושריפה במפעל אינטל בקריית גת; שלושה פצועים קשה",
+   "summary": "לפי ynet ומעריב, אירע פיצוץ ושריפה במפעל אינטל בקריית גת. הדיווח הראשוני מזכיר שלושה פצועים קשה וחשד לדליפת חומרים מסוכנים. ראש העיר ביקש להימנע מהגעה לאזור התעשייה.",
+   "why": "אירוע חומרים מסוכנים באזור תעשייה גדול עלול לסכן תושבים, ומפעל אינטל הוא מעסיק ויצרן מרכזי בישראל.",
+   "change": "",
+   "next": "עדכון על מצב הפצועים, סיבת האירוע והאם נשקפת סכנה לתושבים.",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "society",
+    "economy"
+   ],
+   "kind": "event",
+   "entities": [
+    "אינטל",
+    "קריית גת"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/hkbnyjtsgl",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1377128",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-10-14",
+   "lastUpdated": "2026-10-14"
+  },
+  {
+   "id": "netanyahu-state-emblem",
+   "title": "ועדת הבחירות: נתניהו השתמש בסמל המדינה בניגוד לחוק",
+   "summary": "לפי מעריב וישראל היום, ועדת הבחירות המרכזית פרסמה הודעה ולפיה נתניהו השתמש בסמל המדינה בניגוד לחוק. ישראל היום מדווח על צו שהוצא בעניין בהחלטת השופט סולברג.",
+   "why": "הכרעה בשאלת השימוש בסמלים ממלכתיים בתעמולה קובעת את כללי המשחק בתקופת הבחירות.",
+   "change": "",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "politics",
+    "law"
+   ],
+   "kind": "legal",
+   "entities": [
+    "נתניהו",
+    "ועדת הבחירות המרכזית",
+    "בחירות 2026"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1376921",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/law/article/21619380",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-10-14",
+   "lastUpdated": "2026-10-14"
+  },
+  {
+   "id": "hezbollah-charge-lebanon",
+   "title": "צה\"ל: כוחות בלבנון איתרו מטען של חיזבאללה שהיה מוכן להפעלה",
+   "summary": "לפי הודעת צה\"ל כפי שדווחה ב-ynet, כוחות הצבא בדרום לבנון איתרו מטען שהניח חיזבאללה והיה מוכן להפעלה. בנפרד, ynet מצטט את שר הביטחון כ\"ץ שאמר כי אם חיזבאללה יצטרף לאיראן הוא יאבד שטחים וכי צה\"ל ערוך לתמרון.",
+   "why": "הכוחות בלבנון חשופים לאיומים, וההצהרות מעידות על כוונות להמשך או הרחבת הלחימה.",
+   "change": "",
+   "next": "",
+   "status": "REPORTED",
+   "importance": 3,
+   "categories": [
+    "security"
+   ],
+   "kind": "event",
+   "entities": [
+    "חיזבאללה",
+    "לבנון",
+    "צה\"ל"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/hk1fjshjzg",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/sjpu5c3ige",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-10-14",
+   "lastUpdated": "2026-10-14"
+  }
+ ],
+ "unverified": [],
+ "filtered_out": 313,
+ "note": ""
+}

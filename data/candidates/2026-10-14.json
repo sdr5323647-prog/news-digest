@@ -2,26 +2,6 @@
  "date": "2026-10-14",
  "articles": [
   {
-   "source": "BBC",
-   "outlet": "BBC",
-   "title": "Who are the Houthis and what do they want?",
-   "url": "https://www.bbc.co.uk/news/articles/cqy7z228kee3o?at_medium=RSS&at_campaign=rss",
-   "summary": "Their fighting with pro-government forces over Yemen's Red Sea coast and attacks on Saudi Arabia has put the spotlight on the Iran-backed group.",
-   "time": "2026-10-13T06:38:32+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
-   "source": "NYT",
-   "outlet": "NYT",
-   "title": "Saudi Arabia Faces More Attacks as It Reels From Airport Strikes",
-   "url": "https://www.nytimes.com/2026/10/12/world/middleeast/iran-houthis-saudi-arabia.html",
-   "summary": "The Saudi authorities said they were fending off drone and missile attacks after a weekend of confrontation with the Houthi militia in Yemen, whose patrons Iran offered to mediate.",
-   "time": "2026-10-13T08:54:51+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
    "source": "ישראל היום",
    "outlet": "ישראל היום",
    "title": "הסעודים תקפו מתקן נפט בצנעא - החות'ים: \"נענה בתקיפה בבירה הסעודית\"",
@@ -4072,10 +4052,10 @@
    "type": "reporting"
   }
  ],
- "updated": "2026-10-14T11:59:38.289475+00:00",
+ "updated": "2026-10-14T17:09:22.194243+00:00",
  "clusters": [
   {
-   "id": "3e33923ce6",
+   "id": "3da26f09f6",
    "title": "Saudi Arabia strikes oil depots in Yemen and says missiles launched toward location of Saudi Aramco HQ",
    "sourceCount": 4,
    "outlets": [
@@ -4086,19 +4066,11 @@
    ],
    "bestTier": 2,
    "hasOfficial": false,
-   "reportingCount": 7,
+   "reportingCount": 6,
    "opinionOnly": false,
-   "firstSeen": "2026-10-13T08:54:51+00:00",
+   "firstSeen": "2026-10-13T17:26:08+00:00",
    "lastSeen": "2026-10-14T11:39:06+00:00",
    "articles": [
-    {
-     "source": "NYT",
-     "title": "Saudi Arabia Faces More Attacks as It Reels From Airport Strikes",
-     "url": "https://www.nytimes.com/2026/10/12/world/middleeast/iran-houthis-saudi-arabia.html",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-13T08:54:51+00:00"
-    },
     {
      "source": "Guardian",
      "title": "Saudi Arabia strikes oil depots in Yemen and says missiles launched toward location of Saudi Aramco HQ",
@@ -5733,30 +5705,6 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-10-14T11:18:08+00:00"
-    }
-   ]
-  },
-  {
-   "id": "0c7f272bc4",
-   "title": "Who are the Houthis and what do they want?",
-   "sourceCount": 1,
-   "outlets": [
-    "BBC"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-10-13T06:38:32+00:00",
-   "lastSeen": "2026-10-13T06:38:32+00:00",
-   "articles": [
-    {
-     "source": "BBC",
-     "title": "Who are the Houthis and what do they want?",
-     "url": "https://www.bbc.co.uk/news/articles/cqy7z228kee3o?at_medium=RSS&at_campaign=rss",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-13T06:38:32+00:00"
     }
    ]
   },
@@ -12458,8 +12406,8 @@
   }
  ],
  "stats": {
-  "articles": 407,
-  "clusters": 320,
+  "articles": 405,
+  "clusters": 319,
   "multiSource": 17
  }
 }
