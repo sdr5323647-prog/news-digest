@@ -1,0 +1,532 @@
+{
+ "schema": 2,
+ "date": "2026-10-15",
+ "type": "daily",
+ "headline": "ספינות מכולות טבעו בהורמוז, ליברמן שולל ממשלת מיעוט עם נתניהו, וההצבעה בחו\"ל בבחירות החלה.",
+ "events": [
+  {
+   "id": "hormuz-ships-sunk",
+   "title": "שתי ספינות מכולות טבעו באזור מצר הורמוז על רקע החרפה בתקיפות ספינות",
+   "summary": "לפי BBC, ספינת מכולות שנפגעה מקליע טבעה במצר הורמוז, כך לפי הודעת סינגפור. הגרדיאן מדווח על טביעת שתי ספינות מכולות באזור, על רקע עלייה בתקיפות שמיוחסות לאיראן. הניו יורק טיימס מתאר החרפה חדה בתקיפות על כלי שיט במצר.",
+   "why": "המצר הוא נתיב מרכזי לסחר ולנפט עולמי, ופגיעה בו משפיעה על מחירי האנרגיה ועל העימות בין ארה\"ב לאיראן.",
+   "change": "",
+   "next": "תגובת ארה\"ב ואיראן ומחירי הנפט בימים הקרובים.",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "world",
+    "economy",
+    "security"
+   ],
+   "kind": "event",
+   "entities": [
+    "הורמוז",
+    "איראן",
+    "נפט"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/crkg7q97z078o",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Guardian",
+     "url": "https://www.theguardian.com/world/2026/oct/14/container-ship-sinks-strait-of-hormuz-surge-iranian-attacks-iran-us-midterm-elections",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "NYT",
+     "url": "https://www.nytimes.com/2026/10/14/business/saudi-houthi-hormuz-oil.html",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/10/15/iran-war-live-tehran-vows-to-fight-until-us-yields-as-ships-sink-in-hormuz",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 4,
+   "firstSeen": "2026-10-15",
+   "lastUpdated": "2026-10-15"
+  },
+  {
+   "id": "intel-kiryat-gat-blast",
+   "title": "אחד הפצועים בפיצוץ ובשריפה במפעל אינטל בקריית גת מת מפצעיו",
+   "summary": "לפי מעריב, נקבע מותו של אחד הפצועים מהשריפה במפעל אינטל. ישראל היום מדווח בנפרד על החומר שגרם לפיצוץ ועל הסכנה לנחשפים אליו, ומצטט התייחסות לכך שהאירוע חריג.",
+   "why": "אסון תעשייתי במפעל טכנולוגיה מרכזי, עם שאלות על בטיחות ועל חשיפה לחומר מסוכן.",
+   "change": "אחד הפצועים מת מפצעיו, ומתפרסם מידע על החומר שגרם לפיצוץ.",
+   "next": "",
+   "status": "REPORTED",
+   "importance": 4,
+   "categories": [
+    "society",
+    "tech"
+   ],
+   "kind": "event",
+   "entities": [
+    "אינטל",
+    "קריית גת"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1377265",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/health/article/21628371",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-10-14",
+   "lastUpdated": "2026-10-15"
+  },
+  {
+   "id": "liberman-no-minority-government",
+   "title": "ליברמן: לא נתמוך בשום ממשלת מיעוט עם נתניהו, גם לא לתקופת מעבר",
+   "summary": "לפי ynet, וואלה וישראל היום, אביגדור ליברמן הצהיר כי לא ישב עם נתניהו בשום מצב, וגם לא יתמוך בממשלת מיעוט, אפילו לתקופת מעבר. בכך דחה את התוכנית שהציע איזנקוט. ליברמן אמר, כפי שמצוטט, שהליכוד בלי נתניהו יכול להיות שותף.",
+   "why": "ההצהרה מצמצמת את אפשרויות הרכבת הקואליציה אחרי הבחירות הקרובות.",
+   "change": "",
+   "next": "הבחירות בעוד פחות משבועיים.",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "politics"
+   ],
+   "kind": "statement",
+   "entities": [
+    "ליברמן",
+    "נתניהו",
+    "איזנקוט",
+    "בחירות 2026"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/politics/article/21633398",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383957565",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/sk3gzeaogg",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-10-15",
+   "lastUpdated": "2026-10-15"
+  },
+  {
+   "id": "overseas-voting-begins",
+   "title": "הצבעת שליחי ישראל בחו\"ל בבחירות לכנסת החלה",
+   "summary": "לפי ynet ומעריב, שליחי ישראל בחו\"ל מצביעים בבחירות לכנסת החל מהלילה, והקלפי הראשונה נפתחה בלונדון. הנשיא הרצוג קרא לממש את זכות ההצבעה.",
+   "why": "פתיחת ההצבעה בפועל, ימים ספורים לפני יום הבחירות.",
+   "change": "",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "politics"
+   ],
+   "kind": "event",
+   "entities": [
+    "בחירות 2026",
+    "הרצוג"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/hj1pgbtiml",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1377666",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-10-15",
+   "lastUpdated": "2026-10-15"
+  },
+  {
+   "id": "saudi-houthi-fighting",
+   "title": "דיווחים על פיצוצים וירי טילים לעבר ארמון הנשיאות בעדן שבתימן",
+   "summary": "לפי ynet, מעריב ווואלה, נשמעו ארבעה פיצוצים בסביבת ארמון הנשיאות בעדן. ynet מדווח כי ראש הממשלה והשרים לא נפגעו, ובדיווח נוסף כי שני מאבטחים נהרגו. הדיווחים לא מציינים באופן מאושר מי ירה.",
+   "why": "החרפה בלחימה בתימן, שבה מעורבים סעודיה והחות'ים, משפיעה על יציבות האזור ועל נתיבי הנפט.",
+   "change": "דיווחים חדשים על ירי טילים לעבר ארמון הנשיאות בעדן.",
+   "next": "",
+   "status": "REPORTED",
+   "importance": 4,
+   "categories": [
+    "world",
+    "security"
+   ],
+   "kind": "event",
+   "entities": [
+    "תימן",
+    "חות'ים",
+    "סעודיה"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1377624",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383957596",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/ryrnjpcime",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-10-03",
+   "lastUpdated": "2026-10-15"
+  },
+  {
+   "id": "herzog-baku-summit",
+   "title": "נציגי איראן, טורקיה, כווית ופקיסטן יצאו מהאולם בנאום הרצוג בפסגה בבאקו",
+   "summary": "לפי ynet, מעריב וישראל היום, הנשיא הרצוג נאם בפסגה בבאקו, ונציגי איראן, טורקיה, כווית ופקיסטן יצאו מהאולם. מעריב מוסיף כי גם נציג הרשות הפלסטינית יצא.",
+   "why": "מדגים את הבידוד הדיפלומטי של ישראל מול מדינות מוסלמיות, ואת הנוכחות הישראלית באזרבייג'ן.",
+   "change": "",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "israel_world",
+    "politics"
+   ],
+   "kind": "event",
+   "entities": [
+    "הרצוג",
+    "אזרבייג'ן",
+    "איראן"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21631742",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1377503",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/h1jby7rofx",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-10-15",
+   "lastUpdated": "2026-10-15"
+  },
+  {
+   "id": "apache-deal-12",
+   "title": "נחתמה עסקה לרכישת 12 מסוקי אפאצ'י מתקדמים מארה\"ב עבור צה\"ל",
+   "summary": "לפי ynet וישראל היום, ישראל חתמה על עסקה עם ארה\"ב לרכישת 12 מסוקי אפאצ'י מתקדמים.",
+   "why": "חיזוק יכולות חיל האוויר בתקופת לחימה אזורית.",
+   "change": "",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "security"
+   ],
+   "kind": "decision",
+   "entities": [
+    "צה\"ל",
+    "ארה\"ב",
+    "רכש ביטחוני"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/sjjahf6jzg",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/defense/article/21626348",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-10-15",
+   "lastUpdated": "2026-10-15"
+  },
+  {
+   "id": "bnei-brak-haredi-riot",
+   "title": "מהומה בבני ברק: קיצונים ניסו לפרוץ למבנה שבו פועל מסלול לשילוב חרדים בצה\"ל",
+   "summary": "לפי ynet ומעריב, קיצונים חרדים ניסו לפרוץ לבניין בבני ברק שבו פועלת יחידת צה\"ל ומסלול לשילוב חרדים. שני מפירי סדר נעצרו. ליברמן הגיב כי מי שמנסה לפרוץ לבסיס הוא מחבל.",
+   "why": "המחלוקת על גיוס החרדים ממשיכה להתלהט לקראת הבחירות.",
+   "change": "",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "society",
+    "politics"
+   ],
+   "kind": "event",
+   "entities": [
+    "גיוס חרדים",
+    "בני ברק",
+    "צה\"ל"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/h19flitsmg",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1377296",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-10-15",
+   "lastUpdated": "2026-10-15"
+  },
+  {
+   "id": "beitar-illit-bin-blast",
+   "title": "ילד בן 10 מת מפצעיו אחרי פיצוץ פח בוער בביתר עילית",
+   "summary": "לפי ynet וישראל היום, נקבע מותו של ילד בן 10 שנפגע מפיצוץ פח מחזור בוער בביתר עילית. ynet מדווח על חשד שהילדים הציתו את הפח כחלק ממשחק.",
+   "why": "טרגדיה עם שאלות בטיחות לציבור, ללא עדיין תוצאות חקירה.",
+   "change": "",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "society"
+   ],
+   "kind": "event",
+   "entities": [
+    "ביתר עילית"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/ryljlq6jgx",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/local/article/21625871",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-10-15",
+   "lastUpdated": "2026-10-15"
+  },
+  {
+   "id": "kreuzer-police-assault-probe",
+   "title": "ח\"כ קרויזר זומן לחקירה במשטרה בחשד לתקיפת שוטרים",
+   "summary": "לפי ynet ומעריב, ראש אח\"ם ביקש לזמן את ח\"כ יצחק קרויזר לחקירה בחשד לתקיפת שוטרים. קרויזר מסר שמדובר ב\"מסע ציד פוליטי\".",
+   "why": "חקירת חבר כנסת מכהן ערב הבחירות.",
+   "change": "נמסר כי הוגשה בקשה לזמן אותו לחקירה בפועל.",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "law",
+    "politics"
+   ],
+   "kind": "legal",
+   "entities": [
+    "קרויזר",
+    "משטרה"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/s1xbpmpjml",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1377253",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-10-12",
+   "lastUpdated": "2026-10-15"
+  }
+ ],
+ "unverified": [
+  {
+   "id": "iran-hezbollah-readiness",
+   "title": "דיווח: איראן הורתה לחיזבאללה להיערך לעימות אזורי",
+   "summary": "על פי דיווח שפורסם בישראל היום ובוואלה, איראן הנחתה את חיזבאללה להעלות כוננות לקראת עימות אזורי קרוב. כותרות הדיווח אינן מציינות מקור מאומת, ולא נמצא אישור רשמי.",
+   "why": "אם יאומת, מעיד על הרחבה אפשרית של העימות לזירה הצפונית.",
+   "change": "",
+   "next": "",
+   "status": "UNCONFIRMED",
+   "importance": 4,
+   "categories": [
+    "security",
+    "israel_world"
+   ],
+   "kind": "statement",
+   "entities": [
+    "איראן",
+    "חיזבאללה"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21632125",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383957593",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-10-15",
+   "lastUpdated": "2026-10-15"
+  },
+  {
+   "id": "peace-council-base-report",
+   "title": "דיווח: ישראל מונעת הקמת בסיס לכוח הייצוב של מועצת השלום בעזה",
+   "summary": "על פי דיווח של ynet וישראל היום, ישראל מונעת הקמת בסיס של כוח הייצוב של מועצת השלום בעזה. מקור הדיווח לא צוין בכותרות, ותגובה רשמית לא נבדקה.",
+   "why": "משפיע על יישום הסדרי היום שאחרי בעזה.",
+   "change": "",
+   "next": "",
+   "status": "UNCONFIRMED",
+   "importance": 3,
+   "categories": [
+    "security",
+    "politics"
+   ],
+   "kind": "dispute",
+   "entities": [
+    "עזה",
+    "מועצת השלום"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/syhhlcaimg",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21629423",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-10-15",
+   "lastUpdated": "2026-10-15"
+  },
+  {
+   "id": "gaza-smuggling-militants-killed",
+   "title": "לטענת צה\"ל: חוסלו שני מחבלים שעסקו בהברחות נשק לעזה והושמד תוואי תת-קרקעי",
+   "summary": "על פי הודעת דובר צה\"ל כפי שדווחה ב-ynet, מעריב וואלה, חוסלו שני מחבלים שעסקו בהברחת אמל\"ח לרצועה. בנפרד נמסר מצה\"ל כי הושמד תוואי תת-קרקעי באורך 1.5 ק\"מ שחצה את הקו הצהוב. הנתונים הם מצד צה\"ל בלבד.",
+   "why": "אכיפת הסכם הפסקת האש והקו הצהוב בעזה.",
+   "change": "",
+   "next": "",
+   "status": "CLAIM",
+   "importance": 3,
+   "categories": [
+    "security"
+   ],
+   "kind": "event",
+   "entities": [
+    "עזה",
+    "צה\"ל",
+    "חמאס"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1377667",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383957618",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/sjiqum0jmx",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-10-15",
+   "lastUpdated": "2026-10-15"
+  }
+ ],
+ "filtered_out": 462,
+ "note": ""
+}
