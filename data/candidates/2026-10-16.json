@@ -2,16 +2,6 @@
  "date": "2026-10-16",
  "articles": [
   {
-   "source": "Guardian",
-   "outlet": "Guardian",
-   "title": "Sally Rooney’s stand on Palestine is brave and humane",
-   "url": "https://www.theguardian.com/books/2026/oct/15/sally-rooneys-stand-on-palestine-is-brave-and-humane",
-   "summary": "The Normal People author’s determination to support Palestine Action, even if it means that her books are withdrawn from sale in the UK, makes a mockery of Britain’s terrorism laws It’s hard to think of a published author in living memory who risked arrest in the UK for their political beliefs, hard",
-   "time": "2026-10-15T10:56:22+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
    "source": "ישראל היום",
    "outlet": "ישראל היום",
    "title": "קריאות בוגדים במזרח ירושלים? \"מרוקו מאמינה ביחסים איתנו\"",
@@ -5512,7 +5502,7 @@
    "type": "reporting"
   }
  ],
- "updated": "2026-10-16T16:43:34.474269+00:00",
+ "updated": "2026-10-16T17:08:51.773003+00:00",
  "clusters": [
   {
    "id": "d49368b09d",
@@ -8288,30 +8278,6 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-10-16T16:38:06+03:00"
-    }
-   ]
-  },
-  {
-   "id": "f11ce64c16",
-   "title": "Sally Rooney’s stand on Palestine is brave and humane",
-   "sourceCount": 1,
-   "outlets": [
-    "Guardian"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-10-15T10:56:22+00:00",
-   "lastSeen": "2026-10-15T10:56:22+00:00",
-   "articles": [
-    {
-     "source": "Guardian",
-     "title": "Sally Rooney’s stand on Palestine is brave and humane",
-     "url": "https://www.theguardian.com/books/2026/oct/15/sally-rooneys-stand-on-palestine-is-brave-and-humane",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-15T10:56:22+00:00"
     }
    ]
   },
@@ -16381,8 +16347,8 @@
   }
  ],
  "stats": {
-  "articles": 551,
-  "clusters": 400,
+  "articles": 550,
+  "clusters": 399,
   "multiSource": 45
  }
 }
