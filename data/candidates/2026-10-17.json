@@ -2,16 +2,6 @@
  "date": "2026-10-17",
  "articles": [
   {
-   "source": "Guardian",
-   "outlet": "Guardian",
-   "title": "It’s not the old two-party politics – but Labour and the Tories now know they can shun their populist challengers | Gaby Hinsliff",
-   "url": "https://www.theguardian.com/commentisfree/2026/oct/15/andy-burnham-kemi-badenoch-labour-tories-populist-challengers",
-   "summary": "Though Burnham and Badenoch may still need the votes of Green and Reform supporters, both leaders have drawn clear lines in the sand Ask a straight question, get a straight answer. It’s how politics is supposed to work but almost never does, which is why on the rare occasions it happens the result c",
-   "time": "2026-10-15T17:40:36+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
    "source": "BBC",
    "outlet": "BBC",
    "title": "Houthi missile attack on Yemeni presidential palace kills five, minister says",
@@ -2342,12 +2332,72 @@
    "type": "reporting"
   },
   {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Albanian PM blames ‘foreign hands’ for unrest as student protests intensify",
+   "url": "https://www.aljazeera.com/news/2026/10/16/albanian-pm-blames-foreign-hands-for-unrest-as-student-protests-intensify?traffic_source=rss",
+   "summary": "Riot police clash with protesters for fourth day, as young Albanians protest corruption and poor university conditions",
+   "time": "2026-10-16T23:27:01+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Trump mocks Middle Eastern names with ‘Mohammed’ joke",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/trump-mocks-middle-eastern-names-with-mohammed-joke?traffic_source=rss",
+   "summary": "“If you’re in doubt about somebody’s name from the Middle East, just say ‘Mohammed,’” says US President Donald Trump.",
+   "time": "2026-10-16T23:55:57+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Iran war live: IRGC says supertanker hit naval mine in Hormuz, catches fire",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/10/17/draft-2?traffic_source=rss",
+   "summary": "Iran’s IRGC says an oil supertanker is on fire in the Strait of Hormuz after striking a naval mine.",
+   "time": "2026-10-17T00:00:00+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Oregon school shooter was former special needs student, police say",
+   "url": "https://www.aljazeera.com/news/2026/10/17/oregon-school-shooter-was-former-special-needs-student-police-say?traffic_source=rss",
+   "summary": "A teacher fought teenage shooter and a parent shot him dead, police say on Friday, a day after four people were killed.",
+   "time": "2026-10-17T00:25:22+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "\"אתה בספק? פשוט תגיד מוחמד\": טראמפ עוקץ את המועמד המוסלמי לסנאט | צפו",
+   "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21642283",
+   "summary": "נשיא ארה\"ב חזר לעקוץ את עבדול אל-סייד, המועמד הדמוקרטי לסנאט, והתבדח כי כשלא יודעים את שמו של אדם מהמזרח התיכון - \"פשוט אומרים מוחמד\" • \"יש לך בערך 65% סיכוי\", אמר טראמפ • בהמשך עבר לעקוץ גם את ההנהגה האיראנית והבהיר שוב: \"לאיראן לא יהיה נשק גרעיני\"",
+   "time": "2026-10-17T00:25:31+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
    "source": "ynet",
    "outlet": "ynet",
    "title": "ארה\"ב: היורה שהרג 4 בבית ספר יסודי באורגון - תלמיד לשעבר",
    "url": "https://www.ynet.co.il/news/article/sjcusgg2gg",
    "summary": "",
    "time": "2026-10-17T00:28:39+03:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "סקר: האם אתה מאמין למי שמצהיר שלא יקים ממשלה עם המפלגות הערביות?",
+   "url": "https://www.israelhayom.co.il/magazine/hashavua/article/21642269",
+   "summary": "בדקנו אם הציבור מאמין לראשי מפלגות שמכריזים שלא יסתמכו על תמיכת המפלגות הערביות למען הקמת ממשלה - והתוצאות חד-משמעיות • כשבוחנים את התשובות בחלוקה לגושים, העסק נעשה מעניין אף יותר",
+   "time": "2026-10-17T00:33:51+00:00",
    "tier": 2,
    "type": "reporting"
   },
@@ -2370,9 +2420,279 @@
    "time": "2026-10-17T01:00:07+03:00",
    "tier": 2,
    "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "גינויים חריפים - וטענות לפרובוקציה: הסערה לאחר תקיפת הצלמת",
+   "url": "https://www.israelhayom.co.il/news/local/article/21642338",
+   "summary": "לפיד תקף את הממשלה וטען כי \"הטרור היהודי\" הוא תוצאה של מדיניותה, בעוד איזנקוט קרא למשטרה לפעול נגד \"פורעי החוק האלימים\" • גם ארגונים יהודיים ופרו-ישראליים בארה\"ב הצטרפו לגינויים • מנגד, בלשכת רה\"מ ובמועצת בנימין הדגישו כי נסיבות האירוע עדיין נבדקות וטענו כי קדמה לו פרובוקציה אלימה",
+   "time": "2026-10-17T01:09:41+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "בניין בתל אביב קרס, ומדינה שלמה נשמה לרווחה. רק כאן זה אפשרי",
+   "url": "https://www.israelhayom.co.il/magazine/hashavua/article/21642346",
+   "summary": "פיגוע הוא ברירת המחדל של התודעה הישראלית, וזה הדבר הראשון שקפץ לראש עם התמוטטות הבניין בנחלת בנימין • אבל אז התברר שזה סתם עניין לא סקסי של עבודת בנייה לא מי־יודע־מה, ואנחנו נשארנו עם הלקח שממילא אנחנו יודעים טוב מדי",
+   "time": "2026-10-17T01:17:47+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "מהומות, קונספירציות ו\"שכירי חרב ציונים\": ישראל במוקד הסערה באלבניה",
+   "url": "https://www.israelhayom.co.il/news/world-news/europe/article/21642373",
+   "summary": "המחאה נגד ראש הממשלה האלבני אדי ראמה ממשיכה זה היום הרביעי, עם עימותים אלימים ועשרות פצועים • ברשתות הופצו טענות על \"שכירי חרב\" מישראל, וברקע גם מסרים על \"השתלטות ציונית\" על המדינה • השגרירות בטירנה נסגרה זמנית, ימים ספורים לאחר ביקור שר החוץ גדעון סער במדינה",
+   "time": "2026-10-17T01:26:32+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "US coastguard rescues 16 after boat sinks off Mexico’s Baja coast",
+   "url": "https://www.aljazeera.com/news/2026/10/17/us-coastguard-rescues-16-after-boat-sinks-off-mexicos-baja-coast?traffic_source=rss",
+   "summary": "Eleven people are believed to be still missing, with rescue operations under way.",
+   "time": "2026-10-17T01:33:37+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Healthcare crisis escalating in Yemen’s besieged Taiz",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/healthcare-crisis-escalating-in-yemens-besieged-taiz?traffic_source=rss",
+   "summary": "Fighting between Yemen’s Houthis and the internationally recognised government is deepening the humanitarian crisis.",
+   "time": "2026-10-17T01:37:07+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "בית המשפט החמיר בעונש: עבודות שירות ואיסור להחזיק בעלי חיים למתעלל",
+   "url": "https://www.israelhayom.co.il/news/law/article/21642400",
+   "summary": "בית המשפט המחוזי קיבל את ערעור משרד החקלאות והחמיר את עונשו של אליהו דרעי שהורשע בעינוי ובהתעללות בבעלי חיים • במקום מאסר על תנאי בלבד, נגזר עליו חודש מאסר שירוצה בעבודות שירות, הקנס הוגדל ל-8,000 שקלים ונאסר עליו להחזיק בעלי חיים במשך שנתיים",
+   "time": "2026-10-17T01:52:49+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "בעיר שנשבעת \"רק ביבי\" שמענו לפתע קולות אחרים - ברגע הקריטי",
+   "url": "https://www.israelhayom.co.il/magazine/hashavua/article/21642388",
+   "summary": "הרוב מצביעים וקוראים \"ביבי המלך\" • אחד אומר שמעולם לא הצביע כי \"כולם רמאים\" • ובין לבין מתגלים, שבוע לבחירות, כמה פתקים מפתיעים למדי • קלפי על הדרך: מגזין \"היום\" יוצא לתור את הארץ עם קלפי נודדת - וחוזר כדי לספר",
+   "time": "2026-10-17T01:57:44+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "שבת גשומה, אך ההתחממות בדרך: כך ייראה השבוע הקרוב | התחזית המלאה",
+   "url": "https://www.israelhayom.co.il/weather/article/21642065",
+   "summary": "גשמים מקומיים יוסיפו לרדת בשבת בעיקר בצפון, במישור החוף ובשפלה • בתחילת השבוע מזג האוויר יתייצב, ומיום חמישי תחל התחממות שתגיע לשיאה לקראת סוף השבוע הבא • בהמשך מסתמנים ירידה בטמפרטורות ועלייה מחודשת בסיכוי לגשם",
+   "time": "2026-10-17T02:23:05+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "\"כולם ילכו לכלא\": טראמפ מחריף את המאבק נגד כללי ההצבעה בדואר",
+   "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21642449",
+   "summary": "משרד המשפטים הזהיר את קליפורניה שלא לספור פתקי הצבעה שנשלחו ליותר מ-20 אלף בני אדם שלטענת הממשל ככל הנראה אינם אזרחים • טראמפ שיתף את המכתב ואיים: \"כולם ילכו לכלא להרבה מאוד זמן\" • בקליפורניה מאשימים את הממשל בניסיון לזרוע כאוס ולערער את אמון הציבור בבחירות",
+   "time": "2026-10-17T02:33:52+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Brazil’s Amazon deforestation hits lowest level on record",
+   "url": "https://www.aljazeera.com/news/2026/10/17/brazils-amazon-deforestation-hits-lowest-level-on-record?traffic_source=rss",
+   "summary": "Data show a 42 percent drop in forest clearance from a year earlier, giving Lula a boost before the election run-off.",
+   "time": "2026-10-17T02:49:21+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "משמר החופים של ארה\"ב: 16 בני אדם חולצו מסירה טובעת מול חופי מקסיקו",
+   "url": "https://www.ynet.co.il/news/article/s1c894e2zg",
+   "summary": "",
+   "time": "2026-10-17T02:59:39+03:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Cameroonians await government reshuffle after Biya’s return",
+   "url": "https://www.aljazeera.com/news/2026/10/17/cameroonians-await-government-reshuffle-after-biyas-return?traffic_source=rss",
+   "summary": "After 10 weeks abroad, Biya returned to Cameroon but has yet to appoint a new government or vice president.",
+   "time": "2026-10-17T03:14:28+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "מעריב",
+   "outlet": "מעריב",
+   "title": "גיא חזות ראה את האסון מתקרב: \"הייתי יכול להרים טלפון\"",
+   "url": "https://www.maariv.co.il/breaking-news/article-1378022",
+   "summary": "",
+   "time": "2026-10-17T03:29:56+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Southern California wildfire engulfs homes, prompts evacuation orders",
+   "url": "https://www.aljazeera.com/news/2026/10/17/southern-california-wildfire-engulfs-homes-prompts-evacuation-orders?traffic_source=rss",
+   "summary": "The fast-spreading Norte Fire in Orange County is fuelled by intense warm winds and unseasonably high temperatures.",
+   "time": "2026-10-17T03:30:36+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "\"המתנקש הנורבגי\" של הרשת האיראנית נלכד - ונשלח למאסר | צפו בתיעוד",
+   "url": "https://www.israelhayom.co.il/news/world-news/europe/article/21642472",
+   "summary": "יוהנס נטלאנד, בן 19, גויס בידי רשת הפשע פוקסטרוט תמורת 25 אלף אירו כדי לבצע התנקשות בבריטניה • הוא נעצר במלון בהאדרספילד כשברשותו נשק ותחמושת, לפני שהספיק להוציא את התוכנית לפועל • הרשת, שעליה הוטלו סנקציות בארה\"ב ובבריטניה, נקשרה לפעילות בשליחות המשטר האיראני נגד יעדים ישראליים ויהודיים באירופה",
+   "time": "2026-10-17T03:41:49+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "מעריב",
+   "outlet": "מעריב",
+   "title": "הסודות מלשכת נתניהו נחשפים:\"התחיל להאמין שרוקמים קנוניה נגדו\"",
+   "url": "https://www.maariv.co.il/breaking-news/article-1378024",
+   "summary": "",
+   "time": "2026-10-17T03:46:21+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "מעריב",
+   "outlet": "מעריב",
+   "title": "טייסי חיל האוויר חושפים את השיחה עם האמריקאים בדרך לאיראן: \"תזי** אותם\"",
+   "url": "https://www.maariv.co.il/breaking-news/article-1378025",
+   "summary": "",
+   "time": "2026-10-17T03:48:05+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "קונספירציה מסוכנת מציבה את חיי הילדים בסכנה: מה לראות היום בטלוויזיה",
+   "url": "https://www.israelhayom.co.il/culture/tv/article/21633175",
+   "summary": "\"מוריד הגשם\", הדרמה המשפטית המבוססת על ספרו של ג'ון גרישם, חוזרת לעונה שנייה עם תיק מסוכן וקונספירציה רחבת היקף, הקרנף מירושלים שמספר את סיפור המלחמה, \"הזמר במסכה\" פותחת עונה חדשה עם בר רפאלי ומשה פרץ בפאנל ועוד תכנים חדשים שעולים היום (שבת) בטלוויזיה",
+   "time": "2026-10-17T04:00:03+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "טראמפ חתם על הקלות בסנקציות נגד רוסיה",
+   "url": "https://www.ynet.co.il/news/article/r1asrrg3zx",
+   "summary": "",
+   "time": "2026-10-17T04:03:08+03:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "מעריב",
+   "outlet": "מעריב",
+   "title": "\"אם ראש ממשלה רוצה שיעירו אותו באמצע הלילה, הוא צריך לדרוש את זה\"",
+   "url": "https://www.maariv.co.il/breaking-news/article-1378028",
+   "summary": "",
+   "time": "2026-10-17T04:04:53+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "מעריב",
+   "outlet": "מעריב",
+   "title": "רגע לפני כניסתן לתוקף: טראמפ הקפיא את הסנקציות על רוסיה",
+   "url": "https://www.maariv.co.il/breaking-news/article-1378029",
+   "summary": "",
+   "time": "2026-10-17T04:11:09+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "מעריב",
+   "outlet": "מעריב",
+   "title": "משמרות המהפכה: מכלית שנשאה שני מיליון חביות נפט עלתה על מוקש ימי בהורמוז והתפוצצה",
+   "url": "https://www.maariv.co.il/breaking-news/article-1378030",
+   "summary": "",
+   "time": "2026-10-17T04:23:06+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "מעריב",
+   "outlet": "מעריב",
+   "title": "\"אתם הכרתם בנו ראשונים – כל הקודם זוכה\": ההזדמנות הכלכלית הנדירה שנפתחת לישראל",
+   "url": "https://www.maariv.co.il/breaking-news/article-1378032",
+   "summary": "",
+   "time": "2026-10-17T04:29:50+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "ארה\"ב: שריפה מתפשטת בדרום קליפורניה, אלפים התפנו מבתיהם",
+   "url": "https://www.ynet.co.il/news/article/skxvxuengg",
+   "summary": "",
+   "time": "2026-10-17T04:49:08+03:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "איראן: התפוצצה מכלית שניסתה לעבור בהורמוז; משמרות המהפכה: \"עלתה על מוקש\"",
+   "url": "https://www.ynet.co.il/news/article/rkk3ilx2ze",
+   "summary": "",
+   "time": "2026-10-17T05:37:22+03:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "דוברת הבית הלבן שפוטרה אחרי 5 ימים בלבד: \"זו הייתה זכות לעבוד עבור טראמפ\"",
+   "url": "https://www.ynet.co.il/news/article/skm58dghgl",
+   "summary": "",
+   "time": "2026-10-17T06:11:41+03:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "התחזית: צפי לגשם מקומי בצפון ובמישור החוף, הטמפרטורות - נמוכות מהרגיל",
+   "url": "https://www.ynet.co.il/news/article/byewx00x2fl",
+   "summary": "",
+   "time": "2026-10-17T06:49:14+03:00",
+   "tier": 2,
+   "type": "reporting"
   }
  ],
- "updated": "2026-10-16T23:39:18.826720+00:00",
+ "updated": "2026-10-17T04:34:41.510459+00:00",
  "clusters": [
   {
    "id": "76de81fb62",
@@ -2686,6 +3006,55 @@
    ]
   },
   {
+   "id": "1619a686d8",
+   "title": "מבוכה לבית הלבן: הדוברת החדשה של טראמפ הודתה שאינה עורכת דין",
+   "sourceCount": 2,
+   "outlets": [
+    "ynet",
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 4,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-16T07:36:32+00:00",
+   "lastSeen": "2026-10-17T06:11:41+03:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "מבוכה לבית הלבן: הדוברת החדשה של טראמפ הודתה שאינה עורכת דין",
+     "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21639065",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-16T07:36:32+00:00"
+    },
+    {
+     "source": "ישראל היום",
+     "title": "תדרוך אסוני וקדנציה קצרצרה: דוברת הבית הלבן פוטרה",
+     "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21641652",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-16T17:30:15+00:00"
+    },
+    {
+     "source": "ynet",
+     "title": "טראמפ על דוברת הבית הלבן החדשה: אולי היא לא מתאימה לתפקיד",
+     "url": "https://www.ynet.co.il/news/article/h1k9tcj2mg",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-16T20:08:49+03:00"
+    },
+    {
+     "source": "ynet",
+     "title": "דוברת הבית הלבן שפוטרה אחרי 5 ימים בלבד: \"זו הייתה זכות לעבוד עבור טראמפ\"",
+     "url": "https://www.ynet.co.il/news/article/skm58dghgl",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-17T06:11:41+03:00"
+    }
+   ]
+  },
+  {
    "id": "8a9eba7ed0",
    "title": "דובר צה״ל: שוגר מיירט לעבר מטרה אווירית חשודה שזוהתה בדרום לבנון",
    "sourceCount": 2,
@@ -2735,43 +3104,43 @@
    ]
   },
   {
-   "id": "1619a686d8",
-   "title": "מבוכה לבית הלבן: הדוברת החדשה של טראמפ הודתה שאינה עורכת דין",
+   "id": "6bcf226b56",
+   "title": "משמרות המהפכה: מכלית שנשאה שני מיליון חביות נפט עלתה על מוקש ימי בהורמוז והתפוצצה",
    "sourceCount": 2,
    "outlets": [
     "ynet",
-    "ישראל היום"
+    "מעריב"
    ],
    "bestTier": 2,
    "hasOfficial": false,
    "reportingCount": 3,
    "opinionOnly": false,
-   "firstSeen": "2026-10-16T07:36:32+00:00",
-   "lastSeen": "2026-10-16T20:08:49+03:00",
+   "firstSeen": "2026-10-16T14:37:20+03:00",
+   "lastSeen": "2026-10-17T05:37:22+03:00",
    "articles": [
     {
-     "source": "ישראל היום",
-     "title": "מבוכה לבית הלבן: הדוברת החדשה של טראמפ הודתה שאינה עורכת דין",
-     "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21639065",
+     "source": "ynet",
+     "title": "צבא איראן: \"עלתה באש מכלית שפעלה בניגוד לנהלים ליד עומאן\"",
+     "url": "https://www.ynet.co.il/news/article/sky00sfyhzg",
      "tier": 2,
      "type": "reporting",
-     "time": "2026-10-16T07:36:32+00:00"
+     "time": "2026-10-16T14:37:20+03:00"
     },
     {
-     "source": "ישראל היום",
-     "title": "תדרוך אסוני וקדנציה קצרצרה: דוברת הבית הלבן פוטרה",
-     "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21641652",
+     "source": "מעריב",
+     "title": "משמרות המהפכה: מכלית שנשאה שני מיליון חביות נפט עלתה על מוקש ימי בהורמוז והתפוצצה",
+     "url": "https://www.maariv.co.il/breaking-news/article-1378030",
      "tier": 2,
      "type": "reporting",
-     "time": "2026-10-16T17:30:15+00:00"
+     "time": "2026-10-17T04:23:06+00:00"
     },
     {
      "source": "ynet",
-     "title": "טראמפ על דוברת הבית הלבן החדשה: אולי היא לא מתאימה לתפקיד",
-     "url": "https://www.ynet.co.il/news/article/h1k9tcj2mg",
+     "title": "איראן: התפוצצה מכלית שניסתה לעבור בהורמוז; משמרות המהפכה: \"עלתה על מוקש\"",
+     "url": "https://www.ynet.co.il/news/article/rkk3ilx2ze",
      "tier": 2,
      "type": "reporting",
-     "time": "2026-10-16T20:08:49+03:00"
+     "time": "2026-10-17T05:37:22+03:00"
     }
    ]
   },
@@ -3040,6 +3409,39 @@
    ]
   },
   {
+   "id": "959afb32a6",
+   "title": "רגע לפני כניסתן לתוקף: טראמפ הקפיא את הסנקציות על רוסיה",
+   "sourceCount": 2,
+   "outlets": [
+    "ynet",
+    "מעריב"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 2,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-17T04:03:08+03:00",
+   "lastSeen": "2026-10-17T04:11:09+00:00",
+   "articles": [
+    {
+     "source": "ynet",
+     "title": "טראמפ חתם על הקלות בסנקציות נגד רוסיה",
+     "url": "https://www.ynet.co.il/news/article/r1asrrg3zx",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-17T04:03:08+03:00"
+    },
+    {
+     "source": "מעריב",
+     "title": "רגע לפני כניסתן לתוקף: טראמפ הקפיא את הסנקציות על רוסיה",
+     "url": "https://www.maariv.co.il/breaking-news/article-1378029",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-17T04:11:09+00:00"
+    }
+   ]
+  },
+  {
    "id": "102b96d8b3",
    "title": "Ukraine advances in occupied Donetsk as Trump hands Putin diesel deal",
    "sourceCount": 1,
@@ -3280,6 +3682,38 @@
    ]
   },
   {
+   "id": "fee61e79a9",
+   "title": "\"אתם הכרתם בנו ראשונים – כל הקודם זוכה\": ההזדמנות הכלכלית הנדירה שנפתחת לישראל",
+   "sourceCount": 1,
+   "outlets": [
+    "מעריב"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 2,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-16T18:25:20+00:00",
+   "lastSeen": "2026-10-17T04:29:50+00:00",
+   "articles": [
+    {
+     "source": "מעריב",
+     "title": "לאחר המתקפה של החות'ים בתימן - זאת עשויה להיות התגובה של ישראל: \"הזדמנות אסטרטגית נדירה\"",
+     "url": "https://www.maariv.co.il/breaking-news/article-1377982",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-16T18:25:20+00:00"
+    },
+    {
+     "source": "מעריב",
+     "title": "\"אתם הכרתם בנו ראשונים – כל הקודם זוכה\": ההזדמנות הכלכלית הנדירה שנפתחת לישראל",
+     "url": "https://www.maariv.co.il/breaking-news/article-1378032",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-17T04:29:50+00:00"
+    }
+   ]
+  },
+  {
    "id": "5cad918f6c",
    "title": "ארה\"ב: הירי בוצע בכיתת חינוך מיוחד באורגון, היורה - תלמיד עם צרכים מיוחדים",
    "sourceCount": 1,
@@ -3308,30 +3742,6 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-10-17T00:46:56+03:00"
-    }
-   ]
-  },
-  {
-   "id": "5e6ef516b2",
-   "title": "It’s not the old two-party politics – but Labour and the Tories now know they can shun their populist challengers | Gaby Hinsliff",
-   "sourceCount": 1,
-   "outlets": [
-    "Guardian"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-10-15T17:40:36+00:00",
-   "lastSeen": "2026-10-15T17:40:36+00:00",
-   "articles": [
-    {
-     "source": "Guardian",
-     "title": "It’s not the old two-party politics – but Labour and the Tories now know they can shun their populist challengers | Gaby Hinsliff",
-     "url": "https://www.theguardian.com/commentisfree/2026/oct/15/andy-burnham-kemi-badenoch-labour-tories-populist-challengers",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-15T17:40:36+00:00"
     }
    ]
   },
@@ -5424,30 +5834,6 @@
    ]
   },
   {
-   "id": "6bcf226b56",
-   "title": "צבא איראן: \"עלתה באש מכלית שפעלה בניגוד לנהלים ליד עומאן\"",
-   "sourceCount": 1,
-   "outlets": [
-    "ynet"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-10-16T14:37:20+03:00",
-   "lastSeen": "2026-10-16T14:37:20+03:00",
-   "articles": [
-    {
-     "source": "ynet",
-     "title": "צבא איראן: \"עלתה באש מכלית שפעלה בניגוד לנהלים ליד עומאן\"",
-     "url": "https://www.ynet.co.il/news/article/sky00sfyhzg",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-16T14:37:20+03:00"
-    }
-   ]
-  },
-  {
    "id": "216d1527b1",
    "title": "בגלל 7.10: נעצר פרסום הספר שכתבה בתו של מוחמד חדיד",
    "sourceCount": 1,
@@ -6308,30 +6694,6 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-10-16T18:21:43+00:00"
-    }
-   ]
-  },
-  {
-   "id": "fee61e79a9",
-   "title": "לאחר המתקפה של החות'ים בתימן - זאת עשויה להיות התגובה של ישראל: \"הזדמנות אסטרטגית נדירה\"",
-   "sourceCount": 1,
-   "outlets": [
-    "מעריב"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-10-16T18:25:20+00:00",
-   "lastSeen": "2026-10-16T18:25:20+00:00",
-   "articles": [
-    {
-     "source": "מעריב",
-     "title": "לאחר המתקפה של החות'ים בתימן - זאת עשויה להיות התגובה של ישראל: \"הזדמנות אסטרטגית נדירה\"",
-     "url": "https://www.maariv.co.il/breaking-news/article-1377982",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-16T18:25:20+00:00"
     }
    ]
   },
@@ -7440,6 +7802,654 @@
    ]
   },
   {
+   "id": "99d5cfbb02",
+   "title": "Albanian PM blames ‘foreign hands’ for unrest as student protests intensify",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-16T23:27:01+00:00",
+   "lastSeen": "2026-10-16T23:27:01+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "Albanian PM blames ‘foreign hands’ for unrest as student protests intensify",
+     "url": "https://www.aljazeera.com/news/2026/10/16/albanian-pm-blames-foreign-hands-for-unrest-as-student-protests-intensify?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-16T23:27:01+00:00"
+    }
+   ]
+  },
+  {
+   "id": "73b3b578ed",
+   "title": "Trump mocks Middle Eastern names with ‘Mohammed’ joke",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-16T23:55:57+00:00",
+   "lastSeen": "2026-10-16T23:55:57+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "Trump mocks Middle Eastern names with ‘Mohammed’ joke",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/trump-mocks-middle-eastern-names-with-mohammed-joke?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-16T23:55:57+00:00"
+    }
+   ]
+  },
+  {
+   "id": "d24a2c13ff",
+   "title": "Iran war live: IRGC says supertanker hit naval mine in Hormuz, catches fire",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-17T00:00:00+00:00",
+   "lastSeen": "2026-10-17T00:00:00+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "Iran war live: IRGC says supertanker hit naval mine in Hormuz, catches fire",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/10/17/draft-2?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-17T00:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "29bc4886c6",
+   "title": "Oregon school shooter was former special needs student, police say",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-17T00:25:22+00:00",
+   "lastSeen": "2026-10-17T00:25:22+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "Oregon school shooter was former special needs student, police say",
+     "url": "https://www.aljazeera.com/news/2026/10/17/oregon-school-shooter-was-former-special-needs-student-police-say?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-17T00:25:22+00:00"
+    }
+   ]
+  },
+  {
+   "id": "f10ba3626f",
+   "title": "\"אתה בספק? פשוט תגיד מוחמד\": טראמפ עוקץ את המועמד המוסלמי לסנאט | צפו",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-17T00:25:31+00:00",
+   "lastSeen": "2026-10-17T00:25:31+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "\"אתה בספק? פשוט תגיד מוחמד\": טראמפ עוקץ את המועמד המוסלמי לסנאט | צפו",
+     "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21642283",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-17T00:25:31+00:00"
+    }
+   ]
+  },
+  {
+   "id": "6709386aa0",
+   "title": "סקר: האם אתה מאמין למי שמצהיר שלא יקים ממשלה עם המפלגות הערביות?",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-17T00:33:51+00:00",
+   "lastSeen": "2026-10-17T00:33:51+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "סקר: האם אתה מאמין למי שמצהיר שלא יקים ממשלה עם המפלגות הערביות?",
+     "url": "https://www.israelhayom.co.il/magazine/hashavua/article/21642269",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-17T00:33:51+00:00"
+    }
+   ]
+  },
+  {
+   "id": "fbd5a1388d",
+   "title": "גינויים חריפים - וטענות לפרובוקציה: הסערה לאחר תקיפת הצלמת",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-17T01:09:41+00:00",
+   "lastSeen": "2026-10-17T01:09:41+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "גינויים חריפים - וטענות לפרובוקציה: הסערה לאחר תקיפת הצלמת",
+     "url": "https://www.israelhayom.co.il/news/local/article/21642338",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-17T01:09:41+00:00"
+    }
+   ]
+  },
+  {
+   "id": "6f772f7e9b",
+   "title": "בניין בתל אביב קרס, ומדינה שלמה נשמה לרווחה. רק כאן זה אפשרי",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-17T01:17:47+00:00",
+   "lastSeen": "2026-10-17T01:17:47+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "בניין בתל אביב קרס, ומדינה שלמה נשמה לרווחה. רק כאן זה אפשרי",
+     "url": "https://www.israelhayom.co.il/magazine/hashavua/article/21642346",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-17T01:17:47+00:00"
+    }
+   ]
+  },
+  {
+   "id": "6e14d882ee",
+   "title": "מהומות, קונספירציות ו\"שכירי חרב ציונים\": ישראל במוקד הסערה באלבניה",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-17T01:26:32+00:00",
+   "lastSeen": "2026-10-17T01:26:32+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "מהומות, קונספירציות ו\"שכירי חרב ציונים\": ישראל במוקד הסערה באלבניה",
+     "url": "https://www.israelhayom.co.il/news/world-news/europe/article/21642373",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-17T01:26:32+00:00"
+    }
+   ]
+  },
+  {
+   "id": "89e238fcd4",
+   "title": "US coastguard rescues 16 after boat sinks off Mexico’s Baja coast",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-17T01:33:37+00:00",
+   "lastSeen": "2026-10-17T01:33:37+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "US coastguard rescues 16 after boat sinks off Mexico’s Baja coast",
+     "url": "https://www.aljazeera.com/news/2026/10/17/us-coastguard-rescues-16-after-boat-sinks-off-mexicos-baja-coast?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-17T01:33:37+00:00"
+    }
+   ]
+  },
+  {
+   "id": "a82e02a8a5",
+   "title": "Healthcare crisis escalating in Yemen’s besieged Taiz",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-17T01:37:07+00:00",
+   "lastSeen": "2026-10-17T01:37:07+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "Healthcare crisis escalating in Yemen’s besieged Taiz",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/healthcare-crisis-escalating-in-yemens-besieged-taiz?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-17T01:37:07+00:00"
+    }
+   ]
+  },
+  {
+   "id": "8821b283a7",
+   "title": "בית המשפט החמיר בעונש: עבודות שירות ואיסור להחזיק בעלי חיים למתעלל",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-17T01:52:49+00:00",
+   "lastSeen": "2026-10-17T01:52:49+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "בית המשפט החמיר בעונש: עבודות שירות ואיסור להחזיק בעלי חיים למתעלל",
+     "url": "https://www.israelhayom.co.il/news/law/article/21642400",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-17T01:52:49+00:00"
+    }
+   ]
+  },
+  {
+   "id": "e4146b4d47",
+   "title": "בעיר שנשבעת \"רק ביבי\" שמענו לפתע קולות אחרים - ברגע הקריטי",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-17T01:57:44+00:00",
+   "lastSeen": "2026-10-17T01:57:44+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "בעיר שנשבעת \"רק ביבי\" שמענו לפתע קולות אחרים - ברגע הקריטי",
+     "url": "https://www.israelhayom.co.il/magazine/hashavua/article/21642388",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-17T01:57:44+00:00"
+    }
+   ]
+  },
+  {
+   "id": "2f33e97055",
+   "title": "שבת גשומה, אך ההתחממות בדרך: כך ייראה השבוע הקרוב | התחזית המלאה",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-17T02:23:05+00:00",
+   "lastSeen": "2026-10-17T02:23:05+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "שבת גשומה, אך ההתחממות בדרך: כך ייראה השבוע הקרוב | התחזית המלאה",
+     "url": "https://www.israelhayom.co.il/weather/article/21642065",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-17T02:23:05+00:00"
+    }
+   ]
+  },
+  {
+   "id": "0d9e259f91",
+   "title": "\"כולם ילכו לכלא\": טראמפ מחריף את המאבק נגד כללי ההצבעה בדואר",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-17T02:33:52+00:00",
+   "lastSeen": "2026-10-17T02:33:52+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "\"כולם ילכו לכלא\": טראמפ מחריף את המאבק נגד כללי ההצבעה בדואר",
+     "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21642449",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-17T02:33:52+00:00"
+    }
+   ]
+  },
+  {
+   "id": "09a1af0167",
+   "title": "Brazil’s Amazon deforestation hits lowest level on record",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-17T02:49:21+00:00",
+   "lastSeen": "2026-10-17T02:49:21+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "Brazil’s Amazon deforestation hits lowest level on record",
+     "url": "https://www.aljazeera.com/news/2026/10/17/brazils-amazon-deforestation-hits-lowest-level-on-record?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-17T02:49:21+00:00"
+    }
+   ]
+  },
+  {
+   "id": "bc5569f2cb",
+   "title": "משמר החופים של ארה\"ב: 16 בני אדם חולצו מסירה טובעת מול חופי מקסיקו",
+   "sourceCount": 1,
+   "outlets": [
+    "ynet"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-17T02:59:39+03:00",
+   "lastSeen": "2026-10-17T02:59:39+03:00",
+   "articles": [
+    {
+     "source": "ynet",
+     "title": "משמר החופים של ארה\"ב: 16 בני אדם חולצו מסירה טובעת מול חופי מקסיקו",
+     "url": "https://www.ynet.co.il/news/article/s1c894e2zg",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-17T02:59:39+03:00"
+    }
+   ]
+  },
+  {
+   "id": "72902c1674",
+   "title": "Cameroonians await government reshuffle after Biya’s return",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-17T03:14:28+00:00",
+   "lastSeen": "2026-10-17T03:14:28+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "Cameroonians await government reshuffle after Biya’s return",
+     "url": "https://www.aljazeera.com/news/2026/10/17/cameroonians-await-government-reshuffle-after-biyas-return?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-17T03:14:28+00:00"
+    }
+   ]
+  },
+  {
+   "id": "39fc550e46",
+   "title": "גיא חזות ראה את האסון מתקרב: \"הייתי יכול להרים טלפון\"",
+   "sourceCount": 1,
+   "outlets": [
+    "מעריב"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-17T03:29:56+00:00",
+   "lastSeen": "2026-10-17T03:29:56+00:00",
+   "articles": [
+    {
+     "source": "מעריב",
+     "title": "גיא חזות ראה את האסון מתקרב: \"הייתי יכול להרים טלפון\"",
+     "url": "https://www.maariv.co.il/breaking-news/article-1378022",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-17T03:29:56+00:00"
+    }
+   ]
+  },
+  {
+   "id": "176e8d104e",
+   "title": "Southern California wildfire engulfs homes, prompts evacuation orders",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-17T03:30:36+00:00",
+   "lastSeen": "2026-10-17T03:30:36+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "Southern California wildfire engulfs homes, prompts evacuation orders",
+     "url": "https://www.aljazeera.com/news/2026/10/17/southern-california-wildfire-engulfs-homes-prompts-evacuation-orders?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-17T03:30:36+00:00"
+    }
+   ]
+  },
+  {
+   "id": "40cd342326",
+   "title": "\"המתנקש הנורבגי\" של הרשת האיראנית נלכד - ונשלח למאסר | צפו בתיעוד",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-17T03:41:49+00:00",
+   "lastSeen": "2026-10-17T03:41:49+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "\"המתנקש הנורבגי\" של הרשת האיראנית נלכד - ונשלח למאסר | צפו בתיעוד",
+     "url": "https://www.israelhayom.co.il/news/world-news/europe/article/21642472",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-17T03:41:49+00:00"
+    }
+   ]
+  },
+  {
+   "id": "933a417de7",
+   "title": "הסודות מלשכת נתניהו נחשפים:\"התחיל להאמין שרוקמים קנוניה נגדו\"",
+   "sourceCount": 1,
+   "outlets": [
+    "מעריב"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-17T03:46:21+00:00",
+   "lastSeen": "2026-10-17T03:46:21+00:00",
+   "articles": [
+    {
+     "source": "מעריב",
+     "title": "הסודות מלשכת נתניהו נחשפים:\"התחיל להאמין שרוקמים קנוניה נגדו\"",
+     "url": "https://www.maariv.co.il/breaking-news/article-1378024",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-17T03:46:21+00:00"
+    }
+   ]
+  },
+  {
+   "id": "88bc2c6a33",
+   "title": "טייסי חיל האוויר חושפים את השיחה עם האמריקאים בדרך לאיראן: \"תזי** אותם\"",
+   "sourceCount": 1,
+   "outlets": [
+    "מעריב"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-17T03:48:05+00:00",
+   "lastSeen": "2026-10-17T03:48:05+00:00",
+   "articles": [
+    {
+     "source": "מעריב",
+     "title": "טייסי חיל האוויר חושפים את השיחה עם האמריקאים בדרך לאיראן: \"תזי** אותם\"",
+     "url": "https://www.maariv.co.il/breaking-news/article-1378025",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-17T03:48:05+00:00"
+    }
+   ]
+  },
+  {
+   "id": "a00291ee0d",
+   "title": "קונספירציה מסוכנת מציבה את חיי הילדים בסכנה: מה לראות היום בטלוויזיה",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-17T04:00:03+00:00",
+   "lastSeen": "2026-10-17T04:00:03+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "קונספירציה מסוכנת מציבה את חיי הילדים בסכנה: מה לראות היום בטלוויזיה",
+     "url": "https://www.israelhayom.co.il/culture/tv/article/21633175",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-17T04:00:03+00:00"
+    }
+   ]
+  },
+  {
+   "id": "a0e1b1e1b4",
+   "title": "\"אם ראש ממשלה רוצה שיעירו אותו באמצע הלילה, הוא צריך לדרוש את זה\"",
+   "sourceCount": 1,
+   "outlets": [
+    "מעריב"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-17T04:04:53+00:00",
+   "lastSeen": "2026-10-17T04:04:53+00:00",
+   "articles": [
+    {
+     "source": "מעריב",
+     "title": "\"אם ראש ממשלה רוצה שיעירו אותו באמצע הלילה, הוא צריך לדרוש את זה\"",
+     "url": "https://www.maariv.co.il/breaking-news/article-1378028",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-17T04:04:53+00:00"
+    }
+   ]
+  },
+  {
+   "id": "4a74970b87",
+   "title": "ארה\"ב: שריפה מתפשטת בדרום קליפורניה, אלפים התפנו מבתיהם",
+   "sourceCount": 1,
+   "outlets": [
+    "ynet"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-17T04:49:08+03:00",
+   "lastSeen": "2026-10-17T04:49:08+03:00",
+   "articles": [
+    {
+     "source": "ynet",
+     "title": "ארה\"ב: שריפה מתפשטת בדרום קליפורניה, אלפים התפנו מבתיהם",
+     "url": "https://www.ynet.co.il/news/article/skxvxuengg",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-17T04:49:08+03:00"
+    }
+   ]
+  },
+  {
+   "id": "c4eb3c4c48",
+   "title": "התחזית: צפי לגשם מקומי בצפון ובמישור החוף, הטמפרטורות - נמוכות מהרגיל",
+   "sourceCount": 1,
+   "outlets": [
+    "ynet"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-17T06:49:14+03:00",
+   "lastSeen": "2026-10-17T06:49:14+03:00",
+   "articles": [
+    {
+     "source": "ynet",
+     "title": "התחזית: צפי לגשם מקומי בצפון ובמישור החוף, הטמפרטורות - נמוכות מהרגיל",
+     "url": "https://www.ynet.co.il/news/article/byewx00x2fl",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-17T06:49:14+03:00"
+    }
+   ]
+  },
+  {
    "id": "004ba47a7b",
    "title": "תבלו? תסבלו: בערוץ הקיבוץ חירבו את חגיגת ליגת האלופות",
    "sourceCount": 1,
@@ -7465,8 +8475,8 @@
   }
  ],
  "stats": {
-  "articles": 237,
-  "clusters": 198,
-  "multiSource": 17
+  "articles": 269,
+  "clusters": 225,
+  "multiSource": 19
  }
 }
