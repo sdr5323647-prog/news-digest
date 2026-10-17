@@ -1,0 +1,573 @@
+{
+ "schema": 2,
+ "date": "2026-10-17",
+ "type": "weekly",
+ "headline": "השבוע: הלחימה בתימן מתרחבת, אסון הפיצוץ ברכס רמים, אלימות מתנחלים מול צלמת אמריקאית, והחרפה בתקיפות ספינות בהורמוז",
+ "events": [
+  {
+   "id": "saudi-houthi-fighting",
+   "title": "האמירויות הסכימו עם סעודיה לחזור ללחימה בתימן; תימן: החות'ים שיגרו שני טילים לשדה התעופה בעדן",
+   "summary": "לפי הגרדיאן, איחוד האמירויות הגיע להסכמה עם סעודיה לשוב להיות מעורבת בעימות בתימן, על רקע הישגי החות'ים. אל-ג'זירה מדווחת, בהתבסס על ממשלת תימן, שהחות'ים שיגרו שני טילים לעבר שדה התעופה בעדן. הניו יורק טיימס מדווח על המשך הלחימה ועל עלייה במחיר האזרחי, ועל סימני שאלה סביב אירועי ספורט ועסקים בסעודיה.",
+   "why": "הרחבת הלחימה בין החות'ים לגוש בהובלה סעודית משפיעה על יציבות האזור ועל נתיבי הים, ולישראל יש עימות מתמשך עם החות'ים.",
+   "change": "האמירויות הסכימו לחזור למעורבות בלחימה, והחות'ים שיגרו טילים לשדה התעופה בעדן.",
+   "next": "הצטרפות אמירתית ללחימה והמשך התקיפות בעדן.",
+   "status": "VERIFIED",
+   "importance": 5,
+   "categories": [
+    "security",
+    "israel_world",
+    "world"
+   ],
+   "kind": "event",
+   "entities": [
+    "החות'ים",
+    "סעודיה",
+    "תימן"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "Guardian",
+     "url": "https://www.theguardian.com/world/2026/oct/17/uae-yemen-conflict-agreement-saudi-arabia-houthi-gains",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "New York Times",
+     "url": "https://www.nytimes.com/2026/10/17/world/middleeast/houthi-saudi-clashes-in-yemen.html",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/16/yemens-government-says-houthis-fired-two-missiles-at-aden-airport",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/15/houthis-target-yemens-presidential-palace-in-aden-with-missiles",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Guardian",
+     "url": "https://www.theguardian.com/world/2026/oct/15/houthi-missiles-strike-aden-yemen",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 6,
+   "firstSeen": "2026-10-03",
+   "lastUpdated": "2026-10-17"
+  },
+  {
+   "id": "ramim-school-trip-blast",
+   "title": "נער בן 14 נהרג בפיצוץ חפץ נפל בטיול שנתי ברכס רמים; 13 פצועים פונו",
+   "summary": "לפי ynet ומעריב, נער בן 14 נהרג ו-13 בני אדם פונו לבית החולים זיו, בהם שניים במצב קשה, בפיצוץ בטיול שנתי ברכס רמים בצפון. לפי עדויות שפורסמו במעריב, אחד התלמידים הכניס רימון מצרר לתיק, ושם התפוצץ. לפי מעריב, צה\"ל מסר שלפי תחקיר ראשוני ככל הנראה מדובר בפצצת מצרר של חיזבאללה. ראש הממשלה אמר, לפי מעריב, שהוא ממשיך לקיים הערכות מצב.",
+   "why": "אסון של בני נוער בטיול מאורגן מעלה שאלות על הימצאות תחמושת לא מפוצצת בשטחי טיול בגבול הצפון ועל אחריות הגורמים המארגנים.",
+   "change": "",
+   "next": "המשך תחקיר צה\"ל ובדיקת נסיבות האירוע והאחריות לאבטחת הטיול.",
+   "status": "VERIFIED",
+   "importance": 5,
+   "categories": [
+    "security",
+    "society"
+   ],
+   "kind": "event",
+   "entities": [
+    "צפון",
+    "חיזבאללה",
+    "תחמושת לא מפוצצת"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/b1ctii9ifl",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1376409",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1376408",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/defense/article/21607907",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-10-13",
+   "lastUpdated": "2026-10-13"
+  },
+  {
+   "id": "pope-surgery",
+   "title": "האפיפיור ליאו ה-14 שוחרר מבית החולים ארבעה ימים אחרי הניתוח",
+   "summary": "לפי ynet ומעריב, הוותיקן הודיע כי האפיפיור שוחרר מבית החולים וינחה טקסי תפילה ממגוריו. אל-ג'זירה מציינת כי צפויה הופעה פומבית ביום ראשון, הראשונה מאז הניתוח.",
+   "why": "מצבו הבריאותי של ראש הכנסייה הקתולית בעקבות אבחון סרטן הריאות מעניין מיליוני מאמינים.",
+   "change": "שוחרר מבית החולים; הופעה פומבית צפויה ביום ראשון.",
+   "next": "הופעה פומבית ביום ראשון.",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "world"
+   ],
+   "kind": "event",
+   "entities": [
+    "האפיפיור",
+    "הוותיקן"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/rkd4ugwnfl",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1378097",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/16/pope-leo-to-make-public-appearance-sunday-first-since-cancer-surgery",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/sypdll2jfl",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1376924",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/world-news/europe/article/21619258",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 6,
+   "firstSeen": "2026-10-11",
+   "lastUpdated": "2026-10-17"
+  },
+  {
+   "id": "wapo-photographer-west-bank-attack",
+   "title": "צלמת ה\"וושינגטון פוסט\" עברה ניתוח; המשטרה פתחה בחקירה וארה\"ב קוראת למעצרים",
+   "summary": "לפי ynet ומעריב, הצלמת האמריקאית שנפצעה בעימות עם מתנחלים ליד רמאללה עברה ניתוח, ובתה מסרה כי אצבעה כמעט נקטעה ונשברו לה חוליות וצלעות. המשטרה פתחה בחקירה, וארה\"ב גינתה את התקיפה וקראה למעצרים ולהרשעות. משרד ראש הממשלה מסר כי חקירה תקבע מי יזם את האלימות. ישראל היום וynet מדווחים גם על תיעוד של תקיפת דיפלומטים אירופיים באזור רמאללה.",
+   "why": "הפגיעה בעיתונאית אמריקאית והגינוי מוושינגטון מעלים את הלחץ הבינלאומי על ישראל בנושא אלימות מתנחלים.",
+   "change": "המשטרה פתחה בחקירה, ארה\"ב גינתה וקראה למעצרים, והצלמת עברה ניתוח.",
+   "next": "תוצאות החקירה ומעצרים אפשריים.",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "security",
+    "society",
+    "israel_world"
+   ],
+   "kind": "event",
+   "entities": [
+    "יהודה ושומרון",
+    "אלימות מתנחלים",
+    "ארה\"ב"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/bjac4ck3mg",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/bjd4dij3mx",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1378083",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Guardian",
+     "url": "https://www.theguardian.com/world/2026/oct/16/israeli-settlers-attack-olive-farmers-west-bank-washington-post-journalist-heidi-levine",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/r1rsgv13ze",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/defense/article/21640335",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1377907",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 8,
+   "firstSeen": "2026-10-16",
+   "lastUpdated": "2026-10-17"
+  },
+  {
+   "id": "intel-kiryat-gat-blast",
+   "title": "הרוג שני באסון הפיצוץ במפעל אינטל בקריית גת",
+   "summary": "לפי ynet, ווואלה וישראל היום, נקבע מותו של פועל נוסף מפצעיו באסון במפעל אינטל, והוא בן 35. ישראל היום שואל בכתבה אם ניתן היה למנוע את הפיצוץ.",
+   "why": "אסון תעשייתי במפעל גדול מעלה שאלות על בטיחות בתעשיית ההייטק והכימיה.",
+   "change": "מספר ההרוגים עלה לשניים.",
+   "next": "ממצאי בדיקת הסיבות לפיצוץ.",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "society",
+    "tech"
+   ],
+   "kind": "event",
+   "entities": [
+    "אינטל",
+    "קריית גת"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/r1bteu0ize",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383957615",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/local/article/21636111",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1377265",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/health/article/21628371",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/hkbnyjtsgl",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 6,
+   "firstSeen": "2026-10-14",
+   "lastUpdated": "2026-10-16"
+  },
+  {
+   "id": "hormuz-ships-sunk",
+   "title": "שתי ספינות מכולות טבעו באזור מצר הורמוז על רקע החרפה בתקיפות ספינות",
+   "summary": "לפי BBC, ספינת מכולות שנפגעה מקליע טבעה במצר הורמוז, כך לפי הודעת סינגפור. הגרדיאן מדווח על טביעת שתי ספינות מכולות באזור, על רקע עלייה בתקיפות שמיוחסות לאיראן. הניו יורק טיימס מתאר החרפה חדה בתקיפות על כלי שיט במצר.",
+   "why": "המצר הוא נתיב מרכזי לסחר ולנפט עולמי, ופגיעה בו משפיעה על מחירי האנרגיה ועל העימות בין ארה\"ב לאיראן.",
+   "change": "",
+   "next": "תגובת ארה\"ב ואיראן ומחירי הנפט בימים הקרובים.",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "world",
+    "economy",
+    "security"
+   ],
+   "kind": "event",
+   "entities": [
+    "הורמוז",
+    "איראן",
+    "נפט"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/crkg7q97z078o",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Guardian",
+     "url": "https://www.theguardian.com/world/2026/oct/14/container-ship-sinks-strait-of-hormuz-surge-iranian-attacks-iran-us-midterm-elections",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "NYT",
+     "url": "https://www.nytimes.com/2026/10/14/business/saudi-houthi-hormuz-oil.html",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/10/15/iran-war-live-tehran-vows-to-fight-until-us-yields-as-ships-sink-in-hormuz",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 4,
+   "firstSeen": "2026-10-15",
+   "lastUpdated": "2026-10-15"
+  },
+  {
+   "id": "liberman-no-minority-government",
+   "title": "ליברמן: לא נתמוך בשום ממשלת מיעוט עם נתניהו, גם לא לתקופת מעבר",
+   "summary": "לפי ynet, וואלה וישראל היום, אביגדור ליברמן הצהיר כי לא ישב עם נתניהו בשום מצב, וגם לא יתמוך בממשלת מיעוט, אפילו לתקופת מעבר. בכך דחה את התוכנית שהציע איזנקוט. ליברמן אמר, כפי שמצוטט, שהליכוד בלי נתניהו יכול להיות שותף.",
+   "why": "ההצהרה מצמצמת את אפשרויות הרכבת הקואליציה אחרי הבחירות הקרובות.",
+   "change": "",
+   "next": "הבחירות בעוד פחות משבועיים.",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "politics"
+   ],
+   "kind": "statement",
+   "entities": [
+    "ליברמן",
+    "נתניהו",
+    "איזנקוט",
+    "בחירות 2026"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/politics/article/21633398",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383957565",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/sk3gzeaogg",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-10-15",
+   "lastUpdated": "2026-10-15"
+  },
+  {
+   "id": "ronen-bar-lawsuit",
+   "title": "רונן בר הגיש תביעה נגד ראש הממשלה נתניהו",
+   "summary": "לפי ynet, מעריב וישראל היום, הגיש רונן בר תביעה כספית נגד נתניהו. בכתב התביעה, כפי שדווח, נטען כי נתניהו קיבל התרעה בליל 7 באוקטובר ב-03:03 ושהמידע הגיע למזכירות הצבאית ב-03:55. אלה טענותיו של בר, שמעורב במחלוקת; נתניהו טרם נשמעה תגובה מפורטת בדיווחים שנבדקו, ובכירים באופוזיציה כבר הגיבו.",
+   "why": "מדובר בהליך משפטי שעשוי לחשוף גרסאות חדשות על האירועים בליל הטבח ולהשפיע על הוויכוח הציבורי והפוליטי לקראת הבחירות.",
+   "change": "",
+   "next": "תגובת נתניהו וקביעת דיון בבית המשפט.",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "law",
+    "politics",
+    "security"
+   ],
+   "kind": "legal",
+   "entities": [
+    "רונן בר",
+    "נתניהו",
+    "7 באוקטובר"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/h1sms03smg",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1377110",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/law/article/21619628",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-10-14",
+   "lastUpdated": "2026-10-14"
+  },
+  {
+   "id": "mandelblit-testimony",
+   "title": "עדות מנדלבליט במשפט נתניהו הופסקה אחרי עימות בין הסנגור לתביעה; בליכוד דורשים לסגור את המשפט",
+   "summary": "לפי ynet ומעריב, עדותו של אביחי מנדלבליט הופסקה לאחר עימות חריף בין עו\"ד חדד, מהצד של נתניהו, לבין התובעת תירוש. לפי ynet, אחרי העדות פנה ח\"כ אוחנה לנשיא הרצוג בבקשה \"לחון את נתניהו\", ובליכוד קראו לעצור את העד ולסגור את המשפט. אלה דרישות של פוליטיקאים, ולא החלטה של בית המשפט.",
+   "why": "המשפט הפלילי של ראש הממשלה נמשך בעיצומו של קמפיין בחירות, וההחלטות בו עשויות להשפיע על המערכת הפוליטית.",
+   "change": "הדיון הופסק בעקבות עימות בין הצדדים; הליכוד דורש לסגור את המשפט ואוחנה פנה להרצוג בבקשת חנינה.",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "law",
+    "politics"
+   ],
+   "kind": "legal",
+   "entities": [
+    "נתניהו",
+    "משפט נתניהו",
+    "מנדלבליט"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/b17wrz5szx",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1376223",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/ry7vyxfogg",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/hklw0qtimx",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/geopolitics/article/21594289",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1375709",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/law/article/21594660",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 7,
+   "firstSeen": "2026-10-11",
+   "lastUpdated": "2026-10-12"
+  },
+  {
+   "id": "trump-russia-diesel-deal",
+   "title": "טראמפ הקפיא סנקציות חדשות על רוסיה שנחתמו בחוק, זמן קצר לפני כניסתן לתוקף",
+   "summary": "לפי ynet, מעריב ואל-ג'זירה, הנשיא טראמפ הקפיא ואיפשר הקלות בסנקציות חדשות על רוסיה, שנחתמו בחוק, רגע לפני שנכנסו לתוקף. אל-ג'זירה מקשרת את המהלך לפער הגובר בין טראמפ לנשיא אוקראינה זלנסקי.",
+   "why": "המהלך מקל על לחץ הסנקציות על מוסקבה ומעמיק את המחלוקת בין וושינגטון לאירופה ולאוקראינה.",
+   "change": "הסנקציות החדשות הוקפאו רגע לפני כניסתן לתוקף.",
+   "next": "תגובת אוקראינה ואירופה.",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "world",
+    "economy"
+   ],
+   "kind": "decision",
+   "entities": [
+    "רוסיה",
+    "אוקראינה",
+    "ארה\"ב",
+    "סנקציות"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/r1asrrg3zx",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1378029",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/17/trump-puts-on-hold-new-russia-sanctions-he-signed-into-law",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-10-10",
+   "lastUpdated": "2026-10-17"
+  }
+ ],
+ "unverified": [],
+ "filtered_out": 1000,
+ "note": ""
+}

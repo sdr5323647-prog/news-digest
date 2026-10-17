@@ -1,0 +1,395 @@
+{
+ "schema": 2,
+ "date": "2026-10-17",
+ "type": "daily",
+ "headline": "צלמת אמריקאית עברה ניתוח וארה\"ב קוראת למעצרים, האמירויות חוזרות ללחימה בתימן, וטראמפ הקפיא סנקציות על רוסיה.",
+ "events": [
+  {
+   "id": "wapo-photographer-west-bank-attack",
+   "title": "צלמת ה\"וושינגטון פוסט\" עברה ניתוח; המשטרה פתחה בחקירה וארה\"ב קוראת למעצרים",
+   "summary": "לפי ynet ומעריב, הצלמת האמריקאית שנפצעה בעימות עם מתנחלים ליד רמאללה עברה ניתוח, ובתה מסרה כי אצבעה כמעט נקטעה ונשברו לה חוליות וצלעות. המשטרה פתחה בחקירה, וארה\"ב גינתה את התקיפה וקראה למעצרים ולהרשעות. משרד ראש הממשלה מסר כי חקירה תקבע מי יזם את האלימות. ישראל היום וynet מדווחים גם על תיעוד של תקיפת דיפלומטים אירופיים באזור רמאללה.",
+   "why": "הפגיעה בעיתונאית אמריקאית והגינוי מוושינגטון מעלים את הלחץ הבינלאומי על ישראל בנושא אלימות מתנחלים.",
+   "change": "המשטרה פתחה בחקירה, ארה\"ב גינתה וקראה למעצרים, והצלמת עברה ניתוח.",
+   "next": "תוצאות החקירה ומעצרים אפשריים.",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "security",
+    "society",
+    "israel_world"
+   ],
+   "kind": "event",
+   "entities": [
+    "יהודה ושומרון",
+    "אלימות מתנחלים",
+    "ארה\"ב"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/bjac4ck3mg",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/bjd4dij3mx",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1378083",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Guardian",
+     "url": "https://www.theguardian.com/world/2026/oct/16/israeli-settlers-attack-olive-farmers-west-bank-washington-post-journalist-heidi-levine",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 5,
+   "firstSeen": "2026-10-16",
+   "lastUpdated": "2026-10-17"
+  },
+  {
+   "id": "saudi-houthi-fighting",
+   "title": "האמירויות הסכימו עם סעודיה לחזור ללחימה בתימן; תימן: החות'ים שיגרו שני טילים לשדה התעופה בעדן",
+   "summary": "לפי הגרדיאן, איחוד האמירויות הגיע להסכמה עם סעודיה לשוב להיות מעורבת בעימות בתימן, על רקע הישגי החות'ים. אל-ג'זירה מדווחת, בהתבסס על ממשלת תימן, שהחות'ים שיגרו שני טילים לעבר שדה התעופה בעדן. הניו יורק טיימס מדווח על המשך הלחימה ועל עלייה במחיר האזרחי, ועל סימני שאלה סביב אירועי ספורט ועסקים בסעודיה.",
+   "why": "הרחבת הלחימה בין החות'ים לגוש בהובלה סעודית משפיעה על יציבות האזור ועל נתיבי הים, ולישראל יש עימות מתמשך עם החות'ים.",
+   "change": "האמירויות הסכימו לחזור למעורבות בלחימה, והחות'ים שיגרו טילים לשדה התעופה בעדן.",
+   "next": "הצטרפות אמירתית ללחימה והמשך התקיפות בעדן.",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "security",
+    "israel_world",
+    "world"
+   ],
+   "kind": "event",
+   "entities": [
+    "החות'ים",
+    "סעודיה",
+    "תימן"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "Guardian",
+     "url": "https://www.theguardian.com/world/2026/oct/17/uae-yemen-conflict-agreement-saudi-arabia-houthi-gains",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "New York Times",
+     "url": "https://www.nytimes.com/2026/10/17/world/middleeast/houthi-saudi-clashes-in-yemen.html",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/16/yemens-government-says-houthis-fired-two-missiles-at-aden-airport",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-10-03",
+   "lastUpdated": "2026-10-17"
+  },
+  {
+   "id": "trump-russia-diesel-deal",
+   "title": "טראמפ הקפיא סנקציות חדשות על רוסיה שנחתמו בחוק, זמן קצר לפני כניסתן לתוקף",
+   "summary": "לפי ynet, מעריב ואל-ג'זירה, הנשיא טראמפ הקפיא ואיפשר הקלות בסנקציות חדשות על רוסיה, שנחתמו בחוק, רגע לפני שנכנסו לתוקף. אל-ג'זירה מקשרת את המהלך לפער הגובר בין טראמפ לנשיא אוקראינה זלנסקי.",
+   "why": "המהלך מקל על לחץ הסנקציות על מוסקבה ומעמיק את המחלוקת בין וושינגטון לאירופה ולאוקראינה.",
+   "change": "הסנקציות החדשות הוקפאו רגע לפני כניסתן לתוקף.",
+   "next": "תגובת אוקראינה ואירופה.",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "world",
+    "economy"
+   ],
+   "kind": "decision",
+   "entities": [
+    "רוסיה",
+    "אוקראינה",
+    "ארה\"ב",
+    "סנקציות"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/r1asrrg3zx",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1378029",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/17/trump-puts-on-hold-new-russia-sanctions-he-signed-into-law",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-10-10",
+   "lastUpdated": "2026-10-17"
+  },
+  {
+   "id": "oregon-school-shooting",
+   "title": "ארה\"ב: ארבעה נהרגו בירי בבית ספר יסודי באורגון; היורה תלמיד לשעבר בחינוך מיוחד",
+   "summary": "לפי ynet ואל-ג'זירה, ארבעה בני אדם נהרגו בירי בבית ספר יסודי באורגון. לפי המשטרה, היורה היה תלמיד לשעבר בחינוך המיוחד, והירי בוצע בכיתת חינוך מיוחד.",
+   "why": "אירוע ירי המוני בבית ספר בארה\"ב, בעל השפעה על הדיון הציבורי שם.",
+   "change": "",
+   "next": "חקירת המשטרה.",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "world",
+    "society"
+   ],
+   "kind": "event",
+   "entities": [
+    "ארה\"ב",
+    "ירי בבית ספר"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/sjcusgg2gg",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/17/oregon-school-shooter-was-former-special-needs-student-police-say",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-10-17",
+   "lastUpdated": "2026-10-17"
+  },
+  {
+   "id": "sisi-term-2030",
+   "title": "נשיא מצרים א-סיסי: אסיים את כהונתי ב-2030",
+   "summary": "לפי ynet וישראל היום, נשיא מצרים עבד א-פתאח א-סיסי הודיע כי יסיים את כהונתו ב-2030.",
+   "why": "מצרים היא שכנה ושותפה מרכזית של ישראל בהסדרים באזור, והצהרה על סיום כהונה משפיעה על הערכות היציבות לטווח הארוך.",
+   "change": "",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "israel_world",
+    "politics"
+   ],
+   "kind": "statement",
+   "entities": [
+    "מצרים",
+    "א-סיסי"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/rjchstl3zx",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21643384",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-10-17",
+   "lastUpdated": "2026-10-17"
+  },
+  {
+   "id": "pope-surgery",
+   "title": "האפיפיור ליאו ה-14 שוחרר מבית החולים ארבעה ימים אחרי הניתוח",
+   "summary": "לפי ynet ומעריב, הוותיקן הודיע כי האפיפיור שוחרר מבית החולים וינחה טקסי תפילה ממגוריו. אל-ג'זירה מציינת כי צפויה הופעה פומבית ביום ראשון, הראשונה מאז הניתוח.",
+   "why": "מצבו הבריאותי של ראש הכנסייה הקתולית בעקבות אבחון סרטן הריאות מעניין מיליוני מאמינים.",
+   "change": "שוחרר מבית החולים; הופעה פומבית צפויה ביום ראשון.",
+   "next": "הופעה פומבית ביום ראשון.",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "world"
+   ],
+   "kind": "event",
+   "entities": [
+    "האפיפיור",
+    "הוותיקן"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/rkd4ugwnfl",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1378097",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/16/pope-leo-to-make-public-appearance-sunday-first-since-cancer-surgery",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-10-11",
+   "lastUpdated": "2026-10-17"
+  }
+ ],
+ "unverified": [
+  {
+   "id": "hormuz-tanker-explosion",
+   "title": "לטענת משמרות המהפכה: מכלית נפט עלתה על מוקש ימי בהורמוז והתפוצצה",
+   "summary": "על פי הודעת משמרות המהפכה של איראן, כפי שדווחה ב-ynet ובמעריב, מכלית שנשאה כשני מיליון חביות נפט עלתה על מוקש ימי במצר הורמוז והתפוצצה. צבא איראן מסר בנפרד כי מכלית עלתה באש ליד עומאן משום שפעלה בניגוד לנהלים. הפרטים לא אומתו ממקור בלתי תלוי.",
+   "why": "פגיעה במכליות במצר הורמוז משפיעה על מחירי האנרגיה ועל ביטחון השיט באזור.",
+   "change": "",
+   "next": "אימות ממקור בלתי תלוי.",
+   "status": "CLAIM",
+   "importance": 4,
+   "categories": [
+    "security",
+    "economy",
+    "israel_world"
+   ],
+   "kind": "event",
+   "entities": [
+    "הורמוז",
+    "איראן"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/rkk3ilx2ze",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1378030",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-10-17",
+   "lastUpdated": "2026-10-17"
+  },
+  {
+   "id": "trump-saudi-israel-houthi-claim",
+   "title": "לטענת טראמפ: ישראל סייעה לסעודיה נגד החות'ים והסכמי אברהם חזרו לשולחן",
+   "summary": "על פי דברי הנשיא טראמפ, כפי שדווחו ב-ynet, בוואלה ובישראל היום, ישראל סייעה לסעודיה מול החות'ים, וסעודיה צריכה לשקול את הסיוע שישראל מציעה. לדברי טראמפ, הסכמי אברהם חזרו לשולחן. אין אישור עצמאי מסעודיה או מישראל לפרטי הסיוע.",
+   "why": "אם יתאמת, שיתוף פעולה ביטחוני גלוי בין ישראל לסעודיה יהיה שינוי משמעותי באזור.",
+   "change": "",
+   "next": "תגובה סעודית וישראלית.",
+   "status": "CLAIM",
+   "importance": 4,
+   "categories": [
+    "politics",
+    "security",
+    "israel_world"
+   ],
+   "kind": "statement",
+   "entities": [
+    "סעודיה",
+    "הסכמי אברהם",
+    "החות'ים",
+    "טראמפ"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/hjenk1gnzg",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383957730",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21641754",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-10-17",
+   "lastUpdated": "2026-10-17"
+  },
+  {
+   "id": "sinwar-successor-strike",
+   "title": "דיווח: \"היורש של סינוואר\" נפצע בינוני בניסיון החיסול לפני שבועיים",
+   "summary": "על פי דיווח שפורסם ב-ynet ובמעריב, עלי אל-עמודי, המכונה \"היורש של סינוואר\", נפצע באורח בינוני בניסיון החיסול של צה\"ל לפני כשבועיים. הדיווח לא אושר רשמית.",
+   "why": "מצבו של בכיר חמאס שצה\"ל ניסה לחסל משפיע על הערכת היכולות והמנהיגות של הארגון.",
+   "change": "לפי דיווח, הוא נפצע בינוני בניסיון החיסול.",
+   "next": "אישור רשמי.",
+   "status": "UNCONFIRMED",
+   "importance": 3,
+   "categories": [
+    "security"
+   ],
+   "kind": "event",
+   "entities": [
+    "חמאס",
+    "עזה"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/hyy49qlhfl",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1378081",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-10-03",
+   "lastUpdated": "2026-10-17"
+  }
+ ],
+ "filtered_out": 290,
+ "note": ""
+}
