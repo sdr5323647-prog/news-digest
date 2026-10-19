@@ -1,0 +1,666 @@
+{
+ "schema": 2,
+ "date": "2026-10-19",
+ "type": "daily",
+ "headline": "גנץ פורש מהבחירות, טראמפ תומך בנתניהו, 8 נעצרו אחרי תקיפת הצלמת והדיפלומטים ביו\"ש, וסיוע המזון בעזה נחתך.",
+ "events": [
+  {
+   "id": "gantz-quits-elections",
+   "title": "בני גנץ הודיע כי לא יתמודד בבחירות הקרובות",
+   "summary": "לפי ynet, וואלה, מעריב וישראל היום, יו\"ר המפלגה בני גנץ הודיע כי לא יתמודד בבחירות הקרובות. בהודעתו אמר, לפי מעריב, כי ימשיך להיאבק למען אחדות. גדי איזנקוט בירך על ההחלטה ואמר, לפי ynet, כי היא נכונה בבחירות שהוא מגדיר כגורליות.",
+   "why": "פרישת גנץ משנה את מפת המפלגות והגושים ערב הבחירות.",
+   "change": "",
+   "next": "מעבר אפשרי של קולות ומתמודדים בין המפלגות ערב הבחירות.",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "politics"
+   ],
+   "kind": "decision",
+   "entities": [
+    "גנץ",
+    "בחירות 2026",
+    "איזנקוט"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1378961",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383958063",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/politics/article/21660029",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/HykKxcQnGl",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/sport/offside/article/21656862",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/h1tkzqqhgl",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 4,
+   "firstSeen": "2026-10-19",
+   "lastUpdated": "2026-10-19"
+  },
+  {
+   "id": "trump-endorses-netanyahu",
+   "title": "טראמפ הודיע על תמיכה בנתניהו בבחירות בישראל",
+   "summary": "לפי אל-ג'זירה, ישראל היום, מעריב וynet, הנשיא טראמפ הכריז על תמיכה בראש הממשלה נתניהו לקראת הבחירות. נתניהו הגיב, לפי ynet, כי \"יש עוד משימה להשלים - חיסול האיום האיראני\". שר החוץ האיראני אמר, לפי וואלה, כי גם לאיראן \"יש חשבון פתוח\" מול טראמפ.",
+   "why": "תמיכה גלויה של נשיא ארה\"ב בראש הממשלה יכולה להשפיע על מערכת הבחירות וגם על המתח מול איראן.",
+   "change": "",
+   "next": "תגובות המפלגות והתפתחות המתח מול איראן.",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "politics",
+    "israel_world"
+   ],
+   "kind": "statement",
+   "entities": [
+    "טראמפ",
+    "נתניהו",
+    "בחירות 2026",
+    "איראן"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/18/trump-endorses-netanyahu-in-israeli-legislative-elections",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21653076",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1378642",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1378707",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1378708",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-10-19",
+   "lastUpdated": "2026-10-19"
+  },
+  {
+   "id": "wapo-photographer-west-bank-attack",
+   "title": "צלמת ה\"וושינגטון פוסט\" והדיפלומטים: 8 נעצרו, האיחוד האירופי מגנה",
+   "summary": "לפי וואלה וynet, 8 חשודים נעצרו בחשד לתקיפת הצלמת האמריקנית והדיפלומטים האירופיים בבנימין, ולפי המשטרה עלה ל-10 מספר העצורים בתקריות האלימות ביו\"ש בסוף השבוע. לפי BBC ואל-ג'זירה, האיחוד האירופי גינה את התקיפה, ובתקיפה נוספת בעונת המסיק הותקף ראש עיר צרפתי. ישראל היום מדווח כי הרמטכ\"ל מתגבר כוחות ביו\"ש. עוד דווח ב-ynet, וואלה ומעריב על הצתת מכולה וכתובות גרפיטי בכפר פלסטיני בדרום הר חברון; המשטרה חוקרת והמאחז הסמוך פונה.",
+   "why": "המעצרים והגינוי האירופי ממשיכים את הלחץ הבינלאומי על ישראל סביב אלימות מתנחלים.",
+   "change": "המעצרים עלו ל-8 חשודים (10 עצורים בסך הכול לפי המשטרה), האיחוד האירופי גינה, והרמטכ\"ל תגבר כוחות.",
+   "next": "המשך החקירות והאם יוגשו כתבי אישום.",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "security",
+    "society",
+    "israel_world"
+   ],
+   "kind": "event",
+   "entities": [
+    "יהודה ושומרון",
+    "אלימות מתנחלים",
+    "ארה\"ב"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383957991",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/rJ9OTzm3Me",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/defense/article/21657248",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/18/eu-condemns-israeli-settler-attack-on-diplomats-in-occupied-west-bank",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/18-10-sv-mayor-of-france-assaulted-by-settlers-ps",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Guardian",
+     "url": "https://www.theguardian.com/world/video/2026/oct/18/french-mayor-attacked-by-israeli-settlers-in-occupied-west-bank-video",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Guardian",
+     "url": "https://www.theguardian.com/world/2026/oct/18/us-ambassador-israel-mike-huckabee-west-bank-settler-attack-photojournalist-heidi-levine",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 6,
+   "firstSeen": "2026-10-16",
+   "lastUpdated": "2026-10-19"
+  },
+  {
+   "id": "intel-kiryat-gat-blast",
+   "title": "חשד לדליפת חומרים מסוכנים נוספת במפעל אינטל בקריית גת",
+   "summary": "לפי ynet, וואלה וישראל היום, התעורר חשד לדליפת חומרים מסוכנים נוספת באותו אתר בקריית גת, פחות משבוע אחרי הפיצוץ במפעל אינטל. וואלה מדווח כי יש חשש לדליפה נוספת במהלך בדיקת אירוע הפיצוץ.",
+   "why": "אירוע שני באותו אתר בתוך ימים מעלה שאלות על הבטיחות במפעל ועל סיכון לתושבים.",
+   "change": "התעורר חשד לדליפה חדשה של חומרים מסוכנים באתר, חמישה ימים אחרי האסון.",
+   "next": "ממצאי הבדיקה והחקירה של אירוע הפיצוץ והדליפה.",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "society",
+    "tech"
+   ],
+   "kind": "event",
+   "entities": [
+    "אינטל",
+    "קריית גת"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/local/article/21657741",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383958035",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/rk6s1vX2ze",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/rj00lnpx3fe",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-10-14",
+   "lastUpdated": "2026-10-19"
+  },
+  {
+   "id": "wfp-gaza-aid-cut",
+   "title": "תוכנית המזון העולמית מקצצת סיוע ל-500 אלף פלסטינים בעזה",
+   "summary": "לפי BBC, גרדיאן ואל-ג'זירה, תוכנית המזון העולמית של האו\"ם מקצצת את הסיוע בעזה בגלל מחסור במימון, וכ-500 אלף פלסטינים יאבדו את התמיכה שלה.",
+   "why": "קיצוץ בסיוע ההומניטרי משפיע על המצב האזרחי ברצועה ועל השיח הבינלאומי על עזה.",
+   "change": "",
+   "next": "האם תימצא חלופה לסיוע שנחתך.",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "world",
+    "israel_world"
+   ],
+   "kind": "decision",
+   "entities": [
+    "עזה",
+    "סיוע הומניטרי"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/cm79plrvpl4vo",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Guardian",
+     "url": "https://www.theguardian.com/world/2026/oct/19/cuts-world-food-programme-end-support-palestinians-gaza",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/19/wfp-cuts-aid-to-500000-palestinians-in-gaza-amid-funding-shortages",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-10-19",
+   "lastUpdated": "2026-10-19"
+  },
+  {
+   "id": "saudi-houthi-fighting",
+   "title": "מדינות המפרץ מגנות את תקיפות החות'ים בסעודיה; מצרים מתחייבת לתמוך",
+   "summary": "לפי אל-ג'זירה, מועצת שיתוף הפעולה של מדינות המפרץ גינתה את התקיפות של החות'ים בסעודיה, כשהלחימה בתימן מתעצמת. לפי ניו יורק טיימס, ראשי הצבא של מצרים התחייבו לתמוך בסעודיה אחרי התקיפות.",
+   "why": "הרחבת הלחימה סביב סעודיה והחות'ים משפיעה על היציבות האזורית ועל ישראל.",
+   "change": "מועצת המפרץ גינתה את התקיפות ומצרים התחייבה לתמוך בסעודיה.",
+   "next": "המשך הלחימה בתימן ותגובות נוספות של מדינות האזור.",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "security",
+    "israel_world",
+    "world"
+   ],
+   "kind": "event",
+   "entities": [
+    "החות'ים",
+    "סעודיה",
+    "תימן"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "NYT",
+     "url": "https://www.nytimes.com/2026/10/18/world/middleeast/egypt-saudi-defense-houthis.html",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/18/gcc-condemns-houthi-attacks-on-saudi-arabia-as-yemen-fighting-intensifies",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-10-03",
+   "lastUpdated": "2026-10-19"
+  },
+  {
+   "id": "canada-base-fire",
+   "title": "קנדה: 4 חיילים נהרגו ועשרות נפצעו בשריפה בבסיס צבאי",
+   "summary": "לפי וואלה, ארבעה חיילים נהרגו ו-39 בני אדם נפגעו בשריפה בבסיס צבאי בקנדה. ynet מדווח כי לפחות 19 חיילים במצב קריטי. לפי אל-ג'זירה, שריפת עשב מהירה גרמה לאסון.",
+   "why": "אסון צבאי גדול בבעלת ברית של המערב.",
+   "change": "",
+   "next": "עדכון במספר הנפגעים וחקירת האסון.",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "world"
+   ],
+   "kind": "event",
+   "entities": [
+    "קנדה"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383957952",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383957975",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/h1wx1173ml",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/fast-moving-grass-fire-caused-canadas-military-base-tragedy",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/19/how-a-grass-fire-at-a-canadian-military-base-killed-four-soldiers",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-10-19",
+   "lastUpdated": "2026-10-19"
+  },
+  {
+   "id": "macron-france-riots",
+   "title": "מקרון על המהומות בצרפת: \"מי שהרס ישלם, ומי שבזז יפצה\"",
+   "summary": "לפי ynet, ישראל היום, מעריב וואלה, הנשיא מקרון אמר בנאום חירום בעקבות המהומות בצרפת כי מי שהרס חייב לשלם ומי שבזז חייב לפצות. לדבריו, כפי שנמסר בישראל היום, גורמים חתרניים בשמאל ניסו להפיל את הרפובליקה. טראמפ אמר, לפי וואלה ומעריב, כי המהגרים השתלטו על צרפת וכי עליה לסגור את הגבולות.",
+   "why": "מהומות רחבות בצרפת וחילופי האשמות פוליטיים משפיעים על היציבות באירופה.",
+   "change": "",
+   "next": "צעדי הממשלה הצרפתית נגד המתפרעים והמשך המהומות.",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "world",
+    "politics"
+   ],
+   "kind": "statement",
+   "entities": [
+    "צרפת",
+    "הגירה",
+    "ארה\"ב"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/world-news/europe/article/21653548",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1378654",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383957959",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/byel400z3mx",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/rjok0fz2ge",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1378702",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 4,
+   "firstSeen": "2026-10-19",
+   "lastUpdated": "2026-10-19"
+  },
+  {
+   "id": "idf-election-leave-freeze",
+   "title": "צה\"ל: עוצר יציאות לחיילים מיום חמישי לקראת הבחירות",
+   "summary": "לפי ynet, וואלה וישראל היום, בהערכת מצב שקיים הרמטכ\"ל הוחלט על עוצר יציאות בצה\"ל החל מיום חמישי, לקראת הבחירות, ובכל הגזרות נשמרת דריכות.",
+   "why": "העצר מעיד על הערכה צבאית לסיכון ביטחוני סביב מועד הבחירות.",
+   "change": "",
+   "next": "סיום העוצר אחרי הבחירות לפי הערכת המצב.",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "security",
+    "politics"
+   ],
+   "kind": "decision",
+   "entities": [
+    "צה\"ל",
+    "בחירות 2026"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383958041",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/defense/article/21658401",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/rk3eswX2zg",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-10-19",
+   "lastUpdated": "2026-10-19"
+  },
+  {
+   "id": "liberman-no-minority-government",
+   "title": "ליברמן: \"השיח על ממשלת מיעוט מסוכן\"; טיבי: לא נאפשר לנתניהו להיות ראש ממשלת מעבר",
+   "summary": "לפי ynet, ליברמן אמר כי אסור להישען על רע\"ם ועל הרשימה המשותפת בממשלת מיעוט. לפי מעריב וynet, אחמד טיבי אמר כי לא יאפשרו לנתניהו להיות ראש ממשלת מעבר, וכי יתמכו בהדחת יו\"ר הכנסת אוחנה.",
+   "why": "הצהרות הצדדים קובעות אילו קואליציות אפשריות אחרי הבחירות.",
+   "change": "ליברמן הוסיף אזהרה מפני הישענות על רע\"ם והמשותפת, וטיבי הציב תנאים לתמיכה בממשלה.",
+   "next": "משא ומתן קואליציוני אחרי הבחירות.",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "politics"
+   ],
+   "kind": "statement",
+   "entities": [
+    "ליברמן",
+    "טיבי",
+    "בחירות 2026"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/politics/article/21658977",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/r150pomnmx",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1378609",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/Hyb88uMnGl",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-10-15",
+   "lastUpdated": "2026-10-19"
+  }
+ ],
+ "unverified": [
+  {
+   "id": "ben-gvir-eu-pledge-claim",
+   "title": "לטענת בן גביר: לשכת רה\"מ התחייבה בפני מדינות האיחוד האירופי שלא יהיה בממשלה הבאה",
+   "summary": "לטענת השר בן גביר, כפי שדווח ב-ynet, בוואלה, בישראל היום ובמעריב, לשכת ראש הממשלה התחייבה בפני מדינות באיחוד האירופי שהוא לא יהיה בממשלה הבאה. לא פורסם אישור או תגובה רשמית מלשכת ראש הממשלה בפרסומים אלה.",
+   "why": "אם הטענה נכונה, היא נוגעת להרכב הממשלה הבאה.",
+   "change": "",
+   "next": "",
+   "status": "CLAIM",
+   "importance": 4,
+   "categories": [
+    "politics"
+   ],
+   "kind": "statement",
+   "entities": [
+    "בן גביר",
+    "נתניהו",
+    "בחירות 2026"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383957941",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/politics/article/21653381",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1378650",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/ryxcrdm2fx",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 4,
+   "firstSeen": "2026-10-19",
+   "lastUpdated": "2026-10-19"
+  },
+  {
+   "id": "hamas-document-camps-claim",
+   "title": "לטענת צה\"ל: מסמך של חמאס מראה תכנון להטמנת מטענים ליד מחנות עקורים",
+   "summary": "על פי הודעת צה\"ל, כפי שדווחה ב-ynet ובוואלה, חמאס תכנן להטמין מטענים ליד מחנות עקורים כדי להבריח מחבלים. המסמך לא אומת באופן עצמאי.",
+   "why": "טענה ביטחונית על פעילות חמאס בקרב אוכלוסייה אזרחית בעזה.",
+   "change": "",
+   "next": "",
+   "status": "CLAIM",
+   "importance": 3,
+   "categories": [
+    "security"
+   ],
+   "kind": "statement",
+   "entities": [
+    "חמאס",
+    "עזה",
+    "צה\"ל"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383958028",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/syxyn8xnme",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-10-19",
+   "lastUpdated": "2026-10-19"
+  },
+  {
+   "id": "australia-mp-run-over",
+   "title": "דיווח: חברת פרלמנט באוסטרליה נדרסה במכוון ומצבה קריטי; חשד לטרור",
+   "summary": "על פי דיווח של וואלה, חברת פרלמנט באוסטרליה נדרסה במכוון ומצבה קריטי. לפי ישראל היום, קיים חשד לטרור. פרטים נוספים על החשוד והמניע לא פורסמו.",
+   "why": "פגיעה בנבחרת ציבור בחשד לטרור.",
+   "change": "",
+   "next": "",
+   "status": "REPORTED",
+   "importance": 3,
+   "categories": [
+    "world",
+    "security"
+   ],
+   "kind": "event",
+   "entities": [
+    "אוסטרליה",
+    "טרור"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383958031",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/world-news/other/article/21659467",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-10-19",
+   "lastUpdated": "2026-10-19"
+  }
+ ],
+ "filtered_out": 344,
+ "note": ""
+}

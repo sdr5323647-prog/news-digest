@@ -2,16 +2,6 @@
  "date": "2026-10-19",
  "articles": [
   {
-   "source": "NYT",
-   "outlet": "NYT",
-   "title": "Israeli Settlers Attack Palestinians and European Officials in West Bank",
-   "url": "https://www.nytimes.com/2026/10/17/world/middleeast/israeli-settlers-attack-palestinians-diplomats-west-bank.html",
-   "summary": "Extremists assaulted residents and broke a European diplomatic vehicle’s window, witnesses said, as settler violence surges in the territory during the olive harvest.",
-   "time": "2026-10-18T07:36:55+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
    "source": "BBC",
    "outlet": "BBC",
    "title": "European diplomats attacked by Israeli settlers in West Bank",
@@ -4862,10 +4852,10 @@
    "type": "reporting"
   }
  ],
- "updated": "2026-10-19T13:26:32.103196+00:00",
+ "updated": "2026-10-19T17:01:32.115451+00:00",
  "clusters": [
   {
-   "id": "a0b37a78c1",
+   "id": "46647e0022",
    "title": "US ambassador to Israel calls West Bank settler attack on American photojournalist ‘terror’",
    "sourceCount": 4,
    "outlets": [
@@ -4876,19 +4866,11 @@
    ],
    "bestTier": 2,
    "hasOfficial": false,
-   "reportingCount": 12,
+   "reportingCount": 11,
    "opinionOnly": false,
-   "firstSeen": "2026-10-18T07:36:55+00:00",
+   "firstSeen": "2026-10-18T12:16:14+00:00",
    "lastSeen": "2026-10-19T12:19:36+00:00",
    "articles": [
-    {
-     "source": "NYT",
-     "title": "Israeli Settlers Attack Palestinians and European Officials in West Bank",
-     "url": "https://www.nytimes.com/2026/10/17/world/middleeast/israeli-settlers-attack-palestinians-diplomats-west-bank.html",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-18T07:36:55+00:00"
-    },
     {
      "source": "BBC",
      "title": "European diplomats attacked by Israeli settlers in West Bank",
@@ -4960,6 +4942,14 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-10-19T10:34:18+00:00"
+    },
+    {
+     "source": "Al Jazeera",
+     "title": "Israeli police arrest 10 after settler attacks on journalist, diplomats",
+     "url": "https://www.aljazeera.com/news/2026/10/19/israeli-police-arrest-10-after-settler-attacks-on-journalist-diplomats?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-19T10:43:55+00:00"
     }
    ]
   },
@@ -14504,7 +14494,7 @@
   }
  ],
  "stats": {
-  "articles": 486,
+  "articles": 485,
   "clusters": 357,
   "multiSource": 43
  }
