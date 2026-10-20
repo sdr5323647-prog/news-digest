@@ -2,36 +2,6 @@
  "date": "2026-10-20",
  "articles": [
   {
-   "source": "Guardian",
-   "outlet": "Guardian",
-   "title": "Cuts force World Food Programme to end support for half a million Palestinians in Gaza",
-   "url": "https://www.theguardian.com/world/2026/oct/19/cuts-world-food-programme-end-support-palestinians-gaza",
-   "summary": "Two-thirds of population face crisis levels of food insecurity and 200,000 people are in danger of famine This winter is likely to deepen hunger for Palestinians in Gaza, after sweeping aid cuts forced the UN’s World Food Programme (WFP) to end support for more than half a million people each month,",
-   "time": "2026-10-19T09:54:33+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
-   "source": "BBC",
-   "outlet": "BBC",
-   "title": "Israeli police arrest 10 over settler attacks on journalist and diplomats in West Bank",
-   "url": "https://www.bbc.co.uk/news/articles/cqn7323p0dxyo?at_medium=RSS&at_campaign=rss",
-   "summary": "It comes after masked settlers attacked Palestinians and European officials visiting the West Bank during olive harvesting season.",
-   "time": "2026-10-19T10:34:18+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
-   "source": "Guardian",
-   "outlet": "Guardian",
-   "title": "Saudi Arabia is learning the hard way: they can’t count on Trump for protection | Mohamad Bazzi",
-   "url": "https://www.theguardian.com/commentisfree/2026/oct/19/saudi-arabia-trump-relationship",
-   "summary": "After Houthis escalated their attacks on Saudi Arabia, the US turned down calls from MBS for help For years, Saudi Arabia’s crown prince, Mohammed bin Salman, cultivated a close relationship with Donald Trump and his son-in-law and former top adviser, Jared Kushner. The prince understood the preside",
-   "time": "2026-10-19T11:00:55+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
    "source": "NYT",
    "outlet": "NYT",
    "title": "U.S. Officials Condemn West Bank Attacks as Netanyahu Casts Doubt on Them",
@@ -5622,7 +5592,7 @@
    "type": "reporting"
   }
  ],
- "updated": "2026-10-20T14:20:52.240741+00:00",
+ "updated": "2026-10-20T17:02:08.951014+00:00",
  "clusters": [
   {
    "id": "5ec69a52be",
@@ -5819,73 +5789,6 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-10-20T09:24:14+03:00"
-    }
-   ]
-  },
-  {
-   "id": "4193c8c91d",
-   "title": "Israeli police detain 10 people in rare raid against West Bank settlers",
-   "sourceCount": 4,
-   "outlets": [
-    "Al Jazeera",
-    "BBC",
-    "Guardian",
-    "NYT"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 6,
-   "opinionOnly": false,
-   "firstSeen": "2026-10-19T10:34:18+00:00",
-   "lastSeen": "2026-10-20T06:22:33+00:00",
-   "articles": [
-    {
-     "source": "BBC",
-     "title": "Israeli police arrest 10 over settler attacks on journalist and diplomats in West Bank",
-     "url": "https://www.bbc.co.uk/news/articles/cqn7323p0dxyo?at_medium=RSS&at_campaign=rss",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-19T10:34:18+00:00"
-    },
-    {
-     "source": "NYT",
-     "title": "U.S. Officials Condemn West Bank Attacks as Netanyahu Casts Doubt on Them",
-     "url": "https://www.nytimes.com/2026/10/18/world/middleeast/netanyahu-settler-attacks-west-bank-palestinians.html",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-19T12:08:04+00:00"
-    },
-    {
-     "source": "NYT",
-     "title": "Israeli Police Detain 10 Over Violent Settler Attacks in West Bank",
-     "url": "https://www.nytimes.com/2026/10/19/world/middleeast/israel-west-bank-settlers-palestinians.html",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-19T17:33:24+00:00"
-    },
-    {
-     "source": "Guardian",
-     "title": "Israeli police detain 10 people in rare raid against West Bank settlers",
-     "url": "https://www.theguardian.com/world/2026/oct/19/israeli-police-detain-10-people-in-rare-raid-against-west-bank-settlers",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-19T18:05:14+00:00"
-    },
-    {
-     "source": "Al Jazeera",
-     "title": "Israeli police say they arrested 10 in connection with settler attacks",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/israeli-police-say-they-arrested-10-in-connection-with-settler-attacks?traffic_source=rss",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-19T21:00:03+00:00"
-    },
-    {
-     "source": "Al Jazeera",
-     "title": "Palestine weekly: Israeli settlers attack journalist and diplomats",
-     "url": "https://www.aljazeera.com/news/2026/10/20/palestine-weekly-israeli-settlers-attack-journalist-and-diplomats?traffic_source=rss",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-20T06:22:33+00:00"
     }
    ]
   },
@@ -6269,6 +6172,56 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-10-19T22:43:20+03:00"
+    }
+   ]
+  },
+  {
+   "id": "3cc43513e5",
+   "title": "Israeli police detain 10 people in rare raid against West Bank settlers",
+   "sourceCount": 3,
+   "outlets": [
+    "Al Jazeera",
+    "Guardian",
+    "NYT"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 4,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-19T12:08:04+00:00",
+   "lastSeen": "2026-10-19T21:00:03+00:00",
+   "articles": [
+    {
+     "source": "NYT",
+     "title": "U.S. Officials Condemn West Bank Attacks as Netanyahu Casts Doubt on Them",
+     "url": "https://www.nytimes.com/2026/10/18/world/middleeast/netanyahu-settler-attacks-west-bank-palestinians.html",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-19T12:08:04+00:00"
+    },
+    {
+     "source": "NYT",
+     "title": "Israeli Police Detain 10 Over Violent Settler Attacks in West Bank",
+     "url": "https://www.nytimes.com/2026/10/19/world/middleeast/israel-west-bank-settlers-palestinians.html",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-19T17:33:24+00:00"
+    },
+    {
+     "source": "Guardian",
+     "title": "Israeli police detain 10 people in rare raid against West Bank settlers",
+     "url": "https://www.theguardian.com/world/2026/oct/19/israeli-police-detain-10-people-in-rare-raid-against-west-bank-settlers",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-19T18:05:14+00:00"
+    },
+    {
+     "source": "Al Jazeera",
+     "title": "Israeli police say they arrested 10 in connection with settler attacks",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/israeli-police-say-they-arrested-10-in-connection-with-settler-attacks?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-19T21:00:03+00:00"
     }
    ]
   },
@@ -8082,54 +8035,6 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-10-20T15:52:47+03:00"
-    }
-   ]
-  },
-  {
-   "id": "005ed156c7",
-   "title": "Cuts force World Food Programme to end support for half a million Palestinians in Gaza",
-   "sourceCount": 1,
-   "outlets": [
-    "Guardian"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-10-19T09:54:33+00:00",
-   "lastSeen": "2026-10-19T09:54:33+00:00",
-   "articles": [
-    {
-     "source": "Guardian",
-     "title": "Cuts force World Food Programme to end support for half a million Palestinians in Gaza",
-     "url": "https://www.theguardian.com/world/2026/oct/19/cuts-world-food-programme-end-support-palestinians-gaza",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-19T09:54:33+00:00"
-    }
-   ]
-  },
-  {
-   "id": "ca36cc38e8",
-   "title": "Saudi Arabia is learning the hard way: they can’t count on Trump for protection | Mohamad Bazzi",
-   "sourceCount": 1,
-   "outlets": [
-    "Guardian"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-10-19T11:00:55+00:00",
-   "lastSeen": "2026-10-19T11:00:55+00:00",
-   "articles": [
-    {
-     "source": "Guardian",
-     "title": "Saudi Arabia is learning the hard way: they can’t count on Trump for protection | Mohamad Bazzi",
-     "url": "https://www.theguardian.com/commentisfree/2026/oct/19/saudi-arabia-trump-relationship",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-19T11:00:55+00:00"
     }
    ]
   },
@@ -12138,6 +12043,30 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-10-20T06:21:56+00:00"
+    }
+   ]
+  },
+  {
+   "id": "3e87b73c80",
+   "title": "Palestine weekly: Israeli settlers attack journalist and diplomats",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-20T06:22:33+00:00",
+   "lastSeen": "2026-10-20T06:22:33+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "Palestine weekly: Israeli settlers attack journalist and diplomats",
+     "url": "https://www.aljazeera.com/news/2026/10/20/palestine-weekly-israeli-settlers-attack-journalist-and-diplomats?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-20T06:22:33+00:00"
     }
    ]
   },
@@ -17063,8 +16992,8 @@
   }
  ],
  "stats": {
-  "articles": 562,
-  "clusters": 433,
+  "articles": 559,
+  "clusters": 432,
   "multiSource": 43
  }
 }

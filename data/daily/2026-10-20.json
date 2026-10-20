@@ -1,0 +1,492 @@
+{
+ "schema": 2,
+ "date": "2026-10-20",
+ "type": "daily",
+ "headline": "הגסת' נפגש בחשאי עם נתניהו, עריקי חב\"ד עוכבו בנתב\"ג, מנדלבליט מעיד במשפט נתניהו, ובריטניה תשלח מטוסי קרב להגנת סעודיה.",
+ "events": [
+  {
+   "id": "hegseth-netanyahu-visit",
+   "title": "שר ההגנה האמריקאי הגסת' ביקר בחשאי בישראל ונפגש עם נתניהו",
+   "summary": "לפי דיווחים של ynet, ישראל היום, אל-ג'זירה ו-NYT, שר ההגנה האמריקאי פיט הגסת' הגיע לביקור שלא הוכרז מראש בישראל ונפגש עם ראש הממשלה נתניהו. לפי ynet, נתניהו המריא למפגש במטוס פרטי, בשעה שמתנהלים דיונים על איראן. הביקור מתקיים כשמונה ימים לפני הבחירות בישראל.",
+   "why": "הביקור מעיד על תיאום ביטחוני אמריקאי-ישראלי בנושא איראן ערב הבחירות.",
+   "change": "",
+   "next": "פרטים רשמיים על תוכן השיחות טרם פורסמו.",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "security",
+    "politics",
+    "israel_world"
+   ],
+   "kind": "event",
+   "entities": [
+    "נתניהו",
+    "ארצות הברית",
+    "איראן",
+    "בחירות 2026"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/geopolitics/article/21663679",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/rytdnz43ge",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/20/hegseth-meets-netanyahu-in-unannounced-israel-visit?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "NYT",
+     "url": "https://www.nytimes.com/2026/10/20/world/middleeast/hegseth-netanyahu-trump-israel-election.html",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 4,
+   "firstSeen": "2026-10-20",
+   "lastUpdated": "2026-10-20"
+  },
+  {
+   "id": "chabad-deserters-ben-gurion",
+   "title": "כ-50 חיילים עריקים, חסידי חב\"ד, עוכבו בנתב\"ג עם נחיתתם מניו יורק",
+   "summary": "לפי ynet, וואלה וישראל היום, כ-50 חסידי חב\"ד שנחשבו עריקים מצה\"ל עוכבו בנתב\"ג עם נחיתתם מניו יורק והועברו לתל השומר. צה\"ל מסר, לפי ynet, כי \"יישפטו בהתאם לחוק\" והם צפויים לעמוד לדין משמעתי. נתניהו אמר, לפי וואלה, כי העיכוב \"לא מקובל\", וש\"ס גינתה אותו.",
+   "why": "האירוע מחדד את המחלוקת הציבורית והקואליציונית על גיוס חרדים ואכיפה נגד עריקים, ערב הבחירות.",
+   "change": "",
+   "next": "הם צפויים לעמוד לדין; צה\"ל נערך להפגנות, לפי ynet.",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "society",
+    "politics",
+    "security"
+   ],
+   "kind": "event",
+   "entities": [
+    "גיוס חרדים",
+    "חב\"ד",
+    "נתניהו",
+    "בחירות 2026"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/local/article/21664618",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383958163",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/bjdjsy4nme",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/synd5yehfx",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-10-20",
+   "lastUpdated": "2026-10-20"
+  },
+  {
+   "id": "mandelblit-testimony",
+   "title": "מנדלבליט בעדותו: \"לא זוכר שאישרתי לחקור את נתניהו בשוחד\"",
+   "summary": "עדותו של היועץ המשפטי לשעבר אביחי מנדלבליט במשפט נתניהו התחדשה. לפי ישראל היום, מעריב וואלה, הוא אמר שהוא אינו בטוח או אינו זוכר שאישר חקירה בחשד לשוחד, ולפי מעריב אמר שייתכן שמדובר בתקלה.",
+   "why": "הצהרות העד המרכזי על שלב החקירה נוגעות לליבת התיק נגד ראש הממשלה.",
+   "change": "העדות חודשה היום, ומנדלבליט אמר שאינו זוכר שאישר חקירה בחשד לשוחד.",
+   "next": "המשך חקירתו הנגדית בדיוני המשפט.",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "law",
+    "politics"
+   ],
+   "kind": "legal",
+   "entities": [
+    "נתניהו",
+    "משפט נתניהו",
+    "מנדלבליט"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/law/article/21665385",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1379223",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383958172",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1379230",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-10-11",
+   "lastUpdated": "2026-10-20"
+  },
+  {
+   "id": "wapo-photographer-west-bank-attack",
+   "title": "מעצרם של חשודים בתקיפת הצלמת והדיפלומטים ביו\"ש הוארך; ארה\"ב גינתה אלימות מתנחלים",
+   "summary": "לפי ynet וישראל היום, מעצרם של כשישה חשודים בתקיפת צלמת ה\"וושינגטון פוסט\" ודיפלומטים בשומרון הוארך. לפי NYT, הגרדיאן ואל-ג'זירה, המשטרה עצרה 10 בחשד לאלימות מתנחלים, ובכירים אמריקאים גינו את המתקפות בעוד נתניהו הטיל בהן ספק. מספרי העצורים שונים בין הדיווחים.",
+   "why": "אלימות המתנחלים והתגובה האמריקאית משפיעות על היחסים עם וושינגטון וארגוני האיחוד האירופי.",
+   "change": "הוארך מעצרם של החשודים, ובכירים אמריקאים גינו את המתקפות.",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "security",
+    "israel_world",
+    "law"
+   ],
+   "kind": "legal",
+   "entities": [
+    "יהודה ושומרון",
+    "אלימות מתנחלים",
+    "ארצות הברית"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/defense/article/21662366",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/sklbppqnme",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "NYT",
+     "url": "https://www.nytimes.com/2026/10/18/world/middleeast/netanyahu-settler-attacks-west-bank-palestinians.html",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Guardian",
+     "url": "https://www.theguardian.com/world/2026/oct/19/israeli-police-detain-10-people-in-rare-raid-against-west-bank-settlers",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 4,
+   "firstSeen": "2026-10-16",
+   "lastUpdated": "2026-10-20"
+  },
+  {
+   "id": "saudi-houthi-fighting",
+   "title": "בריטניה תשלח מטוסי קרב לסעודיה; הוועידה הכלכלית FII נדחתה בעקבות תקיפות החות'ים",
+   "summary": "לפי ynet, ישראל היום, אל-ג'זירה והגרדיאן, בריטניה תשלח מטוסי קרב לסעודיה למשימות הגנה מפני תקיפות החות'ים; ynet מסר כי בריטניה מדגישה שלא תתקוף את החות'ים. לפי NYT ואל-ג'זירה, סעודיה דחתה את ועידת ההשקעות FII. החות'ים טענו, לפי ynet, שתקפו אתר של ארמקו ושדות תעופה בסעודיה.",
+   "why": "הסלמה מול החות'ים משפיעה על יציבות המפרץ ועל שווקי האנרגיה.",
+   "change": "בריטניה תשלח מטוסי קרב להגנת סעודיה, וסעודיה דחתה את ועידת FII.",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "security",
+    "world",
+    "economy"
+   ],
+   "kind": "event",
+   "entities": [
+    "החות'ים",
+    "סעודיה",
+    "בריטניה"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/world-news/europe/article/21668098",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/ry7iopv3me",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/20/uk-to-deploy-raf-fighter-jets-to-defend-saudi-arabia-from-houthi-attacks?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "NYT",
+     "url": "https://www.nytimes.com/2026/10/19/business/saudi-investment-fii-houthis.html",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 4,
+   "firstSeen": "2026-10-03",
+   "lastUpdated": "2026-10-20"
+  },
+  {
+   "id": "macron-france-riots",
+   "title": "צרפת: עוצר לילי הוטל בכמה ערים בעקבות המהומות",
+   "summary": "לפי וואלה, לשכת ראש ממשלת צרפת מסרה שעוצר לילי יוטל ב-4 ערים בצפון המדינה. דיווחים נוספים של מעריב ו-ynet מציינים עוצר גם בפריז ובערים נוספות. ראש הממשלה אמר, לפי ynet, כי העוצר יימשך \"במקומות שהמצב דורש\".",
+   "why": "מהומות ועוצר בצרפת משפיעים על היציבות באירופה.",
+   "change": "הוטל עוצר לילי בכמה ערים; הדיווחים חלוקים לגבי היקפו המדויק.",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "world"
+   ],
+   "kind": "event",
+   "entities": [
+    "צרפת",
+    "מקרון"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383958093",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1379032",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383958102",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/b10qwkvnzx",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-10-19",
+   "lastUpdated": "2026-10-20"
+  },
+  {
+   "id": "kish-meitzav-cancel",
+   "title": "השר קיש הודיע על ביטול זמני של מבחני המיצ\"ב",
+   "summary": "לפי וואלה, ynet וישראל היום, שר החינוך יואב קיש עצר את מבחני המיצ\"ב והודיע על ביטולם הזמני. לפי וואלה, הוא גם אסר על כניסת אנשי הרשות הארצית למדידה והערכה (ראמ\"ה) למשרד.",
+   "why": "מדובר בהחלטה בפועל של שר בשבוע שלפני הבחירות, הנוגעת למדידת מערכת החינוך.",
+   "change": "",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "politics",
+    "society"
+   ],
+   "kind": "decision",
+   "entities": [
+    "משרד החינוך",
+    "קיש",
+    "בחירות 2026"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383958167",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/education/article/21665643",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/r1fawqnnml",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-10-20",
+   "lastUpdated": "2026-10-20"
+  },
+  {
+   "id": "benayahu-razi-murder-charge",
+   "title": "בית המשפט קבע: אין ראיות מבססות לאישום ברצח בניהו רזי נגד שתי הנאשמות",
+   "summary": "לפי ynet, מעריב, וואלה וישראל היום, בית המשפט קבע בשלב המשפט כי אין ראיות לכאורה המבססות אישום ברצח נגד שתי הנאשמות בפרשת רצח בניהו רזי ז\"ל. ישראל היום מדווח על ביטול האישום ברצח.",
+   "why": "הכרעה משפטית בפרשה שעניינה את הציבור, המשנה את חומרת האישומים.",
+   "change": "",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "law",
+    "society"
+   ],
+   "kind": "legal",
+   "entities": [
+    "רצח בניהו רזי"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1379089",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383958120",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/crime/article/21663512",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/S1rZtx4nGl",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 4,
+   "firstSeen": "2026-10-20",
+   "lastUpdated": "2026-10-20"
+  },
+  {
+   "id": "latrun-suspects-arrest",
+   "title": "השב\"כ והימ\"מ עצרו שני חשודים בתכנון פיגוע סמוך ללטרון",
+   "summary": "לפי וואלה, מעריב ו-ynet, כוחות השב\"כ והימ\"מ עצרו בכביש 1 סמוך ללטרון שני חשודים בעבירות ביטחוניות. לפי וואלה ומעריב, הם נעצרו בחשד שהיו בדרך לפיגוע. פרטים נוספים על החשודים טרם פורסמו.",
+   "why": "סיכול פיגוע אפשרי בעורף הישראלי ערב הבחירות.",
+   "change": "",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "security"
+   ],
+   "kind": "event",
+   "entities": [
+    "שב\"כ",
+    "פיגועים"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383958111",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1379076",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383958116",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/rjqtujv2mg",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-10-20",
+   "lastUpdated": "2026-10-20"
+  }
+ ],
+ "unverified": [
+  {
+   "id": "witkoff-kushner-norway-talks",
+   "title": "דיווח: ויטקוף וקושנר יגיעו לנורבגיה לשיחות על אוקראינה, וזלנסקי עשוי להשתתף",
+   "summary": "על פי דיווח של ynet ווואלה, שליחי הנשיא האמריקאי סטיב ויטקוף וג'ארד קושנר צפויים להגיע לנורבגיה לשיחות בנושא אוקראינה, וייתכן שנשיא אוקראינה זלנסקי יצטרף. הדיווח לא אומת במקור רשמי.",
+   "why": "שיחות על סיום המלחמה באוקראינה משפיעות על הכלכלה והביטחון העולמיים.",
+   "change": "",
+   "next": "",
+   "status": "REPORTED",
+   "importance": 3,
+   "categories": [
+    "world"
+   ],
+   "kind": "negotiation",
+   "entities": [
+    "אוקראינה",
+    "ארצות הברית"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383958124",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/byqsgwe3ml",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-10-20",
+   "lastUpdated": "2026-10-20"
+  }
+ ],
+ "filtered_out": 410,
+ "note": ""
+}
