@@ -1,0 +1,401 @@
+{
+ "schema": 2,
+ "date": "2026-10-21",
+ "type": "daily",
+ "headline": "מאי גולן נחקרת באזהרה, ההצבעה בצה\"ל החלה, ויטקוף נפגש עם פוטין, ובריטניה תפרוס מטוסי קרב להגנת סעודיה.",
+ "events": [
+  {
+   "id": "mai-golan-questioned",
+   "title": "השרה מאי גולן נחקרת באזהרה בלהב 433",
+   "summary": "השרה מאי גולן נחקרת היום במשרדי יחידת להב 433 במשטרה. לפי ישראל היום היא נחקרת באזהרה, ולפי ynet החשד הוא שוחד. מעריב מגדיר את החקירה כהשלמת חקירה.",
+   "why": "חקירה באזהרה של שרה מכהנת, שבוע לפני הבחירות.",
+   "change": "",
+   "next": "טרם פורסם אם יוגש כתב אישום.",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "law",
+    "politics"
+   ],
+   "kind": "legal",
+   "entities": [
+    "מאי גולן",
+    "להב 433",
+    "בחירות 2026"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/ryi1afihml",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/law/article/21676735",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1379716",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383958335",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 4,
+   "firstSeen": "2026-10-21",
+   "lastUpdated": "2026-10-21"
+  },
+  {
+   "id": "idf-soldiers-vote",
+   "title": "ההצבעה לכנסת ה-26 החלה בקלפיות בצה\"ל",
+   "summary": "ב-850 קלפיות בבסיסי ובמוצבי צה\"ל החלו חיילי צה\"ל להצביע בבחירות לכנסת ה-26, לפי וואלה, מעריב ו-ynet. בנפרד דיווח וואלה כי צה\"ל יעלה כוננות בעזה מחשש שחמאס ינסה להשפיע על הבחירות.",
+   "why": "תחילת ההצבעה בפועל במסגרת הבחירות לכנסת.",
+   "change": "",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "politics",
+    "security"
+   ],
+   "kind": "event",
+   "entities": [
+    "בחירות 2026",
+    "צה\"ל"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/b1oo2rhhml",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1379609",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383958296",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-10-21",
+   "lastUpdated": "2026-10-21"
+  },
+  {
+   "id": "witkoff-putin-meeting",
+   "title": "ויטקוף נפגש עם פוטין בסנט פטרסבורג בנושא אוקראינה",
+   "summary": "שליח הנשיא האמריקאי סטיב ויטקוף נפגש עם פוטין בסנט פטרסבורג, לפי ynet על בסיס הודעה רוסית. וואלה מצטט אמירה כי \"יש בסיס להפסקת אש באוקראינה\". לפי דיווחים קודמים, ויטקוף עמד להציג לפוטין הצעה לסיום המלחמה לאחר שיחות עם זלנסקי.",
+   "why": "מהלך דיפלומטי מרכזי בניסיון לסיים את המלחמה באוקראינה.",
+   "change": "ויטקוף נפגש בפועל עם פוטין; ההצעה והתוצאות המפורטות טרם פורסמו.",
+   "next": "פרטי ההצעה ותגובת אוקראינה.",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "world"
+   ],
+   "kind": "negotiation",
+   "entities": [
+    "אוקראינה",
+    "רוסיה",
+    "ארצות הברית"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/hk11pdb8nzl",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383958319",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-10-20",
+   "lastUpdated": "2026-10-21"
+  },
+  {
+   "id": "uk-jets-saudi",
+   "title": "בריטניה תפרוס מטוסי קרב להגנת סעודיה מפני התקפות החות'ים",
+   "summary": "לפי BBC, הגרדיאן ואל-ג'זירה, בריטניה תפרוס מטוסי קרב כדי לסייע בהגנה על סעודיה מפני התקפות של החות'ים מתימן. בנפרד מסרה סעודיה, לפי ynet ווואלה, כי יירטה כטב\"מים ששוגרו לעברה.",
+   "why": "הרחבת המעורבות המערבית בהגנה על סעודיה, שותפה פוטנציאלית של ישראל באזור.",
+   "change": "",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "world",
+    "security"
+   ],
+   "kind": "decision",
+   "entities": [
+    "סעודיה",
+    "החות'ים",
+    "בריטניה"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/ckr5yqe1r1llo",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Guardian",
+     "url": "https://www.theguardian.com/uk-news/2026/oct/20/uk-raf-typhoon-fighters-saudi-arabia-houthi-attacks",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/aje-onl-nf_uk-to-deploy-fighter-jets-to-defend-saudi-arabia_1-201026",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-10-21",
+   "lastUpdated": "2026-10-21"
+  },
+  {
+   "id": "chabad-deserters-ben-gurion",
+   "title": "עריקי חב\"ד שנעצרו בנתב\"ג שוחררו לאחר שהסכימו להתגייס",
+   "summary": "לפי ynet, כל העריקים שנעצרו בנתב\"ג שוחררו לאחר שהביעו הסכמה להתגייס. מעריב מדווח כי 13 עריקים חרדים נוספים צפויים להתגייס, ומציין ביקורת על המעצר ההמוני ועל השחרור המהיר.",
+   "why": "מבחן לאכיפת הגיוס מול עריקים חרדים.",
+   "change": "כל העצורים שוחררו אחרי שהסכימו להתגייס; 13 נוספים צפויים להתגייס.",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "society",
+    "security"
+   ],
+   "kind": "event",
+   "entities": [
+    "גיוס חרדים",
+    "צה\"ל"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/hylo17hhgx",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1379462",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-10-20",
+   "lastUpdated": "2026-10-21"
+  },
+  {
+   "id": "netanyahu-pressure-small-parties",
+   "title": "נתניהו וסמוטריץ' מפעילים לחץ על מפלגות קטנות בימין לפרוש מהמרוץ",
+   "summary": "לפי ynet, וואלה וישראל היום, נתניהו נפגש עם יו\"ר \"הציבור החרדי\" מוטי לייטנר וביקש שיפרוש. ynet מדווח שלייטנר סירב, וישראל היום מדווח שלא שלל פרישה על הסף. בנפרד, לפי ynet, נתניהו וסמוטריץ' נפגשו עם הרב של עופר וינטר כדי ללחוץ עליו לפרוש, ואביה של שני לוק ז\"ל פרש מהמרוץ ותמך בוינטר, לפי וואלה.",
+   "why": "פרישות של מפלגות קטנות עשויות להשפיע על חציית אחוז החסימה ועל מאזן הגושים.",
+   "change": "",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "politics"
+   ],
+   "kind": "event",
+   "entities": [
+    "בחירות 2026",
+    "נתניהו",
+    "סמוטריץ'"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/rjzg2bihzl",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/politics/article/21676097",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383958326",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/sjgkdlr2mg",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-10-21",
+   "lastUpdated": "2026-10-21"
+  },
+  {
+   "id": "eisenkot-no-rotation",
+   "title": "איזנקוט: לא אשב עם נתניהו ברוטציה; נפגש עם ליברמן",
+   "summary": "גדי איזנקוט הצהיר בראיון ל-103FM, לפי ישראל היום ומעריב, כי לא ישב תחת נתניהו ואם יקרה כך יתפטר. לפי וואלה ו-ynet, איזנקוט וליברמן נפגשו וסיכמו על המשך שיתוף הפעולה לקראת הבחירות, לאחר פוסט חריף.",
+   "why": "הצהרות על הרכב הקואליציה העתידית שבוע לפני הבחירות.",
+   "change": "",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "politics"
+   ],
+   "kind": "statement",
+   "entities": [
+    "איזנקוט",
+    "ליברמן",
+    "בחירות 2026"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/politics/article/21675460",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1379680",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383958289",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/syrnm0r3zg",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 4,
+   "firstSeen": "2026-10-21",
+   "lastUpdated": "2026-10-21"
+  }
+ ],
+ "unverified": [
+  {
+   "id": "gaza-targeted-killings-louk",
+   "title": "לטענת צה\"ל ושב\"כ: חוסלו בעזה מחבל שהשתתף בחטיפת שני לוק ובכיר במנגנון הביטחון הכללי של חמאס",
+   "summary": "על פי הודעת צה\"ל ושב\"כ, כפי שדווחה ב-ynet, בוואלה, במעריב ובישראל היום, חוסל מחבל נוח'בה שהשתתף בחטיפת שני לוק ז\"ל ב-7 באוקטובר, ובנפרד חוסל בכיר במנגנון הביטחון הכללי של חמאס. הטענות מקורן בהודעת צה\"ל וטרם אומתו באופן עצמאי.",
+   "why": "המשך סיכולים ממוקדים בעזה לקראת הבחירות.",
+   "change": "",
+   "next": "",
+   "status": "CLAIM",
+   "importance": 4,
+   "categories": [
+    "security"
+   ],
+   "kind": "event",
+   "entities": [
+    "עזה",
+    "חמאס",
+    "7 באוקטובר"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/SJSA6ZHhGl",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1379474",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383958232",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/defense/article/21670810",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 4,
+   "firstSeen": "2026-10-21",
+   "lastUpdated": "2026-10-21"
+  },
+  {
+   "id": "qatar-us-iran-talks-claim",
+   "title": "על פי דיווח קטארי: ארה\"ב הסכימה לחזור למשא ומתן עם איראן",
+   "summary": "על פי דיווח קטארי כפי שפורסם ב-ynet, ארצות הברית הסכימה להצעה האיראנית לשוב לשולחן המשא ומתן. אין אישור רשמי אמריקני או איראני. בנפרד, ynet מצטט את איראן כאומרת כי כל החומרים הגרעיניים המועשרים יישארו בתחומה.",
+   "why": "חזרה למשא ומתן עשויה להשפיע על הסלמה אזורית.",
+   "change": "",
+   "next": "",
+   "status": "CLAIM",
+   "importance": 4,
+   "categories": [
+    "security",
+    "israel_world"
+   ],
+   "kind": "negotiation",
+   "entities": [
+    "איראן",
+    "ארצות הברית"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/hjwrskh2ze",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 1,
+   "firstSeen": "2026-10-21",
+   "lastUpdated": "2026-10-21"
+  }
+ ],
+ "filtered_out": 300,
+ "note": ""
+}

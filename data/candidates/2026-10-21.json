@@ -2,46 +2,6 @@
  "date": "2026-10-21",
  "articles": [
   {
-   "source": "BBC",
-   "outlet": "BBC",
-   "title": "Israel's far right find fertile ground among first-time voters",
-   "url": "https://www.bbc.co.uk/news/articles/cmvg632xgndeo?at_medium=RSS&at_campaign=rss",
-   "summary": "More than half a million young people will cast their ballots in Israel next week - and they could make all the difference.",
-   "time": "2026-10-20T08:53:06+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
-   "source": "NYT",
-   "outlet": "NYT",
-   "title": "Houthi Strikes Kill Dozens in Yemeni Desert Military Camp, Officials Say",
-   "url": "https://www.nytimes.com/2026/10/19/world/middleeast/houthis-strike-yemen-military-camp.html",
-   "summary": "The Iranian-backed militia struck with ballistic missiles deep in government-held central Yemen, in what appeared to be among the deadliest attacks of the renewed war.",
-   "time": "2026-10-20T08:53:27+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
-   "source": "NYT",
-   "outlet": "NYT",
-   "title": "Iran, Taunting Trump Over Gas Prices, Braces for Aftermath of Midterm Elections",
-   "url": "https://www.nytimes.com/2026/10/20/us/politics/iran-trump-midterm-elections.html",
-   "summary": "The midterm elections appear to be a factor for both sides in the war as President Trump weighs his next steps.",
-   "time": "2026-10-20T09:01:54+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
-   "source": "Guardian",
-   "outlet": "Guardian",
-   "title": "Fleeing the frontline: Yemeni families cross Red Sea to Djibouti as Houthi conflict rages",
-   "url": "https://www.theguardian.com/world/2026/oct/20/families-cross-red-sea-to-djibouti-houthi-conflict-yemen",
-   "summary": "Their overland routes to safety blocked off, several thousand people have boarded boats to escape gunfire, bombing and a dire humanitarian situation Abubaker Saeed was fishing in the Red Sea off Yemen’s coast last month when he noticed explosions in the distance. His mind turned immediately to his w",
-   "time": "2026-10-20T10:00:32+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
    "source": "ישראל היום",
    "outlet": "ישראל היום",
    "title": "הקרב בבניין היוקרה: \"הגג שלכם, בתנאי שלא תקימו אולם אירועים\"",
@@ -4682,7 +4642,7 @@
    "type": "reporting"
   }
  ],
- "updated": "2026-10-21T11:57:15.210229+00:00",
+ "updated": "2026-10-21T17:02:13.654814+00:00",
  "clusters": [
   {
    "id": "65e3f7859f",
@@ -5487,39 +5447,6 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-10-21T05:36:47+03:00"
-    }
-   ]
-  },
-  {
-   "id": "f836e3e238",
-   "title": "Iran, Taunting Trump Over Gas Prices, Braces for Aftermath of Midterm Elections",
-   "sourceCount": 2,
-   "outlets": [
-    "Al Jazeera",
-    "NYT"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 2,
-   "opinionOnly": false,
-   "firstSeen": "2026-10-20T09:01:54+00:00",
-   "lastSeen": "2026-10-20T21:27:38+00:00",
-   "articles": [
-    {
-     "source": "NYT",
-     "title": "Iran, Taunting Trump Over Gas Prices, Braces for Aftermath of Midterm Elections",
-     "url": "https://www.nytimes.com/2026/10/20/us/politics/iran-trump-midterm-elections.html",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-20T09:01:54+00:00"
-    },
-    {
-     "source": "Al Jazeera",
-     "title": "Trump commits more than $400m ahead of high-stakes midterm elections",
-     "url": "https://www.aljazeera.com/news/2026/10/20/trump-commits-more-than-400m-ahead-of-high-stakes-midterm-elections?traffic_source=rss",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-20T21:27:38+00:00"
     }
    ]
   },
@@ -6668,78 +6595,6 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-10-21T10:25:02+00:00"
-    }
-   ]
-  },
-  {
-   "id": "25295fece9",
-   "title": "Israel's far right find fertile ground among first-time voters",
-   "sourceCount": 1,
-   "outlets": [
-    "BBC"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-10-20T08:53:06+00:00",
-   "lastSeen": "2026-10-20T08:53:06+00:00",
-   "articles": [
-    {
-     "source": "BBC",
-     "title": "Israel's far right find fertile ground among first-time voters",
-     "url": "https://www.bbc.co.uk/news/articles/cmvg632xgndeo?at_medium=RSS&at_campaign=rss",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-20T08:53:06+00:00"
-    }
-   ]
-  },
-  {
-   "id": "99abdaee01",
-   "title": "Houthi Strikes Kill Dozens in Yemeni Desert Military Camp, Officials Say",
-   "sourceCount": 1,
-   "outlets": [
-    "NYT"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-10-20T08:53:27+00:00",
-   "lastSeen": "2026-10-20T08:53:27+00:00",
-   "articles": [
-    {
-     "source": "NYT",
-     "title": "Houthi Strikes Kill Dozens in Yemeni Desert Military Camp, Officials Say",
-     "url": "https://www.nytimes.com/2026/10/19/world/middleeast/houthis-strike-yemen-military-camp.html",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-20T08:53:27+00:00"
-    }
-   ]
-  },
-  {
-   "id": "732038d511",
-   "title": "Fleeing the frontline: Yemeni families cross Red Sea to Djibouti as Houthi conflict rages",
-   "sourceCount": 1,
-   "outlets": [
-    "Guardian"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-10-20T10:00:32+00:00",
-   "lastSeen": "2026-10-20T10:00:32+00:00",
-   "articles": [
-    {
-     "source": "Guardian",
-     "title": "Fleeing the frontline: Yemeni families cross Red Sea to Djibouti as Houthi conflict rages",
-     "url": "https://www.theguardian.com/world/2026/oct/20/families-cross-red-sea-to-djibouti-houthi-conflict-yemen",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-20T10:00:32+00:00"
     }
    ]
   },
@@ -9652,6 +9507,30 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-10-20T21:24:39+00:00"
+    }
+   ]
+  },
+  {
+   "id": "a9efbe40fa",
+   "title": "Trump commits more than $400m ahead of high-stakes midterm elections",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-20T21:27:38+00:00",
+   "lastSeen": "2026-10-20T21:27:38+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "Trump commits more than $400m ahead of high-stakes midterm elections",
+     "url": "https://www.aljazeera.com/news/2026/10/20/trump-commits-more-than-400m-ahead-of-high-stakes-midterm-elections?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-20T21:27:38+00:00"
     }
    ]
   },
@@ -14385,8 +14264,8 @@
   }
  ],
  "stats": {
-  "articles": 468,
-  "clusters": 370,
-  "multiSource": 37
+  "articles": 464,
+  "clusters": 367,
+  "multiSource": 36
  }
 }
