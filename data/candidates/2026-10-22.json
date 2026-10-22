@@ -4,16 +4,6 @@
   {
    "source": "Guardian",
    "outlet": "Guardian",
-   "title": "After three disastrous years, Israel needs to rethink itself. A new government would be a start | Dahlia Scheindlin",
-   "url": "https://www.theguardian.com/world/commentisfree/2026/oct/21/israel-new-government-election-opposition-victory-palestine",
-   "summary": "Only a clear opposition victory would let us begin to heal, strengthen democracy and establish Palestinian rights Dahlia Scheindlin is a Tel Aviv-based political analyst Israel’s 27 October election is fast approaching, with little clarity about who will win. But Benjamin Netanyahu is more likely to",
-   "time": "2026-10-21T09:00:00+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
-   "source": "Guardian",
-   "outlet": "Guardian",
    "title": "NYC built a monument to Khalil Gibran and Little Syria. Why was there global uproar?",
    "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/21/new-york-little-syria-monument-lebanon",
    "summary": "Lebanese officials were furious, claiming the city erased Gibran’s identity. Yet there was a time when Arab immigrants in the US thought ‘we were all Syrians’ This is Muslim New York: artists, thinkers and politicos on defining a new era for the city On the morning of 30 April, in the shadow of the ",
@@ -4442,7 +4432,7 @@
    "type": "reporting"
   }
  ],
- "updated": "2026-10-22T11:59:25.218247+00:00",
+ "updated": "2026-10-22T17:01:51.694473+00:00",
  "clusters": [
   {
    "id": "8de9a410c1",
@@ -6128,30 +6118,6 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-10-22T11:04:08+00:00"
-    }
-   ]
-  },
-  {
-   "id": "70ac0fbb6a",
-   "title": "After three disastrous years, Israel needs to rethink itself. A new government would be a start | Dahlia Scheindlin",
-   "sourceCount": 1,
-   "outlets": [
-    "Guardian"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-10-21T09:00:00+00:00",
-   "lastSeen": "2026-10-21T09:00:00+00:00",
-   "articles": [
-    {
-     "source": "Guardian",
-     "title": "After three disastrous years, Israel needs to rethink itself. A new government would be a start | Dahlia Scheindlin",
-     "url": "https://www.theguardian.com/world/commentisfree/2026/oct/21/israel-new-government-election-opposition-victory-palestine",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-21T09:00:00+00:00"
     }
    ]
   },
@@ -13933,8 +13899,8 @@
   }
  ],
  "stats": {
-  "articles": 444,
-  "clusters": 370,
+  "articles": 443,
+  "clusters": 369,
   "multiSource": 25
  }
 }

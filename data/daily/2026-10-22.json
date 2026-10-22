@@ -1,0 +1,490 @@
+{
+ "schema": 2,
+ "date": "2026-10-22",
+ "type": "daily",
+ "headline": "תקיפה בנמל תעופה בסעודיה, ארה\"ב מפנה חלק מהסגל הדיפלומטי מהמפרץ, וחקירתה של השרה מאי גולן הסתיימה.",
+ "events": [
+  {
+   "id": "saudi-airport-attack",
+   "title": "תקיפה בנמל תעופה במזרח סעודיה: הרוגים ופצועים",
+   "summary": "לפי BBC ואל-ג'זירה, נערכה תקיפה בנמל התעופה המלך פהד במזרח סעודיה. אל-ג'זירה מדווחת על הרוג אחד ושמונה פצועים, וה-BBC מצטט את הרשויות על שני הרוגים; מספר ההרוגים טרם הוסדר בין הדיווחים. התקיפה מתרחשת על רקע החרפה בהתקפות החות'ים על סעודיה.",
+   "why": "פגיעה בתשתית אזרחית בסעודיה מעידה על החרפה בעימות האזורי שישראל חלק ממנו.",
+   "change": "",
+   "next": "פרטים על זהות התוקפים ועל מספר ההרוגים הסופי.",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "security",
+    "world"
+   ],
+   "kind": "event",
+   "entities": [
+    "סעודיה",
+    "החות'ים"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/cqwy71ww156ro",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/22/one-killed-eight-injured-in-attack-on-saudi-arabias-king-fahd-airport-2",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "NYT",
+     "url": "https://www.nytimes.com/2026/10/22/world/middleeast/saudi-houthis-yemen-dammam-airport.html",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-10-22",
+   "lastUpdated": "2026-10-22"
+  },
+  {
+   "id": "us-diplomats-leave-gulf",
+   "title": "ארה\"ב הורתה לחלק מהסגל הדיפלומטי לעזוב את סעודיה ומדינות המפרץ",
+   "summary": "לפי BBC, הגרדיאן ואל-ג'זירה, ארה\"ב הורתה לחלק מהדיפלומטים בסעודיה לעזוב על רקע התקפות החות'ים. ynet וישראל היום מדווחים כי ההוראה חלה על עובדי שגרירות לא חיוניים ובני משפחותיהם במדינות המפרץ.",
+   "why": "פינוי סגל מוכר כסימן להערכת סיכון מוגברת של וושינגטון באזור.",
+   "change": "",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "security",
+    "israel_world"
+   ],
+   "kind": "decision",
+   "entities": [
+    "ארצות הברית",
+    "סעודיה",
+    "החות'ים"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/c6x2vpk93770o",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Guardian",
+     "url": "https://www.theguardian.com/world/2026/oct/22/us-diplomats-told-to-leave-saudi-arabia-amid-houthi-attacks",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/21/us-orders-departure-of-personnel-from-saudi-arabia-citing-houthi-threat",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/hk6msfu3ze",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21681039",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 5,
+   "firstSeen": "2026-10-22",
+   "lastUpdated": "2026-10-22"
+  },
+  {
+   "id": "mai-golan-questioned",
+   "title": "חקירתה של השרה מאי גולן בלהב 433 הסתיימה",
+   "summary": "לפי ynet ומעריב, השרה מאי גולן זומנה היום לחקירה נוספת בלהב 433, והחקירה הסתיימה לאחר שעות ארוכות.",
+   "why": "חקירה של שרה מכהנת סמוך לבחירות.",
+   "change": "גולן זומנה לחקירה נוספת היום, והיא הסתיימה לאחר שעות ארוכות.",
+   "next": "טרם פורסם אם יוגש כתב אישום.",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "law",
+    "politics"
+   ],
+   "kind": "legal",
+   "entities": [
+    "מאי גולן",
+    "להב 433",
+    "בחירות 2026"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/ryavr9i3fe",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1379890",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-10-21",
+   "lastUpdated": "2026-10-22"
+  },
+  {
+   "id": "netanyahu-pressure-small-parties",
+   "title": "יו\"ר \"הציבור החרדי\" לייטנר: \"שמעתי את הצעת נתניהו, אני לא פורש\"",
+   "summary": "לפי ynet ומעריב, יו\"ר מפלגת \"הציבור החרדי\" מסר כי שמע את הצעת נתניהו ואינו פורש, ושלא מתנהל משא ומתן על פרישה.",
+   "why": "פרישת מפלגות קטנות עלולה להשפיע על חלוקת המנדטים.",
+   "change": "לייטנר מסר רשמית שאינו פורש, לאחר שבאתמול דווח כי שקל פרישה.",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "politics"
+   ],
+   "kind": "statement",
+   "entities": [
+    "בחירות 2026",
+    "נתניהו"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/r1LLSP8hze",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1379864",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-10-21",
+   "lastUpdated": "2026-10-22"
+  },
+  {
+   "id": "ag-high-court-draft-evaders",
+   "title": "היועמ\"שית לבג\"ץ: יש לשקול הוראות נוספות לשלילת הטבות ממשתמטים",
+   "summary": "לפי מעריב וישראל היום, היועצת המשפטית לממשלה מסרה לבג\"ץ כי יש לשקול הוראות נוספות לשלילת הטבות כלכליות ממשתמטים מגיוס, וכי לדבריה המדינה אינה עושה די בנושא.",
+   "why": "עמדת היועמ\"שית משפיעה על ההכרעה בבג\"ץ בסוגיית הגיוס.",
+   "change": "",
+   "next": "החלטת בג\"ץ.",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "law",
+    "society"
+   ],
+   "kind": "legal",
+   "entities": [
+    "גיוס חרדים",
+    "בג\"ץ"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1379841",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/law/article/21680682",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-10-22",
+   "lastUpdated": "2026-10-22"
+  },
+  {
+   "id": "lander-west-bank-detention",
+   "title": "מתנדבים אמריקנים ובריטים נעצרו בגדה, ביניהם הפוליטיקאי בראד לנדר; 32 שוחררו בתנאי הרחקה",
+   "summary": "לפי הגרדיאן ואל-ג'זירה, צה\"ל עצר מתנדבים אמריקנים ובריטים, ובהם הפוליטיקאי הדמוקרטי מניו יורק בראד לנדר, בעת קטיף זיתים בגדה המערבית. לפי ynet, המשטרה מסרה כי 32 פעילים שנעצרו ליד בית לחם שוחררו בתנאי הרחקה.",
+   "why": "מעצר אזרחים זרים בכירים עלול להשפיע על יחסי ישראל וארה\"ב ובריטניה.",
+   "change": "",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "security",
+    "israel_world"
+   ],
+   "kind": "event",
+   "entities": [
+    "יהודה ושומרון",
+    "ארצות הברית"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "Guardian",
+     "url": "https://www.theguardian.com/world/2026/oct/21/israeli-military-detains-brad-lander-rabbis-west-bank-olive-harvest",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/farmers-blocked-from-olive-harvest-in-occ-west-bank-volunteers-detained",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/b1ll00di3gg",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-10-22",
+   "lastUpdated": "2026-10-22"
+  },
+  {
+   "id": "shoham-democrats-attack",
+   "title": "נער בן 19 נעצר בחשד לתקיפת פעילי הדמוקרטים בשוהם",
+   "summary": "לפי ynet, מעריב וישראל היום, צעיר בן 19 תושב חדיד נעצר בחשד שירק על פעילי מפלגת הדמוקרטים בשוהם ותקף אותם במוט.",
+   "why": "אלימות נגד פעילים פוליטיים בימי הבחירות.",
+   "change": "",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "politics",
+    "law"
+   ],
+   "kind": "event",
+   "entities": [
+    "בחירות 2026",
+    "הדמוקרטים"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/bypww9i3zl",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1379895",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/crime/article/21681628",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-10-22",
+   "lastUpdated": "2026-10-22"
+  },
+  {
+   "id": "awarta-grave-arson",
+   "title": "צה\"ל פתח בחקירה בעקבות תיעוד של הצתת קבר בכפר עוורתא",
+   "summary": "לפי ynet ומעריב, צה\"ל פתח בחקירה בעקבות תיעוד של הצתת קבר בכפר עוורתא בידי פעילי ימין קיצוני שנמלטו מהמקום, והחשודים נסרקים.",
+   "why": "אלימות אידאולוגית בגדה עלולה להסלים ולהשפיע על הביטחון.",
+   "change": "",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "security",
+    "society"
+   ],
+   "kind": "event",
+   "entities": [
+    "יהודה ושומרון"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/hyb6yn8nzx",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1379904",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-10-22",
+   "lastUpdated": "2026-10-22"
+  },
+  {
+   "id": "meta-new-mexico-fine",
+   "title": "שופט הורה למטא לשלם קנס של 25 מיליארד דולר בגין הפרות פרטיות",
+   "summary": "לפי אל-ג'זירה, שופט הורה לחברת מטא לשלם קנסות בסך 25 מיליארד דולר בגין הפרות פרטיות בפייסבוק, בהליך במדינת ניו מקסיקו. הדיווח הגיע ממקור אחד ולא אומת עצמאית.",
+   "why": "קנס בהיקף חריג על חברת טכנולוגיה גדולה.",
+   "change": "",
+   "next": "",
+   "status": "REPORTED",
+   "importance": 3,
+   "categories": [
+    "tech",
+    "law"
+   ],
+   "kind": "legal",
+   "entities": [
+    "מטא"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/21/judge-orders-meta-to-pay-25bn-in-fines-for-facebook-privacy-violations",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/22/facebooks-wrongdoing-why-has-meta-been-fined-25bn-in-new-mexico",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 1,
+   "firstSeen": "2026-10-22",
+   "lastUpdated": "2026-10-22"
+  },
+  {
+   "id": "nigeria-ebola",
+   "title": "נתוני בריאות: מקרה האבולה הראשון בניגריה תואם לזן מקונגו",
+   "summary": "לפי אל-ג'זירה, גורמי בריאות מסרו כי מקרה האבולה הראשון בניגריה תואם לזן שהתגלה בקונגו (DR Congo). הדיווח ממקור אחד.",
+   "why": "התפשטות מחלה מדבקת לארץ חדשה.",
+   "change": "",
+   "next": "",
+   "status": "REPORTED",
+   "importance": 3,
+   "categories": [
+    "world",
+    "society"
+   ],
+   "kind": "event",
+   "entities": [
+    "אבולה"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/21/nigerias-first-ebola-case-matches-dr-congo-strain-health-officials-say",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 1,
+   "firstSeen": "2026-10-22",
+   "lastUpdated": "2026-10-22"
+  }
+ ],
+ "unverified": [
+  {
+   "id": "netanyahu-trump-iran-strike-report",
+   "title": "נתניהו מכחיש דיווח כי טראמפ בלם אותו מתקיפה באיראן",
+   "summary": "נתניהו מסר, לפי ynet וישראל היום, כי הדיווח שנשיא ארה\"ב טראמפ בלם אותו מלתקוף באיראן \"מגמתי ולא נכון\". ישראל היום מדווח בנפרד כי נתניהו הציג לטראמפ תוכנית לתקיפה שתביא להפלת המשטר. הדיווחים סותרים ואין אישור עצמאי.",
+   "why": "יחסי ישראל וארה\"ב סביב איראן לפני הבחירות.",
+   "change": "",
+   "next": "",
+   "status": "CONFLICTING",
+   "importance": 4,
+   "categories": [
+    "security",
+    "politics"
+   ],
+   "kind": "dispute",
+   "entities": [
+    "נתניהו",
+    "איראן",
+    "ארצות הברית"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/Hkit6BvnGe",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/geopolitics/article/21684809",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21685582",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-10-22",
+   "lastUpdated": "2026-10-22"
+  },
+  {
+   "id": "us-forces-reduce-mideast-bases",
+   "title": "על פי דיווח: צבא ארה\"ב הפחית נוכחות בבסיסים במזרח התיכון",
+   "summary": "על פי דיווח של ynet וישראל היום, צבא ארה\"ב הפחית את נוכחותו בבסיסים במזרח התיכון \"בתגובה לאיומים\". הדיווח לא אומת במקור רשמי.",
+   "why": "שינוי בפריסה האמריקנית באזור מתוח.",
+   "change": "",
+   "next": "",
+   "status": "REPORTED",
+   "importance": 4,
+   "categories": [
+    "security",
+    "israel_world"
+   ],
+   "kind": "event",
+   "entities": [
+    "ארצות הברית"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/r1a11pj8nmx",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21681908",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-10-22",
+   "lastUpdated": "2026-10-22"
+  }
+ ],
+ "filtered_out": 355,
+ "note": ""
+}
