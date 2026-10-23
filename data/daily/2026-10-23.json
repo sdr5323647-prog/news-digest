@@ -1,0 +1,369 @@
+{
+  "schema": 2,
+  "date": "2026-10-23",
+  "type": "daily",
+  "headline": "פיגוע ירי סמוך לצומת יהודה, מחירי נפט בשיא על רקע איום איראני במפרץ, ובישראל מתחילים לפעול סביב הבחירות.",
+  "events": [
+    {
+      "id": "yehuda-junction-shooting",
+      "title": "פיגוע ירי סמוך לצומת יהודה: חמישה נפגעים, שני מחבלים חוסלו",
+      "summary": "לפי ישראל היום, וואלה ו-BBC, נערך פיגוע ירי סמוך לצומת יהודה. מד\"א מסר, לפי וואלה, על חמישה נפגעים, שניים מהם במצב אנוש. ישראל היום מדווח כי שני מחבלים חוסלו, וה-BBC מדווח על חמישה ישראלים פצועים ושני חשודים פלסטינים שנהרגו.",
+      "why": "פיגוע ירי עם נפגעים קשים בעיצומה של תקופה רגישה ביטחונית ופוליטית.",
+      "change": "",
+      "next": "עדכון על מצב הפצועים ועל זהות המחבלים.",
+      "status": "VERIFIED",
+      "importance": 4,
+      "categories": [
+        "security"
+      ],
+      "kind": "event",
+      "entities": [
+        "יהודה ושומרון",
+        "פיגועים"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/news/defense/article/21691500",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "וואלה",
+          "url": "https://www.walla.co.il/news/breaking-news/383958592",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "NYT",
+          "url": "https://www.nytimes.com/2026/10/23/world/middleeast/west-bank-shooting-israel.html",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 4,
+      "firstSeen": "2026-10-23",
+      "lastUpdated": "2026-10-23"
+    },
+    {
+      "id": "iran-gulf-threat-oil-high",
+      "title": "הנפט בשיא של חמישה חודשים; איראן מאיימת לפגוע במתקני נפט במפרץ אם ארה\"ב וישראל יחדשו תקיפות",
+      "summary": "לפי הגרדיאן, מחיר הנפט עלה לשיא של חמישה חודשים על רקע החשש מחידוש התקיפות האמריקאיות באיראן. הגרדיאן מדווח כי איראן איימה לפגוע במתקני נפט ובמתקנים נוספים בשבע מדינות במפרץ אם ארה\"ב וישראל יחדשו את התקיפות. אל-ג'זירה מדווחת כי הנשיא טראמפ רמז על תקיפות חדשות.",
+      "why": "חידוש הלחימה מול איראן עלול להשפיע על שוק האנרגיה העולמי, על המפרץ ועל ישראל.",
+      "change": "",
+      "next": "האם ארה\"ב תחדש את התקיפות באיראן.",
+      "status": "VERIFIED",
+      "importance": 4,
+      "categories": [
+        "security",
+        "economy",
+        "israel_world"
+      ],
+      "kind": "statement",
+      "entities": [
+        "איראן",
+        "ארצות הברית",
+        "נפט"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/22/iran-threatens-seven-gulf-countries-us-israel-renew-attacks",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "Guardian",
+          "url": "https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/10/23/trump-hints-new-strikes-says-us-knocked-hell-out-of-iran",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 2,
+      "firstSeen": "2026-10-23",
+      "lastUpdated": "2026-10-23"
+    },
+    {
+      "id": "saudi-houthi-fighting",
+      "title": "סעודיה: יירוטים נוספים של טילים וכטב\"מים של החות'ים, בהם טיל לעבר ריאד",
+      "summary": "לפי ynet, סעודיה מסרה כי יירטה טיל בליסטי ושני כטב\"מים ששוגרו לדרום המדינה, וכן טיל ששוגר לעבר ריאד. מעריב מדווח על התרעות מקדימות בסעודיה מחשש למתקפה של החות'ים.",
+      "why": "ההתקפות על סעודיה נמשכות ומגדילות את הסיכון האזורי.",
+      "change": "לפי ynet, סעודיה דיווחה על סדרת יירוטים נוספת, בהם טיל שכוון לריאד.",
+      "next": "",
+      "status": "REPORTED",
+      "importance": 3,
+      "categories": [
+        "security",
+        "world"
+      ],
+      "kind": "event",
+      "entities": [
+        "סעודיה",
+        "החות'ים"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/rj4jf0v2zg",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/sktmxndnmg",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 1,
+      "firstSeen": "2026-10-03",
+      "lastUpdated": "2026-10-23"
+    },
+    {
+      "id": "election-committee-likud-signs",
+      "title": "יו\"ר ועדת הבחירות הורה לליכוד להסיר שלטים שמציגים את איזנקוט עם עבאס וטיבי",
+      "summary": "לפי ynet, וואלה וישראל היום, יו\"ר ועדת הבחירות המרכזית הורה לליכוד להסיר שלטי תעמולה שמציגים את ראשי גוש השינוי לצד עבאס וטיבי. לפי וואלה, מפלגת איזנקוט דרשה מהליכוד להסיר גם שלטי תעמולה בערבית.",
+      "why": "הכרעה של ועדת הבחירות על תוכן תעמולה בימים שלפני ההצבעה.",
+      "change": "",
+      "next": "",
+      "status": "VERIFIED",
+      "importance": 3,
+      "categories": [
+        "politics",
+        "law"
+      ],
+      "kind": "decision",
+      "entities": [
+        "בחירות 2026",
+        "הליכוד",
+        "איזנקוט"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/bkafr9u3mg",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "וואלה",
+          "url": "https://www.walla.co.il/news/breaking-news/383958611",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/news/politics/article/21692450",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 3,
+      "firstSeen": "2026-10-23",
+      "lastUpdated": "2026-10-23"
+    },
+    {
+      "id": "netanyahu-market-visit-incident",
+      "title": "בקבוק הושלך לעבר שיירת נתניהו; אב שכול הותקף בביקור בשוק התקווה",
+      "summary": "לפי ynet ומעריב, בקבוק זכוכית הושלך לעבר שיירת ראש הממשלה סמוך לשוק מחנה יהודה. ישראל היום מדווח כי בביקור בשוק התקווה צעיר עוכב לחקירה לאחר שהשליך חפץ ותקף אב שכול.",
+      "why": "אירוע אלימות סביב ראש הממשלה בעיצומה של מערכת הבחירות.",
+      "change": "",
+      "next": "המשך חקירת המשטרה.",
+      "status": "VERIFIED",
+      "importance": 3,
+      "categories": [
+        "politics",
+        "society"
+      ],
+      "kind": "event",
+      "entities": [
+        "נתניהו",
+        "בחירות 2026"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/b12oh11003fe",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "מעריב",
+          "url": "https://www.maariv.co.il/breaking-news/article-1380321",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/news/local/article/21688777",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 3,
+      "firstSeen": "2026-10-23",
+      "lastUpdated": "2026-10-23"
+    },
+    {
+      "id": "high-court-digital-turnout-data",
+      "title": "בג\"ץ: אסור למפלגות להעביר באמצעים דיגיטליים נתונים על מספר המצביעים בקלפיות",
+      "summary": "לפי ynet, בג\"ץ קבע כי אסור למפלגות להעביר באמצעים דיגיטליים נתונים על מספר המצביעים בקלפיות. לפי וואלה, הרשימה המשותפת עתרה בנפרד לבג\"ץ נגד נשיאת נשק בקלפיות.",
+      "why": "קביעה משפטית על אופן ניהול יום הבחירות.",
+      "change": "",
+      "next": "",
+      "status": "REPORTED",
+      "importance": 3,
+      "categories": [
+        "law",
+        "politics"
+      ],
+      "kind": "legal",
+      "entities": [
+        "בג\"ץ",
+        "בחירות 2026"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/ryIGLYv3zx",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 1,
+      "firstSeen": "2026-10-23",
+      "lastUpdated": "2026-10-23"
+    },
+    {
+      "id": "tibet-earthquake",
+      "title": "רעידת אדמה בעוצמה 7.0 בטיבט: 16 הרוגים לפי סוכנות הידיעות הסינית",
+      "summary": "לפי אל-ג'זירה, בהסתמך על סוכנות הידיעות הסינית שינחואה, רעידת אדמה בעוצמה 7.0 הרגה 16 בני אדם בטיבט. מעריב מדווח כי הרעידה הורגשה סמוך לגבול עם בהוטן.",
+      "why": "אסון טבע עם מספר הרוגים משמעותי.",
+      "change": "",
+      "next": "עדכון על מספר ההרוגים והנזק.",
+      "status": "VERIFIED",
+      "importance": 3,
+      "categories": [
+        "world"
+      ],
+      "kind": "event",
+      "entities": [
+        "סין",
+        "רעידת אדמה"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/22/magnitude-7-earthquake-kills-16-people-in-chinas-tibet-xinhua-reports",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "מעריב",
+          "url": "https://www.maariv.co.il/breaking-news/article-1380227",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 2,
+      "firstSeen": "2026-10-23",
+      "lastUpdated": "2026-10-23"
+    }
+  ],
+  "unverified": [
+    {
+      "id": "khan-younis-prc-chief-killed",
+      "title": "לטענת צה\"ל ושב\"כ: חוסל בח'אן יונס ראש ארגון \"ועדות ההתנגדות העממית\"",
+      "summary": "על פי הודעת צה\"ל ושב\"כ, כפי שדווחה בישראל היום, בוואלה, במעריב וב-ynet, חוסל בתקיפה מהאוויר ראש ארגון \"ועדות ההתנגדות העממית\" בח'אן יונס. לטענת צה\"ל הוא שיתף פעולה עם חמאס. אין אישור עצמאי של הצדדים האחרים.",
+      "why": "חיסולים ממוקדים ברצועה משפיעים על הרגיעה ועל המשך המגעים.",
+      "change": "",
+      "next": "",
+      "status": "CLAIM",
+      "importance": 4,
+      "categories": [
+        "security"
+      ],
+      "kind": "event",
+      "entities": [
+        "עזה",
+        "חמאס"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/news/defense/article/21689854",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/bj6wmawnml",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "וואלה",
+          "url": "https://www.walla.co.il/news/breaking-news/383958563",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 3,
+      "firstSeen": "2026-10-23",
+      "lastUpdated": "2026-10-23"
+    },
+    {
+      "id": "iran-hormuz-ships-claim",
+      "title": "לטענת איראן: שבע ספינות נפגעו במצר הורמוז; היא מזהירה את ארה\"ב מתגובה רחבה יותר",
+      "summary": "על פי דיווח של אל-ג'זירה, איראן מסרה כי שבע ספינות נפגעו במצר הורמוז והזהירה את ארה\"ב מתגובה רחבה יותר. לא התקבל אישור עצמאי לנתונים.",
+      "why": "פגיעה בנתיב השיט בהורמוז משפיעה על שוק האנרגיה ועל הסלמה מול איראן.",
+      "change": "",
+      "next": "",
+      "status": "CLAIM",
+      "importance": 4,
+      "categories": [
+        "security",
+        "israel_world"
+      ],
+      "kind": "statement",
+      "entities": [
+        "איראן",
+        "הורמוז"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/22/iran-says-seven-ships-hit-in-hormuz-strait-warns-us-of-wider-response",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 1,
+      "firstSeen": "2026-10-23",
+      "lastUpdated": "2026-10-23"
+    }
+  ],
+  "filtered_out": 38,
+  "note": ""
+}

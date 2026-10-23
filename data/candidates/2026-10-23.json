@@ -4,46 +4,6 @@
   {
    "source": "NYT",
    "outlet": "NYT",
-   "title": "Palestinians Hope Israeli Election Will Oust Netanyahu",
-   "url": "https://www.nytimes.com/2026/10/21/world/middleeast/stakes-for-palestinians-of-israel-election.html",
-   "summary": "Many in Gaza and the West Bank are desperate to avoid more years of Prime Minister Benjamin Netanyahu’s right-wing government, which has made life close to unbearable.",
-   "time": "2026-10-22T08:04:47+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
-   "source": "BBC",
-   "outlet": "BBC",
-   "title": "How do Israel's elections work and who are the main contenders?",
-   "url": "https://www.bbc.co.uk/news/articles/cx8dz75633vjo?at_medium=RSS&at_campaign=rss",
-   "summary": "Many view it as one of the most pivotal elections in Israel's history, with global implications.",
-   "time": "2026-10-22T09:27:10+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
-   "source": "NYT",
-   "outlet": "NYT",
-   "title": "The Election That Will Define Israel’s Future",
-   "url": "https://www.nytimes.com/2026/10/22/podcasts/the-daily/israel-election-netanyahu.html",
-   "summary": "Israelis on both sides of the political spectrum see next week’s vote as the most consequential in their country’s history.",
-   "time": "2026-10-22T10:00:16+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
-   "source": "Guardian",
-   "outlet": "Guardian",
-   "title": "Maritime and port workers: how is the Middle East conflict affecting you?",
-   "url": "https://www.theguardian.com/business/2026/mar/04/maritime-and-port-workers-how-is-the-middle-east-conflict-affecting-you",
-   "summary": "We want to hear from those working or living at sea, including maritime workers, sailors, port staff and family about how the situation is affecting their work The conflict in the Middle East continues to disrupt shipping across the region, including in the strait of Hormuz, one of the world’s busie",
-   "time": "2026-10-22T10:18:30+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
-   "source": "NYT",
-   "outlet": "NYT",
    "title": "Archers Mount Their Steeds in Pursuit of Centuries-Old Warrior Spirit",
    "url": "https://www.nytimes.com/2026/10/22/world/middleeast/horseback-archery-nomad-games.html",
    "summary": "Horseback archery is making a comeback at a time when modern warfare has become high-tech and impersonal. The sport was featured at the World Nomad Games.",
@@ -4422,7 +4382,7 @@
    "type": "reporting"
   }
  ],
- "updated": "2026-10-23T11:45:10.294860+00:00",
+ "updated": "2026-10-23T17:01:41.755643+00:00",
  "clusters": [
   {
    "id": "b8509f5b30",
@@ -5363,39 +5323,6 @@
    ]
   },
   {
-   "id": "8cd97bc499",
-   "title": "Ultra-Orthodox conscription debate ignites Israel’s election battleground",
-   "sourceCount": 2,
-   "outlets": [
-    "Al Jazeera",
-    "NYT"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 2,
-   "opinionOnly": false,
-   "firstSeen": "2026-10-22T10:00:16+00:00",
-   "lastSeen": "2026-10-23T09:03:39+00:00",
-   "articles": [
-    {
-     "source": "NYT",
-     "title": "The Election That Will Define Israel’s Future",
-     "url": "https://www.nytimes.com/2026/10/22/podcasts/the-daily/israel-election-netanyahu.html",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-22T10:00:16+00:00"
-    },
-    {
-     "source": "Al Jazeera",
-     "title": "Ultra-Orthodox conscription debate ignites Israel’s election battleground",
-     "url": "https://www.aljazeera.com/news/2026/10/23/ultra-orthodox-conscription-debate-ignites-israels-election-battleground?traffic_source=rss",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-23T09:03:39+00:00"
-    }
-   ]
-  },
-  {
    "id": "f78a3767a4",
    "title": "הימ\"מ חילץ אישה שאיימה לקפוץ מהקומה ה-11 בבת ים - אחרי 11 שעות משא ומתן",
    "sourceCount": 2,
@@ -6281,78 +6208,6 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-10-23T04:25:16+00:00"
-    }
-   ]
-  },
-  {
-   "id": "4e58e0f328",
-   "title": "Palestinians Hope Israeli Election Will Oust Netanyahu",
-   "sourceCount": 1,
-   "outlets": [
-    "NYT"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-10-22T08:04:47+00:00",
-   "lastSeen": "2026-10-22T08:04:47+00:00",
-   "articles": [
-    {
-     "source": "NYT",
-     "title": "Palestinians Hope Israeli Election Will Oust Netanyahu",
-     "url": "https://www.nytimes.com/2026/10/21/world/middleeast/stakes-for-palestinians-of-israel-election.html",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-22T08:04:47+00:00"
-    }
-   ]
-  },
-  {
-   "id": "bc5e2a8c41",
-   "title": "How do Israel's elections work and who are the main contenders?",
-   "sourceCount": 1,
-   "outlets": [
-    "BBC"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-10-22T09:27:10+00:00",
-   "lastSeen": "2026-10-22T09:27:10+00:00",
-   "articles": [
-    {
-     "source": "BBC",
-     "title": "How do Israel's elections work and who are the main contenders?",
-     "url": "https://www.bbc.co.uk/news/articles/cx8dz75633vjo?at_medium=RSS&at_campaign=rss",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-22T09:27:10+00:00"
-    }
-   ]
-  },
-  {
-   "id": "543863fdee",
-   "title": "Maritime and port workers: how is the Middle East conflict affecting you?",
-   "sourceCount": 1,
-   "outlets": [
-    "Guardian"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-10-22T10:18:30+00:00",
-   "lastSeen": "2026-10-22T10:18:30+00:00",
-   "articles": [
-    {
-     "source": "Guardian",
-     "title": "Maritime and port workers: how is the Middle East conflict affecting you?",
-     "url": "https://www.theguardian.com/business/2026/mar/04/maritime-and-port-workers-how-is-the-middle-east-conflict-affecting-you",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-22T10:18:30+00:00"
     }
    ]
   },
@@ -11709,6 +11564,30 @@
    ]
   },
   {
+   "id": "0b01b800f0",
+   "title": "Ultra-Orthodox conscription debate ignites Israel’s election battleground",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-23T09:03:39+00:00",
+   "lastSeen": "2026-10-23T09:03:39+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "Ultra-Orthodox conscription debate ignites Israel’s election battleground",
+     "url": "https://www.aljazeera.com/news/2026/10/23/ultra-orthodox-conscription-debate-ignites-israels-election-battleground?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T09:03:39+00:00"
+    }
+   ]
+  },
+  {
    "id": "17adfec617",
    "title": "Hamilton calls for Palestine and DR Congo freedom as Rwanda takes F1 spotlight",
    "sourceCount": 1,
@@ -12934,8 +12813,8 @@
   }
  ],
  "stats": {
-  "articles": 442,
-  "clusters": 318,
-  "multiSource": 27
+  "articles": 438,
+  "clusters": 315,
+  "multiSource": 26
  }
 }
