@@ -2,36 +2,6 @@
  "date": "2026-10-23",
  "articles": [
   {
-   "source": "BBC",
-   "outlet": "BBC",
-   "title": "US orders some diplomats to leave Saudi Arabia as Houthi attacks escalate",
-   "url": "https://www.bbc.co.uk/news/articles/c6x2vpk93770o?at_medium=RSS&at_campaign=rss",
-   "summary": "The warning to US officials comes as at least three people die in the latest strikes at an airport and an oil field.",
-   "time": "2026-10-22T01:07:34+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
-   "source": "Guardian",
-   "outlet": "Guardian",
-   "title": "Tied up and tortured: Israel using US-made electroshock weapons on Palestinian detainees",
-   "url": "https://www.theguardian.com/global-development/2026/oct/22/israel-us-made-electroshock-weapons-palestinian-detainees-axon-taser",
-   "summary": "Investigation suggests American company Axon still supplies Israel with Taser weapons despite evidence they have been used to torture prisoners The soldiers drag the man into a section of the prison known as Hell’s Wing, a metaphor for its notoriety for acts of brutality. Shoving him violently into ",
-   "time": "2026-10-22T04:00:05+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
-   "source": "BBC",
-   "outlet": "BBC",
-   "title": "How Arab parties could hold critical balance of power in Israeli election",
-   "url": "https://www.bbc.co.uk/news/articles/cx8dzrp768j8o?at_medium=RSS&at_campaign=rss",
-   "summary": "Disaffection has often driven down turnout among Arab Israelis, but there is a strong push to get rid of the right-wing governing coalition.",
-   "time": "2026-10-22T05:30:22+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
    "source": "NYT",
    "outlet": "NYT",
    "title": "Palestinians Hope Israeli Election Will Oust Netanyahu",
@@ -2784,6 +2754,16 @@
   {
    "source": "ישראל היום",
    "outlet": "ישראל היום",
+   "title": "יונדאי טוסון היבריד במבחן דרכים",
+   "url": "https://www.israelhayom.co.il/auto/article/21691485",
+   "summary": "",
+   "time": "2026-10-23T04:04:56+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
    "title": "במקום הכי לא צפוי מסתתר אחד הסביחים הטובים בארץ",
    "url": "https://www.israelhayom.co.il/food/restaurant-reviews/article/21670226",
    "summary": "בקיבוץ מורן הוא מגיש בשרים ובירה מקומית, ובמגרש חניה בכרמיאל הוא מכין סביח עם חציל יוצא דופן • מאיה דרין יצאה להכיר את שני המקומות של השף יהב יעקב, שהפך לאחד השמות המסקרנים בקולינריה הגלילית • בשניהם היא גילתה שהסוד לא נמצא בתחכום, אלא ביד שיודעת לבשל",
@@ -2892,12 +2872,142 @@
    "type": "reporting"
   },
   {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Keeping Madhubala alive: The fight for Karachi’s captive elephants",
+   "url": "https://www.aljazeera.com/features/2026/10/23/keeping-madhubala-alive-the-fight-for-karachis-captive-elephants?traffic_source=rss",
+   "summary": "Karachi&#039;s last two African elephants remain in captivity. Their sisters are already dead. Will they survive?",
+   "time": "2026-10-23T04:27:55+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "המסר של קני מילר למכבי תל אביב: \"הדיבורים מגיעים מבחוץ\"",
+   "url": "https://www.israelhayom.co.il/sport/article/21691398",
+   "summary": "המאמן הבהיר בנוגע לחילופים: \"יש לנו סגל איכותי והשחקנים ימשיכו לקבל הרבה דקות\" • לברון ג'יימס ופילדלפיה מחקו פיגור 29 וניצחו את קליבלנד • שיי גילג'ס אלכסנדר נעצר אחרי 141 משחקים, אבל אוקלהומה ניצחה",
+   "time": "2026-10-23T04:30:28+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
    "source": "מעריב",
    "outlet": "מעריב",
    "title": "מספר פצועים בפיגוע הירי סמוך לצומת יהודה, מתנהל מרדף אחר המחבל",
    "url": "https://www.maariv.co.il/breaking-news/article-1380339",
    "summary": "",
    "time": "2026-10-23T04:31:32+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "פיגוע ירי בצומת יהודה: שני פצועים אנוש ואחד בינוני, שני מחבלים חוסלו",
+   "url": "https://www.israelhayom.co.il/news/defense/article/21691500",
+   "summary": "כוחות צה\"ל, בהם יחידת דובדבן וכלי טיס, חיסלו שני מחבלים והטילו כתר על כפרים במרחב • הסריקות נמשכות בחשד למחבל נוסף • 5 נפגעים, בהם: שניים במצב אנוש, אחד בינוני ושניים קל",
+   "time": "2026-10-23T04:33:33+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "פיני גרשון טוען: השחקן שפוגע במכבי תל אביב",
+   "url": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21690978",
+   "summary": "מאמן העבר ניתח בפודקאסט \"על הבאזר\" עם עפר \"ג'ובה\" גרוס את ההפסד לריאל מדריד ביורוליג, ולא חסך ביקורת משני הגארדים של הצהובים • על ג'ימי קלארק: \"התרומה-תמורה שלו לא טובה\" • על קיטון וולאס: \"אם זה מה שהוא מסוגל, צריך להביא זר בעמדה הזו כמה שיותר מהר\"",
+   "time": "2026-10-23T04:35:58+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Grenade exercise sparked deadly fire at Canada military base, army says",
+   "url": "https://www.aljazeera.com/news/2026/10/23/grenade-exercise-sparked-deadly-fire-at-canada-military-base-army-says?traffic_source=rss",
+   "summary": "High winds propelled the blaze across the army base in Wainwright, killing four soldiers and injuring dozens more.",
+   "time": "2026-10-23T04:41:24+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "וואלה",
+   "outlet": "וואלה",
+   "title": "בעידוד נתניהו: קושנר הפקיד מיליארד דולר סעודיים בחשבון בנק בישראל | דיווח",
+   "url": "https://www.walla.co.il/news/breaking-news/383958589",
+   "summary": "תחקיר שפורסם אתמול (חמישי) במגזין האמריקני \"ואניטי פייר\" חשף טענות על הסדרים כספיים חשאיים בהיקף של לפחות שני מיליארד דולר בין ג'ארד קושנר, חתנו ויועצו הבכיר לשעבר של נשיא ארצות הברית דונלד טראמפ, לבין מנהיג איחוד האמירויות מוחמד בן זאיד ויורש העצר הסעודי מוחמד בן סלמאן. לפי התחקיר, הכספים הועברו לח",
+   "time": "2026-10-23T05:06:59+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "כבר 300 שנה: מה הקטע עם האובססיה של פוליטיקאים לתינוקות?",
+   "url": "https://www.israelhayom.co.il/news/geopolitics/article/21686725",
+   "summary": "מועמדים לתפקידים ציבוריים אוהבים להצטלם עם תינוקות – הם לא יכולים לומר או לעשות שום דבר שלא ייראה חמוד ויגרום לפוליטקאי להיראות סימפתי • עד שהגיע החוק שהכריז: די עם זה",
+   "time": "2026-10-23T05:09:00+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "וואלה",
+   "outlet": "וואלה",
+   "title": "רוסיה: תקפנו נמל, מתחם רכבות וספינת מטען באוקראינה",
+   "url": "https://www.walla.co.il/news/breaking-news/383958590",
+   "summary": "משרד ההגנה הרוסי הודיע היום (שישי) בטלגרם כי צבא רוסיה תקף את נמל וילקובה במחוז אודסה שבאוקראינה, מתחם קרונות רכבת במחוז פולטבה וספינת מטען בים השחור. לטענת המשרד, כל היעדים שהותקפו שימשו למטרות צבאיות של אוקראינה.",
+   "time": "2026-10-23T05:12:38+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "באירופה כועסים: \"הפועל באר שבע עברה את הגבול\"",
+   "url": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21691400",
+   "summary": "בבלגיה טענו כי ניב יהושע היה צריך לקבל אדום וכינו אותו \"עבריין\", גם מאמן אוניון סן ז'ילואז ששיחק בבירת הנגב תקף • הקבוצה של רן קוז'וך חטפה אחרי ה-4:0: \"יריבה נחותה שנמחקה לחלוטין, לא נשאר ממנה הרבה\"",
+   "time": "2026-10-23T05:25:36+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "\"חיילות, בואו לאמבולנס - הוא ממוגן ירי\": עדויות מזירת הפיגוע",
+   "url": "https://www.israelhayom.co.il/news/defense/article/21691668",
+   "summary": "ארבעה בני אדם נפצעו בפיגוע ירי סמוך לצומת יהודה, בהם שניים באורח קשה • כוחות צה\"ל חיסלו שני מחבלים ופתחו בסריקות מחשש למחבל נוסף • לוחמי דובדבן, כוחות מג\"ב וכלי טיס הוזעקו לזירה, ובמקביל הוטל כתר על כמה כפרים באזור • צפו בתיעודים מהמקום",
+   "time": "2026-10-23T05:25:57+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "אחרי שנים מחוץ לאור הזרקורים: רוב קרדשיאן חוזר - וזו הסיבה",
+   "url": "https://www.israelhayom.co.il/lifestyle/family-and-parenting/article/21691685",
+   "summary": "האח שכמעט נעלם מהמסכים הגיע לחגיגות יום ההולדת ה־46 של קים קרדשיאן, הצטלם לצד אחיותיו ואמו קריס ג'נר - והזכיר לכולם מדוע הוא כבר שנים מעדיף להתרחק מהמצלמות",
+   "time": "2026-10-23T05:28:39+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "וואלה",
+   "outlet": "וואלה",
+   "title": "במטרה להסכים על מיקום הגבול: דרום קוריאה הציעה לצפון קוריאה לקיים שיחות",
+   "url": "https://www.walla.co.il/news/breaking-news/383958591",
+   "summary": "משרד ההגנה של דרום קוריאה הציע היום (שישי) באופן רשמי לצפון קוריאה לקיים שיחות צבאיות, במטרה להסכים על מיקומו המדויק של הגבול היבשתי בין המדינות ולצמצם את הסיכון לעימותים לא מכוונים. ההצעה, שעליה הכריז סגן שר ההגנה למדיניות קים הונג-צ'ול, מגיעה בעקבות פיצוץ מוקש בחודש שעבר באזור המפורז שבין המדינות,",
+   "time": "2026-10-23T05:31:11+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "המפעל מ-1962 שמתנהל כמו חברת הייטק",
+   "url": "https://www.israelhayom.co.il/mumlazim/article/21691817",
+   "summary": "שרטוט תלת-ממדי פתוח על המסך, לידו גוש פלדה שממנו תיווצר התבנית. בהמשך היא תותקן במכונת הזרקה ותידרש להוציא חלקים זהים זה לזה, שוב ושוב. טעות קטנה בתכנון עלולה לחזור בכל אחד מהם.כשאומרים הייטק, לרובנו תצוץ המחשבה על סטארט-אפ בתל אביב, משרדים מפוארים בקומה 50, סיבוס והטבות נדיבות במיוחד",
+   "time": "2026-10-23T05:46:17+00:00",
    "tier": 2,
    "type": "reporting"
   },
@@ -2912,12 +3022,232 @@
    "type": "reporting"
   },
   {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "חשד מטלטל נגד אביה של מייגן מרקל: \"אלפי תמונות פורנו ילדים\"",
+   "url": "https://www.israelhayom.co.il/lifestyle/family-and-parenting/article/21691779",
+   "summary": "לפי דיווח ב\"סאן\", תומאס מרקל האב נמצא תחת חקירה בחשד להחזקת תמונות המתעדות התעללות מינית בילדים, שלפי הנטען נמצאו בביתו בפיליפינים",
+   "time": "2026-10-23T05:50:45+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Guardian",
+   "outlet": "Guardian",
+   "title": "‘The biggest motivation is fear’: High turnout among Israel’s Palestinians could unseat Netanyahu",
+   "url": "https://www.theguardian.com/world/2026/oct/23/high-turnout-israel-palestinians-unseat-netanyahu",
+   "summary": "The Knesset is up for grabs next week and the Arab community is desperate to topple the far-right ruling coalition As the sun set over the town of Kfar Qasim, Palestinian citizens of Israel gathered over hot knafeh pastries and shots of strong cardamom-laced coffee to hear an urgent pitch for their ",
+   "time": "2026-10-23T06:00:03+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "EU entering winter with lowest gas reserves on record, IEA boss warns",
+   "url": "https://www.aljazeera.com/economy/2026/10/23/eu-entering-winter-with-lowest-gas-reserves-on-record-iea-boss-warns?traffic_source=rss",
+   "summary": "Al Jazeera interviews Fatih Birol in Berlin as the Iran war disrupts global energy supplies.",
+   "time": "2026-10-23T06:02:15+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "לברון ג'יימס ספג קריאות בוז - ואז הגיע הקאמבק הגדול בקריירה",
+   "url": "https://www.israelhayom.co.il/sport/world-basketball/article/21691583",
+   "summary": "הבכורה הביתית בפילדלפיה התחילה בצורה מזעזעת, אך הסתיימה עם ניצחון אדיר אחרי פיגור 29 מול קליבלנד • בגיל 41 ובעונה ה-24 שלו ב-NBA ה\"קינג\" רשם הישג בלתי נתפס ושבר רצף היסטורי של 466 משחקים",
+   "time": "2026-10-23T06:06:26+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "וואלה",
+   "outlet": "וואלה",
+   "title": "מד\"א: חמישה נפגעים בפיגוע הירי בצומת יהודה, שניים במצב אנוש",
+   "url": "https://www.walla.co.il/news/breaking-news/383958592",
+   "summary": "במד\"א עדכנו לפני זמן קצר (שישי) כי חמישה בני אדם נפגעו בפיגוע הירי סמוך לצומת יהודה, בהם שניים במצב אנוש. חובשים ופרמדיקים של מד\"א, בשיתוף כוח רפואה של צה\"ל, העניקו טיפול רפואי לנפגעים. שלושה מהם, אחד במצב בינוני ושניים במצב קל, פונו לבתי החולים שערי צדק והדסה עין כרם בירושלים. חובש מד\"א צוריאל אדרי",
+   "time": "2026-10-23T06:06:29+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Manchester United labelled ‘babies’ by club legend Wayne Rooney",
+   "url": "https://www.aljazeera.com/sports/2026/10/23/manchester-united-labelled-clowns-by-club-legend-wayne-rooney?traffic_source=rss",
+   "summary": "Manchester United manager Michael Carrick is under growing pressure, but club legend Wayne Rooney takes aim at players.",
+   "time": "2026-10-23T06:11:17+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "FIFA President Infantino’s re-election endorsed in U-turn by Asian football",
+   "url": "https://www.aljazeera.com/sports/2026/10/23/asian-football-endorses-infantino-re-election-as-fifa-president?traffic_source=rss",
+   "summary": "Support crucial from 47-nation AFC&#039;s president, who was critic of Gianni Infantino over failed private investment plan.",
+   "time": "2026-10-23T06:11:27+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "המחבלים הגיעו ברכב עם לוחית זיהוי צהובה, לוחמי \"ארי\" חיסלו אותם בחילופי אש",
+   "url": "https://www.israelhayom.co.il/news/defense/article/21691859",
+   "summary": "המחבלים, שני תושבי חברון בני 27 המזוהים עם חמאס, נסעו על כביש 35, זיהו את הפילבוקס ופתחו באש מנשק M4 ומאקדח, ואז ירדו מהרכב ופתחו בחילופי אש • לוחמי גדוד \"ארי\" של פיקוד העורף, שהיו פרוסים במרחב, חיסלו את שניהם ומנעו פגיעה באזרחים • במערכת הביטחון הייתה התרעה קונקרטית לפיגוע ירי לפני הבחירות, \"לא ידע",
+   "time": "2026-10-23T06:26:06+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "How the midterms could change Trump’s presidency",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/aje-onl-nf_trumpmidterms-231026?traffic_source=rss",
+   "summary": "Donald Trump isn&#039;t on the ballot this November, but the midterms could change the final two years of his presidency.",
+   "time": "2026-10-23T06:28:05+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "וואלה",
+   "outlet": "וואלה",
+   "title": "מי יקצר תורים ומי יחזיר את הרופאים מחו\"ל? - הקרב על הבריאות",
+   "url": "https://www.walla.co.il/news/breaking-news/383958593",
+   "summary": "מתוכניות להחזרת רופאים מחו\"ל ועד לטיפול בנפגעי מלחמה עוד לפני שלב ההכרה הרשמי - המפלגות מציגות לקראת הבחירות שורה של פתרונות לעומס הכבד במערכת הבריאות. תוכניות הבריאות כוללות הבטחות מוכרות לתוספת רופאים, קיצור תורים והרחבת השירותים בצפון ובדרום, אלא שלצד היעדים הדומים, הדרכים להשגתם חושפות תפיסות עו",
+   "time": "2026-10-23T06:28:23+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
    "source": "ynet",
    "outlet": "ynet",
    "title": "התחזית: חם מהרגיל ברוב הארץ",
    "url": "https://www.ynet.co.il/news/article/h1berhohfg",
    "summary": "",
    "time": "2026-10-23T06:29:33+03:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "מסירים ספסלים ומתגברים כוחות: צרפת נערכת לעוד יממה של כאוס",
+   "url": "https://www.israelhayom.co.il/news/world-news/europe/article/21691842",
+   "summary": "הנשיא מקרון נפגש עם נציגי מחאת התלמידים בניסיון להגיעל הבנות שימנעו אלימות במחאה הצפויה ביום שבת • בעלי עסקים בפריז מצטיידים בתרסיס פלפל והמשטרה מפנה מהרחובות כל חפץ שניתן להצית ולהשליך • ליון ומרסיי אסרו על כל התקהלות בשבת",
+   "time": "2026-10-23T06:30:42+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "וואלה",
+   "outlet": "וואלה",
+   "title": "בעקבות ההסכם בין טראמפ לפוטין: מכלית עם סולר רוסי בדרך לניו יורק",
+   "url": "https://www.walla.co.il/news/breaking-news/383958594",
+   "summary": "מכלית הנושאת דגל מלטה, ועליה כ-40 אלף טונות של סולר רוסי, עושה את דרכה לניו יורק, כך עולה מנתוני חברת LSEG שפורסמו היום (שישי). המשלוח מגיע בעקבות ההסכם בין נשיא ארצות הברית דונלד טראמפ לנשיא רוסיה ולדימיר פוטין, שבמסגרתו הסכימה מוסקבה להסיר את האיסור שהטילה על יצוא סולר ולחדש את אספקתו לשווקים העול",
+   "time": "2026-10-23T06:32:03+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "\"את החרם הספרותי אנחנו לא מכירים מהיריד, הוא נמצא בשוטף - וזה משהו שאנחנו צריכים להתמודד איתו\"",
+   "url": "https://www.israelhayom.co.il/culture/books/article/21681579",
+   "summary": "אלון ארד יצא ליריד הספרים בפרנקפורט כשהוא חמוש ביין ישראלי, מאבטח צמוד ואחרי הכנה נפשית לגלגולי עיניים וחרמות • בפועל, המציאות שחיכתה שם ל\"דיפ־סטייט\" של הספרות העברית התגלתה כמורכבת הרבה יותר • בין פגישות ספיד־דייטינג ספרותיות, אולמות ענק וחיפוש נואש אחר קולות שישקפו את התקופה, התברר שהפיל שבחדר אול",
+   "time": "2026-10-23T06:33:00+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "בקבוצה אחרת הוא כבר על המטוס: קיטון וולאס מזיק למכבי תל אביב",
+   "url": "https://www.israelhayom.co.il/sport/opinions-sport/article/21691847",
+   "summary": "ידענו שהצהובים חסרים גארד עוד לפני תחילת העונה, עכשיו אנחנו מבינים שהיא צריכה שלושה • מול ריאל מדריד לקבוצה של עודד קטש נגמר הכישרון, אבל זו לא סיבה שהיא תאבד את הדרך • עכשיו לך תנצח את הכוכב האדום בחוץ",
+   "time": "2026-10-23T06:51:05+00:00",
+   "tier": 2,
+   "type": "opinion"
+  },
+  {
+   "source": "וואלה",
+   "outlet": "וואלה",
+   "title": "ישראלי נמלט נעצר בבוליביה בחשד לייבוא קוקאין לישראל",
+   "url": "https://www.walla.co.il/news/breaking-news/383958596",
+   "summary": "משטרת ישראל הודיעה היום (שישי) כי ישראלי שנמלט מהארץ נעצר אתמול בעיר סנטה קרוז שבבוליביה, בפעילות משותפת של נציג המשטרה בדרום אמריקה ורשויות האכיפה המקומיות. החשוד נעצר בחשד למעורבות בייבוא 5.3 קילוגרמים של קוקאין מבוליביה לישראל באמצעות בלדרית בשנת 2017. לפי המשטרה, החשוד אותר בעקבות פעילות מודיעינ",
+   "time": "2026-10-23T06:52:26+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Maradona death: Verdict in trial to be delivered on December 22",
+   "url": "https://www.aljazeera.com/sports/2026/10/23/maradona-death-verdict-in-trial-to-be-delivered-on-december-22?traffic_source=rss",
+   "summary": "The trial of seven healthcare professionals accused of negligence in Maradona&#039;s death concludes, December verdict set.",
+   "time": "2026-10-23T06:55:21+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "שלמה ארצי חזר לעוטף: \"מקום קדוש\"",
+   "url": "https://www.israelhayom.co.il/culture/music/article/21691989",
+   "summary": "לראשונה מאז 7 באוקטובר, הזמר הופיע בפארק אשכול, קילומטרים ספורים מרצועת עזה, מול כ-5,000 איש • בין השירים שהפכו לפסקול ישראלי לנקודות השבר שלנו, סיפורי האובדן של תושבי האזור והתקווה לחזור לחיים, נרשם ערב שבו המוזיקה הצליחה, ולו לכמה שעות, לגבור על הכאב",
+   "time": "2026-10-23T06:57:50+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Europe needs a war economy",
+   "url": "https://www.aljazeera.com/opinions/2026/10/23/europe-needs-a-war-economy?traffic_source=rss",
+   "summary": "With US support increasingly uncertain, Europe must mobilise its financial and industrial power to defend itself.",
+   "time": "2026-10-23T07:08:10+00:00",
+   "tier": 2,
+   "type": "opinion"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "ההתרסקות של מכבי תל אביב: \"עודד קטש לא הצליח לעצור\"",
+   "url": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21691565",
+   "summary": "הצהובים אפשרו לריאל מדריד להעיף שלשות בלי הבחנה וחטפו 21 כאלו • בספרד סיכמו: \"הם לא הצליחו לעמוד בקצב, פתיחה חזקה התחלפה באובדן שליטה\" • המאמן פדרו מרטינס הודה: \"קראנו נכון את המשחק\"",
+   "time": "2026-10-23T07:09:12+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "אצבע האלוהים: הכומר הציל תיירים מהמתפרעים ושלח להם מסר ברור",
+   "url": "https://www.israelhayom.co.il/news/world-news/europe/article/21691923",
+   "summary": "האב ג'ניקולה מריה סימונה הכניס לבית התפילה שלו אזרחים שנמלטו ממחאה אלימה ברחובות מילאנו וניצב בפתח להגן עליהם • כשמפגין ביצעל עברו מחווה גסה, איש הדת השיב לו באותו מטבע וסרטון שצולם הפך אותו לגיבור וויראלי",
+   "time": "2026-10-23T07:09:55+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "כוכב \"ווארט\" לועג לספיר בורגיל ואברהם אקלום: \"תכיני לי קבב מיד!\"",
+   "url": "https://www.israelhayom.co.il/sport/offside/article/21691807",
+   "summary": "ישראל דויטש, שכיכב בתוכנית השידוכים של רשת 13, הצטרף לטרנד ברשת בעקבות הסערה בין יוצאי \"האח הגדול\" • יחד עם אשתו מעיין, הוא הציג התכתבות משעשעת במיוחד עם דרישה קולינרית שלא משאירה הרבה מקום לספק",
+   "time": "2026-10-23T07:12:17+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "וואלה",
+   "outlet": "וואלה",
+   "title": "סין: נשיא גרמניה יבקר במדינה בשבוע הבא",
+   "url": "https://www.walla.co.il/news/breaking-news/383958598",
+   "summary": "משרד החוץ הסיני הודיע היום (שישי) כי נשיא גרמניה, פרנק-ואלטר שטיינמאייר, יגיע לביקור בסין. על פי ההודעה, הוא יבקר במדינה בין ה-27 ל-31 באוקטובר.",
+   "time": "2026-10-23T07:17:50+00:00",
    "tier": 2,
    "type": "reporting"
   },
@@ -2932,12 +3262,42 @@
    "type": "reporting"
   },
   {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "וולטר מכה שנית: המצוד והמעצר אחרי סוחר הסמים שהסתיים בבוליביה",
+   "url": "https://www.israelhayom.co.il/news/crime/article/21692093",
+   "summary": "חשוד במעורבות בייבוא 5.3 ק\"ג קוקאין לישראל באמצעות בלדרית בשנת 2017 אותר בעיר סנטה קרוז • נציג משטרת ישראל בדרום אמריקה (וולטר) השתתף במעצר לצד הרשויות המקומיות • כעת פועלים להסגרתו לישראל • צפו בתיעוד המעצר",
+   "time": "2026-10-23T07:23:27+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
    "source": "ynet",
    "outlet": "ynet",
    "title": "צה\"ל: התקבל דיווח על פיגוע ירי סמוך לצומת יהודה",
    "url": "https://www.ynet.co.il/news/article/skr0wp003fl",
    "summary": "",
    "time": "2026-10-23T07:26:36+03:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "וואלה",
+   "outlet": "וואלה",
+   "title": "אוקראינה: יותר מחצי מיליון בני אדם נותקו מחשמל בעקבות תקיפות רוסיות",
+   "url": "https://www.walla.co.il/news/breaking-news/383958599",
+   "summary": "משרד האנרגיה של אוקראינה הודיע היום (שישי) כי רוסיה תקפה תשתיות אנרגיה בשישה מחוזות ברחבי המדינה, וכתוצאה מכך נותקו מאספקת החשמל יותר מ-500 אלף בני אדם.",
+   "time": "2026-10-23T07:27:50+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "מאות הסתערו על החנות בשינקין - זו הסיבה",
+   "url": "https://www.israelhayom.co.il/lifestyle/fashion/article/21692132",
+   "summary": "בני ובנות 16 עד 60 הגיעו לאודישנים של מותג האופנה התל אביבי תודה, לקראת תצוגת הבכורה שלו בשבוע האופנה ישראל קנדה תל אביב 2026 • מתוך 200 מועמדות ומועמדים נבחרו 30 שיצעדו על המסלול ב-12 בנובמבר, בתצוגה בשם \"בראשית\", שתתקיים בשיתוף המכון הישראלי למניעת ניכור הורי ומשפחתי",
+   "time": "2026-10-23T07:28:29+00:00",
    "tier": 2,
    "type": "reporting"
   },
@@ -2952,12 +3312,42 @@
    "type": "reporting"
   },
   {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "לראשונה זה שנים: חומר מסרטן באוויר בחיפה - מפעל במתחם בז\"ן הושבת",
+   "url": "https://www.israelhayom.co.il/news/local/article/21692125",
+   "summary": "חריגה נרשמה מתקן הבנזן בקריית בנימין, הפעילות במפעל גדיב הופסקה, ונכון להבוקר עומדת בתקן • יו\"ר איגוד ערים מפרץ חיפה, אביהו האן: \"החריגה החמורה מחייבת צעדים נחושים, ונדרשת סגירת המפעל בהקדם\"",
+   "time": "2026-10-23T07:32:04+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Are global oil reserves sufficient to withstand renewed US-Iran war?",
+   "url": "https://www.aljazeera.com/news/2026/10/23/are-global-oil-reserves-sufficient-to-withstand-renewed-us-iran-war?traffic_source=rss",
+   "summary": "With emergency stocks at multidecade lows, analysts say the world may have only a month or two if Hormuz shuts again.",
+   "time": "2026-10-23T07:37:12+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
    "source": "ynet",
    "outlet": "ynet",
    "title": "הפיגוע באזור חברון: כוחות צה\"ל חיסלו שני מחבלים",
    "url": "https://www.ynet.co.il/news/article/sjcmsv003fe",
    "summary": "",
    "time": "2026-10-23T07:40:50+03:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "רבש\"צ מהשומרון נאשם בירי באישה פלסטינית ובניסיון לשבש הליכים",
+   "url": "https://www.israelhayom.co.il/news/crime/article/21692174",
+   "summary": "פנחס רן נאשם שחרג מגזרת אחריותו, נכנס לכפר עקרבה וירה לעבר רכב שבו נסעו בני זוג • צעירה כבת 18 נפצעה קשה מקליע שנעצר סמוך לליבה • לפי האישום, רן המשמש כרבש\"צ היישוב גגדעונים הוזהר בעבר בעקבות אירועים חריגים",
+   "time": "2026-10-23T07:44:47+00:00",
    "tier": 2,
    "type": "reporting"
   },
@@ -2972,6 +3362,16 @@
    "type": "reporting"
   },
   {
+   "source": "וואלה",
+   "outlet": "וואלה",
+   "title": "אוסטריה מגרשת ארבעה דיפלומטים רוסים בשל פעילות חשודה",
+   "url": "https://www.walla.co.il/news/breaking-news/383958601",
+   "summary": "משרד החוץ של אוסטריה הודיע היום (שישי) כי החליט לגרש ארבעה דיפלומטים רוסים המוצבים בווינה, בעקבות פעילות שלטענתו אינה תואמת את מעמדם הדיפלומטי. לפי הודעת המשרד, ההחלטה התקבלה בעקבות ממצאים של רשויות הביטחון האוסטריות. שלושה מהדיפלומטים מועסקים בשגרירות רוסיה באוסטריה, והרביעי בנציגות הרוסית לארגון ל",
+   "time": "2026-10-23T07:50:16+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
    "source": "ynet",
    "outlet": "ynet",
    "title": "מד\"א: אחד הפצועים בפיגוע מחוסר הכרה",
@@ -2980,10 +3380,1149 @@
    "time": "2026-10-23T07:50:57+03:00",
    "tier": 2,
    "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Why is Gen Z revolting?",
+   "url": "https://www.aljazeera.com/opinions/2026/10/23/why-is-gen-z-revolting?traffic_source=rss",
+   "summary": "From France to India, young people are in the streets over inequality, failing public services and bleak prospects.",
+   "time": "2026-10-23T07:51:31+00:00",
+   "tier": 2,
+   "type": "opinion"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "צה\"ל תיגבר כוחות וחושד: צלם AFP ידע על הפיגוע מראש",
+   "url": "https://www.israelhayom.co.il/news/defense/article/21692196",
+   "summary": "שני מחבלים יצאו מחברון ברכב עמוס תחמושת ונתקלו בעמדת בידוק של גדוד \"ארי\" החדש, 300 מטר מכביש 35 • ההיתקלות נמשכה יותר מ־20 דקות, עד שכוחות נוספים איגפו את המחבלים וחיסלו אותם • בצה\"ל מעריכים: \"הכוח עשה את עבודתו נאמנה, וכנראה מנע פיגוע חמור יותר\" • בסדרת צילומים שפורסמו על ידי סוכנות AFP הצרפתית נרא",
+   "time": "2026-10-23T07:53:24+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Harry Kane hopes Ballon d’Or produces ‘special night’ in hometown",
+   "url": "https://www.aljazeera.com/sports/2026/10/23/harry-kane-hopes-ballon-dor-produces-special-night-in-hometown?traffic_source=rss",
+   "summary": "Kane, who scored 73 goals last season, is among the favourites for award with Lamine Yamal and Kylian Mbappe.",
+   "time": "2026-10-23T07:56:27+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "חמישה פצועים בפיגוע ביהודה, שניים במצב קשה",
+   "url": "https://www.ynet.co.il/news/article/rynhud003gg",
+   "summary": "",
+   "time": "2026-10-23T07:57:54+03:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "בעקבות הפיגוע: כביש 35 נחסם לתנועה לשני הכיוונים סמוך לצומת יהודה",
+   "url": "https://www.ynet.co.il/news/article/bj1dkwd3ze",
+   "summary": "",
+   "time": "2026-10-23T07:58:44+03:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "וואלה",
+   "outlet": "וואלה",
+   "title": "חשוד בשנות ה-20 לחייו נחקר בעקבות אירוע אלימות בשוק התקווה",
+   "url": "https://www.walla.co.il/news/breaking-news/383958602",
+   "summary": "תושב תל אביב בשנות ה-20 לחייו נחקר היום (שישי) במשטרה בחשד למעורבות באירוע אלימות שהתרחש אמש בשוק התקווה בעיר, ושוחרר בתנאים מגבילים. לפי המשטרה, במהלך האירוע הושלך חפץ לעבר קבוצת אנשים ששהתה במקום. שוטרי תחנת תל אביב דרום פתחו בחקירה, אספו ממצאים ופעלו לאיתור המעורבים.",
+   "time": "2026-10-23T08:01:00+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "תיעוד מהפיגוע: \"המחבל יורה כל הזמן, לא מצליחים להוציא את הפצועים\"",
+   "url": "https://www.ynet.co.il/news/article/skhtqpu3ge",
+   "summary": "",
+   "time": "2026-10-23T08:06:16+03:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "צעיר עוכב לחקירה לאחר השלכת חפץ ותקיפת אב שכול בעת ביקור נתניהו בשוק התקווה",
+   "url": "https://www.israelhayom.co.il/news/local/article/21692282",
+   "summary": "צעיר בשנות ה־20 לחייו, תושב תל אביב, נחקר בחשד למעורבות באירוע שבו הושלך חפץ לעבר קבוצת אנשים בשוק, ושוחרר בתנאים מגבילים • האירוע התרחש בזמן ביקורו של ראש הממשלה, שאליו הגיעו גם משפחות שכולות ומשפחות חטופים, ובמהלכו דיווחו המשפחות כי האב השכול מישל אילוז הותקף • אילוז: \"זו חרפה שאב שכול, שבנו נרצח ",
+   "time": "2026-10-23T08:14:57+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "התחייה המופלאה של אקס מכבי תל אביב: \"אני ממש שמח בשבילו\"",
+   "url": "https://www.israelhayom.co.il/sport/world-soccer/article/21692091",
+   "summary": "ווסלי פטאצ'י כבר איבד את מקומו בהרכב אלקמאר, אבל קיבל הזדמנות מחודשת וכיכב בענק בליגה האירופית • כלי התקשורת בהולנד יצאו מגדרם, והמאמן שיבח: \"זו התגובה שלו אחרי תקופה שלא הצליח להבקיע\"",
+   "time": "2026-10-23T08:16:48+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "הסוד מאחורי הקלעים של אברי וג'ודי: \"לא עושה את זה יותר\"",
+   "url": "https://www.israelhayom.co.il/forreal/localy/article/21692023",
+   "summary": "בגלל הדופמין - אברי גלעד סיפר שבמהלך צילומי \"המטבח המנצח VIP\" נתן לג'ודי ניר מוזס כמוסה, שאחריה הבחין בשינוי בהתנהגותה. ואז הגיעה תגובת הבמאי",
+   "time": "2026-10-23T08:24:21+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "מד\"א מעדכנים: שניים מהפצועים במצב אנוש",
+   "url": "https://www.ynet.co.il/news/article/r1swgu00hgx",
+   "summary": "",
+   "time": "2026-10-23T08:27:26+03:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Israeli forces accused of killing disabled man in Syria raid",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/israeli-forces-accused-of-killing-disabled-man-in-syria-raid?traffic_source=rss",
+   "summary": "Israeli forces reportedly shot dead a Syrian man with an intellectual disability and hearing problems, during a raid.",
+   "time": "2026-10-23T08:35:44+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "אייל ברקוביץ' פגע בבת הזוג: \"נתתי לה בעיטה\"",
+   "url": "https://www.israelhayom.co.il/sport/offside/article/21691880",
+   "summary": "כדורגלן העבר האגדי חזר 30 שנה אחורה להופעת הענק בה כבש צמד ובישל שלושה שערים נוספים ב-3:6 של סאות'המפטון על מנצ'סטר יונייטד • וגם: התזכורת הכואבת לאותו משחק שקיבלה זוגתו, מיכל חזן, בגלל פיטר שמייכל והתגובה הגסה של בנו",
+   "time": "2026-10-23T08:40:18+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "הטלטלה בוול סטריט נבלמה: מה עומד מאחורי הירידות החדות?",
+   "url": "https://www.israelhayom.co.il/business/article/21692375",
+   "summary": "לאחר שמדד הנאסד\"ק צנח בכמעט 3%, החוזים העתידיים מאותתים על התייצבות • המשקיעים עברו לאג\"ח ממשלת ארה\"ב, והתשואה ל-10 שנים ירדה מתחת ל-5% • בתל אביב נרשמות ירידות קלות על רקע המצב הביטחוני והבחירות",
+   "time": "2026-10-23T08:40:44+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "וואלה",
+   "outlet": "וואלה",
+   "title": "שדדו אדם והתיזו לעברו גז פלפל בתל אביב: שני תושבי ג'לג'וליה נעצרו",
+   "url": "https://www.walla.co.il/news/breaking-news/383958605",
+   "summary": "שני צעירים בשנות ה-20 לחייהם, תושבי ג'לג'וליה, נעצרו הלילה (שישי) בחשד ששדדו עשרות אלפי שקלים מאדם במרכז תל אביב, תוך שימוש באלימות והתזת גז פלפל לעברו. לפי המשטרה, השניים נמלטו רגלית ואותרו במהלך סריקות סמוך לרחוב אבן גבירול. בחיפוש עליהם נתפסו עשרות אלפי שקלים במזומן, החשודים ככספי השוד, וכן שני ט",
+   "time": "2026-10-23T08:40:47+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "LeBron shrugs off Trump blast in home debut win for Philadelphia 76ers",
+   "url": "https://www.aljazeera.com/sports/2026/10/23/lebron-shrugs-off-trump-blast-in-home-debut-win-for-philadelphia-76ers?traffic_source=rss",
+   "summary": "LeBron James enjoys 114-106 NBA victory over Cleveland Cavaliers, hours after US president calls him a &#039;disgrace&#039;.",
+   "time": "2026-10-23T08:42:10+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "בתי החולים: הפצועים שהגיעו אלינו במצב יציב",
+   "url": "https://www.ynet.co.il/news/article/rydyeudnze",
+   "summary": "",
+   "time": "2026-10-23T08:45:18+03:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "מעריב",
+   "outlet": "מעריב",
+   "title": "מארוול הימרה על שני ישראלים לסדרת הריגול הבאה שלה",
+   "url": "https://www.maariv.co.il/breaking-news/article-1380416",
+   "summary": "",
+   "time": "2026-10-23T08:48:23+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "יו״ר ועדת הבחירות הורה לליכוד להסיר את שלטים גוש השינוי עם עבאס וטיבי",
+   "url": "https://www.israelhayom.co.il/news/politics/article/21692450",
+   "summary": "השופט נעם סולברג קבע שהשילוט עלול ליצור הטעיה לגבי קשר פוליטי אפשרי בין רשימת ישר לרשימות שלטענתה אינה קשורה עימן בקשר כזה • הכיתוב בערבית אינו מסיר את ההטעיה ואינו ממלא את החובה לזהות את האחראי לתליית השילוט, משום שהשלטים נתלו באזורים שרוב יושביהם אינם דוברים ערבית • על כן הורה יו\"ר ועדת הבחירות המ",
+   "time": "2026-10-23T08:49:09+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Macron to meet student groups: Where are France’s protests heading?",
+   "url": "https://www.aljazeera.com/news/2026/10/23/we-want-promises-backed-by-results?traffic_source=rss",
+   "summary": "President to meet for first time with student representatives on Friday before further protests.",
+   "time": "2026-10-23T08:50:23+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "הפיגוע בצומת יהודה: לוחמי פיקוד העורף חיסלו את המחבלים",
+   "url": "https://www.ynet.co.il/news/article/s1gvuo002ml",
+   "summary": "",
+   "time": "2026-10-23T08:56:11+03:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "מעריב",
+   "outlet": "מעריב",
+   "title": "שוד אלים בלב תל אביב: שני צעירים נעצרו בחשד שגנבו עשרות אלפי שקלים",
+   "url": "https://www.maariv.co.il/breaking-news/article-1380419",
+   "summary": "",
+   "time": "2026-10-23T09:01:17+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Ultra-Orthodox conscription debate ignites Israel’s election battleground",
+   "url": "https://www.aljazeera.com/news/2026/10/23/ultra-orthodox-conscription-debate-ignites-israels-election-battleground?traffic_source=rss",
+   "summary": "Israel&#039;s election heats up over ultra-Orthodox conscription debate, reflecting deep societal and political divides.",
+   "time": "2026-10-23T09:03:39+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "מכבי תל אביב קיבלה ערוץ שלם, ולהפועל נשארו בקושי 7 שניות",
+   "url": "https://www.israelhayom.co.il/sport/opinions-sport/article/21692349",
+   "summary": "ב\"יציע העיתונות\" של אודי רקנאטי התפלפלו במשך תשע דקות בהפסד של הצהובים, בעוד האדומים ששייכים לצמרת נדחקו לשוליים - ושתי ישראליות נוספות נמחקו לחלוטין • וגם: שרון פרי והפרשנים שלצידה לא מתרגמים את האנגלית, או שמא לא מבינים?",
+   "time": "2026-10-23T09:06:26+00:00",
+   "tier": 2,
+   "type": "opinion"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "עמית כהן ורון לשם יכתבו את סדרת הריגול החדשה של מארוול",
+   "url": "https://www.israelhayom.co.il/culture/tv/article/21692543",
+   "summary": "צמד היוצרים הישראלי, שאחראי בין היתר ל״אופוריה״ ול״בני ערובה״, נבחר לכתוב את סדרת המתח והריגול Zodiac של מארוול, שתעלה בדיסני+ בשנת 2028",
+   "time": "2026-10-23T09:06:46+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "עם גז פלפל: שני צעירים שדדו באלימות עשרות אלפי שקלים מאדם במרכז ת\"א",
+   "url": "https://www.israelhayom.co.il/news/crime/article/21692545",
+   "summary": "השניים, תושבי ג'לג'וליה, נמלטו מהמקום ברגל, אך אותרו על ידי שוטרים סמוך לרחוב אבן גבירול, כשברשותם עשרות אלפי שקלים במזומן החשודים ככספי השוד",
+   "time": "2026-10-23T09:12:22+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Israeli military kills two in gun battle in occupied West Bank",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/israeli-military-kills-two-in-gun-battle-in-occupied-west-bank?traffic_source=rss",
+   "summary": "Israel’s PM is preparing to order a shutdown in the occupied West Bank lockdown after a shooting near Hebron.",
+   "time": "2026-10-23T09:12:38+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Hamilton calls for Palestine and DR Congo freedom as Rwanda takes F1 spotlight",
+   "url": "https://www.aljazeera.com/sports/2026/10/23/hamilton-calls-for-palestine-sudan-and-congo-freedom-with-f1-in-spotlight?traffic_source=rss",
+   "summary": "Rwanda&#039;s controversial Formula One GP leads Lewis Hamilton to call for freedom for DR Congo, while renewing Palestine plea.",
+   "time": "2026-10-23T09:12:46+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "מעריב",
+   "outlet": "מעריב",
+   "title": "סערה בארה\"ב: טראמפ מגבה תשדיר בחירות שנוי במחלוקת נגד מועמדת דמוקרטית",
+   "url": "https://www.maariv.co.il/breaking-news/article-1380421",
+   "summary": "",
+   "time": "2026-10-23T09:13:31+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "כוחות משטרה הגיעו לזירת הפיגוע ביהודה",
+   "url": "https://www.ynet.co.il/news/article/r111pcounge",
+   "summary": "",
+   "time": "2026-10-23T09:13:47+03:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "השר בן גביר: \"הפיגוע הוא תזכורת למחיר הקונספציה. צריך לפרק את הרש\"פ\"",
+   "url": "https://www.ynet.co.il/news/article/hklss00o2gl",
+   "summary": "",
+   "time": "2026-10-23T09:15:42+03:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "וואלה",
+   "outlet": "וואלה",
+   "title": "סמוטריץ': \"אין מנוס ממערכה צבאית כוללת ביהודה ושומרון\"",
+   "url": "https://www.walla.co.il/news/breaking-news/383958609",
+   "summary": "שר האוצר וחבר הקבינט המדיני-ביטחוני בצלאל סמוטריץ' קרא היום (שישי) לצאת למערכה צבאית נרחבת ביהודה ושומרון, בעקבות פיגוע הירי סמוך לצומת יהודה. \"אין מנוס ממערכה צבאית כוללת ביהודה ושומרון לפירוק הרש\"פ, לאיסוף הנשק ולחיסול מחבלי הטרור. בדיוק כמו בעזה ובלבנון\", אמר. סמוטריץ' טען כי יש לשנות את תפיסת הב",
+   "time": "2026-10-23T09:24:46+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "לימור לבנת הכריזה על תמיכה בבנט - ותקפה את הליכוד",
+   "url": "https://www.israelhayom.co.il/news/politics/article/21692476",
+   "summary": "שרת החינוך לשעבר הודיעה על תמיכה בנפתלי בנט ותקפה את נתניהו: \"זרקו את מורשת בגין\" • לבנת, שהייתה מבכירות הליכוד במשך עשרות שנים, כבר קראה בעבר למפלגה לעבור מן העולם • \"לא זזתי מילימטר מדעותיי\"",
+   "time": "2026-10-23T09:26:21+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "וואלה",
+   "outlet": "וואלה",
+   "title": "רוסיה: מתקן תעשייתי נפגע מתקיפת כטב\"ם אוקראיני",
+   "url": "https://www.walla.co.il/news/breaking-news/383958610",
+   "summary": "מתקן תעשייתי במחוז פרם שברוסיה ניזוק באורח קל בעקבות תקיפת כטב\"ם אוקראיני, כך הודיע היום (שישי) מושל המחוז, דמיטרי מחונין. בהודעה שפרסם בטלגרם מסר המושל כי כוחות החירום פועלים בזירה וכי לא היו נפגעים בתקיפה.",
+   "time": "2026-10-23T09:27:29+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "אפילו האקס התלהב: אריאנה גרנדה נפרדה מהקוקו ושינתה לבוב קצר",
+   "url": "https://www.israelhayom.co.il/forreal/global/article/21692493",
+   "summary": "הכוכבת שידעה לאחרונה שערוריות עברה ללוק חדש, ובהפרש של שעות גם בילי אייליש הציגה תספורת דומה. צפו בשינוי שעברו שתי כוכבות הפופ",
+   "time": "2026-10-23T09:29:49+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Pulaku: The two faces of Nigeria’s vigilantes",
+   "url": "https://www.aljazeera.com/features/longform/2026/10/23/pulaku-the-two-faces-of-nigerias-vigilantes?traffic_source=rss",
+   "summary": "Allegations of torture and abuse shadow a Fulani-led vigilante group despite its role in clamping down on kidnappers.",
+   "time": "2026-10-23T09:30:05+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "NYT",
+   "outlet": "NYT",
+   "title": "The Epstein Files Produce an Unlikely Weapon for the Houthi Messaging Wars",
+   "url": "https://www.nytimes.com/2026/10/23/world/middleeast/houthis-saudi-arabia-propaganda-epstein.html",
+   "summary": "The Yemeni militia is using the culture of its sworn enemies in the renewed fighting with Saudi Arabia.",
+   "time": "2026-10-23T09:30:45+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "What role does the military play in Israeli schools?",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/what-role-does-the-military-play-in-israeli-schools?traffic_source=rss",
+   "summary": "For Israeli teenagers, military life ordinarily kicks off in school.",
+   "time": "2026-10-23T09:32:33+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "מעריב",
+   "outlet": "מעריב",
+   "title": "הסוקר של מעריב מגלה את הסוד: מה קורה כשמשיבים משקרים? | האזינו",
+   "url": "https://www.maariv.co.il/breaking-news/article-1380425",
+   "summary": "",
+   "time": "2026-10-23T09:33:31+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "מעריב",
+   "outlet": "מעריב",
+   "title": "מפלגה אחת עשויה לשנות הכול: התרחיש שמציג מנחם לזר | האזינו",
+   "url": "https://www.maariv.co.il/breaking-news/article-1380426",
+   "summary": "",
+   "time": "2026-10-23T09:35:12+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "מעריב",
+   "outlet": "מעריב",
+   "title": "באופוזיציה נערכים לאפשרות שנתניהו יישאר רוה\"מ - והמהלך שיהפוך אותו ל\"ברווז צולע\"",
+   "url": "https://www.maariv.co.il/breaking-news/article-1380427",
+   "summary": "",
+   "time": "2026-10-23T09:37:40+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "מעריב",
+   "outlet": "מעריב",
+   "title": "התוכנית של איזנקוט להקמת ממשלה - והמכשול מתוך המחנה שלו: \"לא מקובל\"",
+   "url": "https://www.maariv.co.il/breaking-news/article-1380429",
+   "summary": "",
+   "time": "2026-10-23T09:39:21+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "בסיום עונה מסויטת: לאנס סטרול מפנה את מקומו בפורמולה 1",
+   "url": "https://www.israelhayom.co.il/sport/other-sports/article/21692631",
+   "summary": "בן זוגה של יעל שלביה יוחלף באימון הראשון במקסיקו בעקבות חוקי הארגון המחייבים לשלב נהגים בעלי ניסיון מוגבל • הקנדי חווה עונה רעה מאוד וינסה להמתיק אותה בשלושת המרוצים שנותרו לו, אחרי שכבר קיבל חוזה לעונה הבאה",
+   "time": "2026-10-23T09:39:56+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "NBA’s Irving praises Al-Shaair’s ‘selfless act’ after Hind Rajab fine paid",
+   "url": "https://www.aljazeera.com/sports/2026/10/23/nbas-irving-praises-al-shaairs-selfless-act-after-hind-rajab-fine-paid?traffic_source=rss",
+   "summary": "Kyrie Irving explains paying fine and praises Azeez Al-Shaair for continuously honouring slain Palestinian children.",
+   "time": "2026-10-23T09:40:57+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "הרמטכ\"ל: ברכב המחבלים נמצאה תחמושת רבה, נמנע פיגוע חמור יותר",
+   "url": "https://www.ynet.co.il/news/article/bka11bto3gl",
+   "summary": "",
+   "time": "2026-10-23T09:42:12+03:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "וואלה",
+   "outlet": "וואלה",
+   "title": "ועדת הבחירות הורתה לליכוד להסיר שלטי ראשי גוש השינוי והמפלגות הערביות",
+   "url": "https://www.walla.co.il/news/breaking-news/383958611",
+   "summary": "יו\"ר ועדת הבחירות המרכזית, השופט נעם סולברג, הורה היום (שישי) לליכוד להסיר עד השעה 15:30 את כל שלטי החוצות שבהם מוצגים גדי איזנקוט וראשי רשימות נוספות לצד חברי הכנסת מנסור עבאס ואחמד טיבי. ההחלטה התקבלה בעקבות עתירה של מפלגת ישר!, שטענה כי השלטים מפרים את דיני תעמולת הבחירות. סולברג קבע כי השילוט על",
+   "time": "2026-10-23T09:49:27+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "החלטה עקרונית: סוף לתעמולת בחירות אנונימית באמצעות בוטים?",
+   "url": "https://www.israelhayom.co.il/news/law/article/21692755",
+   "summary": "יו\"ר ועדת הבחירות המרכזית, השופט נעם סולברג, קבע כי מועמדים ומפלגות המפיצים תעמולה באמצעות בוטים וחשבונות בדויים חייבים לחשוף מי עומד מאחוריהם • העתירה נגד הליכוד ונתניהו נדחתה בשל היעדר ראיות מספיקות להפעלת החשבונות מטעמם",
+   "time": "2026-10-23T09:51:28+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Serbia’s snap election: What’s at stake and can students unseat Vucic?",
+   "url": "https://www.aljazeera.com/news/2026/10/23/serbias-snap-election-whats-at-stake-and-can-students-unseat-vucic?traffic_source=rss",
+   "summary": "A snap parliamentary vote on October 25 will determine whether a student-led group can loosen Vucic’s grip on power.",
+   "time": "2026-10-23T09:52:20+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "New electronics reach Iran, but prices soar as gov’t fees, US sanctions hit",
+   "url": "https://www.aljazeera.com/features/2026/10/23/new-electronics-reach-iran-but-prices-soar-as-govt-fees-us-sanctions-hit?traffic_source=rss",
+   "summary": "Latest smartphones are finding their way into Iran despite sanctions and trade restrictions, but many can&#039;t afford them.",
+   "time": "2026-10-23T09:56:28+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "\"נמניה נדוביץ' למכבי תל אביב? הוא לא יכול לשמור עליי\"",
+   "url": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21691059",
+   "summary": "פיני גרשון התייחס בפודקאסט \"על הבאזר\" עם עפר \"ג'ובה\" גרוס למועמדותו של הגארד הוותיק לחיזוק הקו האחורי של הצהובים, והביע הסתייגות חריפה מיכולותיו ההגנתיות",
+   "time": "2026-10-23T10:00:03+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "מעריב",
+   "outlet": "מעריב",
+   "title": "שתי נערות בנות 17 נפצעו באורח בינוני מפגיעת רכב",
+   "url": "https://www.maariv.co.il/breaking-news/article-1380435",
+   "summary": "",
+   "time": "2026-10-23T10:00:21+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "וואלה",
+   "outlet": "וואלה",
+   "title": "צרפת: הרוג ולפחות ארבעה פצועים באירוע ירי סמוך לפריז",
+   "url": "https://www.walla.co.il/news/breaking-news/383958612",
+   "summary": "אדם אחד נהרג ולפחות ארבעה נוספים נפצעו היום (שישי) בירי שבוצע מרכב חולף במחוז איבלין, ממערב לפריז, כך מסר מקור במשטרה הצרפתית. לפי דיווח ברשת BFM, חשוד במעורבות בירי נעצר.",
+   "time": "2026-10-23T10:02:23+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "חגיגות ההשתמטות: 8 עריקים חרדים שוחררו מהכלא והתקבלו בריקודים | צפו",
+   "url": "https://www.israelhayom.co.il/news/local/article/21692827",
+   "summary": "מחוץ לכלא המתינו להם רבנים וחברים, שקיבלו את פניהם • המחזה הגיע לאחר שאתמול ח\"כ יצחק גולדקנופף מיהדות התורה התייחס לסוגיית העריקים עם אמירה שעוררה זעם",
+   "time": "2026-10-23T10:03:42+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "הבעל נרצח, הגופה הוסתרה - והמצלמות חשפו את המזימה",
+   "url": "https://www.israelhayom.co.il/news/world-news/other/article/21692594",
+   "summary": "גופת גבר נמצאה בתוך תיבת ברזל שהושלכה לצד כביש מהיר בהודו • תיעוד של רכב הובלה שהגיע עמוס ועזב ריק הוביל את החוקרים לאשת הקורבן ולשכן החשוד בסיוע לרצח • בתוך 12 שעות נעצרו שלושה חשודים",
+   "time": "2026-10-23T10:04:32+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "חשוד בייבוא סמים לישראל נעצר בבוליביה בשיתוף נציג המשטרה וולטר - ויוסגר",
+   "url": "https://www.ynet.co.il/news/article/byqmntonzx",
+   "summary": "",
+   "time": "2026-10-23T10:05:06+03:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "בין הסורגים: מה עושה הנשיא טראמפ בכלוב באמצע כיכר בטהרן?",
+   "url": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21692714",
+   "summary": "הרשויות באיראן הציבו מיצג שבו שחקן מדמה את הנשיא האמריקני יושב בתא כלא • עוברי אורח נראים צוחקים ומצלמים את המיצג המשונה, שנועד להעביר מסר תעמולתי על \"עונש\" לטראמפ",
+   "time": "2026-10-23T10:05:18+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "הולכים לבחירות בקומיקס: הג'וקר מביס את באטמן בקרב על דעת הקהל",
+   "url": "https://www.israelhayom.co.il/culture/books/article/21682933",
+   "summary": "בזמן שבאטמן ודרדוויל גיבורי־העל לא עוברים את אחוז החסימה, האויבים שלהם, פושעים כוחניים, מתיישבים בכס ראש העיר • ימים ספורים לפני הבחירות בישראל, נמרוד רשף על נבחרי ציבור גרסת הקומיקס",
+   "time": "2026-10-23T10:09:00+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "להוציא את המצביעים מהבית: הקמפיין החדש בחברה הערבית",
+   "url": "https://www.israelhayom.co.il/news/politics/article/21692888",
+   "summary": "שלטי חוצות בסכנין קוראים לציבור הערבי להגיע לקלפיות, במסגרת יוזמה שתתרחב ליישובים נוספים • הקמפיין פונה לנשים, לצעירים ולבעלי עסקים, ללא תמיכה במפלגה מסוימת • היוזמת: \"אי אפשר לצפות שישמעו את הקול שלנו אם אנחנו לא משמיעים אותו\"",
+   "time": "2026-10-23T10:15:15+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "South Korea invites North for military talks over border",
+   "url": "https://www.aljazeera.com/news/2026/10/23/south-korea-invites-north-for-military-talks-over-border?traffic_source=rss",
+   "summary": "The proposal comes days after Pyongyang says it moved new military units into &#039;firing positions&#039; along the border.",
+   "time": "2026-10-23T10:20:31+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "שני המחבלים מהפיגוע ביהודה זוהו עם חמאס",
+   "url": "https://www.ynet.co.il/news/article/bysack00ngg",
+   "summary": "",
+   "time": "2026-10-23T10:22:10+03:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "וואלה",
+   "outlet": "וואלה",
+   "title": "דיווח: גרמניה במגעים לרכישת אלפי טילים ביותר ממיליארד אירו",
+   "url": "https://www.walla.co.il/news/breaking-news/383958614",
+   "summary": "גרמניה מנהלת מגעים לרכישת אלפי טילים מתוצרת אירופית, כך דווח היום (שישי) בסוכנות הידיעות בלומברג. לפי הדיווח, ברלין מנהלת משא ומתן עם חברת ההגנה האמריקנית Covenant על חוזה בשווי של יותר ממיליארד אירו לרכישת טילי השיוט Anthem. מדובר בטילים המיועדים לייצור באירופה, במסגרת מאמציה של גרמניה לחזק את יכול",
+   "time": "2026-10-23T10:23:17+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "BBC",
+   "outlet": "BBC",
+   "title": "Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting",
+   "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
+   "summary": "The attack comes at a time of heightened tensions in the occupied West Bank and four days before Israel's general election.",
+   "time": "2026-10-23T10:26:06+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "NYT",
+   "outlet": "NYT",
+   "title": "Palestinian Gunmen Open Fire on Israelis in the West Bank, Officials Say",
+   "url": "https://www.nytimes.com/2026/10/23/world/middleeast/west-bank-shooting-israel.html",
+   "summary": "Five people were wounded in the attack, days before national elections, health workers said. The Israeli military said its soldiers had killed two assailants.",
+   "time": "2026-10-23T10:28:15+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "אישום: רבש\"ץ ירה לעבר רכב פלסטיני, פצע אישה קשה - וניסה להעלים ראיות",
+   "url": "https://www.ynet.co.il/news/article/b1wz2fdhgg",
+   "summary": "",
+   "time": "2026-10-23T10:30:30+03:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "אוהד בוזגלו נחקר בחשד לתקיפת זוגתו - וטען שהותקף על ידה",
+   "url": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21692969",
+   "summary": "כדורגלן העבר וכוכב הריאליטי הוא המפורסם שנעצר בבת ים • בתום החקירה שוחררו השניים בתנאי הרחקה ואיסור יצירת קשר",
+   "time": "2026-10-23T10:33:30+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "טעויות הניקיון שכדאי להפסיק לעשות - ומה לעשות במקום",
+   "url": "https://www.israelhayom.co.il/lifestyle/design/article/21692962",
+   "summary": "לא כל פעולת ניקיון באמת משיגה את התוצאה הרצויה, מסדר הניקוי הלא נכון ועד שימוש באביזרים שמשאירים סימנים - כמה טעויות נפוצות עלולות להפוך את העבודה לממושכת ופחות יעילה. כך תנקו נכון יותר, תחסכו זמן ותשיגו תוצאות טובות יותר",
+   "time": "2026-10-23T10:33:31+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "נתניהו אחרי הפיגוע: \"נרדוף את מחבלי חמאס בכל מקום\"",
+   "url": "https://www.ynet.co.il/news/article/syrsrfu2fx",
+   "summary": "",
+   "time": "2026-10-23T10:37:58+03:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "\"התכוון לבצע טבח\": הרוגים ופצועים בפיגוע ירי בצרפת",
+   "url": "https://www.israelhayom.co.il/news/world-news/europe/article/21692977",
+   "summary": "חמישה נפגעו כשחמוש פתח באש בעיר טראפ ממערב לבירה פריז וניסה להימלט מהזירה • כוחות משטרה גדולים הגיעו למקום והתוקף נעצר",
+   "time": "2026-10-23T10:38:04+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "וואלה",
+   "outlet": "וואלה",
+   "title": "לראשונה: בריטניה וצרפת קיימו תרגיל משותף של הרתעה גרעינית",
+   "url": "https://www.walla.co.il/news/breaking-news/383958615",
+   "summary": "בריטניה וצרפת קיימו לראשונה תרגיל משותף בהשתתפות מטוסי קרב בריטיים במסגרת מערך ההרתעה הגרעינית האווירי של צרפת, כך הודיע היום (שישי) משרד ההגנה הצרפתי. שרת ההגנה הצרפתית, קתרין ווטרן, מסרה כי מטוסי טייפון בריטיים השתתפו ביום שלישי בערב בתרגיל לצד מטוסי רפאל צרפתיים. לדבריה, \"קיומם של כוחות גרעיניים ",
+   "time": "2026-10-23T10:38:53+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "מעריב",
+   "outlet": "מעריב",
+   "title": "שמועה על מעטפות ההצבעה מתפשטת ברשת - וההבהרה של ועדת הבחירות",
+   "url": "https://www.maariv.co.il/breaking-news/article-1380441",
+   "summary": "",
+   "time": "2026-10-23T10:40:25+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "מעריב",
+   "outlet": "מעריב",
+   "title": "תחקיר ראשוני: זו התוכנית של המחבלים שחוסלו בפיגוע הירי ליד חברון",
+   "url": "https://www.maariv.co.il/breaking-news/article-1380442",
+   "summary": "",
+   "time": "2026-10-23T10:43:58+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "מעריב",
+   "outlet": "מעריב",
+   "title": "באו לתמוך בבן גביר, אבל למי יצביעו? הדילמה שנחשפה בכנס בקרית אתא",
+   "url": "https://www.maariv.co.il/breaking-news/article-1380443",
+   "summary": "",
+   "time": "2026-10-23T10:45:49+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "מעריב",
+   "outlet": "מעריב",
+   "title": "שני הולכי רגל נפצעו בינוני מפגיעת אוטובוס בתל אביב",
+   "url": "https://www.maariv.co.il/breaking-news/article-1380445",
+   "summary": "",
+   "time": "2026-10-23T10:48:07+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "\"צירוף מקרים\" מדהים: האש בצרפת דילגה רק על מקום אחד",
+   "url": "https://www.israelhayom.co.il/magazine/shishabat/article/21692691",
+   "summary": "כשנשרפה הנוטרדאם ב-2019 קראו לי גזען - כי העזתי לומר את מה שהצרפתים מבינים עכשיו היטב, כשכל מה שהתגאו בו הופך לפחם • אז תודה רבה לרפובליקה, אבל סה פיני • וגם: ביקור אצל האנשים המלוכלכים הכי נקיים שיש",
+   "time": "2026-10-23T10:50:13+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "המחבלים תכננו לפגוע במשפחות ישראליות - ונעצרו על-ידי הלוחמים",
+   "url": "https://www.ynet.co.il/news/article/r1kag5u3zl",
+   "summary": "",
+   "time": "2026-10-23T10:50:44+03:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "מעריב",
+   "outlet": "מעריב",
+   "title": "פועל כבן 30 נפצע קשה בנפילה מגובה של חמישה מטרים בבית שמש",
+   "url": "https://www.maariv.co.il/breaking-news/article-1380446",
+   "summary": "",
+   "time": "2026-10-23T10:52:04+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "וואלה",
+   "outlet": "וואלה",
+   "title": "פועל כבן 30 נפצע קשה לאחר שנפל מגובה באזור תעשייה בבית שמש",
+   "url": "https://www.walla.co.il/news/breaking-news/383958618",
+   "summary": "פועל כבן 30 נפצע לפני זמן קצר (שישי) קשה, לאחר שנפל מגובה של חמישה מטרים באזור תעשייה בבית שמש. צוותי הרפואה של מד\"א העניקו לפצוע טיפול רפואי ראשוני, שלאחריו פונה לבית החולים שערי צדק, כשהוא בהכרה וסובל מחבלות בראש ובגפיים.",
+   "time": "2026-10-23T10:55:37+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "מעריב",
+   "outlet": "מעריב",
+   "title": "צעיר בן 20 נפצע בינוני אחרי שנפל מסוס צפונית למחלף גנות",
+   "url": "https://www.maariv.co.il/breaking-news/article-1380448",
+   "summary": "",
+   "time": "2026-10-23T10:58:02+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "איזנקוט: \"החיילים מנעו פיגוע גדול נגד אזרחים. כוחות הביטחון עובדים לילות כימים\"",
+   "url": "https://www.ynet.co.il/news/article/r1h47cu2zl",
+   "summary": "",
+   "time": "2026-10-23T10:58:53+03:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "מעריב",
+   "outlet": "מעריב",
+   "title": "אדם נהרג ולפחות 4 נפצעו באירוע ירי בפרבר ממערב לפריז",
+   "url": "https://www.maariv.co.il/breaking-news/article-1380450",
+   "summary": "",
+   "time": "2026-10-23T10:59:03+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "מעריב",
+   "outlet": "מעריב",
+   "title": "שרפת יער באזור אום אל-פחם - 4 מטוסי כיבוי פועלים בזירה",
+   "url": "https://www.maariv.co.il/breaking-news/article-1380451",
+   "summary": "",
+   "time": "2026-10-23T11:02:57+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "France tightens security in anticipation of weekend protests",
+   "url": "https://www.aljazeera.com/news/2026/10/23/france-tightens-security-in-anticipation-of-weekend-protests?traffic_source=rss",
+   "summary": "Gatherings banned and curfews extended as cities lock down in an effort to avert further unrest.",
+   "time": "2026-10-23T11:05:13+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "צה\"ל: הכוחות פועלים בבתי המחבלים",
+   "url": "https://www.ynet.co.il/news/article/r1zhh5u3gl",
+   "summary": "",
+   "time": "2026-10-23T11:08:18+03:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "וואלה",
+   "outlet": "וואלה",
+   "title": "שלושה גברים נפצעו באירוע ירי בשפרעם, אחד מהם באורח קשה",
+   "url": "https://www.walla.co.il/news/breaking-news/383958620",
+   "summary": "שלושה גברים נפצעו היום (שישי) באירוע ירי בעיר שפרעם, אחד מהם באורח קשה ושניים באורח קל, כך נמסר מהמשטרה על פי גורמי הרפואה. זהות הנפגעים טרם התבררה. שוטרים שהוזעקו למקום פתחו בסריקות לאיתור החשודים בירי ובחקירת נסיבות האירוע. לפי המשטרה, הרקע לירי פלילי.",
+   "time": "2026-10-23T11:08:42+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "ניו יורק: גבר מוסלמי נעצר לאחר שניסה להצית בית כנסת",
+   "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21693059",
+   "summary": "עזם חאן, תושב האזור, ניסה לפרוץ למבנה בית הכנסת \"יאנג ישראל\" בווסט המפסטד ומשלא הצליח ניסה להצית את המקום • המשטרה לא ציינה מניע למעשה וברשימת האישומים נגדו לא צויין פשע שנאה",
+   "time": "2026-10-23T11:17:21+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "4 סמלים בקו אחד: הסודות בלוגואים של Airbnb, 7 Eleven ו-Toblerone",
+   "url": "https://www.israelhayom.co.il/business/consumers/article/21670205",
+   "summary": "שלושה לוגואים, שלושה פרטים שרוב האנשים מפספסים, ותיאוריה אחת שהחברה עצמה לא בטוחה אם היא נכונה או לא",
+   "time": "2026-10-23T11:20:00+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "\"בית\"ר ירושלים רצתה שאשאר, עשיתי טעות כשעזבתי אותה\"",
+   "url": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21692891",
+   "summary": "דייוויד גומז שיחק בתחילת הקריירה מול מרסלו וקאסמירו ומצא את עצמו משתקע ומקים משפחה בישראל • הוא מתחרט על קבלת ההחלטות: \"יכולתי להשיג יותר\", ונזכר בתקופות היפות: \"רק אחר כך נפל לי האסימון כמה המועדון גדול\"",
+   "time": "2026-10-23T11:21:01+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "וואלה",
+   "outlet": "וואלה",
+   "title": "לקראת המשך ההפגנות בצרפת: 70 אלף אנשי ביטחון ייפרסו ברחבי המדינה",
+   "url": "https://www.walla.co.il/news/breaking-news/383958621",
+   "summary": "שר הפנים של צרפת, לורן נונייז, הודיע היום (שישי) כי 70 אלף אנשי כוחות הביטחון ייפרסו מחר ברחבי המדינה לשמירה על הסדר הציבורי, על רקע קריאות לביזה ולאלימות שלטענתו מגיעות מגורמי שמאל קיצוני. \"ברשתות החברתיות הופצו קריאות מצד השמאל הקיצוני לפגוע במבני ציבור. אנחנו לא מדברים על הפגנה שקטה\", אמר נונייז ",
+   "time": "2026-10-23T11:21:24+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "מעריב",
+   "outlet": "מעריב",
+   "title": "המרדף אחרי המחבלים בצומת יהודה: תיעוד ממצלמת הקסדה של קצין הביטחון",
+   "url": "https://www.maariv.co.il/breaking-news/article-1380455",
+   "summary": "",
+   "time": "2026-10-23T11:23:53+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "מעריב",
+   "outlet": "מעריב",
+   "title": "ראש הממשלה נתניהו נגד הטרור בחברון: \"ניישם משהו שלא נעשה עד עכשיו\"",
+   "url": "https://www.maariv.co.il/breaking-news/article-1380456",
+   "summary": "",
+   "time": "2026-10-23T11:27:48+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Guardian",
+   "outlet": "Guardian",
+   "title": "Oil hits five-month high amid fears US will renew strikes on Iran",
+   "url": "https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran",
+   "summary": "Brent crude rises to $114.72 a barrel after Tehran threatens retaliatory attacks on Gulf oil and tech facilities Business live – latest updates Oil has hit its highest level in more than five months as fears of fresh escalation in the Middle East conflict grip the energy markets. Brent crude, the in",
+   "time": "2026-10-23T11:35:51+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "מעריב",
+   "outlet": "מעריב",
+   "title": "שלושה גברים נפצעו באירוע ירי בשפרעם, אחד מהם במצב קשה",
+   "url": "https://www.maariv.co.il/breaking-news/article-1380458",
+   "summary": "",
+   "time": "2026-10-23T11:38:53+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "מעריב",
+   "outlet": "מעריב",
+   "title": "נער בן 13 נפצע בינוני מפגיעת רכב בעת רכיבה על קורקינט באשדוד",
+   "url": "https://www.maariv.co.il/breaking-news/article-1380459",
+   "summary": "",
+   "time": "2026-10-23T11:42:02+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "ועדת הבחירות המרכזית לליכוד: הסירו את השלטים שמציגים את איזנקוט עם עבאס וטיבי",
+   "url": "https://www.ynet.co.il/news/article/bkafr9u3mg",
+   "summary": "",
+   "time": "2026-10-23T11:46:26+03:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "בצה\"ל בודקים אם הצלם שתיעד את המחבלים עודכן מראש על הפיגוע",
+   "url": "https://www.ynet.co.il/news/article/bynbbsunfx",
+   "summary": "",
+   "time": "2026-10-23T12:14:37+03:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "צרפת: שני פצועים מירי ליד פריז",
+   "url": "https://www.ynet.co.il/news/article/r1riiou3fg",
+   "summary": "",
+   "time": "2026-10-23T12:40:18+03:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "סמוטריץ': הנחיתי להרוס מבנים ערביים ליד מקום הפיגוע",
+   "url": "https://www.ynet.co.il/news/article/rkd6hs00nze",
+   "summary": "",
+   "time": "2026-10-23T12:47:08+03:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "הרצוג לראש מועצת הר חברון: הלוחמים בנחישותם חיסלו את המחבלים הנתעבים",
+   "url": "https://www.ynet.co.il/news/article/sk112xno3ge",
+   "summary": "",
+   "time": "2026-10-23T13:04:23+03:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "הירי בצרפת: הרוג ו-4 פצועים ליד פריז, היורה נעצר",
+   "url": "https://www.ynet.co.il/news/article/syyz43d2fl",
+   "summary": "",
+   "time": "2026-10-23T13:17:53+03:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "צרפת: המשרד למניעת טרור \"עוקב\" אחר הירי בפרבר של פריז",
+   "url": "https://www.ynet.co.il/news/article/r1zxwn003me",
+   "summary": "",
+   "time": "2026-10-23T13:31:13+03:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "פועל נפל מגובה 5 מטרים בבית שמש, מצבו קשה",
+   "url": "https://www.ynet.co.il/news/article/hj4wchd2zx",
+   "summary": "",
+   "time": "2026-10-23T13:44:44+03:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "דיווח: שרי החוץ של טורקיה, פקיסטן, סעודיה ומצרים נפגשים באיסטנבול",
+   "url": "https://www.ynet.co.il/news/article/bkyt3hunfx",
+   "summary": "",
+   "time": "2026-10-23T13:55:14+03:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "המשטרה פתחה בחקירת ירי בשפרעם, גבר נפצע קשה",
+   "url": "https://www.ynet.co.il/news/article/bkqk1t00hzg",
+   "summary": "",
+   "time": "2026-10-23T14:06:49+03:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "נתניהו: צה\"ל ייכנס לשכונות שמהן יצאו המחבלים - ויפנה את התושבים",
+   "url": "https://www.ynet.co.il/news/article/hkelntu3mg",
+   "summary": "",
+   "time": "2026-10-23T14:28:42+03:00",
+   "tier": 2,
+   "type": "reporting"
   }
  ],
- "updated": "2026-10-23T04:58:11.937481+00:00",
+ "updated": "2026-10-23T11:45:10.294860+00:00",
  "clusters": [
+  {
+   "id": "b8509f5b30",
+   "title": "המחבלים הגיעו ברכב עם לוחית זיהוי צהובה, לוחמי \"ארי\" חיסלו אותם בחילופי אש",
+   "sourceCount": 4,
+   "outlets": [
+    "ynet",
+    "וואלה",
+    "ישראל היום",
+    "מעריב"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 27,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-22T14:15:52+00:00",
+   "lastSeen": "2026-10-23T13:04:23+03:00",
+   "articles": [
+    {
+     "source": "וואלה",
+     "title": "דיווח על ירי באזור חומש בשומרון, כוחות צה\"ל הוזעקו",
+     "url": "https://www.walla.co.il/news/breaking-news/383958535",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-22T14:15:52+00:00"
+    },
+    {
+     "source": "וואלה",
+     "title": "צה\"ל: הירי בחומש אינו פיגוע, סריקות אחר חמושים באזור",
+     "url": "https://www.walla.co.il/news/breaking-news/383958545",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-22T15:09:28+00:00"
+    },
+    {
+     "source": "ynet",
+     "title": "צה\"ל: התקבל דיווח על ירי בשומרון, כוחות בדרך למקום",
+     "url": "https://www.ynet.co.il/news/article/byr7o9wnmx",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-22T17:15:46+03:00"
+    },
+    {
+     "source": "ynet",
+     "title": "צה\"ל: מקור הירי שנשמע בשומרון אינו פיגוע",
+     "url": "https://www.ynet.co.il/news/article/hkfxwowhge",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-22T18:10:28+03:00"
+    },
+    {
+     "source": "וואלה",
+     "title": "דיווח ראשוני על פיגוע ירי סמוך לצומת יהודה",
+     "url": "https://www.walla.co.il/news/breaking-news/383958587",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T04:26:55+00:00"
+    },
+    {
+     "source": "מעריב",
+     "title": "דיווח על פיגוע ירי סמוך לצומת יהודה, כוחות צה\"ל הוזנקו למקום",
+     "url": "https://www.maariv.co.il/breaking-news/article-1380336",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T04:27:19+00:00"
+    },
+    {
+     "source": "מעריב",
+     "title": "מספר פצועים בפיגוע הירי סמוך לצומת יהודה, מתנהל מרדף אחר המחבל",
+     "url": "https://www.maariv.co.il/breaking-news/article-1380339",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T04:31:32+00:00"
+    },
+    {
+     "source": "ישראל היום",
+     "title": "פיגוע ירי בצומת יהודה: שני פצועים אנוש ואחד בינוני, שני מחבלים חוסלו",
+     "url": "https://www.israelhayom.co.il/news/defense/article/21691500",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T04:33:33+00:00"
+    },
+    {
+     "source": "ישראל היום",
+     "title": "\"חיילות, בואו לאמבולנס - הוא ממוגן ירי\": עדויות מזירת הפיגוע",
+     "url": "https://www.israelhayom.co.il/news/defense/article/21691668",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T05:25:57+00:00"
+    },
+    {
+     "source": "וואלה",
+     "title": "מד\"א: חמישה נפגעים בפיגוע הירי בצומת יהודה, שניים במצב אנוש",
+     "url": "https://www.walla.co.il/news/breaking-news/383958592",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T06:06:29+00:00"
+    }
+   ]
+  },
   {
    "id": "b4833ace66",
    "title": "רוסיה נגד נתניהו: \"הטיח בנו האשמות בלתי מבוססות לקראת הבחירות בישראל\"",
@@ -3103,106 +4642,8 @@
    ]
   },
   {
-   "id": "b8509f5b30",
-   "title": "מספר פצועים בפיגוע הירי סמוך לצומת יהודה, מתנהל מרדף אחר המחבל",
-   "sourceCount": 3,
-   "outlets": [
-    "ynet",
-    "וואלה",
-    "מעריב"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 10,
-   "opinionOnly": false,
-   "firstSeen": "2026-10-22T14:15:52+00:00",
-   "lastSeen": "2026-10-23T07:40:50+03:00",
-   "articles": [
-    {
-     "source": "וואלה",
-     "title": "דיווח על ירי באזור חומש בשומרון, כוחות צה\"ל הוזעקו",
-     "url": "https://www.walla.co.il/news/breaking-news/383958535",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-22T14:15:52+00:00"
-    },
-    {
-     "source": "וואלה",
-     "title": "צה\"ל: הירי בחומש אינו פיגוע, סריקות אחר חמושים באזור",
-     "url": "https://www.walla.co.il/news/breaking-news/383958545",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-22T15:09:28+00:00"
-    },
-    {
-     "source": "ynet",
-     "title": "צה\"ל: התקבל דיווח על ירי בשומרון, כוחות בדרך למקום",
-     "url": "https://www.ynet.co.il/news/article/byr7o9wnmx",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-22T17:15:46+03:00"
-    },
-    {
-     "source": "ynet",
-     "title": "צה\"ל: מקור הירי שנשמע בשומרון אינו פיגוע",
-     "url": "https://www.ynet.co.il/news/article/hkfxwowhge",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-22T18:10:28+03:00"
-    },
-    {
-     "source": "וואלה",
-     "title": "דיווח ראשוני על פיגוע ירי סמוך לצומת יהודה",
-     "url": "https://www.walla.co.il/news/breaking-news/383958587",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-23T04:26:55+00:00"
-    },
-    {
-     "source": "מעריב",
-     "title": "דיווח על פיגוע ירי סמוך לצומת יהודה, כוחות צה\"ל הוזנקו למקום",
-     "url": "https://www.maariv.co.il/breaking-news/article-1380336",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-23T04:27:19+00:00"
-    },
-    {
-     "source": "מעריב",
-     "title": "מספר פצועים בפיגוע הירי סמוך לצומת יהודה, מתנהל מרדף אחר המחבל",
-     "url": "https://www.maariv.co.il/breaking-news/article-1380339",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-23T04:31:32+00:00"
-    },
-    {
-     "source": "ynet",
-     "title": "צה\"ל: התקבל דיווח על פיגוע ירי סמוך לצומת יהודה",
-     "url": "https://www.ynet.co.il/news/article/skr0wp003fl",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-23T07:26:36+03:00"
-    },
-    {
-     "source": "ynet",
-     "title": "מתנהל מרדף אחר המחבל שברח לכיוון חברון",
-     "url": "https://www.ynet.co.il/news/article/bkzwmdo2gl",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-23T07:29:22+03:00"
-    },
-    {
-     "source": "ynet",
-     "title": "הפיגוע באזור חברון: כוחות צה\"ל חיסלו שני מחבלים",
-     "url": "https://www.ynet.co.il/news/article/sjcmsv003fe",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-23T07:40:50+03:00"
-    }
-   ]
-  },
-  {
    "id": "94ded105d9",
-   "title": "אירוע חריג: בקבוק זכוכית נזרק לעבר שיירת נתניהו סמוך לשוק מחנה יהודה | צפו",
+   "title": "צעיר עוכב לחקירה לאחר השלכת חפץ ותקיפת אב שכול בעת ביקור נתניהו בשוק התקווה",
    "sourceCount": 3,
    "outlets": [
     "ynet",
@@ -3211,10 +4652,10 @@
    ],
    "bestTier": 2,
    "hasOfficial": false,
-   "reportingCount": 7,
+   "reportingCount": 8,
    "opinionOnly": false,
    "firstSeen": "2026-10-22T15:35:19+00:00",
-   "lastSeen": "2026-10-23T01:25:29+03:00",
+   "lastSeen": "2026-10-23T08:14:57+00:00",
    "articles": [
     {
      "source": "ישראל היום",
@@ -3271,6 +4712,14 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-10-23T01:25:29+03:00"
+    },
+    {
+     "source": "ישראל היום",
+     "title": "צעיר עוכב לחקירה לאחר השלכת חפץ ותקיפת אב שכול בעת ביקור נתניהו בשוק התקווה",
+     "url": "https://www.israelhayom.co.il/news/local/article/21692282",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T08:14:57+00:00"
     }
    ]
   },
@@ -3285,10 +4734,10 @@
    ],
    "bestTier": 2,
    "hasOfficial": false,
-   "reportingCount": 5,
+   "reportingCount": 6,
    "opinionOnly": false,
    "firstSeen": "2026-10-22T14:24:51+00:00",
-   "lastSeen": "2026-10-22T18:37:51+03:00",
+   "lastSeen": "2026-10-23T14:06:49+03:00",
    "articles": [
     {
      "source": "וואלה",
@@ -3329,56 +4778,130 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-10-22T18:37:51+03:00"
+    },
+    {
+     "source": "ynet",
+     "title": "המשטרה פתחה בחקירת ירי בשפרעם, גבר נפצע קשה",
+     "url": "https://www.ynet.co.il/news/article/bkqk1t00hzg",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T14:06:49+03:00"
     }
    ]
   },
   {
-   "id": "f45303cfc4",
-   "title": "US orders some diplomats to leave Saudi Arabia as Houthi attacks escalate",
+   "id": "c6528b89d8",
+   "title": "Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting",
    "sourceCount": 3,
    "outlets": [
+    "Al Jazeera",
     "BBC",
-    "Guardian",
     "NYT"
    ],
    "bestTier": 2,
    "hasOfficial": false,
-   "reportingCount": 4,
+   "reportingCount": 5,
    "opinionOnly": false,
-   "firstSeen": "2026-10-22T01:07:34+00:00",
-   "lastSeen": "2026-10-22T18:07:36+00:00",
+   "firstSeen": "2026-10-22T18:17:29+00:00",
+   "lastSeen": "2026-10-23T10:28:15+00:00",
    "articles": [
     {
-     "source": "BBC",
-     "title": "US orders some diplomats to leave Saudi Arabia as Houthi attacks escalate",
-     "url": "https://www.bbc.co.uk/news/articles/c6x2vpk93770o?at_medium=RSS&at_campaign=rss",
+     "source": "Al Jazeera",
+     "title": "Israel frees suspects in two settler attacks as West Bank pogroms intensify",
+     "url": "https://www.aljazeera.com/news/2026/10/22/israel-frees-suspects-in-two-settler-attacks-as-west-bank-pogroms-intensify?traffic_source=rss",
      "tier": 2,
      "type": "reporting",
-     "time": "2026-10-22T01:07:34+00:00"
+     "time": "2026-10-22T18:17:29+00:00"
     },
     {
-     "source": "Guardian",
-     "title": "Some US diplomats told to leave Saudi Arabia amid Houthi attacks",
-     "url": "https://www.theguardian.com/world/2026/oct/22/us-diplomats-told-to-leave-saudi-arabia-amid-houthi-attacks",
+     "source": "Al Jazeera",
+     "title": "Israel arrests 36 Palestinians in the West Bank, attacks on farmers ramp up",
+     "url": "https://www.aljazeera.com/news/2026/10/23/israel-arrests-36-palestinians-in-the-west-bank-attacks-on-farmers-ramp-up?traffic_source=rss",
      "tier": 2,
      "type": "reporting",
-     "time": "2026-10-22T13:05:30+00:00"
+     "time": "2026-10-23T04:09:28+00:00"
+    },
+    {
+     "source": "Al Jazeera",
+     "title": "Israeli military kills two in gun battle in occupied West Bank",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/israeli-military-kills-two-in-gun-battle-in-occupied-west-bank?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T09:12:38+00:00"
     },
     {
      "source": "BBC",
-     "title": "Two killed in Houthi attack on airport in eastern Saudi Arabia, authorities say",
-     "url": "https://www.bbc.co.uk/news/articles/cqwy71ww156ro?at_medium=RSS&at_campaign=rss",
+     "title": "Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting",
+     "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
      "tier": 2,
      "type": "reporting",
-     "time": "2026-10-22T13:46:33+00:00"
+     "time": "2026-10-23T10:26:06+00:00"
     },
     {
      "source": "NYT",
-     "title": "Houthi Strike on Saudi Airport Kills 2 as U.S. Tells Some Diplomats to Leave",
-     "url": "https://www.nytimes.com/2026/10/22/world/middleeast/saudi-houthis-yemen-dammam-airport.html",
+     "title": "Palestinian Gunmen Open Fire on Israelis in the West Bank, Officials Say",
+     "url": "https://www.nytimes.com/2026/10/23/world/middleeast/west-bank-shooting-israel.html",
      "tier": 2,
      "type": "reporting",
-     "time": "2026-10-22T18:07:36+00:00"
+     "time": "2026-10-23T10:28:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": "1d836284bf",
+   "title": "צרפת: המשרד למניעת טרור \"עוקב\" אחר הירי בפרבר של פריז",
+   "sourceCount": 3,
+   "outlets": [
+    "ynet",
+    "וואלה",
+    "מעריב"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 5,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-23T10:02:23+00:00",
+   "lastSeen": "2026-10-23T13:31:13+03:00",
+   "articles": [
+    {
+     "source": "וואלה",
+     "title": "צרפת: הרוג ולפחות ארבעה פצועים באירוע ירי סמוך לפריז",
+     "url": "https://www.walla.co.il/news/breaking-news/383958612",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T10:02:23+00:00"
+    },
+    {
+     "source": "מעריב",
+     "title": "אדם נהרג ולפחות 4 נפצעו באירוע ירי בפרבר ממערב לפריז",
+     "url": "https://www.maariv.co.il/breaking-news/article-1380450",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T10:59:03+00:00"
+    },
+    {
+     "source": "ynet",
+     "title": "צרפת: שני פצועים מירי ליד פריז",
+     "url": "https://www.ynet.co.il/news/article/r1riiou3fg",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T12:40:18+03:00"
+    },
+    {
+     "source": "ynet",
+     "title": "הירי בצרפת: הרוג ו-4 פצועים ליד פריז, היורה נעצר",
+     "url": "https://www.ynet.co.il/news/article/syyz43d2fl",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T13:17:53+03:00"
+    },
+    {
+     "source": "ynet",
+     "title": "צרפת: המשרד למניעת טרור \"עוקב\" אחר הירי בפרבר של פריז",
+     "url": "https://www.ynet.co.il/news/article/r1zxwn003me",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T13:31:13+03:00"
     }
    ]
   },
@@ -3433,6 +4956,98 @@
    ]
   },
   {
+   "id": "5c926a3ac6",
+   "title": "שוד אלים בלב תל אביב: שני צעירים נעצרו בחשד שגנבו עשרות אלפי שקלים",
+   "sourceCount": 3,
+   "outlets": [
+    "וואלה",
+    "ישראל היום",
+    "מעריב"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 4,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-23T08:40:47+00:00",
+   "lastSeen": "2026-10-23T10:48:07+00:00",
+   "articles": [
+    {
+     "source": "וואלה",
+     "title": "שדדו אדם והתיזו לעברו גז פלפל בתל אביב: שני תושבי ג'לג'וליה נעצרו",
+     "url": "https://www.walla.co.il/news/breaking-news/383958605",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T08:40:47+00:00"
+    },
+    {
+     "source": "מעריב",
+     "title": "שוד אלים בלב תל אביב: שני צעירים נעצרו בחשד שגנבו עשרות אלפי שקלים",
+     "url": "https://www.maariv.co.il/breaking-news/article-1380419",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T09:01:17+00:00"
+    },
+    {
+     "source": "ישראל היום",
+     "title": "עם גז פלפל: שני צעירים שדדו באלימות עשרות אלפי שקלים מאדם במרכז ת\"א",
+     "url": "https://www.israelhayom.co.il/news/crime/article/21692545",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T09:12:22+00:00"
+    },
+    {
+     "source": "מעריב",
+     "title": "שני הולכי רגל נפצעו בינוני מפגיעת אוטובוס בתל אביב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1380445",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T10:48:07+00:00"
+    }
+   ]
+  },
+  {
+   "id": "286892780c",
+   "title": "Some US diplomats told to leave Saudi Arabia amid Houthi attacks",
+   "sourceCount": 3,
+   "outlets": [
+    "BBC",
+    "Guardian",
+    "NYT"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 3,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-22T13:05:30+00:00",
+   "lastSeen": "2026-10-22T18:07:36+00:00",
+   "articles": [
+    {
+     "source": "Guardian",
+     "title": "Some US diplomats told to leave Saudi Arabia amid Houthi attacks",
+     "url": "https://www.theguardian.com/world/2026/oct/22/us-diplomats-told-to-leave-saudi-arabia-amid-houthi-attacks",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-22T13:05:30+00:00"
+    },
+    {
+     "source": "BBC",
+     "title": "Two killed in Houthi attack on airport in eastern Saudi Arabia, authorities say",
+     "url": "https://www.bbc.co.uk/news/articles/cqwy71ww156ro?at_medium=RSS&at_campaign=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-22T13:46:33+00:00"
+    },
+    {
+     "source": "NYT",
+     "title": "Houthi Strike on Saudi Airport Kills 2 as U.S. Tells Some Diplomats to Leave",
+     "url": "https://www.nytimes.com/2026/10/22/world/middleeast/saudi-houthis-yemen-dammam-airport.html",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-22T18:07:36+00:00"
+    }
+   ]
+  },
+  {
    "id": "53313d1529",
    "title": "מועצה אזורית חוף השרון: גבר בן 24 פונה לביה\"ח מאיר בכפ\"ס במצב קשה",
    "sourceCount": 3,
@@ -3471,6 +5086,189 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-10-23T00:55:55+03:00"
+    }
+   ]
+  },
+  {
+   "id": "f120f83556",
+   "title": "וולטר מכה שנית: המצוד והמעצר אחרי סוחר הסמים שהסתיים בבוליביה",
+   "sourceCount": 3,
+   "outlets": [
+    "ynet",
+    "וואלה",
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 3,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-23T06:52:26+00:00",
+   "lastSeen": "2026-10-23T10:05:06+03:00",
+   "articles": [
+    {
+     "source": "וואלה",
+     "title": "ישראלי נמלט נעצר בבוליביה בחשד לייבוא קוקאין לישראל",
+     "url": "https://www.walla.co.il/news/breaking-news/383958596",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T06:52:26+00:00"
+    },
+    {
+     "source": "ישראל היום",
+     "title": "וולטר מכה שנית: המצוד והמעצר אחרי סוחר הסמים שהסתיים בבוליביה",
+     "url": "https://www.israelhayom.co.il/news/crime/article/21692093",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T07:23:27+00:00"
+    },
+    {
+     "source": "ynet",
+     "title": "חשוד בייבוא סמים לישראל נעצר בבוליביה בשיתוף נציג המשטרה וולטר - ויוסגר",
+     "url": "https://www.ynet.co.il/news/article/byqmntonzx",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T10:05:06+03:00"
+    }
+   ]
+  },
+  {
+   "id": "de99a8a0fc",
+   "title": "יו״ר ועדת הבחירות הורה לליכוד להסיר את שלטים גוש השינוי עם עבאס וטיבי",
+   "sourceCount": 3,
+   "outlets": [
+    "ynet",
+    "וואלה",
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 3,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-23T08:49:09+00:00",
+   "lastSeen": "2026-10-23T11:46:26+03:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "יו״ר ועדת הבחירות הורה לליכוד להסיר את שלטים גוש השינוי עם עבאס וטיבי",
+     "url": "https://www.israelhayom.co.il/news/politics/article/21692450",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T08:49:09+00:00"
+    },
+    {
+     "source": "וואלה",
+     "title": "ועדת הבחירות הורתה לליכוד להסיר שלטי ראשי גוש השינוי והמפלגות הערביות",
+     "url": "https://www.walla.co.il/news/breaking-news/383958611",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T09:49:27+00:00"
+    },
+    {
+     "source": "ynet",
+     "title": "ועדת הבחירות המרכזית לליכוד: הסירו את השלטים שמציגים את איזנקוט עם עבאס וטיבי",
+     "url": "https://www.ynet.co.il/news/article/bkafr9u3mg",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T11:46:26+03:00"
+    }
+   ]
+  },
+  {
+   "id": "33c997e28e",
+   "title": "פועל כבן 30 נפצע קשה בנפילה מגובה של חמישה מטרים בבית שמש",
+   "sourceCount": 3,
+   "outlets": [
+    "ynet",
+    "וואלה",
+    "מעריב"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 3,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-23T10:52:04+00:00",
+   "lastSeen": "2026-10-23T13:44:44+03:00",
+   "articles": [
+    {
+     "source": "מעריב",
+     "title": "פועל כבן 30 נפצע קשה בנפילה מגובה של חמישה מטרים בבית שמש",
+     "url": "https://www.maariv.co.il/breaking-news/article-1380446",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T10:52:04+00:00"
+    },
+    {
+     "source": "וואלה",
+     "title": "פועל כבן 30 נפצע קשה לאחר שנפל מגובה באזור תעשייה בבית שמש",
+     "url": "https://www.walla.co.il/news/breaking-news/383958618",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T10:55:37+00:00"
+    },
+    {
+     "source": "ynet",
+     "title": "פועל נפל מגובה 5 מטרים בבית שמש, מצבו קשה",
+     "url": "https://www.ynet.co.il/news/article/hj4wchd2zx",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T13:44:44+03:00"
+    }
+   ]
+  },
+  {
+   "id": "f742c3911c",
+   "title": "Iran threatens to strike oil and AI facilities across Gulf if US and Israel renew attacks",
+   "sourceCount": 2,
+   "outlets": [
+    "Al Jazeera",
+    "Guardian"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 5,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-22T11:28:11+00:00",
+   "lastSeen": "2026-10-23T11:35:51+00:00",
+   "articles": [
+    {
+     "source": "Guardian",
+     "title": "Oil prices jump to five-month high as attacks threaten global supply",
+     "url": "https://www.theguardian.com/business/2026/oct/22/oil-prices-jump-five-month-high-threats-supply",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-22T11:28:11+00:00"
+    },
+    {
+     "source": "Guardian",
+     "title": "Iran threatens to strike oil and AI facilities across Gulf if US and Israel renew attacks",
+     "url": "https://www.theguardian.com/world/2026/oct/22/iran-threatens-seven-gulf-countries-us-israel-renew-attacks",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-22T15:03:00+00:00"
+    },
+    {
+     "source": "Al Jazeera",
+     "title": "Iran war live: Trump hints new strikes, says US knocked ‘hell out’ of Iran",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/10/23/trump-hints-new-strikes-says-us-knocked-hell-out-of-iran?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T00:00:00+00:00"
+    },
+    {
+     "source": "Al Jazeera",
+     "title": "Are global oil reserves sufficient to withstand renewed US-Iran war?",
+     "url": "https://www.aljazeera.com/news/2026/10/23/are-global-oil-reserves-sufficient-to-withstand-renewed-us-iran-war?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T07:37:12+00:00"
+    },
+    {
+     "source": "Guardian",
+     "title": "Oil hits five-month high amid fears US will renew strikes on Iran",
+     "url": "https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T11:35:51+00:00"
     }
    ]
   },
@@ -3520,6 +5318,80 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-10-22T19:49:44+00:00"
+    }
+   ]
+  },
+  {
+   "id": "e971c4f8aa",
+   "title": "אביה של מייגן מרקל נחקר בחשד להחזקת תיעודים של התעללות מינית בילדים",
+   "sourceCount": 2,
+   "outlets": [
+    "ynet",
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 3,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-23T02:34:31+03:00",
+   "lastSeen": "2026-10-23T05:50:45+00:00",
+   "articles": [
+    {
+     "source": "ynet",
+     "title": "אביה של מייגן מרקל נחקר בחשד להחזקת תיעודים של התעללות מינית בילדים",
+     "url": "https://www.ynet.co.il/news/article/s128qgu2ze",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T02:34:31+03:00"
+    },
+    {
+     "source": "ישראל היום",
+     "title": "אביה של מייגן מרקל: הבן מאשים, האחות מגינה",
+     "url": "https://www.israelhayom.co.il/forreal/global/article/21691329",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T03:55:27+00:00"
+    },
+    {
+     "source": "ישראל היום",
+     "title": "חשד מטלטל נגד אביה של מייגן מרקל: \"אלפי תמונות פורנו ילדים\"",
+     "url": "https://www.israelhayom.co.il/lifestyle/family-and-parenting/article/21691779",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T05:50:45+00:00"
+    }
+   ]
+  },
+  {
+   "id": "8cd97bc499",
+   "title": "Ultra-Orthodox conscription debate ignites Israel’s election battleground",
+   "sourceCount": 2,
+   "outlets": [
+    "Al Jazeera",
+    "NYT"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 2,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-22T10:00:16+00:00",
+   "lastSeen": "2026-10-23T09:03:39+00:00",
+   "articles": [
+    {
+     "source": "NYT",
+     "title": "The Election That Will Define Israel’s Future",
+     "url": "https://www.nytimes.com/2026/10/22/podcasts/the-daily/israel-election-netanyahu.html",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-22T10:00:16+00:00"
+    },
+    {
+     "source": "Al Jazeera",
+     "title": "Ultra-Orthodox conscription debate ignites Israel’s election battleground",
+     "url": "https://www.aljazeera.com/news/2026/10/23/ultra-orthodox-conscription-debate-ignites-israels-election-battleground?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T09:03:39+00:00"
     }
    ]
   },
@@ -3689,39 +5561,6 @@
    ]
   },
   {
-   "id": "e971c4f8aa",
-   "title": "אביה של מייגן מרקל נחקר בחשד להחזקת תיעודים של התעללות מינית בילדים",
-   "sourceCount": 2,
-   "outlets": [
-    "ynet",
-    "ישראל היום"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 2,
-   "opinionOnly": false,
-   "firstSeen": "2026-10-23T02:34:31+03:00",
-   "lastSeen": "2026-10-23T03:55:27+00:00",
-   "articles": [
-    {
-     "source": "ynet",
-     "title": "אביה של מייגן מרקל נחקר בחשד להחזקת תיעודים של התעללות מינית בילדים",
-     "url": "https://www.ynet.co.il/news/article/s128qgu2ze",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-23T02:34:31+03:00"
-    },
-    {
-     "source": "ישראל היום",
-     "title": "אביה של מייגן מרקל: הבן מאשים, האחות מגינה",
-     "url": "https://www.israelhayom.co.il/forreal/global/article/21691329",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-23T03:55:27+00:00"
-    }
-   ]
-  },
-  {
    "id": "ac588b5f03",
    "title": "המשטרה חוקרת: גבר נורה בשכונת ג'ואריש ברמלה, מצבו קשה",
    "sourceCount": 2,
@@ -3751,6 +5590,105 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-10-23T07:22:37+03:00"
+    }
+   ]
+  },
+  {
+   "id": "d9856a935b",
+   "title": "נחשף בספר חדש: נתניהו עזר לקושנר להסוות מיליארד דולר מהמפרץ בבנק ישראל",
+   "sourceCount": 2,
+   "outlets": [
+    "וואלה",
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 2,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-23T04:27:54+00:00",
+   "lastSeen": "2026-10-23T05:06:59+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "נחשף בספר חדש: נתניהו עזר לקושנר להסוות מיליארד דולר מהמפרץ בבנק ישראל",
+     "url": "https://www.israelhayom.co.il/news/geopolitics/article/21691419",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T04:27:54+00:00"
+    },
+    {
+     "source": "וואלה",
+     "title": "בעידוד נתניהו: קושנר הפקיד מיליארד דולר סעודיים בחשבון בנק בישראל | דיווח",
+     "url": "https://www.walla.co.il/news/breaking-news/383958589",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T05:06:59+00:00"
+    }
+   ]
+  },
+  {
+   "id": "fad6370a96",
+   "title": "עמית כהן ורון לשם יכתבו את סדרת הריגול החדשה של מארוול",
+   "sourceCount": 2,
+   "outlets": [
+    "ישראל היום",
+    "מעריב"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 2,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-23T08:48:23+00:00",
+   "lastSeen": "2026-10-23T09:06:46+00:00",
+   "articles": [
+    {
+     "source": "מעריב",
+     "title": "מארוול הימרה על שני ישראלים לסדרת הריגול הבאה שלה",
+     "url": "https://www.maariv.co.il/breaking-news/article-1380416",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T08:48:23+00:00"
+    },
+    {
+     "source": "ישראל היום",
+     "title": "עמית כהן ורון לשם יכתבו את סדרת הריגול החדשה של מארוול",
+     "url": "https://www.israelhayom.co.il/culture/tv/article/21692543",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T09:06:46+00:00"
+    }
+   ]
+  },
+  {
+   "id": "81c14be296",
+   "title": "שלושה גברים נפצעו באירוע ירי בשפרעם, אחד מהם במצב קשה",
+   "sourceCount": 2,
+   "outlets": [
+    "וואלה",
+    "מעריב"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 2,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-23T11:08:42+00:00",
+   "lastSeen": "2026-10-23T11:38:53+00:00",
+   "articles": [
+    {
+     "source": "וואלה",
+     "title": "שלושה גברים נפצעו באירוע ירי בשפרעם, אחד מהם באורח קשה",
+     "url": "https://www.walla.co.il/news/breaking-news/383958620",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T11:08:42+00:00"
+    },
+    {
+     "source": "מעריב",
+     "title": "שלושה גברים נפצעו באירוע ירי בשפרעם, אחד מהם במצב קשה",
+     "url": "https://www.maariv.co.il/breaking-news/article-1380458",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T11:38:53+00:00"
     }
    ]
   },
@@ -3859,10 +5797,10 @@
    ],
    "bestTier": 2,
    "hasOfficial": false,
-   "reportingCount": 4,
+   "reportingCount": 9,
    "opinionOnly": false,
    "firstSeen": "2026-10-22T14:37:30+00:00",
-   "lastSeen": "2026-10-23T04:15:04+00:00",
+   "lastSeen": "2026-10-23T10:00:03+00:00",
    "articles": [
     {
      "source": "ישראל היום",
@@ -3895,6 +5833,94 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-10-23T04:15:04+00:00"
+    },
+    {
+     "source": "ישראל היום",
+     "title": "המסר של קני מילר למכבי תל אביב: \"הדיבורים מגיעים מבחוץ\"",
+     "url": "https://www.israelhayom.co.il/sport/article/21691398",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T04:30:28+00:00"
+    },
+    {
+     "source": "ישראל היום",
+     "title": "פיני גרשון טוען: השחקן שפוגע במכבי תל אביב",
+     "url": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21690978",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T04:35:58+00:00"
+    },
+    {
+     "source": "ישראל היום",
+     "title": "בקבוצה אחרת הוא כבר על המטוס: קיטון וולאס מזיק למכבי תל אביב",
+     "url": "https://www.israelhayom.co.il/sport/opinions-sport/article/21691847",
+     "tier": 2,
+     "type": "opinion",
+     "time": "2026-10-23T06:51:05+00:00"
+    },
+    {
+     "source": "ישראל היום",
+     "title": "ההתרסקות של מכבי תל אביב: \"עודד קטש לא הצליח לעצור\"",
+     "url": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21691565",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T07:09:12+00:00"
+    },
+    {
+     "source": "ישראל היום",
+     "title": "התחייה המופלאה של אקס מכבי תל אביב: \"אני ממש שמח בשבילו\"",
+     "url": "https://www.israelhayom.co.il/sport/world-soccer/article/21692091",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T08:16:48+00:00"
+    },
+    {
+     "source": "ישראל היום",
+     "title": "מכבי תל אביב קיבלה ערוץ שלם, ולהפועל נשארו בקושי 7 שניות",
+     "url": "https://www.israelhayom.co.il/sport/opinions-sport/article/21692349",
+     "tier": 2,
+     "type": "opinion",
+     "time": "2026-10-23T09:06:26+00:00"
+    }
+   ]
+  },
+  {
+   "id": "43ef9458ed",
+   "title": "LeBron shrugs off Trump blast in home debut win for Philadelphia 76ers",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 3,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-22T18:05:52+00:00",
+   "lastSeen": "2026-10-23T08:42:10+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "Trump says NBA star LeBron James disrespected US national anthem",
+     "url": "https://www.aljazeera.com/sports/2026/10/22/trump-says-nba-star-lebron-james-disrespected-us-national-anthem?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-22T18:05:52+00:00"
+    },
+    {
+     "source": "Al Jazeera",
+     "title": "What is the history behind Trump’s LeBron blast over US national anthem?",
+     "url": "https://www.aljazeera.com/sports/2026/10/22/what-led-to-the-trump-lebron-feud-over-us-national-anthem?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-22T21:51:41+00:00"
+    },
+    {
+     "source": "Al Jazeera",
+     "title": "LeBron shrugs off Trump blast in home debut win for Philadelphia 76ers",
+     "url": "https://www.aljazeera.com/sports/2026/10/23/lebron-shrugs-off-trump-blast-in-home-debut-win-for-philadelphia-76ers?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T08:42:10+00:00"
     }
    ]
   },
@@ -4035,8 +6061,8 @@
    ]
   },
   {
-   "id": "43ef9458ed",
-   "title": "Trump says NBA star LeBron James disrespected US national anthem",
+   "id": "b1e85441dd",
+   "title": "Iran says seven ships hit in Hormuz Strait, warns US of wider response",
    "sourceCount": 1,
    "outlets": [
     "Al Jazeera"
@@ -4045,56 +6071,88 @@
    "hasOfficial": false,
    "reportingCount": 2,
    "opinionOnly": false,
-   "firstSeen": "2026-10-22T18:05:52+00:00",
-   "lastSeen": "2026-10-22T21:51:41+00:00",
+   "firstSeen": "2026-10-22T17:58:04+00:00",
+   "lastSeen": "2026-10-23T09:56:28+00:00",
    "articles": [
     {
      "source": "Al Jazeera",
-     "title": "Trump says NBA star LeBron James disrespected US national anthem",
-     "url": "https://www.aljazeera.com/sports/2026/10/22/trump-says-nba-star-lebron-james-disrespected-us-national-anthem?traffic_source=rss",
+     "title": "Iran says seven ships hit in Hormuz Strait, warns US of wider response",
+     "url": "https://www.aljazeera.com/news/2026/10/22/iran-says-seven-ships-hit-in-hormuz-strait-warns-us-of-wider-response?traffic_source=rss",
      "tier": 2,
      "type": "reporting",
-     "time": "2026-10-22T18:05:52+00:00"
+     "time": "2026-10-22T17:58:04+00:00"
     },
     {
      "source": "Al Jazeera",
-     "title": "What is the history behind Trump’s LeBron blast over US national anthem?",
-     "url": "https://www.aljazeera.com/sports/2026/10/22/what-led-to-the-trump-lebron-feud-over-us-national-anthem?traffic_source=rss",
+     "title": "New electronics reach Iran, but prices soar as gov’t fees, US sanctions hit",
+     "url": "https://www.aljazeera.com/features/2026/10/23/new-electronics-reach-iran-but-prices-soar-as-govt-fees-us-sanctions-hit?traffic_source=rss",
      "tier": 2,
      "type": "reporting",
-     "time": "2026-10-22T21:51:41+00:00"
+     "time": "2026-10-23T09:56:28+00:00"
     }
    ]
   },
   {
-   "id": "c6528b89d8",
-   "title": "Israel frees suspects in two settler attacks as West Bank pogroms intensify",
+   "id": "a859375889",
+   "title": "התרסקה בגרמניה: הפועל באר שבע הובסה מול אוניון סן ז'ילואז'",
    "sourceCount": 1,
    "outlets": [
-    "Al Jazeera"
+    "ישראל היום"
    ],
    "bestTier": 2,
    "hasOfficial": false,
    "reportingCount": 2,
    "opinionOnly": false,
-   "firstSeen": "2026-10-22T18:17:29+00:00",
-   "lastSeen": "2026-10-23T04:09:28+00:00",
+   "firstSeen": "2026-10-22T18:42:16+00:00",
+   "lastSeen": "2026-10-23T05:25:36+00:00",
    "articles": [
     {
-     "source": "Al Jazeera",
-     "title": "Israel frees suspects in two settler attacks as West Bank pogroms intensify",
-     "url": "https://www.aljazeera.com/news/2026/10/22/israel-frees-suspects-in-two-settler-attacks-as-west-bank-pogroms-intensify?traffic_source=rss",
+     "source": "ישראל היום",
+     "title": "התרסקה בגרמניה: הפועל באר שבע הובסה מול אוניון סן ז'ילואז'",
+     "url": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21690256",
      "tier": 2,
      "type": "reporting",
-     "time": "2026-10-22T18:17:29+00:00"
+     "time": "2026-10-22T18:42:16+00:00"
     },
     {
-     "source": "Al Jazeera",
-     "title": "Israel arrests 36 Palestinians in the West Bank, attacks on farmers ramp up",
-     "url": "https://www.aljazeera.com/news/2026/10/23/israel-arrests-36-palestinians-in-the-west-bank-attacks-on-farmers-ramp-up?traffic_source=rss",
+     "source": "ישראל היום",
+     "title": "באירופה כועסים: \"הפועל באר שבע עברה את הגבול\"",
+     "url": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21691400",
      "tier": 2,
      "type": "reporting",
-     "time": "2026-10-23T04:09:28+00:00"
+     "time": "2026-10-23T05:25:36+00:00"
+    }
+   ]
+  },
+  {
+   "id": "b85919e15c",
+   "title": "שתי פצועות, בינוני וקל, בעקבות פגיעת רכב בכפר יונה",
+   "sourceCount": 1,
+   "outlets": [
+    "מעריב"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 2,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-22T19:27:43+00:00",
+   "lastSeen": "2026-10-23T10:00:21+00:00",
+   "articles": [
+    {
+     "source": "מעריב",
+     "title": "שתי פצועות, בינוני וקל, בעקבות פגיעת רכב בכפר יונה",
+     "url": "https://www.maariv.co.il/breaking-news/article-1380294",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-22T19:27:43+00:00"
+    },
+    {
+     "source": "מעריב",
+     "title": "שתי נערות בנות 17 נפצעו באורח בינוני מפגיעת רכב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1380435",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T10:00:21+00:00"
     }
    ]
   },
@@ -4127,6 +6185,38 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-10-22T20:13:21+00:00"
+    }
+   ]
+  },
+  {
+   "id": "90b2725031",
+   "title": "Ballon d’Or 2026: Can Bayern’s Harry Kane end England’s 25 years of hurt?",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 2,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-22T21:03:48+00:00",
+   "lastSeen": "2026-10-23T07:56:27+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "Ballon d’Or 2026: Can Bayern’s Harry Kane end England’s 25 years of hurt?",
+     "url": "https://www.aljazeera.com/sports/2026/10/22/ballon-dor-2026-can-bayerns-harry-kane-end-englands-25-years-of-hurt?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-22T21:03:48+00:00"
+    },
+    {
+     "source": "Al Jazeera",
+     "title": "Harry Kane hopes Ballon d’Or produces ‘special night’ in hometown",
+     "url": "https://www.aljazeera.com/sports/2026/10/23/harry-kane-hopes-ballon-dor-produces-special-night-in-hometown?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T07:56:27+00:00"
     }
    ]
   },
@@ -4195,54 +6285,6 @@
    ]
   },
   {
-   "id": "abb02476a3",
-   "title": "Tied up and tortured: Israel using US-made electroshock weapons on Palestinian detainees",
-   "sourceCount": 1,
-   "outlets": [
-    "Guardian"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-10-22T04:00:05+00:00",
-   "lastSeen": "2026-10-22T04:00:05+00:00",
-   "articles": [
-    {
-     "source": "Guardian",
-     "title": "Tied up and tortured: Israel using US-made electroshock weapons on Palestinian detainees",
-     "url": "https://www.theguardian.com/global-development/2026/oct/22/israel-us-made-electroshock-weapons-palestinian-detainees-axon-taser",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-22T04:00:05+00:00"
-    }
-   ]
-  },
-  {
-   "id": "c71dec0cc1",
-   "title": "How Arab parties could hold critical balance of power in Israeli election",
-   "sourceCount": 1,
-   "outlets": [
-    "BBC"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-10-22T05:30:22+00:00",
-   "lastSeen": "2026-10-22T05:30:22+00:00",
-   "articles": [
-    {
-     "source": "BBC",
-     "title": "How Arab parties could hold critical balance of power in Israeli election",
-     "url": "https://www.bbc.co.uk/news/articles/cx8dzrp768j8o?at_medium=RSS&at_campaign=rss",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-22T05:30:22+00:00"
-    }
-   ]
-  },
-  {
    "id": "4e58e0f328",
    "title": "Palestinians Hope Israeli Election Will Oust Netanyahu",
    "sourceCount": 1,
@@ -4291,30 +6333,6 @@
    ]
   },
   {
-   "id": "8cd97bc499",
-   "title": "The Election That Will Define Israel’s Future",
-   "sourceCount": 1,
-   "outlets": [
-    "NYT"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-10-22T10:00:16+00:00",
-   "lastSeen": "2026-10-22T10:00:16+00:00",
-   "articles": [
-    {
-     "source": "NYT",
-     "title": "The Election That Will Define Israel’s Future",
-     "url": "https://www.nytimes.com/2026/10/22/podcasts/the-daily/israel-election-netanyahu.html",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-22T10:00:16+00:00"
-    }
-   ]
-  },
-  {
    "id": "543863fdee",
    "title": "Maritime and port workers: how is the Middle East conflict affecting you?",
    "sourceCount": 1,
@@ -4359,30 +6377,6 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-10-22T11:04:08+00:00"
-    }
-   ]
-  },
-  {
-   "id": "f742c3911c",
-   "title": "Oil prices jump to five-month high as attacks threaten global supply",
-   "sourceCount": 1,
-   "outlets": [
-    "Guardian"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-10-22T11:28:11+00:00",
-   "lastSeen": "2026-10-22T11:28:11+00:00",
-   "articles": [
-    {
-     "source": "Guardian",
-     "title": "Oil prices jump to five-month high as attacks threaten global supply",
-     "url": "https://www.theguardian.com/business/2026/oct/22/oil-prices-jump-five-month-high-threats-supply",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-22T11:28:11+00:00"
     }
    ]
   },
@@ -4863,30 +6857,6 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-10-22T14:47:11+03:00"
-    }
-   ]
-  },
-  {
-   "id": "538188f0ea",
-   "title": "Iran threatens to strike oil and AI facilities across Gulf if US and Israel renew attacks",
-   "sourceCount": 1,
-   "outlets": [
-    "Guardian"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-10-22T15:03:00+00:00",
-   "lastSeen": "2026-10-22T15:03:00+00:00",
-   "articles": [
-    {
-     "source": "Guardian",
-     "title": "Iran threatens to strike oil and AI facilities across Gulf if US and Israel renew attacks",
-     "url": "https://www.theguardian.com/world/2026/oct/22/iran-threatens-seven-gulf-countries-us-israel-renew-attacks",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-22T15:03:00+00:00"
     }
    ]
   },
@@ -6643,30 +8613,6 @@
    ]
   },
   {
-   "id": "b1e85441dd",
-   "title": "Iran says seven ships hit in Hormuz Strait, warns US of wider response",
-   "sourceCount": 1,
-   "outlets": [
-    "Al Jazeera"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-10-22T17:58:04+00:00",
-   "lastSeen": "2026-10-22T17:58:04+00:00",
-   "articles": [
-    {
-     "source": "Al Jazeera",
-     "title": "Iran says seven ships hit in Hormuz Strait, warns US of wider response",
-     "url": "https://www.aljazeera.com/news/2026/10/22/iran-says-seven-ships-hit-in-hormuz-strait-warns-us-of-wider-response?traffic_source=rss",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-22T17:58:04+00:00"
-    }
-   ]
-  },
-  {
    "id": "7196a82d59",
    "title": "ליל הבחירות יהיה מבחן לדמוקרטיה, וגם לערוץ אחד ספציפי",
    "sourceCount": 1,
@@ -6903,30 +8849,6 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-10-22T18:40:00+00:00"
-    }
-   ]
-  },
-  {
-   "id": "a859375889",
-   "title": "התרסקה בגרמניה: הפועל באר שבע הובסה מול אוניון סן ז'ילואז'",
-   "sourceCount": 1,
-   "outlets": [
-    "ישראל היום"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-10-22T18:42:16+00:00",
-   "lastSeen": "2026-10-22T18:42:16+00:00",
-   "articles": [
-    {
-     "source": "ישראל היום",
-     "title": "התרסקה בגרמניה: הפועל באר שבע הובסה מול אוניון סן ז'ילואז'",
-     "url": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21690256",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-22T18:42:16+00:00"
     }
    ]
   },
@@ -7287,30 +9209,6 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-10-22T19:23:30+00:00"
-    }
-   ]
-  },
-  {
-   "id": "b85919e15c",
-   "title": "שתי פצועות, בינוני וקל, בעקבות פגיעת רכב בכפר יונה",
-   "sourceCount": 1,
-   "outlets": [
-    "מעריב"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-10-22T19:27:43+00:00",
-   "lastSeen": "2026-10-22T19:27:43+00:00",
-   "articles": [
-    {
-     "source": "מעריב",
-     "title": "שתי פצועות, בינוני וקל, בעקבות פגיעת רכב בכפר יונה",
-     "url": "https://www.maariv.co.il/breaking-news/article-1380294",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-22T19:27:43+00:00"
     }
    ]
   },
@@ -7695,30 +9593,6 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-10-22T21:02:30+00:00"
-    }
-   ]
-  },
-  {
-   "id": "90b2725031",
-   "title": "Ballon d’Or 2026: Can Bayern’s Harry Kane end England’s 25 years of hurt?",
-   "sourceCount": 1,
-   "outlets": [
-    "Al Jazeera"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-10-22T21:03:48+00:00",
-   "lastSeen": "2026-10-22T21:03:48+00:00",
-   "articles": [
-    {
-     "source": "Al Jazeera",
-     "title": "Ballon d’Or 2026: Can Bayern’s Harry Kane end England’s 25 years of hurt?",
-     "url": "https://www.aljazeera.com/sports/2026/10/22/ballon-dor-2026-can-bayerns-harry-kane-end-englands-25-years-of-hurt?traffic_source=rss",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-22T21:03:48+00:00"
     }
    ]
   },
@@ -8196,30 +10070,6 @@
      "source": "ישראל היום",
      "title": "הסדרה האהובה של נטפליקס חוזרת אחרי ארבע שנים: מה חדש בטלוויזיה",
      "url": "https://www.israelhayom.co.il/culture/tv/article/21686757",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-23T00:00:00+00:00"
-    }
-   ]
-  },
-  {
-   "id": "4659729192",
-   "title": "Iran war live: Trump hints new strikes, says US knocked ‘hell out’ of Iran",
-   "sourceCount": 1,
-   "outlets": [
-    "Al Jazeera"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-10-23T00:00:00+00:00",
-   "lastSeen": "2026-10-23T00:00:00+00:00",
-   "articles": [
-    {
-     "source": "Al Jazeera",
-     "title": "Iran war live: Trump hints new strikes, says US knocked ‘hell out’ of Iran",
-     "url": "https://www.aljazeera.com/news/liveblog/2026/10/23/trump-hints-new-strikes-says-us-knocked-hell-out-of-iran?traffic_source=rss",
      "tier": 2,
      "type": "reporting",
      "time": "2026-10-23T00:00:00+00:00"
@@ -8851,6 +10701,30 @@
    ]
   },
   {
+   "id": "7bf156c199",
+   "title": "יונדאי טוסון היבריד במבחן דרכים",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-23T04:04:56+00:00",
+   "lastSeen": "2026-10-23T04:04:56+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "יונדאי טוסון היבריד במבחן דרכים",
+     "url": "https://www.israelhayom.co.il/auto/article/21691485",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T04:04:56+00:00"
+    }
+   ]
+  },
+  {
    "id": "f17de6ab33",
    "title": "במקום הכי לא צפוי מסתתר אחד הסביחים הטובים בארץ",
    "sourceCount": 1,
@@ -8899,8 +10773,56 @@
    ]
   },
   {
-   "id": "d9856a935b",
-   "title": "נחשף בספר חדש: נתניהו עזר לקושנר להסוות מיליארד דולר מהמפרץ בבנק ישראל",
+   "id": "ae1637aae4",
+   "title": "Keeping Madhubala alive: The fight for Karachi’s captive elephants",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-23T04:27:55+00:00",
+   "lastSeen": "2026-10-23T04:27:55+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "Keeping Madhubala alive: The fight for Karachi’s captive elephants",
+     "url": "https://www.aljazeera.com/features/2026/10/23/keeping-madhubala-alive-the-fight-for-karachis-captive-elephants?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T04:27:55+00:00"
+    }
+   ]
+  },
+  {
+   "id": "38ff3dd213",
+   "title": "Grenade exercise sparked deadly fire at Canada military base, army says",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-23T04:41:24+00:00",
+   "lastSeen": "2026-10-23T04:41:24+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "Grenade exercise sparked deadly fire at Canada military base, army says",
+     "url": "https://www.aljazeera.com/news/2026/10/23/grenade-exercise-sparked-deadly-fire-at-canada-military-base-army-says?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T04:41:24+00:00"
+    }
+   ]
+  },
+  {
+   "id": "109929dc8b",
+   "title": "כבר 300 שנה: מה הקטע עם האובססיה של פוליטיקאים לתינוקות?",
    "sourceCount": 1,
    "outlets": [
     "ישראל היום"
@@ -8909,16 +10831,112 @@
    "hasOfficial": false,
    "reportingCount": 1,
    "opinionOnly": false,
-   "firstSeen": "2026-10-23T04:27:54+00:00",
-   "lastSeen": "2026-10-23T04:27:54+00:00",
+   "firstSeen": "2026-10-23T05:09:00+00:00",
+   "lastSeen": "2026-10-23T05:09:00+00:00",
    "articles": [
     {
      "source": "ישראל היום",
-     "title": "נחשף בספר חדש: נתניהו עזר לקושנר להסוות מיליארד דולר מהמפרץ בבנק ישראל",
-     "url": "https://www.israelhayom.co.il/news/geopolitics/article/21691419",
+     "title": "כבר 300 שנה: מה הקטע עם האובססיה של פוליטיקאים לתינוקות?",
+     "url": "https://www.israelhayom.co.il/news/geopolitics/article/21686725",
      "tier": 2,
      "type": "reporting",
-     "time": "2026-10-23T04:27:54+00:00"
+     "time": "2026-10-23T05:09:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "0395e3a11f",
+   "title": "רוסיה: תקפנו נמל, מתחם רכבות וספינת מטען באוקראינה",
+   "sourceCount": 1,
+   "outlets": [
+    "וואלה"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-23T05:12:38+00:00",
+   "lastSeen": "2026-10-23T05:12:38+00:00",
+   "articles": [
+    {
+     "source": "וואלה",
+     "title": "רוסיה: תקפנו נמל, מתחם רכבות וספינת מטען באוקראינה",
+     "url": "https://www.walla.co.il/news/breaking-news/383958590",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T05:12:38+00:00"
+    }
+   ]
+  },
+  {
+   "id": "6d9c779bb0",
+   "title": "אחרי שנים מחוץ לאור הזרקורים: רוב קרדשיאן חוזר - וזו הסיבה",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-23T05:28:39+00:00",
+   "lastSeen": "2026-10-23T05:28:39+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "אחרי שנים מחוץ לאור הזרקורים: רוב קרדשיאן חוזר - וזו הסיבה",
+     "url": "https://www.israelhayom.co.il/lifestyle/family-and-parenting/article/21691685",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T05:28:39+00:00"
+    }
+   ]
+  },
+  {
+   "id": "7f13fa775b",
+   "title": "במטרה להסכים על מיקום הגבול: דרום קוריאה הציעה לצפון קוריאה לקיים שיחות",
+   "sourceCount": 1,
+   "outlets": [
+    "וואלה"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-23T05:31:11+00:00",
+   "lastSeen": "2026-10-23T05:31:11+00:00",
+   "articles": [
+    {
+     "source": "וואלה",
+     "title": "במטרה להסכים על מיקום הגבול: דרום קוריאה הציעה לצפון קוריאה לקיים שיחות",
+     "url": "https://www.walla.co.il/news/breaking-news/383958591",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T05:31:11+00:00"
+    }
+   ]
+  },
+  {
+   "id": "148f14e60c",
+   "title": "המפעל מ-1962 שמתנהל כמו חברת הייטק",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-23T05:46:17+00:00",
+   "lastSeen": "2026-10-23T05:46:17+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "המפעל מ-1962 שמתנהל כמו חברת הייטק",
+     "url": "https://www.israelhayom.co.il/mumlazim/article/21691817",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T05:46:17+00:00"
     }
    ]
   },
@@ -8947,6 +10965,174 @@
    ]
   },
   {
+   "id": "faaef3da23",
+   "title": "‘The biggest motivation is fear’: High turnout among Israel’s Palestinians could unseat Netanyahu",
+   "sourceCount": 1,
+   "outlets": [
+    "Guardian"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-23T06:00:03+00:00",
+   "lastSeen": "2026-10-23T06:00:03+00:00",
+   "articles": [
+    {
+     "source": "Guardian",
+     "title": "‘The biggest motivation is fear’: High turnout among Israel’s Palestinians could unseat Netanyahu",
+     "url": "https://www.theguardian.com/world/2026/oct/23/high-turnout-israel-palestinians-unseat-netanyahu",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T06:00:03+00:00"
+    }
+   ]
+  },
+  {
+   "id": "757040d499",
+   "title": "EU entering winter with lowest gas reserves on record, IEA boss warns",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-23T06:02:15+00:00",
+   "lastSeen": "2026-10-23T06:02:15+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "EU entering winter with lowest gas reserves on record, IEA boss warns",
+     "url": "https://www.aljazeera.com/economy/2026/10/23/eu-entering-winter-with-lowest-gas-reserves-on-record-iea-boss-warns?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T06:02:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": "45a46300e0",
+   "title": "לברון ג'יימס ספג קריאות בוז - ואז הגיע הקאמבק הגדול בקריירה",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-23T06:06:26+00:00",
+   "lastSeen": "2026-10-23T06:06:26+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "לברון ג'יימס ספג קריאות בוז - ואז הגיע הקאמבק הגדול בקריירה",
+     "url": "https://www.israelhayom.co.il/sport/world-basketball/article/21691583",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T06:06:26+00:00"
+    }
+   ]
+  },
+  {
+   "id": "f9499c5b58",
+   "title": "Manchester United labelled ‘babies’ by club legend Wayne Rooney",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-23T06:11:17+00:00",
+   "lastSeen": "2026-10-23T06:11:17+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "Manchester United labelled ‘babies’ by club legend Wayne Rooney",
+     "url": "https://www.aljazeera.com/sports/2026/10/23/manchester-united-labelled-clowns-by-club-legend-wayne-rooney?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T06:11:17+00:00"
+    }
+   ]
+  },
+  {
+   "id": "bdfffb54a8",
+   "title": "FIFA President Infantino’s re-election endorsed in U-turn by Asian football",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-23T06:11:27+00:00",
+   "lastSeen": "2026-10-23T06:11:27+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "FIFA President Infantino’s re-election endorsed in U-turn by Asian football",
+     "url": "https://www.aljazeera.com/sports/2026/10/23/asian-football-endorses-infantino-re-election-as-fifa-president?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T06:11:27+00:00"
+    }
+   ]
+  },
+  {
+   "id": "d91f3e04ed",
+   "title": "How the midterms could change Trump’s presidency",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-23T06:28:05+00:00",
+   "lastSeen": "2026-10-23T06:28:05+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "How the midterms could change Trump’s presidency",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/aje-onl-nf_trumpmidterms-231026?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T06:28:05+00:00"
+    }
+   ]
+  },
+  {
+   "id": "77f2051836",
+   "title": "מי יקצר תורים ומי יחזיר את הרופאים מחו\"ל? - הקרב על הבריאות",
+   "sourceCount": 1,
+   "outlets": [
+    "וואלה"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-23T06:28:23+00:00",
+   "lastSeen": "2026-10-23T06:28:23+00:00",
+   "articles": [
+    {
+     "source": "וואלה",
+     "title": "מי יקצר תורים ומי יחזיר את הרופאים מחו\"ל? - הקרב על הבריאות",
+     "url": "https://www.walla.co.il/news/breaking-news/383958593",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T06:28:23+00:00"
+    }
+   ]
+  },
+  {
    "id": "99bfb64ada",
    "title": "התחזית: חם מהרגיל ברוב הארץ",
    "sourceCount": 1,
@@ -8967,6 +11153,294 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-10-23T06:29:33+03:00"
+    }
+   ]
+  },
+  {
+   "id": "6bf52e4576",
+   "title": "מסירים ספסלים ומתגברים כוחות: צרפת נערכת לעוד יממה של כאוס",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-23T06:30:42+00:00",
+   "lastSeen": "2026-10-23T06:30:42+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "מסירים ספסלים ומתגברים כוחות: צרפת נערכת לעוד יממה של כאוס",
+     "url": "https://www.israelhayom.co.il/news/world-news/europe/article/21691842",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T06:30:42+00:00"
+    }
+   ]
+  },
+  {
+   "id": "a4a682736a",
+   "title": "בעקבות ההסכם בין טראמפ לפוטין: מכלית עם סולר רוסי בדרך לניו יורק",
+   "sourceCount": 1,
+   "outlets": [
+    "וואלה"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-23T06:32:03+00:00",
+   "lastSeen": "2026-10-23T06:32:03+00:00",
+   "articles": [
+    {
+     "source": "וואלה",
+     "title": "בעקבות ההסכם בין טראמפ לפוטין: מכלית עם סולר רוסי בדרך לניו יורק",
+     "url": "https://www.walla.co.il/news/breaking-news/383958594",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T06:32:03+00:00"
+    }
+   ]
+  },
+  {
+   "id": "912ba5959b",
+   "title": "\"את החרם הספרותי אנחנו לא מכירים מהיריד, הוא נמצא בשוטף - וזה משהו שאנחנו צריכים להתמודד איתו\"",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-23T06:33:00+00:00",
+   "lastSeen": "2026-10-23T06:33:00+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "\"את החרם הספרותי אנחנו לא מכירים מהיריד, הוא נמצא בשוטף - וזה משהו שאנחנו צריכים להתמודד איתו\"",
+     "url": "https://www.israelhayom.co.il/culture/books/article/21681579",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T06:33:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "5587937da3",
+   "title": "Maradona death: Verdict in trial to be delivered on December 22",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-23T06:55:21+00:00",
+   "lastSeen": "2026-10-23T06:55:21+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "Maradona death: Verdict in trial to be delivered on December 22",
+     "url": "https://www.aljazeera.com/sports/2026/10/23/maradona-death-verdict-in-trial-to-be-delivered-on-december-22?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T06:55:21+00:00"
+    }
+   ]
+  },
+  {
+   "id": "41da5cdf18",
+   "title": "שלמה ארצי חזר לעוטף: \"מקום קדוש\"",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-23T06:57:50+00:00",
+   "lastSeen": "2026-10-23T06:57:50+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "שלמה ארצי חזר לעוטף: \"מקום קדוש\"",
+     "url": "https://www.israelhayom.co.il/culture/music/article/21691989",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T06:57:50+00:00"
+    }
+   ]
+  },
+  {
+   "id": "dd10b66bc6",
+   "title": "אצבע האלוהים: הכומר הציל תיירים מהמתפרעים ושלח להם מסר ברור",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-23T07:09:55+00:00",
+   "lastSeen": "2026-10-23T07:09:55+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "אצבע האלוהים: הכומר הציל תיירים מהמתפרעים ושלח להם מסר ברור",
+     "url": "https://www.israelhayom.co.il/news/world-news/europe/article/21691923",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T07:09:55+00:00"
+    }
+   ]
+  },
+  {
+   "id": "e04089528a",
+   "title": "כוכב \"ווארט\" לועג לספיר בורגיל ואברהם אקלום: \"תכיני לי קבב מיד!\"",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-23T07:12:17+00:00",
+   "lastSeen": "2026-10-23T07:12:17+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "כוכב \"ווארט\" לועג לספיר בורגיל ואברהם אקלום: \"תכיני לי קבב מיד!\"",
+     "url": "https://www.israelhayom.co.il/sport/offside/article/21691807",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T07:12:17+00:00"
+    }
+   ]
+  },
+  {
+   "id": "916241bfee",
+   "title": "סין: נשיא גרמניה יבקר במדינה בשבוע הבא",
+   "sourceCount": 1,
+   "outlets": [
+    "וואלה"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-23T07:17:50+00:00",
+   "lastSeen": "2026-10-23T07:17:50+00:00",
+   "articles": [
+    {
+     "source": "וואלה",
+     "title": "סין: נשיא גרמניה יבקר במדינה בשבוע הבא",
+     "url": "https://www.walla.co.il/news/breaking-news/383958598",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T07:17:50+00:00"
+    }
+   ]
+  },
+  {
+   "id": "b9b6375f65",
+   "title": "אוקראינה: יותר מחצי מיליון בני אדם נותקו מחשמל בעקבות תקיפות רוסיות",
+   "sourceCount": 1,
+   "outlets": [
+    "וואלה"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-23T07:27:50+00:00",
+   "lastSeen": "2026-10-23T07:27:50+00:00",
+   "articles": [
+    {
+     "source": "וואלה",
+     "title": "אוקראינה: יותר מחצי מיליון בני אדם נותקו מחשמל בעקבות תקיפות רוסיות",
+     "url": "https://www.walla.co.il/news/breaking-news/383958599",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T07:27:50+00:00"
+    }
+   ]
+  },
+  {
+   "id": "460f5b63d3",
+   "title": "מאות הסתערו על החנות בשינקין - זו הסיבה",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-23T07:28:29+00:00",
+   "lastSeen": "2026-10-23T07:28:29+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "מאות הסתערו על החנות בשינקין - זו הסיבה",
+     "url": "https://www.israelhayom.co.il/lifestyle/fashion/article/21692132",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T07:28:29+00:00"
+    }
+   ]
+  },
+  {
+   "id": "5c1afca284",
+   "title": "לראשונה זה שנים: חומר מסרטן באוויר בחיפה - מפעל במתחם בז\"ן הושבת",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-23T07:32:04+00:00",
+   "lastSeen": "2026-10-23T07:32:04+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "לראשונה זה שנים: חומר מסרטן באוויר בחיפה - מפעל במתחם בז\"ן הושבת",
+     "url": "https://www.israelhayom.co.il/news/local/article/21692125",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T07:32:04+00:00"
+    }
+   ]
+  },
+  {
+   "id": "0b95fc4009",
+   "title": "רבש\"צ מהשומרון נאשם בירי באישה פלסטינית ובניסיון לשבש הליכים",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-23T07:44:47+00:00",
+   "lastSeen": "2026-10-23T07:44:47+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "רבש\"צ מהשומרון נאשם בירי באישה פלסטינית ובניסיון לשבש הליכים",
+     "url": "https://www.israelhayom.co.il/news/crime/article/21692174",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T07:44:47+00:00"
     }
    ]
   },
@@ -8995,6 +11469,30 @@
    ]
   },
   {
+   "id": "9665a1ff8e",
+   "title": "אוסטריה מגרשת ארבעה דיפלומטים רוסים בשל פעילות חשודה",
+   "sourceCount": 1,
+   "outlets": [
+    "וואלה"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-23T07:50:16+00:00",
+   "lastSeen": "2026-10-23T07:50:16+00:00",
+   "articles": [
+    {
+     "source": "וואלה",
+     "title": "אוסטריה מגרשת ארבעה דיפלומטים רוסים בשל פעילות חשודה",
+     "url": "https://www.walla.co.il/news/breaking-news/383958601",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T07:50:16+00:00"
+    }
+   ]
+  },
+  {
    "id": "ca673485e1",
    "title": "מד\"א: אחד הפצועים בפיגוע מחוסר הכרה",
    "sourceCount": 1,
@@ -9015,6 +11513,1350 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-10-23T07:50:57+03:00"
+    }
+   ]
+  },
+  {
+   "id": "40f657b65b",
+   "title": "חשוד בשנות ה-20 לחייו נחקר בעקבות אירוע אלימות בשוק התקווה",
+   "sourceCount": 1,
+   "outlets": [
+    "וואלה"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-23T08:01:00+00:00",
+   "lastSeen": "2026-10-23T08:01:00+00:00",
+   "articles": [
+    {
+     "source": "וואלה",
+     "title": "חשוד בשנות ה-20 לחייו נחקר בעקבות אירוע אלימות בשוק התקווה",
+     "url": "https://www.walla.co.il/news/breaking-news/383958602",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T08:01:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "9872f1fa32",
+   "title": "תיעוד מהפיגוע: \"המחבל יורה כל הזמן, לא מצליחים להוציא את הפצועים\"",
+   "sourceCount": 1,
+   "outlets": [
+    "ynet"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-23T08:06:16+03:00",
+   "lastSeen": "2026-10-23T08:06:16+03:00",
+   "articles": [
+    {
+     "source": "ynet",
+     "title": "תיעוד מהפיגוע: \"המחבל יורה כל הזמן, לא מצליחים להוציא את הפצועים\"",
+     "url": "https://www.ynet.co.il/news/article/skhtqpu3ge",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T08:06:16+03:00"
+    }
+   ]
+  },
+  {
+   "id": "7a23132f4a",
+   "title": "הסוד מאחורי הקלעים של אברי וג'ודי: \"לא עושה את זה יותר\"",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-23T08:24:21+00:00",
+   "lastSeen": "2026-10-23T08:24:21+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "הסוד מאחורי הקלעים של אברי וג'ודי: \"לא עושה את זה יותר\"",
+     "url": "https://www.israelhayom.co.il/forreal/localy/article/21692023",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T08:24:21+00:00"
+    }
+   ]
+  },
+  {
+   "id": "9c9b369cb6",
+   "title": "Israeli forces accused of killing disabled man in Syria raid",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-23T08:35:44+00:00",
+   "lastSeen": "2026-10-23T08:35:44+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "Israeli forces accused of killing disabled man in Syria raid",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/israeli-forces-accused-of-killing-disabled-man-in-syria-raid?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T08:35:44+00:00"
+    }
+   ]
+  },
+  {
+   "id": "7d2d17341d",
+   "title": "אייל ברקוביץ' פגע בבת הזוג: \"נתתי לה בעיטה\"",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-23T08:40:18+00:00",
+   "lastSeen": "2026-10-23T08:40:18+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "אייל ברקוביץ' פגע בבת הזוג: \"נתתי לה בעיטה\"",
+     "url": "https://www.israelhayom.co.il/sport/offside/article/21691880",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T08:40:18+00:00"
+    }
+   ]
+  },
+  {
+   "id": "32f3e5ab9f",
+   "title": "הטלטלה בוול סטריט נבלמה: מה עומד מאחורי הירידות החדות?",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-23T08:40:44+00:00",
+   "lastSeen": "2026-10-23T08:40:44+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "הטלטלה בוול סטריט נבלמה: מה עומד מאחורי הירידות החדות?",
+     "url": "https://www.israelhayom.co.il/business/article/21692375",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T08:40:44+00:00"
+    }
+   ]
+  },
+  {
+   "id": "65aa52bade",
+   "title": "בתי החולים: הפצועים שהגיעו אלינו במצב יציב",
+   "sourceCount": 1,
+   "outlets": [
+    "ynet"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-23T08:45:18+03:00",
+   "lastSeen": "2026-10-23T08:45:18+03:00",
+   "articles": [
+    {
+     "source": "ynet",
+     "title": "בתי החולים: הפצועים שהגיעו אלינו במצב יציב",
+     "url": "https://www.ynet.co.il/news/article/rydyeudnze",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T08:45:18+03:00"
+    }
+   ]
+  },
+  {
+   "id": "2df09231ad",
+   "title": "Macron to meet student groups: Where are France’s protests heading?",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-23T08:50:23+00:00",
+   "lastSeen": "2026-10-23T08:50:23+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "Macron to meet student groups: Where are France’s protests heading?",
+     "url": "https://www.aljazeera.com/news/2026/10/23/we-want-promises-backed-by-results?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T08:50:23+00:00"
+    }
+   ]
+  },
+  {
+   "id": "17adfec617",
+   "title": "Hamilton calls for Palestine and DR Congo freedom as Rwanda takes F1 spotlight",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-23T09:12:46+00:00",
+   "lastSeen": "2026-10-23T09:12:46+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "Hamilton calls for Palestine and DR Congo freedom as Rwanda takes F1 spotlight",
+     "url": "https://www.aljazeera.com/sports/2026/10/23/hamilton-calls-for-palestine-sudan-and-congo-freedom-with-f1-in-spotlight?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T09:12:46+00:00"
+    }
+   ]
+  },
+  {
+   "id": "958db29a00",
+   "title": "סערה בארה\"ב: טראמפ מגבה תשדיר בחירות שנוי במחלוקת נגד מועמדת דמוקרטית",
+   "sourceCount": 1,
+   "outlets": [
+    "מעריב"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-23T09:13:31+00:00",
+   "lastSeen": "2026-10-23T09:13:31+00:00",
+   "articles": [
+    {
+     "source": "מעריב",
+     "title": "סערה בארה\"ב: טראמפ מגבה תשדיר בחירות שנוי במחלוקת נגד מועמדת דמוקרטית",
+     "url": "https://www.maariv.co.il/breaking-news/article-1380421",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T09:13:31+00:00"
+    }
+   ]
+  },
+  {
+   "id": "2d741adf8e",
+   "title": "השר בן גביר: \"הפיגוע הוא תזכורת למחיר הקונספציה. צריך לפרק את הרש\"פ\"",
+   "sourceCount": 1,
+   "outlets": [
+    "ynet"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-23T09:15:42+03:00",
+   "lastSeen": "2026-10-23T09:15:42+03:00",
+   "articles": [
+    {
+     "source": "ynet",
+     "title": "השר בן גביר: \"הפיגוע הוא תזכורת למחיר הקונספציה. צריך לפרק את הרש\"פ\"",
+     "url": "https://www.ynet.co.il/news/article/hklss00o2gl",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T09:15:42+03:00"
+    }
+   ]
+  },
+  {
+   "id": "f1af3cd1c0",
+   "title": "סמוטריץ': \"אין מנוס ממערכה צבאית כוללת ביהודה ושומרון\"",
+   "sourceCount": 1,
+   "outlets": [
+    "וואלה"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-23T09:24:46+00:00",
+   "lastSeen": "2026-10-23T09:24:46+00:00",
+   "articles": [
+    {
+     "source": "וואלה",
+     "title": "סמוטריץ': \"אין מנוס ממערכה צבאית כוללת ביהודה ושומרון\"",
+     "url": "https://www.walla.co.il/news/breaking-news/383958609",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T09:24:46+00:00"
+    }
+   ]
+  },
+  {
+   "id": "5819220a55",
+   "title": "לימור לבנת הכריזה על תמיכה בבנט - ותקפה את הליכוד",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-23T09:26:21+00:00",
+   "lastSeen": "2026-10-23T09:26:21+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "לימור לבנת הכריזה על תמיכה בבנט - ותקפה את הליכוד",
+     "url": "https://www.israelhayom.co.il/news/politics/article/21692476",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T09:26:21+00:00"
+    }
+   ]
+  },
+  {
+   "id": "f1e230e29f",
+   "title": "רוסיה: מתקן תעשייתי נפגע מתקיפת כטב\"ם אוקראיני",
+   "sourceCount": 1,
+   "outlets": [
+    "וואלה"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-23T09:27:29+00:00",
+   "lastSeen": "2026-10-23T09:27:29+00:00",
+   "articles": [
+    {
+     "source": "וואלה",
+     "title": "רוסיה: מתקן תעשייתי נפגע מתקיפת כטב\"ם אוקראיני",
+     "url": "https://www.walla.co.il/news/breaking-news/383958610",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T09:27:29+00:00"
+    }
+   ]
+  },
+  {
+   "id": "1f7777f3c3",
+   "title": "אפילו האקס התלהב: אריאנה גרנדה נפרדה מהקוקו ושינתה לבוב קצר",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-23T09:29:49+00:00",
+   "lastSeen": "2026-10-23T09:29:49+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "אפילו האקס התלהב: אריאנה גרנדה נפרדה מהקוקו ושינתה לבוב קצר",
+     "url": "https://www.israelhayom.co.il/forreal/global/article/21692493",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T09:29:49+00:00"
+    }
+   ]
+  },
+  {
+   "id": "ba54eb4a10",
+   "title": "Pulaku: The two faces of Nigeria’s vigilantes",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-23T09:30:05+00:00",
+   "lastSeen": "2026-10-23T09:30:05+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "Pulaku: The two faces of Nigeria’s vigilantes",
+     "url": "https://www.aljazeera.com/features/longform/2026/10/23/pulaku-the-two-faces-of-nigerias-vigilantes?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T09:30:05+00:00"
+    }
+   ]
+  },
+  {
+   "id": "3c22147155",
+   "title": "The Epstein Files Produce an Unlikely Weapon for the Houthi Messaging Wars",
+   "sourceCount": 1,
+   "outlets": [
+    "NYT"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-23T09:30:45+00:00",
+   "lastSeen": "2026-10-23T09:30:45+00:00",
+   "articles": [
+    {
+     "source": "NYT",
+     "title": "The Epstein Files Produce an Unlikely Weapon for the Houthi Messaging Wars",
+     "url": "https://www.nytimes.com/2026/10/23/world/middleeast/houthis-saudi-arabia-propaganda-epstein.html",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T09:30:45+00:00"
+    }
+   ]
+  },
+  {
+   "id": "fb228bc655",
+   "title": "What role does the military play in Israeli schools?",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-23T09:32:33+00:00",
+   "lastSeen": "2026-10-23T09:32:33+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "What role does the military play in Israeli schools?",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/what-role-does-the-military-play-in-israeli-schools?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T09:32:33+00:00"
+    }
+   ]
+  },
+  {
+   "id": "d3c43fa165",
+   "title": "הסוקר של מעריב מגלה את הסוד: מה קורה כשמשיבים משקרים? | האזינו",
+   "sourceCount": 1,
+   "outlets": [
+    "מעריב"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-23T09:33:31+00:00",
+   "lastSeen": "2026-10-23T09:33:31+00:00",
+   "articles": [
+    {
+     "source": "מעריב",
+     "title": "הסוקר של מעריב מגלה את הסוד: מה קורה כשמשיבים משקרים? | האזינו",
+     "url": "https://www.maariv.co.il/breaking-news/article-1380425",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T09:33:31+00:00"
+    }
+   ]
+  },
+  {
+   "id": "033a5a6239",
+   "title": "מפלגה אחת עשויה לשנות הכול: התרחיש שמציג מנחם לזר | האזינו",
+   "sourceCount": 1,
+   "outlets": [
+    "מעריב"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-23T09:35:12+00:00",
+   "lastSeen": "2026-10-23T09:35:12+00:00",
+   "articles": [
+    {
+     "source": "מעריב",
+     "title": "מפלגה אחת עשויה לשנות הכול: התרחיש שמציג מנחם לזר | האזינו",
+     "url": "https://www.maariv.co.il/breaking-news/article-1380426",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T09:35:12+00:00"
+    }
+   ]
+  },
+  {
+   "id": "0d134b7a3d",
+   "title": "באופוזיציה נערכים לאפשרות שנתניהו יישאר רוה\"מ - והמהלך שיהפוך אותו ל\"ברווז צולע\"",
+   "sourceCount": 1,
+   "outlets": [
+    "מעריב"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-23T09:37:40+00:00",
+   "lastSeen": "2026-10-23T09:37:40+00:00",
+   "articles": [
+    {
+     "source": "מעריב",
+     "title": "באופוזיציה נערכים לאפשרות שנתניהו יישאר רוה\"מ - והמהלך שיהפוך אותו ל\"ברווז צולע\"",
+     "url": "https://www.maariv.co.il/breaking-news/article-1380427",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T09:37:40+00:00"
+    }
+   ]
+  },
+  {
+   "id": "113fe0c801",
+   "title": "התוכנית של איזנקוט להקמת ממשלה - והמכשול מתוך המחנה שלו: \"לא מקובל\"",
+   "sourceCount": 1,
+   "outlets": [
+    "מעריב"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-23T09:39:21+00:00",
+   "lastSeen": "2026-10-23T09:39:21+00:00",
+   "articles": [
+    {
+     "source": "מעריב",
+     "title": "התוכנית של איזנקוט להקמת ממשלה - והמכשול מתוך המחנה שלו: \"לא מקובל\"",
+     "url": "https://www.maariv.co.il/breaking-news/article-1380429",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T09:39:21+00:00"
+    }
+   ]
+  },
+  {
+   "id": "9e2ce99dfd",
+   "title": "בסיום עונה מסויטת: לאנס סטרול מפנה את מקומו בפורמולה 1",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-23T09:39:56+00:00",
+   "lastSeen": "2026-10-23T09:39:56+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "בסיום עונה מסויטת: לאנס סטרול מפנה את מקומו בפורמולה 1",
+     "url": "https://www.israelhayom.co.il/sport/other-sports/article/21692631",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T09:39:56+00:00"
+    }
+   ]
+  },
+  {
+   "id": "8711676177",
+   "title": "NBA’s Irving praises Al-Shaair’s ‘selfless act’ after Hind Rajab fine paid",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-23T09:40:57+00:00",
+   "lastSeen": "2026-10-23T09:40:57+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "NBA’s Irving praises Al-Shaair’s ‘selfless act’ after Hind Rajab fine paid",
+     "url": "https://www.aljazeera.com/sports/2026/10/23/nbas-irving-praises-al-shaairs-selfless-act-after-hind-rajab-fine-paid?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T09:40:57+00:00"
+    }
+   ]
+  },
+  {
+   "id": "0716960306",
+   "title": "הרמטכ\"ל: ברכב המחבלים נמצאה תחמושת רבה, נמנע פיגוע חמור יותר",
+   "sourceCount": 1,
+   "outlets": [
+    "ynet"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-23T09:42:12+03:00",
+   "lastSeen": "2026-10-23T09:42:12+03:00",
+   "articles": [
+    {
+     "source": "ynet",
+     "title": "הרמטכ\"ל: ברכב המחבלים נמצאה תחמושת רבה, נמנע פיגוע חמור יותר",
+     "url": "https://www.ynet.co.il/news/article/bka11bto3gl",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T09:42:12+03:00"
+    }
+   ]
+  },
+  {
+   "id": "df08882ea6",
+   "title": "החלטה עקרונית: סוף לתעמולת בחירות אנונימית באמצעות בוטים?",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-23T09:51:28+00:00",
+   "lastSeen": "2026-10-23T09:51:28+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "החלטה עקרונית: סוף לתעמולת בחירות אנונימית באמצעות בוטים?",
+     "url": "https://www.israelhayom.co.il/news/law/article/21692755",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T09:51:28+00:00"
+    }
+   ]
+  },
+  {
+   "id": "8a9415e525",
+   "title": "Serbia’s snap election: What’s at stake and can students unseat Vucic?",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-23T09:52:20+00:00",
+   "lastSeen": "2026-10-23T09:52:20+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "Serbia’s snap election: What’s at stake and can students unseat Vucic?",
+     "url": "https://www.aljazeera.com/news/2026/10/23/serbias-snap-election-whats-at-stake-and-can-students-unseat-vucic?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T09:52:20+00:00"
+    }
+   ]
+  },
+  {
+   "id": "ad4e368977",
+   "title": "חגיגות ההשתמטות: 8 עריקים חרדים שוחררו מהכלא והתקבלו בריקודים | צפו",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-23T10:03:42+00:00",
+   "lastSeen": "2026-10-23T10:03:42+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "חגיגות ההשתמטות: 8 עריקים חרדים שוחררו מהכלא והתקבלו בריקודים | צפו",
+     "url": "https://www.israelhayom.co.il/news/local/article/21692827",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T10:03:42+00:00"
+    }
+   ]
+  },
+  {
+   "id": "1812fb5685",
+   "title": "הבעל נרצח, הגופה הוסתרה - והמצלמות חשפו את המזימה",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-23T10:04:32+00:00",
+   "lastSeen": "2026-10-23T10:04:32+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "הבעל נרצח, הגופה הוסתרה - והמצלמות חשפו את המזימה",
+     "url": "https://www.israelhayom.co.il/news/world-news/other/article/21692594",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T10:04:32+00:00"
+    }
+   ]
+  },
+  {
+   "id": "9b370f196b",
+   "title": "בין הסורגים: מה עושה הנשיא טראמפ בכלוב באמצע כיכר בטהרן?",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-23T10:05:18+00:00",
+   "lastSeen": "2026-10-23T10:05:18+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "בין הסורגים: מה עושה הנשיא טראמפ בכלוב באמצע כיכר בטהרן?",
+     "url": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21692714",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T10:05:18+00:00"
+    }
+   ]
+  },
+  {
+   "id": "2fa8c4da06",
+   "title": "הולכים לבחירות בקומיקס: הג'וקר מביס את באטמן בקרב על דעת הקהל",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-23T10:09:00+00:00",
+   "lastSeen": "2026-10-23T10:09:00+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "הולכים לבחירות בקומיקס: הג'וקר מביס את באטמן בקרב על דעת הקהל",
+     "url": "https://www.israelhayom.co.il/culture/books/article/21682933",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T10:09:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "03d872ce45",
+   "title": "להוציא את המצביעים מהבית: הקמפיין החדש בחברה הערבית",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-23T10:15:15+00:00",
+   "lastSeen": "2026-10-23T10:15:15+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "להוציא את המצביעים מהבית: הקמפיין החדש בחברה הערבית",
+     "url": "https://www.israelhayom.co.il/news/politics/article/21692888",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T10:15:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": "ff3a9907d1",
+   "title": "South Korea invites North for military talks over border",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-23T10:20:31+00:00",
+   "lastSeen": "2026-10-23T10:20:31+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "South Korea invites North for military talks over border",
+     "url": "https://www.aljazeera.com/news/2026/10/23/south-korea-invites-north-for-military-talks-over-border?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T10:20:31+00:00"
+    }
+   ]
+  },
+  {
+   "id": "39067cb9bc",
+   "title": "דיווח: גרמניה במגעים לרכישת אלפי טילים ביותר ממיליארד אירו",
+   "sourceCount": 1,
+   "outlets": [
+    "וואלה"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-23T10:23:17+00:00",
+   "lastSeen": "2026-10-23T10:23:17+00:00",
+   "articles": [
+    {
+     "source": "וואלה",
+     "title": "דיווח: גרמניה במגעים לרכישת אלפי טילים ביותר ממיליארד אירו",
+     "url": "https://www.walla.co.il/news/breaking-news/383958614",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T10:23:17+00:00"
+    }
+   ]
+  },
+  {
+   "id": "a5c63a0146",
+   "title": "אישום: רבש\"ץ ירה לעבר רכב פלסטיני, פצע אישה קשה - וניסה להעלים ראיות",
+   "sourceCount": 1,
+   "outlets": [
+    "ynet"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-23T10:30:30+03:00",
+   "lastSeen": "2026-10-23T10:30:30+03:00",
+   "articles": [
+    {
+     "source": "ynet",
+     "title": "אישום: רבש\"ץ ירה לעבר רכב פלסטיני, פצע אישה קשה - וניסה להעלים ראיות",
+     "url": "https://www.ynet.co.il/news/article/b1wz2fdhgg",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T10:30:30+03:00"
+    }
+   ]
+  },
+  {
+   "id": "804d8cac47",
+   "title": "אוהד בוזגלו נחקר בחשד לתקיפת זוגתו - וטען שהותקף על ידה",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-23T10:33:30+00:00",
+   "lastSeen": "2026-10-23T10:33:30+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "אוהד בוזגלו נחקר בחשד לתקיפת זוגתו - וטען שהותקף על ידה",
+     "url": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21692969",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T10:33:30+00:00"
+    }
+   ]
+  },
+  {
+   "id": "c314238870",
+   "title": "טעויות הניקיון שכדאי להפסיק לעשות - ומה לעשות במקום",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-23T10:33:31+00:00",
+   "lastSeen": "2026-10-23T10:33:31+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "טעויות הניקיון שכדאי להפסיק לעשות - ומה לעשות במקום",
+     "url": "https://www.israelhayom.co.il/lifestyle/design/article/21692962",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T10:33:31+00:00"
+    }
+   ]
+  },
+  {
+   "id": "ee387debaa",
+   "title": "נתניהו אחרי הפיגוע: \"נרדוף את מחבלי חמאס בכל מקום\"",
+   "sourceCount": 1,
+   "outlets": [
+    "ynet"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-23T10:37:58+03:00",
+   "lastSeen": "2026-10-23T10:37:58+03:00",
+   "articles": [
+    {
+     "source": "ynet",
+     "title": "נתניהו אחרי הפיגוע: \"נרדוף את מחבלי חמאס בכל מקום\"",
+     "url": "https://www.ynet.co.il/news/article/syrsrfu2fx",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T10:37:58+03:00"
+    }
+   ]
+  },
+  {
+   "id": "3b6761d56c",
+   "title": "לראשונה: בריטניה וצרפת קיימו תרגיל משותף של הרתעה גרעינית",
+   "sourceCount": 1,
+   "outlets": [
+    "וואלה"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-23T10:38:53+00:00",
+   "lastSeen": "2026-10-23T10:38:53+00:00",
+   "articles": [
+    {
+     "source": "וואלה",
+     "title": "לראשונה: בריטניה וצרפת קיימו תרגיל משותף של הרתעה גרעינית",
+     "url": "https://www.walla.co.il/news/breaking-news/383958615",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T10:38:53+00:00"
+    }
+   ]
+  },
+  {
+   "id": "90947d09b1",
+   "title": "שמועה על מעטפות ההצבעה מתפשטת ברשת - וההבהרה של ועדת הבחירות",
+   "sourceCount": 1,
+   "outlets": [
+    "מעריב"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-23T10:40:25+00:00",
+   "lastSeen": "2026-10-23T10:40:25+00:00",
+   "articles": [
+    {
+     "source": "מעריב",
+     "title": "שמועה על מעטפות ההצבעה מתפשטת ברשת - וההבהרה של ועדת הבחירות",
+     "url": "https://www.maariv.co.il/breaking-news/article-1380441",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T10:40:25+00:00"
+    }
+   ]
+  },
+  {
+   "id": "dc8395a891",
+   "title": "באו לתמוך בבן גביר, אבל למי יצביעו? הדילמה שנחשפה בכנס בקרית אתא",
+   "sourceCount": 1,
+   "outlets": [
+    "מעריב"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-23T10:45:49+00:00",
+   "lastSeen": "2026-10-23T10:45:49+00:00",
+   "articles": [
+    {
+     "source": "מעריב",
+     "title": "באו לתמוך בבן גביר, אבל למי יצביעו? הדילמה שנחשפה בכנס בקרית אתא",
+     "url": "https://www.maariv.co.il/breaking-news/article-1380443",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T10:45:49+00:00"
+    }
+   ]
+  },
+  {
+   "id": "08737c20c2",
+   "title": "\"צירוף מקרים\" מדהים: האש בצרפת דילגה רק על מקום אחד",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-23T10:50:13+00:00",
+   "lastSeen": "2026-10-23T10:50:13+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "\"צירוף מקרים\" מדהים: האש בצרפת דילגה רק על מקום אחד",
+     "url": "https://www.israelhayom.co.il/magazine/shishabat/article/21692691",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T10:50:13+00:00"
+    }
+   ]
+  },
+  {
+   "id": "b93e419955",
+   "title": "המחבלים תכננו לפגוע במשפחות ישראליות - ונעצרו על-ידי הלוחמים",
+   "sourceCount": 1,
+   "outlets": [
+    "ynet"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-23T10:50:44+03:00",
+   "lastSeen": "2026-10-23T10:50:44+03:00",
+   "articles": [
+    {
+     "source": "ynet",
+     "title": "המחבלים תכננו לפגוע במשפחות ישראליות - ונעצרו על-ידי הלוחמים",
+     "url": "https://www.ynet.co.il/news/article/r1kag5u3zl",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T10:50:44+03:00"
+    }
+   ]
+  },
+  {
+   "id": "ea3a2a07a0",
+   "title": "צעיר בן 20 נפצע בינוני אחרי שנפל מסוס צפונית למחלף גנות",
+   "sourceCount": 1,
+   "outlets": [
+    "מעריב"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-23T10:58:02+00:00",
+   "lastSeen": "2026-10-23T10:58:02+00:00",
+   "articles": [
+    {
+     "source": "מעריב",
+     "title": "צעיר בן 20 נפצע בינוני אחרי שנפל מסוס צפונית למחלף גנות",
+     "url": "https://www.maariv.co.il/breaking-news/article-1380448",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T10:58:02+00:00"
+    }
+   ]
+  },
+  {
+   "id": "0302037093",
+   "title": "איזנקוט: \"החיילים מנעו פיגוע גדול נגד אזרחים. כוחות הביטחון עובדים לילות כימים\"",
+   "sourceCount": 1,
+   "outlets": [
+    "ynet"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-23T10:58:53+03:00",
+   "lastSeen": "2026-10-23T10:58:53+03:00",
+   "articles": [
+    {
+     "source": "ynet",
+     "title": "איזנקוט: \"החיילים מנעו פיגוע גדול נגד אזרחים. כוחות הביטחון עובדים לילות כימים\"",
+     "url": "https://www.ynet.co.il/news/article/r1h47cu2zl",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T10:58:53+03:00"
+    }
+   ]
+  },
+  {
+   "id": "cda0de292f",
+   "title": "שרפת יער באזור אום אל-פחם - 4 מטוסי כיבוי פועלים בזירה",
+   "sourceCount": 1,
+   "outlets": [
+    "מעריב"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-23T11:02:57+00:00",
+   "lastSeen": "2026-10-23T11:02:57+00:00",
+   "articles": [
+    {
+     "source": "מעריב",
+     "title": "שרפת יער באזור אום אל-פחם - 4 מטוסי כיבוי פועלים בזירה",
+     "url": "https://www.maariv.co.il/breaking-news/article-1380451",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T11:02:57+00:00"
+    }
+   ]
+  },
+  {
+   "id": "20edde206d",
+   "title": "France tightens security in anticipation of weekend protests",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-23T11:05:13+00:00",
+   "lastSeen": "2026-10-23T11:05:13+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "France tightens security in anticipation of weekend protests",
+     "url": "https://www.aljazeera.com/news/2026/10/23/france-tightens-security-in-anticipation-of-weekend-protests?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T11:05:13+00:00"
+    }
+   ]
+  },
+  {
+   "id": "fcd620a373",
+   "title": "ניו יורק: גבר מוסלמי נעצר לאחר שניסה להצית בית כנסת",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-23T11:17:21+00:00",
+   "lastSeen": "2026-10-23T11:17:21+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "ניו יורק: גבר מוסלמי נעצר לאחר שניסה להצית בית כנסת",
+     "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21693059",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T11:17:21+00:00"
+    }
+   ]
+  },
+  {
+   "id": "f4a3887a1a",
+   "title": "4 סמלים בקו אחד: הסודות בלוגואים של Airbnb, 7 Eleven ו-Toblerone",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-23T11:20:00+00:00",
+   "lastSeen": "2026-10-23T11:20:00+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "4 סמלים בקו אחד: הסודות בלוגואים של Airbnb, 7 Eleven ו-Toblerone",
+     "url": "https://www.israelhayom.co.il/business/consumers/article/21670205",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T11:20:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "7e54c5420f",
+   "title": "\"בית\"ר ירושלים רצתה שאשאר, עשיתי טעות כשעזבתי אותה\"",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-23T11:21:01+00:00",
+   "lastSeen": "2026-10-23T11:21:01+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "\"בית\"ר ירושלים רצתה שאשאר, עשיתי טעות כשעזבתי אותה\"",
+     "url": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21692891",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T11:21:01+00:00"
+    }
+   ]
+  },
+  {
+   "id": "c4b83c00d9",
+   "title": "לקראת המשך ההפגנות בצרפת: 70 אלף אנשי ביטחון ייפרסו ברחבי המדינה",
+   "sourceCount": 1,
+   "outlets": [
+    "וואלה"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-23T11:21:24+00:00",
+   "lastSeen": "2026-10-23T11:21:24+00:00",
+   "articles": [
+    {
+     "source": "וואלה",
+     "title": "לקראת המשך ההפגנות בצרפת: 70 אלף אנשי ביטחון ייפרסו ברחבי המדינה",
+     "url": "https://www.walla.co.il/news/breaking-news/383958621",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T11:21:24+00:00"
+    }
+   ]
+  },
+  {
+   "id": "c9023c2743",
+   "title": "ראש הממשלה נתניהו נגד הטרור בחברון: \"ניישם משהו שלא נעשה עד עכשיו\"",
+   "sourceCount": 1,
+   "outlets": [
+    "מעריב"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-23T11:27:48+00:00",
+   "lastSeen": "2026-10-23T11:27:48+00:00",
+   "articles": [
+    {
+     "source": "מעריב",
+     "title": "ראש הממשלה נתניהו נגד הטרור בחברון: \"ניישם משהו שלא נעשה עד עכשיו\"",
+     "url": "https://www.maariv.co.il/breaking-news/article-1380456",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T11:27:48+00:00"
+    }
+   ]
+  },
+  {
+   "id": "3605f369b1",
+   "title": "נער בן 13 נפצע בינוני מפגיעת רכב בעת רכיבה על קורקינט באשדוד",
+   "sourceCount": 1,
+   "outlets": [
+    "מעריב"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-23T11:42:02+00:00",
+   "lastSeen": "2026-10-23T11:42:02+00:00",
+   "articles": [
+    {
+     "source": "מעריב",
+     "title": "נער בן 13 נפצע בינוני מפגיעת רכב בעת רכיבה על קורקינט באשדוד",
+     "url": "https://www.maariv.co.il/breaking-news/article-1380459",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T11:42:02+00:00"
+    }
+   ]
+  },
+  {
+   "id": "e1b5a0ef92",
+   "title": "סמוטריץ': הנחיתי להרוס מבנים ערביים ליד מקום הפיגוע",
+   "sourceCount": 1,
+   "outlets": [
+    "ynet"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-23T12:47:08+03:00",
+   "lastSeen": "2026-10-23T12:47:08+03:00",
+   "articles": [
+    {
+     "source": "ynet",
+     "title": "סמוטריץ': הנחיתי להרוס מבנים ערביים ליד מקום הפיגוע",
+     "url": "https://www.ynet.co.il/news/article/rkd6hs00nze",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T12:47:08+03:00"
+    }
+   ]
+  },
+  {
+   "id": "508297985c",
+   "title": "דיווח: שרי החוץ של טורקיה, פקיסטן, סעודיה ומצרים נפגשים באיסטנבול",
+   "sourceCount": 1,
+   "outlets": [
+    "ynet"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-23T13:55:14+03:00",
+   "lastSeen": "2026-10-23T13:55:14+03:00",
+   "articles": [
+    {
+     "source": "ynet",
+     "title": "דיווח: שרי החוץ של טורקיה, פקיסטן, סעודיה ומצרים נפגשים באיסטנבול",
+     "url": "https://www.ynet.co.il/news/article/bkyt3hunfx",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T13:55:14+03:00"
+    }
+   ]
+  },
+  {
+   "id": "a4d2b52fcf",
+   "title": "נתניהו: צה\"ל ייכנס לשכונות שמהן יצאו המחבלים - ויפנה את התושבים",
+   "sourceCount": 1,
+   "outlets": [
+    "ynet"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-23T14:28:42+03:00",
+   "lastSeen": "2026-10-23T14:28:42+03:00",
+   "articles": [
+    {
+     "source": "ynet",
+     "title": "נתניהו: צה\"ל ייכנס לשכונות שמהן יצאו המחבלים - ויפנה את התושבים",
+     "url": "https://www.ynet.co.il/news/article/hkelntu3mg",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-23T14:28:42+03:00"
     }
    ]
   },
@@ -9041,11 +12883,59 @@
      "time": "2026-10-22T16:29:58+00:00"
     }
    ]
+  },
+  {
+   "id": "87956a863b",
+   "title": "Europe needs a war economy",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 0,
+   "opinionOnly": true,
+   "firstSeen": "2026-10-23T07:08:10+00:00",
+   "lastSeen": "2026-10-23T07:08:10+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "Europe needs a war economy",
+     "url": "https://www.aljazeera.com/opinions/2026/10/23/europe-needs-a-war-economy?traffic_source=rss",
+     "tier": 2,
+     "type": "opinion",
+     "time": "2026-10-23T07:08:10+00:00"
+    }
+   ]
+  },
+  {
+   "id": "c0006d3f9f",
+   "title": "Why is Gen Z revolting?",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 0,
+   "opinionOnly": true,
+   "firstSeen": "2026-10-23T07:51:31+00:00",
+   "lastSeen": "2026-10-23T07:51:31+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "Why is Gen Z revolting?",
+     "url": "https://www.aljazeera.com/opinions/2026/10/23/why-is-gen-z-revolting?traffic_source=rss",
+     "tier": 2,
+     "type": "opinion",
+     "time": "2026-10-23T07:51:31+00:00"
+    }
+   ]
   }
  ],
  "stats": {
-  "articles": 298,
-  "clusters": 229,
-  "multiSource": 16
+  "articles": 442,
+  "clusters": 318,
+  "multiSource": 27
  }
 }
