@@ -1,0 +1,518 @@
+{
+  "schema": 2,
+  "date": "2026-10-24",
+  "type": "daily",
+  "headline": "שני לוחמים נהרגו בפיגוע בהר חברון ומבצע בחברון נפתח, הנפט מעל 116 דולר בגלל החשש מתקיפה באיראן, ופיגועי ירי בירדן ובצרפת.",
+  "events": [
+    {
+      "id": "yehuda-junction-shooting",
+      "title": "שני לוחמים נהרגו בפיגוע ירי בהר חברון; צה\"ל ושב\"כ פתחו במבצע של ימים בחברון",
+      "summary": "לפי ישראל היום, סמ\"ר רון יונתן רויטמן וסמל יובל שי סוילם נהרגו בפיגוע הירי בהר חברון. לפי ynet וישראל היום, צה\"ל ושב\"כ פתחו במבצע לסיכול טרור בחברון שצפוי להימשך כמה ימים; ישראל היום מדווח על סריקת כ-200 אתרים ועל מעצר 10 חשודים. אל-ג'זירה, ה-BBC והגרדיאן מדווחים על סגר על הגדה המערבית ועל הריסת מבנים בחברון.",
+      "why": "הפיגוע הקטלני הוביל למבצע צבאי נרחב ולסגר בגדה, עם השלכות ביטחוניות ומדיניות.",
+      "change": "נודע כי שני לוחמים נהרגו בפיגוע; צה\"ל ושב\"כ פתחו במבצע בחברון, והוטל סגר על הגדה המערבית.",
+      "next": "המשך המבצע בחברון בימים הקרובים.",
+      "status": "VERIFIED",
+      "importance": 5,
+      "categories": [
+        "security"
+      ],
+      "kind": "event",
+      "entities": [
+        "יהודה ושומרון",
+        "פיגועים"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/news/defense/article/21692720",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/ryhvdbf3ge",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/news/defense/article/21696720",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/24/israel-soldiers-raze-west-bank-neighbourhood-hebron-families-from-homes",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/full-lockdown-of-occupied-west-bank-begins-2",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 5,
+      "firstSeen": "2026-10-23",
+      "lastUpdated": "2026-10-24"
+    },
+    {
+      "id": "iran-gulf-threat-oil-high",
+      "title": "הנפט מעל 116 דולר לחבית על רקע חשש מחידוש תקיפות ארה\"ב באיראן",
+      "summary": "לפי הגרדיאן ו-NYT, מחיר הנפט עלה ל-116–117 דולר לחבית, השיא מאז אפריל, בגלל החשש מחידוש התקיפות האמריקאיות באיראן. לפי ynet, שגריר ארה\"ב בטורקיה טום ברק השיב כי תקיפה בסוף השבוע \"בהחלט אפשרית\", וטראמפ אמר: \"אם זה נכון, אני לא מודע לזה\". לפי אל-ג'זירה והגרדיאן, שרי חוץ מאירופה ומהמזרח התיכון קראו לארה\"ב לבחור בדיפלומטיה.",
+      "why": "חידוש הלחימה מול איראן עלול להשפיע על ביטחון ישראל ועל מחירי האנרגיה.",
+      "change": "מחיר הנפט עלה ל-116–117 דולר; שגריר ארה\"ב בטורקיה אמר שתקיפה בסוף השבוע אפשרית, וטראמפ אמר שאינו מודע לכך.",
+      "next": "האם ארה\"ב תחדש את התקיפות באיראן.",
+      "status": "VERIFIED",
+      "importance": 5,
+      "categories": [
+        "security",
+        "economy",
+        "israel_world"
+      ],
+      "kind": "statement",
+      "entities": [
+        "איראן",
+        "ארצות הברית",
+        "נפט"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "Guardian",
+          "url": "https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "NYT",
+          "url": "https://www.nytimes.com/2026/10/23/business/energy-environment/oil-prices-iran-war.html",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/b1aamxkhge",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/23/european-middle-east-ministers-urge-us-iran-diplomacy-not-new-attacks",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 4,
+      "firstSeen": "2026-10-23",
+      "lastUpdated": "2026-10-24"
+    },
+    {
+      "id": "jordan-church-shooting",
+      "title": "ירי בכנסייה בדרום ירדן: לפחות 7 הרוגים",
+      "summary": "לפי ynet, וואלה וישראל היום, לפחות שבעה בני אדם נהרגו בירי בתוך כנסייה בדרום ירדן. ה-BBC ואל-ג'זירה מדווחים על ירי של חמושים רעולי פנים באירוע לוויה, והגרדיאן מדווח על כ-40 פצועים (ynet: 28). ynet מצטט את השלטונות בירדן שפועלים ללכידת האחראים, ואבטחה תוגברה ברחבי המדינה.",
+      "why": "פיגוע רב נפגעים בשכנה של ישראל, שעלול להשפיע על היציבות האזורית.",
+      "change": "",
+      "next": "זהות היורים והאחראים.",
+      "status": "VERIFIED",
+      "importance": 4,
+      "categories": [
+        "world",
+        "security"
+      ],
+      "kind": "event",
+      "entities": [
+        "ירדן",
+        "פיגועים"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/byqhdxyhge",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "וואלה",
+          "url": "https://www.walla.co.il/news/breaking-news/383958623",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21693313",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/24/seven-killed-and-40-injured-after-gunmen-open-fire-at-church-funeral-in-jordan",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 5,
+      "firstSeen": "2026-10-24",
+      "lastUpdated": "2026-10-24"
+    },
+    {
+      "id": "paris-area-shooting-terror",
+      "title": "פיגוע ירי סמוך לפריז: מקרון — \"נקודת מפנה\" עבור צרפת",
+      "summary": "לפי ynet, שר הפנים של צרפת קבע כי \"אין ספק שמדובר בטרור\" בירי סמוך לפריז. לפי מעריב, הנשיא מקרון תיאר את האירוע כ\"פיגוע טרור גזעני\", ולפי ישראל היום וynet אמר כי זו \"נקודת מפנה\". במקביל, לפי וואלה וישראל היום, 70 אלף אנשי ביטחון ייפרסו ברחבי צרפת לקראת המשך ההפגנות.",
+      "why": "פיגוע במדינה שמצויה בגל מהומות והפגנות, בעל השלכות על ביטחון הקהילה היהודית ועל המדיניות האירופית.",
+      "change": "",
+      "next": "המשך ההפגנות וצעדי הממשלה בצרפת.",
+      "status": "VERIFIED",
+      "importance": 4,
+      "categories": [
+        "world",
+        "security"
+      ],
+      "kind": "event",
+      "entities": [
+        "צרפת",
+        "פיגועים"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/sjq3jyyhfx",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "מעריב",
+          "url": "https://www.maariv.co.il/breaking-news/article-1380558",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/news/world-news/europe/article/21694342",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "וואלה",
+          "url": "https://www.walla.co.il/news/breaking-news/383958621",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 4,
+      "firstSeen": "2026-10-24",
+      "lastUpdated": "2026-10-24"
+    },
+    {
+      "id": "iran-plots-us-officials",
+      "title": "דיווח: איראן מקדמת תוכניות מתקדמות לפגיעה באמריקנים ובבכירים אמריקנים",
+      "summary": "לפי NYT, בכירים בארה\"ב מסרו כי איראן נמצאת ב\"שלבים מתקדמים\" בתכנון התקפות נגד אמריקנים. לפי וואלה, בכיר אמריקני אישר כי מזכיר המדינה רוביו קיבל מזכר המזהיר מפני תוכניות כאלה, ולפי ה-BBC ראש המודיעין מזהיר שאיראן מנסה להגביר פגיעה בכוחות אמריקנים במזרח התיכון. הדיווחים מבוססים על גורמים אמריקנים, ואיראן לא אישרה.",
+      "why": "אזהרת מודיעין כזו מגבירה את הסיכוי להסלמה אזורית מול איראן.",
+      "change": "",
+      "next": "",
+      "status": "REPORTED",
+      "importance": 4,
+      "categories": [
+        "security",
+        "israel_world"
+      ],
+      "kind": "statement",
+      "entities": [
+        "איראן",
+        "ארצות הברית"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "NYT",
+          "url": "https://www.nytimes.com/2026/10/23/us/politics/security-warnings-iran-threats.html",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cmn8w1ddg2x9o",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "וואלה",
+          "url": "https://www.walla.co.il/news/breaking-news/383958658",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/bk2b0df2zg",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 4,
+      "firstSeen": "2026-10-24",
+      "lastUpdated": "2026-10-24"
+    },
+    {
+      "id": "netanyahu-pressure-small-parties",
+      "title": "מפלגת אח\"י הודיעה על פרישה מהמירוץ לכנסת",
+      "summary": "לפי ישראל היום וynet, מפלגת אח\"י הודיעה על פרישה מהמירוץ לכנסת. ynet מדווח כי בתמורה הבטיח נתניהו שהרב אברג'ל יהיה סגן שר.",
+      "why": "פרישת מפלגות קטנות משנה את מפת הגושים לקראת הבחירות.",
+      "change": "אח\"י הודיעה על פרישה, ולפי ynet נתניהו הבטיח סגן שר לרב אברג'ל בתמורה.",
+      "next": "האם מפלגות קטנות נוספות יפרשו.",
+      "status": "VERIFIED",
+      "importance": 3,
+      "categories": [
+        "politics"
+      ],
+      "kind": "decision",
+      "entities": [
+        "בחירות 2026",
+        "נתניהו"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/news/politics/article/21693463",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/rkgwdcuhgx",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 2,
+      "firstSeen": "2026-10-21",
+      "lastUpdated": "2026-10-24"
+    },
+    {
+      "id": "russia-ukraine-olshaki-ceasefire",
+      "title": "הבית הלבן: הפסקת אש מקומית זמנית בין רוסיה לאוקראינה בעיירה אולשקי",
+      "summary": "לפי ynet וואלה, הבית הלבן הודיע על הפסקת אש זמנית בעיירה אולשקי. הבית הלבן מייחס את ההישג למלניה טראמפ, ולפי ישראל היום כלל ההסדר פינוי אזרחים וניקוי מוקשים.",
+      "why": "הפסקת אש מקומית, ולא הסכם כולל, אך סימן למעורבות אמריקנית במו\"מ.",
+      "change": "",
+      "next": "",
+      "status": "VERIFIED",
+      "importance": 3,
+      "categories": [
+        "world"
+      ],
+      "kind": "decision",
+      "entities": [
+        "רוסיה",
+        "אוקראינה"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/bkkvbyfnfe",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "וואלה",
+          "url": "https://www.walla.co.il/news/breaking-news/383958629",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/news/world-news/europe/article/21695046",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 3,
+      "firstSeen": "2026-10-24",
+      "lastUpdated": "2026-10-24"
+    },
+    {
+      "id": "kim-jong-un-china-visit",
+      "title": "קים ג'ונג און בביקור רשמי בסין",
+      "summary": "לפי ynet, בדיווח דרום-קוריאני, שליט צפון קוריאה הגיע לביקור בסין, וישראל היום מדווח על ביקורו הרשמי הראשון בסין מזה יותר משנה. לפי ynet, סין מסרה כי הביקור \"מרחיב את הקשרים בין העמים ואת שיתוף הפעולה\".",
+      "why": "ביקור שמסמן חיזוק קשרים בין שתי מדינות בעלות השפעה על האזור וביחסי ארה\"ב-סין.",
+      "change": "",
+      "next": "",
+      "status": "VERIFIED",
+      "importance": 3,
+      "categories": [
+        "world"
+      ],
+      "kind": "event",
+      "entities": [
+        "צפון קוריאה",
+        "סין"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/sj5gmg5nze",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/news/world-news/other/article/21696479",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 2,
+      "firstSeen": "2026-10-24",
+      "lastUpdated": "2026-10-24"
+    },
+    {
+      "id": "netanyahu-falklands-argentina",
+      "title": "דיווח: נתניהו הורה לתמוך בעמדת ארגנטינה בסוגיית איי פוקלנד",
+      "summary": "לפי ynet, וואלה וישראל היום, נתניהו הורה לשנות את העמדה הישראלית ולתמוך בארגנטינה בוויכוח על ריבונות באיי פוקלנד. הדיווחים אינם מצוטטים ממקור רשמי, ולא פורסמה תגובה רשמית.",
+      "why": "שינוי אפשרי במדיניות החוץ הישראלית מול בריטניה.",
+      "change": "",
+      "next": "",
+      "status": "REPORTED",
+      "importance": 3,
+      "categories": [
+        "politics",
+        "israel_world"
+      ],
+      "kind": "decision",
+      "entities": [
+        "נתניהו",
+        "ארגנטינה"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/rjb3ylq3mx",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "וואלה",
+          "url": "https://www.walla.co.il/news/breaking-news/383958683",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/news/geopolitics/article/21695734",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 3,
+      "firstSeen": "2026-10-24",
+      "lastUpdated": "2026-10-24"
+    },
+    {
+      "id": "gaza-yellow-line-crossings",
+      "title": "צה\"ל: שני מחבלים שחצו את הקו הצהוב ברצועת עזה חוסלו",
+      "summary": "לפי צה\"ל, כפי שדווח בוואלה, ynet ומעריב, בשתי תקריות נפרדות בצפון הרצועה ובדרומה חצו מחבלים את הקו הצהוב וחוסלו.",
+      "why": "המשך חיכוך ביטחוני לאורך קו ההפרדה בעזה.",
+      "change": "",
+      "next": "",
+      "status": "VERIFIED",
+      "importance": 3,
+      "categories": [
+        "security"
+      ],
+      "kind": "event",
+      "entities": [
+        "עזה",
+        "חמאס"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "וואלה",
+          "url": "https://www.walla.co.il/news/breaking-news/383958684",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/h1wmseq3ge",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "מעריב",
+          "url": "https://www.maariv.co.il/breaking-news/article-1380638",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 3,
+      "firstSeen": "2026-10-24",
+      "lastUpdated": "2026-10-24"
+    }
+  ],
+  "unverified": [
+    {
+      "id": "israel-pressed-us-strike-cnn",
+      "title": "לפי CNN: ישראל לחצה על ארה\"ב לתקוף באיראן כבר עכשיו, וארה\"ב מפנה דיפלומטים",
+      "summary": "על פי דיווח של CNN, כפי שפורסם ב-ynet, וואלה ומעריב, ארה\"ב מפנה בחשאי דיפלומטים ובני משפחותיהם מהמזרח התיכון, וישראל לחצה על ארה\"ב לתקוף באיראן כבר עכשיו ללא הצלחה. אין אישור רשמי לטענה על הלחץ הישראלי.",
+      "why": "אם יתאמת, מלמד על פער בין ירושלים לוושינגטון בשאלת העיתוי של תקיפה.",
+      "change": "",
+      "next": "",
+      "status": "REPORTED",
+      "importance": 4,
+      "categories": [
+        "security",
+        "israel_world"
+      ],
+      "kind": "statement",
+      "entities": [
+        "איראן",
+        "ארצות הברית"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/h1w00zdyhgg",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "וואלה",
+          "url": "https://www.walla.co.il/news/breaking-news/383958649",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "מעריב",
+          "url": "https://www.maariv.co.il/breaking-news/article-1380596",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 3,
+      "firstSeen": "2026-10-24",
+      "lastUpdated": "2026-10-24"
+    }
+  ],
+  "filtered_out": 300,
+  "note": ""
+}

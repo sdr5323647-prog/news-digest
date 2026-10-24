@@ -1,0 +1,528 @@
+{
+  "schema": 2,
+  "date": "2026-10-24",
+  "type": "weekly",
+  "headline": "השבוע: פיגוע בהר חברון ומבצע בחברון, חשש מחידוש התקיפות באיראן ועליית הנפט, תקיפות החות'ים בסעודיה ומאבקי הבחירות בישראל.",
+  "events": [
+    {
+      "id": "yehuda-junction-shooting",
+      "title": "שני לוחמים נהרגו בפיגוע ירי בהר חברון; צה\"ל ושב\"כ פתחו במבצע של ימים בחברון",
+      "summary": "לפי ישראל היום, סמ\"ר רון יונתן רויטמן וסמל יובל שי סוילם נהרגו בפיגוע הירי בהר חברון. לפי ynet וישראל היום, צה\"ל ושב\"כ פתחו במבצע לסיכול טרור בחברון שצפוי להימשך כמה ימים; ישראל היום מדווח על סריקת כ-200 אתרים ועל מעצר 10 חשודים. אל-ג'זירה, ה-BBC והגרדיאן מדווחים על סגר על הגדה המערבית ועל הריסת מבנים בחברון.",
+      "why": "הפיגוע הקטלני הוביל למבצע צבאי נרחב ולסגר בגדה, עם השלכות ביטחוניות ומדיניות.",
+      "change": "שני לוחמים נהרגו בפיגוע בהר חברון; צה\"ל ושב\"כ פתחו במבצע בחברון והוטל סגר על הגדה.",
+      "next": "המשך המבצע בחברון בימים הקרובים.",
+      "status": "VERIFIED",
+      "importance": 5,
+      "categories": [
+        "security"
+      ],
+      "kind": "event",
+      "entities": [
+        "יהודה ושומרון",
+        "פיגועים"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/news/defense/article/21692720",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/ryhvdbf3ge",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/news/defense/article/21696720",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/24/israel-soldiers-raze-west-bank-neighbourhood-hebron-families-from-homes",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/full-lockdown-of-occupied-west-bank-begins-2",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 5,
+      "firstSeen": "2026-10-23",
+      "lastUpdated": "2026-10-24"
+    },
+    {
+      "id": "iran-gulf-threat-oil-high",
+      "title": "הנפט מעל 116 דולר לחבית על רקע חשש מחידוש תקיפות ארה\"ב באיראן",
+      "summary": "לפי הגרדיאן ו-NYT, מחיר הנפט עלה ל-116–117 דולר לחבית, השיא מאז אפריל, בגלל החשש מחידוש התקיפות האמריקאיות באיראן. לפי ynet, שגריר ארה\"ב בטורקיה טום ברק השיב כי תקיפה בסוף השבוע \"בהחלט אפשרית\", וטראמפ אמר: \"אם זה נכון, אני לא מודע לזה\". לפי אל-ג'זירה והגרדיאן, שרי חוץ מאירופה ומהמזרח התיכון קראו לארה\"ב לבחור בדיפלומטיה.",
+      "why": "חידוש הלחימה מול איראן עלול להשפיע על ביטחון ישראל ועל מחירי האנרגיה.",
+      "change": "הנפט עלה ל-116–117 דולר לחבית על רקע החשש מחידוש תקיפות ארה\"ב באיראן ואיומי איראן על מתקני נפט במפרץ.",
+      "next": "האם ארה\"ב תחדש את התקיפות באיראן.",
+      "status": "VERIFIED",
+      "importance": 5,
+      "categories": [
+        "security",
+        "economy",
+        "israel_world"
+      ],
+      "kind": "statement",
+      "entities": [
+        "איראן",
+        "ארצות הברית",
+        "נפט"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "Guardian",
+          "url": "https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "NYT",
+          "url": "https://www.nytimes.com/2026/10/23/business/energy-environment/oil-prices-iran-war.html",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/b1aamxkhge",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/23/european-middle-east-ministers-urge-us-iran-diplomacy-not-new-attacks",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 4,
+      "firstSeen": "2026-10-23",
+      "lastUpdated": "2026-10-24"
+    },
+    {
+      "id": "saudi-houthi-fighting",
+      "title": "בריטניה תשלח מטוסי קרב לסעודיה; הוועידה הכלכלית FII נדחתה בעקבות תקיפות החות'ים",
+      "summary": "לפי ynet, ישראל היום, אל-ג'זירה והגרדיאן, בריטניה תשלח מטוסי קרב לסעודיה למשימות הגנה מפני תקיפות החות'ים; ynet מסר כי בריטניה מדגישה שלא תתקוף את החות'ים. לפי NYT ואל-ג'זירה, סעודיה דחתה את ועידת ההשקעות FII. החות'ים טענו, לפי ynet, שתקפו אתר של ארמקו ושדות תעופה בסעודיה.",
+      "why": "הסלמה מול החות'ים משפיעה על יציבות המפרץ ועל שווקי האנרגיה.",
+      "change": "התקיפות החות'ים בסעודיה הובילו לגינוי מדינות המפרץ, לפריסת מטוסי קרב בריטיים ולדחיית ועידת FII.",
+      "next": "",
+      "status": "VERIFIED",
+      "importance": 4,
+      "categories": [
+        "security",
+        "world",
+        "economy"
+      ],
+      "kind": "event",
+      "entities": [
+        "החות'ים",
+        "סעודיה",
+        "בריטניה"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/news/world-news/europe/article/21668098",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/ry7iopv3me",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/20/uk-to-deploy-raf-fighter-jets-to-defend-saudi-arabia-from-houthi-attacks?traffic_source=rss",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "NYT",
+          "url": "https://www.nytimes.com/2026/10/19/business/saudi-investment-fii-houthis.html",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 4,
+      "firstSeen": "2026-10-03",
+      "lastUpdated": "2026-10-24"
+    },
+    {
+      "id": "gantz-quits-elections",
+      "title": "בני גנץ הודיע כי לא יתמודד בבחירות הקרובות",
+      "summary": "לפי ynet, וואלה, מעריב וישראל היום, יו\"ר המפלגה בני גנץ הודיע כי לא יתמודד בבחירות הקרובות. בהודעתו אמר, לפי מעריב, כי ימשיך להיאבק למען אחדות. גדי איזנקוט בירך על ההחלטה ואמר, לפי ynet, כי היא נכונה בבחירות שהוא מגדיר כגורליות.",
+      "why": "פרישת גנץ משנה את מפת המפלגות והגושים ערב הבחירות.",
+      "change": "גנץ הודיע כי לא יתמודד בבחירות.",
+      "next": "מעבר אפשרי של קולות ומתמודדים בין המפלגות ערב הבחירות.",
+      "status": "VERIFIED",
+      "importance": 4,
+      "categories": [
+        "politics"
+      ],
+      "kind": "decision",
+      "entities": [
+        "גנץ",
+        "בחירות 2026",
+        "איזנקוט"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "מעריב",
+          "url": "https://www.maariv.co.il/breaking-news/article-1378961",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "וואלה",
+          "url": "https://www.walla.co.il/news/breaking-news/383958063",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/news/politics/article/21660029",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/HykKxcQnGl",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/sport/offside/article/21656862",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/h1tkzqqhgl",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 4,
+      "firstSeen": "2026-10-19",
+      "lastUpdated": "2026-10-24"
+    },
+    {
+      "id": "trump-endorses-netanyahu",
+      "title": "טראמפ הודיע על תמיכה בנתניהו בבחירות בישראל",
+      "summary": "לפי אל-ג'זירה, ישראל היום, מעריב וynet, הנשיא טראמפ הכריז על תמיכה בראש הממשלה נתניהו לקראת הבחירות. נתניהו הגיב, לפי ynet, כי \"יש עוד משימה להשלים - חיסול האיום האיראני\". שר החוץ האיראני אמר, לפי וואלה, כי גם לאיראן \"יש חשבון פתוח\" מול טראמפ.",
+      "why": "תמיכה גלויה של נשיא ארה\"ב בראש הממשלה יכולה להשפיע על מערכת הבחירות וגם על המתח מול איראן.",
+      "change": "טראמפ הודיע על תמיכה בנתניהו בבחירות.",
+      "next": "תגובות המפלגות והתפתחות המתח מול איראן.",
+      "status": "VERIFIED",
+      "importance": 4,
+      "categories": [
+        "politics",
+        "israel_world"
+      ],
+      "kind": "statement",
+      "entities": [
+        "טראמפ",
+        "נתניהו",
+        "בחירות 2026",
+        "איראן"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/18/trump-endorses-netanyahu-in-israeli-legislative-elections",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21653076",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "מעריב",
+          "url": "https://www.maariv.co.il/breaking-news/article-1378642",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "מעריב",
+          "url": "https://www.maariv.co.il/breaking-news/article-1378707",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "מעריב",
+          "url": "https://www.maariv.co.il/breaking-news/article-1378708",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 3,
+      "firstSeen": "2026-10-19",
+      "lastUpdated": "2026-10-24"
+    },
+    {
+      "id": "hegseth-netanyahu-visit",
+      "title": "שר ההגנה האמריקאי הגסת' ביקר בחשאי בישראל ונפגש עם נתניהו",
+      "summary": "לפי דיווחים של ynet, ישראל היום, אל-ג'זירה ו-NYT, שר ההגנה האמריקאי פיט הגסת' הגיע לביקור שלא הוכרז מראש בישראל ונפגש עם ראש הממשלה נתניהו. לפי ynet, נתניהו המריא למפגש במטוס פרטי, בשעה שמתנהלים דיונים על איראן. הביקור מתקיים כשמונה ימים לפני הבחירות בישראל.",
+      "why": "הביקור מעיד על תיאום ביטחוני אמריקאי-ישראלי בנושא איראן ערב הבחירות.",
+      "change": "שר ההגנה האמריקאי הגסת' ביקר בחשאי בישראל ונפגש עם נתניהו.",
+      "next": "פרטים רשמיים על תוכן השיחות טרם פורסמו.",
+      "status": "VERIFIED",
+      "importance": 4,
+      "categories": [
+        "security",
+        "politics",
+        "israel_world"
+      ],
+      "kind": "event",
+      "entities": [
+        "נתניהו",
+        "ארצות הברית",
+        "איראן",
+        "בחירות 2026"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/news/geopolitics/article/21663679",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/rytdnz43ge",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/20/hegseth-meets-netanyahu-in-unannounced-israel-visit?traffic_source=rss",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "NYT",
+          "url": "https://www.nytimes.com/2026/10/20/world/middleeast/hegseth-netanyahu-trump-israel-election.html",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 4,
+      "firstSeen": "2026-10-20",
+      "lastUpdated": "2026-10-24"
+    },
+    {
+      "id": "us-diplomats-leave-gulf",
+      "title": "ארה\"ב הורתה לחלק מהסגל הדיפלומטי לעזוב את סעודיה ומדינות המפרץ",
+      "summary": "לפי BBC, הגרדיאן ואל-ג'זירה, ארה\"ב הורתה לחלק מהדיפלומטים בסעודיה לעזוב על רקע התקפות החות'ים. ynet וישראל היום מדווחים כי ההוראה חלה על עובדי שגרירות לא חיוניים ובני משפחותיהם במדינות המפרץ.",
+      "why": "פינוי סגל מוכר כסימן להערכת סיכון מוגברת של וושינגטון באזור.",
+      "change": "ארה\"ב הורתה לחלק מהסגל הדיפלומטי לעזוב את סעודיה ומדינות המפרץ.",
+      "next": "",
+      "status": "VERIFIED",
+      "importance": 4,
+      "categories": [
+        "security",
+        "israel_world"
+      ],
+      "kind": "decision",
+      "entities": [
+        "ארצות הברית",
+        "סעודיה",
+        "החות'ים"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6x2vpk93770o",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/22/us-diplomats-told-to-leave-saudi-arabia-amid-houthi-attacks",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/21/us-orders-departure-of-personnel-from-saudi-arabia-citing-houthi-threat",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/hk6msfu3ze",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21681039",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 5,
+      "firstSeen": "2026-10-22",
+      "lastUpdated": "2026-10-24"
+    },
+    {
+      "id": "jordan-church-shooting",
+      "title": "ירי בכנסייה בדרום ירדן: לפחות 7 הרוגים",
+      "summary": "לפי ynet, וואלה וישראל היום, לפחות שבעה בני אדם נהרגו בירי בתוך כנסייה בדרום ירדן. ה-BBC ואל-ג'זירה מדווחים על ירי של חמושים רעולי פנים באירוע לוויה, והגרדיאן מדווח על כ-40 פצועים (ynet: 28). ynet מצטט את השלטונות בירדן שפועלים ללכידת האחראים, ואבטחה תוגברה ברחבי המדינה.",
+      "why": "פיגוע רב נפגעים בשכנה של ישראל, שעלול להשפיע על היציבות האזורית.",
+      "change": "ירי בכנסייה בדרום ירדן הותיר לפחות 7 הרוגים.",
+      "next": "זהות היורים והאחראים.",
+      "status": "VERIFIED",
+      "importance": 4,
+      "categories": [
+        "world",
+        "security"
+      ],
+      "kind": "event",
+      "entities": [
+        "ירדן",
+        "פיגועים"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/byqhdxyhge",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "וואלה",
+          "url": "https://www.walla.co.il/news/breaking-news/383958623",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21693313",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/24/seven-killed-and-40-injured-after-gunmen-open-fire-at-church-funeral-in-jordan",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 5,
+      "firstSeen": "2026-10-24",
+      "lastUpdated": "2026-10-24"
+    },
+    {
+      "id": "netanyahu-pressure-small-parties",
+      "title": "מפלגת אח\"י הודיעה על פרישה מהמירוץ לכנסת",
+      "summary": "לפי ישראל היום וynet, מפלגת אח\"י הודיעה על פרישה מהמירוץ לכנסת. ynet מדווח כי בתמורה הבטיח נתניהו שהרב אברג'ל יהיה סגן שר.",
+      "why": "פרישת מפלגות קטנות משנה את מפת הגושים לקראת הבחירות.",
+      "change": "נתניהו וסמוטריץ' הפעילו לחץ על מפלגות קטנות בימין לפרוש; אח\"י הודיעה על פרישה, ולייטנר אמר שאינו פורש.",
+      "next": "האם מפלגות קטנות נוספות יפרשו.",
+      "status": "VERIFIED",
+      "importance": 3,
+      "categories": [
+        "politics"
+      ],
+      "kind": "decision",
+      "entities": [
+        "בחירות 2026",
+        "נתניהו"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/news/politics/article/21693463",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/rkgwdcuhgx",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 2,
+      "firstSeen": "2026-10-21",
+      "lastUpdated": "2026-10-24"
+    },
+    {
+      "id": "mai-golan-questioned",
+      "title": "חקירתה של השרה מאי גולן בלהב 433 הסתיימה",
+      "summary": "לפי ynet ומעריב, השרה מאי גולן זומנה היום לחקירה נוספת בלהב 433, והחקירה הסתיימה לאחר שעות ארוכות.",
+      "why": "חקירה של שרה מכהנת סמוך לבחירות.",
+      "change": "השרה מאי גולן נחקרה באזהרה בלהב 433; החקירה הסתיימה.",
+      "next": "טרם פורסם אם יוגש כתב אישום.",
+      "status": "VERIFIED",
+      "importance": 3,
+      "categories": [
+        "law",
+        "politics"
+      ],
+      "kind": "legal",
+      "entities": [
+        "מאי גולן",
+        "להב 433",
+        "בחירות 2026"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/ryavr9i3fe",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "מעריב",
+          "url": "https://www.maariv.co.il/breaking-news/article-1379890",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 2,
+      "firstSeen": "2026-10-21",
+      "lastUpdated": "2026-10-24"
+    }
+  ],
+  "unverified": [],
+  "filtered_out": 0,
+  "note": ""
+}
