@@ -2,16 +2,6 @@
  "date": "2026-10-25",
  "articles": [
   {
-   "source": "Guardian",
-   "outlet": "Guardian",
-   "title": "No unions, low taxes: why some of Britain’s top chefs are opening outposts in Gulf states",
-   "url": "https://www.theguardian.com/food/2026/oct/24/uk-tsunami-taxes-top-london-restaurants-expand-abroad",
-   "summary": "Leading restaurateur says Gulf countries actively help businesses set up, while east Asia has a better work ethic Some of London’s top restaurants are opening branches in Dubai because of a “tax tsunami” in the UK and better work ethic abroad, according to a leading restaurateur. James Robson, a co-",
-   "time": "2026-10-24T11:00:31+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
    "source": "ישראל היום",
    "outlet": "ישראל היום",
    "title": "\"בנה בן ה-6 היה כנראה עד לרצח\": עדויות השכנים של יאנה בקריית חיים",
@@ -5442,7 +5432,7 @@
    "type": "reporting"
   }
  ],
- "updated": "2026-10-25T16:28:45.331338+00:00",
+ "updated": "2026-10-25T17:01:33.522376+00:00",
  "clusters": [
   {
    "id": "d1c00cafa3",
@@ -7626,30 +7616,6 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-10-25T13:14:40+00:00"
-    }
-   ]
-  },
-  {
-   "id": "681a087ea6",
-   "title": "No unions, low taxes: why some of Britain’s top chefs are opening outposts in Gulf states",
-   "sourceCount": 1,
-   "outlets": [
-    "Guardian"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-10-24T11:00:31+00:00",
-   "lastSeen": "2026-10-24T11:00:31+00:00",
-   "articles": [
-    {
-     "source": "Guardian",
-     "title": "No unions, low taxes: why some of Britain’s top chefs are opening outposts in Gulf states",
-     "url": "https://www.theguardian.com/food/2026/oct/24/uk-tsunami-taxes-top-london-restaurants-expand-abroad",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-24T11:00:31+00:00"
     }
    ]
   },
@@ -16439,8 +16405,8 @@
   }
  ],
  "stats": {
-  "articles": 544,
-  "clusters": 419,
+  "articles": 543,
+  "clusters": 418,
   "multiSource": 25
  }
 }

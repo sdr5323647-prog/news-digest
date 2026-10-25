@@ -1,0 +1,445 @@
+{
+  "schema": 2,
+  "date": "2026-10-25",
+  "type": "daily",
+  "headline": "המבצע בחברון מתרחב והגדה נסגרת לקראת הבחירות, והפנטגון הציג לטראמפ אופציות לחידוש המלחמה באיראן.",
+  "events": [
+    {
+      "id": "yehuda-junction-shooting",
+      "title": "המבצע בחברון נמשך: עשרות חשודים נעצרו, בתי המחבלים נאטמו וישראל סוגרת את מעברי הגדה ביום הבחירות",
+      "summary": "לפי ישראל היום, מעריב וynet, צה\"ל ושב\"כ פעלו בסוף השבוע במאות יעדים ביהודה ושומרון: לפי ישראל היום נסרקו כ-200 אתרים בחברון ונעצרו 10 חשודים, ולפי מעריב נעצרו כ-40 חשודים בכ-40 כפרים. לפי ynet וישראל היום, צה\"ל אטם את בתי המחבלים שביצעו את הפיגוע. ה-BBC מדווח כי ישראל תסגור את מעברי הגדה ביום הבחירות, ואל-ג'זירה והגרדיאן מדווחים על הריסת בתים בחברון ועל פינוי של יותר מ-2,000 תושבים.",
+      "why": "המבצע הנרחב ביותר בגדה מאז הפיגוע, והסגר חל סמוך ליום הבחירות.",
+      "change": "המבצע הורחב לעשרות כפרים ונעצרו עשרות חשודים; בתי המחבלים נאטמו; דווח על סגר מעברים ליום הבחירות ועל הריסת בתים בחברון.",
+      "next": "סגירת המעברים ביום הבחירות (שלישי).",
+      "status": "VERIFIED",
+      "importance": 5,
+      "categories": [
+        "security",
+        "israel_world"
+      ],
+      "kind": "event",
+      "entities": [
+        "יהודה ושומרון",
+        "פיגועים"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/news/defense/article/21696720",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "מעריב",
+          "url": "https://www.maariv.co.il/breaking-news/article-1380787",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/sjfpkqi3me",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/24/more-than-2000-forced-from-homes-in-hebron-amid-israels-west-bank-raids",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 5,
+      "firstSeen": "2026-10-23",
+      "lastUpdated": "2026-10-25"
+    },
+    {
+      "id": "trump-iran-strike-plans",
+      "title": "וול סטריט ג'ורנל: הפנטגון הציג לטראמפ אופציות לחידוש המלחמה באיראן; טראמפ: \"לא תהיה תקיפה הלילה\"",
+      "summary": "לפי דיווח של וול סטריט ג'ורנל, כפי שפורסם ב-ynet, הפנטגון הציג לנשיא טראמפ אופציות לחידוש המלחמה נגד איראן. לפי ynet, טראמפ אמר כי לא תהיה תקיפה באיראן הלילה. אל-ג'זירה מדווחת כי טראמפ רמז שייתכן שתתרחש תקיפה ביום ראשון או שיושג הסכם, וכי לפי דיווחים ל-CENTCOM יש תוכניות תקיפה.",
+      "why": "החלטה אמריקנית על חידוש הלחימה תשפיע ישירות על ישראל, על מחירי האנרגיה ועל היציבות באזור.",
+      "change": "דיווח חדש על אופציות שהוצגו לטראמפ; טראמפ אמר שלא תהיה תקיפה הלילה ורמז לתקיפה או להסכם בקרוב.",
+      "next": "החלטת טראמפ בימים הקרובים.",
+      "status": "REPORTED",
+      "importance": 5,
+      "categories": [
+        "security",
+        "israel_world"
+      ],
+      "kind": "negotiation",
+      "entities": [
+        "איראן",
+        "ארצות הברית",
+        "טראמפ"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/hjl1hlqhge",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/hyxqsosnzg",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 2,
+      "firstSeen": "2026-10-08",
+      "lastUpdated": "2026-10-25"
+    },
+    {
+      "id": "foiled-attack-binyamin",
+      "title": "צה\"ל ושב\"כ סיכלו פיגוע בבנימין: חשוד נעצר",
+      "summary": "לפי הודעת צה\"ל ושב\"כ, כפי שדווחה במעריב, בישראל היום וב-ynet, נעצר חשוד שלפי החשד תכנן לבצע פיגוע בטווח הזמן המיידי בכביש 60 באזור בנימין.",
+      "why": "סיכול פיגוע בעיצומה של פעילות ביטחונית מוגברת ביהודה ושומרון.",
+      "change": "",
+      "next": "",
+      "status": "VERIFIED",
+      "importance": 3,
+      "categories": [
+        "security"
+      ],
+      "kind": "event",
+      "entities": [
+        "יהודה ושומרון",
+        "פיגועים"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "מעריב",
+          "url": "https://www.maariv.co.il/breaking-news/article-1381175",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/news/defense/article/21704327",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/r1qopcj2zl",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 3,
+      "firstSeen": "2026-10-25",
+      "lastUpdated": "2026-10-25"
+    },
+    {
+      "id": "eisenkot-shabak-protection",
+      "title": "איזנקוט יאובטח בידי שב\"כ החל ממחר",
+      "summary": "לפי ynet וישראל היום, מפלגתו של גדי איזנקוט מסרה כי החל ממחר האבטחה עליו תהיה באחריות שב\"כ, לאחר המלצה ועיכוב.",
+      "why": "אבטחת מועמד מרכזי שבוע לפני הבחירות.",
+      "change": "",
+      "next": "",
+      "status": "VERIFIED",
+      "importance": 3,
+      "categories": [
+        "politics",
+        "security"
+      ],
+      "kind": "decision",
+      "entities": [
+        "איזנקוט",
+        "בחירות 2026"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/news/defense/article/21697522",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/ByRUHvc3Mg",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 2,
+      "firstSeen": "2026-10-25",
+      "lastUpdated": "2026-10-25"
+    },
+    {
+      "id": "grunis-submarine-commission",
+      "title": "השופט בדימוס גרוניס פורש מראשות הוועדה הממלכתית לצוללות בשל מצבו הרפואי",
+      "summary": "לפי מעריב, ישראל היום וynet, נשיא בית המשפט העליון בדימוס אשר גרוניס פורש מתפקידו בוועדת החקירה הממלכתית לעניין הצוללות, בשל מצבו הרפואי.",
+      "why": "הוועדה נותרת בלי יו\"ר, מה שעלול להשפיע על לוחות הזמנים של החקירה.",
+      "change": "",
+      "next": "",
+      "status": "VERIFIED",
+      "importance": 3,
+      "categories": [
+        "law",
+        "politics"
+      ],
+      "kind": "decision",
+      "entities": [
+        "ועדת הצוללות",
+        "גרוניס"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "מעריב",
+          "url": "https://www.maariv.co.il/breaking-news/article-1381116",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/news/law/article/21703268",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/Syl8juo2fx",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 3,
+      "firstSeen": "2026-10-25",
+      "lastUpdated": "2026-10-25"
+    },
+    {
+      "id": "hilltop-youth-terror-demand",
+      "title": "בכירים לשעבר במערכת הביטחון קוראים להכריז על נוער הגבעות כארגון טרור",
+      "summary": "לפי ynet וישראל היום, ראשי מערכת הביטחון לשעבר פנו לנתניהו ולשר הביטחון כ\"ץ בדרישה להחיל את חוק הטרור על נוער הגבעות. הפנייה היא דרישה ציבורית, ולא החלטה.",
+      "why": "הדרישה מתפרסמת על רקע אירועי אלימות של מתנחלים קיצונים ביהודה ושומרון.",
+      "change": "",
+      "next": "",
+      "status": "VERIFIED",
+      "importance": 3,
+      "categories": [
+        "security",
+        "politics"
+      ],
+      "kind": "statement",
+      "entities": [
+        "נוער הגבעות",
+        "יהודה ושומרון"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/bjom9oi2zg",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/news/defense/article/21703229",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 2,
+      "firstSeen": "2026-10-25",
+      "lastUpdated": "2026-10-25"
+    },
+    {
+      "id": "german-nationals-security-sites",
+      "title": "שני אזרחים גרמנים נעצרו בחשד שתיעדו מתקנים ביטחוניים בישראל",
+      "summary": "לפי ynet וישראל היום, שני אזרחים גרמנים נעצרו בחשד שצילמו מתקנים ביטחוניים, ובהם הכניסה לכלא דמון.",
+      "why": "חשד לאיסוף מידע על מתקנים ביטחוניים.",
+      "change": "",
+      "next": "",
+      "status": "VERIFIED",
+      "importance": 3,
+      "categories": [
+        "security"
+      ],
+      "kind": "event",
+      "entities": [
+        "ריגול"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/b1cslni2fe",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/news/defense/article/21700501",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 2,
+      "firstSeen": "2026-10-25",
+      "lastUpdated": "2026-10-25"
+    },
+    {
+      "id": "saudi-houthi-fighting",
+      "title": "החות'ים תוקפים את סעודיה ואת עדן; נמל התעופה בריאד נפתח מחדש",
+      "summary": "אל-ג'זירה מדווחת כי החות'ים שיגרו התקפות על סעודיה ועל העיר עדן שבתימן, וכי סעודיה יירטה טילים וכטב\"מים. לפי NYT, נמל התעופה בריאד נפתח מחדש בעוד החות'ים מאיימים בהתקפות נוספות.",
+      "why": "הלחימה בחצי האי ערב משפיעה על היציבות האזורית ועל שוקי האנרגיה.",
+      "change": "סעודיה יירטה טילים וכטב\"מים נוספים; נמל התעופה בריאד נפתח מחדש.",
+      "next": "",
+      "status": "VERIFIED",
+      "importance": 3,
+      "categories": [
+        "world",
+        "security"
+      ],
+      "kind": "event",
+      "entities": [
+        "סעודיה",
+        "החות'ים"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/25/saudi-arabia-intercepts-missiles-and-drones-as-fighting-with-houthis-rages",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "NYT",
+          "url": "https://www.nytimes.com/2026/10/25/world/middleeast/saudi-arabia-riyadh-airport-reopens.html",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 2,
+      "firstSeen": "2026-10-03",
+      "lastUpdated": "2026-10-25"
+    },
+    {
+      "id": "tel-aviv-rally-against-netanyahu",
+      "title": "אלפים הפגינו בתל אביב נגד ממשלת נתניהו, ימים לפני הבחירות",
+      "summary": "לפי אל-ג'זירה והגרדיאן, אלפי ישראלים הפגינו בתל אביב נגד ממשלת נתניהו, ימים לפני הבחירות לכנסת ה-26.",
+      "why": "ההפגנה מתקיימת בשיא מערכת הבחירות.",
+      "change": "",
+      "next": "",
+      "status": "VERIFIED",
+      "importance": 3,
+      "categories": [
+        "politics"
+      ],
+      "kind": "event",
+      "entities": [
+        "נתניהו",
+        "בחירות 2026"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/24/thousands-of-israelis-rally-against-netanyahu-govt-days-before-election",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "Guardian",
+          "url": "https://www.theguardian.com/world/video/2026/oct/25/thousands-rally-against-netanyahu-in-tel-aviv-ahead-of-israeli-elections-video",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 2,
+      "firstSeen": "2026-10-25",
+      "lastUpdated": "2026-10-25"
+    }
+  ],
+  "unverified": [
+    {
+      "id": "hamas-funding-operatives-killed",
+      "title": "לטענת צה\"ל: חוסלו בעזה שני מחבלים שהעבירו מיליוני שקלים מאיראן וטורקיה לחמאס",
+      "summary": "לפי הודעת צה\"ל, כפי שדווחה ב-ynet ובמעריב, חוסלו בעזה שני מחבלים שהעבירו כספים בהיקף מיליוני שקלים מאיראן ומטורקיה לזרוע הצבאית של חמאס. הטענה מגיעה מהצבא בלבד ולא אומתה ממקור עצמאי.",
+      "why": "אם הטענה נכונה, היא מצביעה על ערוצי מימון חיצוניים של חמאס.",
+      "change": "",
+      "next": "",
+      "status": "CLAIM",
+      "importance": 4,
+      "categories": [
+        "security"
+      ],
+      "kind": "statement",
+      "entities": [
+        "עזה",
+        "חמאס"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/h18wyso3ml",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "מעריב",
+          "url": "https://www.maariv.co.il/breaking-news/article-1381037",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 2,
+      "firstSeen": "2026-10-25",
+      "lastUpdated": "2026-10-25"
+    },
+    {
+      "id": "gaza-reconstruction-postponed",
+      "title": "דיווח: נתניהו דחה לאחר הבחירות שורת מהלכים בעזה, ובהם שיקום",
+      "summary": "לפי דיווח של ישראל היום, נתניהו דחה לאחר הבחירות שורת מהלכים ברצועת עזה, וגם נשמעו ביקורות על כך שאין שיקום ללא פירוז. הדיווח התבסס על מקור יחיד ולא אומת.",
+      "why": "הדחייה משפיעה על המתווה המדיני והאזרחי בעזה.",
+      "change": "",
+      "next": "",
+      "status": "REPORTED",
+      "importance": 3,
+      "categories": [
+        "politics",
+        "security"
+      ],
+      "kind": "decision",
+      "entities": [
+        "עזה",
+        "נתניהו"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/news/defense/article/21697827",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 1,
+      "firstSeen": "2026-10-25",
+      "lastUpdated": "2026-10-25"
+    }
+  ],
+  "filtered_out": 20,
+  "note": ""
+}
