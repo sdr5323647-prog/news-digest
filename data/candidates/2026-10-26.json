@@ -2,26 +2,6 @@
  "date": "2026-10-26",
  "articles": [
   {
-   "source": "NYT",
-   "outlet": "NYT",
-   "title": "Netanyahu Is Up for Re-election After Years of War. How Will Voters See Him?",
-   "url": "https://www.nytimes.com/2026/10/24/world/middleeast/netanyahu-has-reinvented-himself-will-voters-think-its-enough.html",
-   "summary": "The Oct. 7 attacks marred Prime Minister Benjamin Netanyahu’s image as Mr. Security. Ahead of elections, he’s trying to sell Israelis on the new, hawkish version of himself.",
-   "time": "2026-10-24T17:45:17+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
-   "source": "NYT",
-   "outlet": "NYT",
-   "title": "Israeli Settlers Turn a Palestinian Rite Into a Gantlet of Violence and Fear",
-   "url": "https://www.nytimes.com/2026/10/23/world/middleeast/west-bank-settlers-palestinians-harvest.html",
-   "summary": "This year’s olive harvest in the Israeli-occupied West Bank is the most violent in years, as settlers have attacked farmers and besieged homes, drawing condemnation from U.S. officials and others.",
-   "time": "2026-10-24T19:31:56+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
    "source": "BBC",
    "outlet": "BBC",
    "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
@@ -1922,12 +1902,72 @@
    "type": "reporting"
   },
   {
+   "source": "מעריב",
+   "outlet": "מעריב",
+   "title": "\"אני כאן. איתכם\": מנהיגת האופוזיציה מצ'אדו חזרה לוונצואלה - לאחר 10 חודשי גלות",
+   "url": "https://www.maariv.co.il/breaking-news/article-1381306",
+   "summary": "",
+   "time": "2026-10-25T23:21:24+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
    "source": "ynet",
    "outlet": "ynet",
    "title": "בכיר במשטרה: רה\"מ הביע חשש מפעילי שמאל קיצוני, וביקש \"קשב מיוחד\"",
    "url": "https://www.ynet.co.il/news/article/byoyzx2nzl",
    "summary": "",
    "time": "2026-10-25T23:21:41+02:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Venezuela’s opposition leader Machado returns after months in exile",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/venezuelas-opposition-leader-machado-returns-after-months-in-exile?traffic_source=rss",
+   "summary": "Venezuela’s opposition leader and Nobel Peace Prize winner Maria Corina Machado returned home after more than 10 months.",
+   "time": "2026-10-25T23:23:25+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "טראמפ: \"הצביעו לנתניהו, חייבים לסיים את העבודה\"",
+   "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21707189",
+   "summary": "טראמפ הציג את הפעולות נגד איראן כהישג משותף והצהיר כי צבאה וכלכלתה מרוסקים • ברקע: דיווח באקסיוס כי נתניהו ביקש מהנשיא להגביר את תמיכתו הפומבית בו, טענה שהוכחשה בליכוד",
+   "time": "2026-10-25T23:28:59+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Thousands protest in Prague against public media funding reforms",
+   "url": "https://www.aljazeera.com/news/2026/10/25/thousands-protest-in-prague-against-public-media-funding-reforms?traffic_source=rss",
+   "summary": "Demonstrators allege Prime Minister Andrej Babis and his coalition&#039;s proposed reforms pose a threat to press freedom.",
+   "time": "2026-10-25T23:29:13+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "מעריב",
+   "outlet": "מעריב",
+   "title": "אחרי ספירת כ-48% מהקולות בברזיל: לולה חוזר להוביל בפער זעום",
+   "url": "https://www.maariv.co.il/breaking-news/article-1381307",
+   "summary": "",
+   "time": "2026-10-25T23:33:41+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Ballon d’Or 2026: Can Barcelona phenom Lamine Yamal become youngest winner?",
+   "url": "https://www.aljazeera.com/sports/2026/10/25/ballon-dor-2026-can-barcelona-phenom-lamine-yamal-become-youngest-winner?traffic_source=rss",
+   "summary": "Still a teenager, Yamal could surpass Brazilian legend Ronaldo Nazario, who won the Ballon d&#039;Or at the age of 21.",
+   "time": "2026-10-25T23:38:57+00:00",
    "tier": 2,
    "type": "reporting"
   },
@@ -1952,12 +1992,112 @@
    "type": "reporting"
   },
   {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "דרמה בברזיל: לאחר מהפכים בספירה - לולה נבחר לכהונה נוספת",
+   "url": "https://www.israelhayom.co.il/news/world-news/article/21707205",
+   "summary": "הנשיא המכהן גבר על פלאביו בולסונארו בתום מרוץ צמוד ורווי מהפכים • בנו של הנשיא לשעבר הבטיח להעביר את שגרירות ברזיל לירושלים אם ייבחר • ניצחונו של לולה, שהשווה בעבר את המלחמה בעזה לשואה, צפוי להותיר את היחסים עם ישראל מתוחים",
+   "time": "2026-10-25T23:55:50+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Iran war live: Saudi forces attack Sanaa after Houthis target Riyadh",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/10/26/iran-war-live-trump-rules-out-strikes-today-israeli-forces-raid-hebron?traffic_source=rss",
+   "summary": "Saudi-led coalition says missiles launchers and tunnels in Yemen destroyed after Houthis targeted Riyadh airport.",
+   "time": "2026-10-26T00:00:00+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Trump escalates anti-Muslim rhetoric in fierce attack on El-Sayed",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/trump-escalates-anti-muslim-rhetoric-in-fierce-attack-on-el-sayed?traffic_source=rss",
+   "summary": "Trump has launched another fierce anti-Muslim attack on Democratic Senate candidate Abdul El-Sayed.",
+   "time": "2026-10-26T00:02:55+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "מעריב",
+   "outlet": "מעריב",
+   "title": "דיווח: אחרי ספירת כ-83% מהקולות - לולה מוביל ב-3 מיליון קולות בבחירות לנשיאות ברזיל",
+   "url": "https://www.maariv.co.il/breaking-news/article-1381308",
+   "summary": "",
+   "time": "2026-10-26T00:12:34+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Lula holds off far right with victory in Brazil presidential election",
+   "url": "https://www.aljazeera.com/news/2026/10/26/lula-holds-off-far-right-with-victory-in-brazil-presidential-election?traffic_source=rss",
+   "summary": "Leftist president mounts stunning comeback after unexpected first-round loss galvanised supporters of Flavio Bolsonaro.",
+   "time": "2026-10-26T00:16:29+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "מעריב",
+   "outlet": "מעריב",
+   "title": "הבטיח כהונה רביעית: המבקר הגדול של ישראל זכה בבחירות לנשיאות ברזיל",
+   "url": "https://www.maariv.co.il/breaking-news/article-1381309",
+   "summary": "",
+   "time": "2026-10-26T00:18:22+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "מהפכת הסטודנטים הסרבית: כך הפיל האסון בתחנת הרכבת את השלטון",
+   "url": "https://www.israelhayom.co.il/news/world-news/article/21707223",
+   "summary": "קריסת גג בטון בתחנת הרכבת בנובי סאד, שבה נהרגו 16 בני אדם, הציתה מחאה שהפכה בתוך שנתיים לתנועה המונית, ואתמול היא הביסה את אלכסנדר ווצ'יץ' בבחירות • לסטודנטים אין מנהיג קבוע, ועדיין לא ברור מי יעמוד בראש הממשלה החדשה • ווצ'יץ' נחשב לידיד קרוב של ישראל, ואילו הסטודנטים כמעט לא אמרו דבר על מדיניות החו",
+   "time": "2026-10-26T00:31:18+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
    "source": "ynet",
    "outlet": "ynet",
    "title": "הבחירות בברזיל: כ-13% מהקולות נספרו, בולסונרו מצמצם את הפער מול הנשיא לולה",
    "url": "https://www.ynet.co.il/news/article/skq6pbhnfl",
    "summary": "",
    "time": "2026-10-26T00:54:03+02:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "כמעט 11 מיליון צפיות: הטריק שהופך קלמנטינה קפואה לקינוח נדיר",
+   "url": "https://www.israelhayom.co.il/news/trending-online/article/21707270",
+   "summary": "נמאס לכם לקלף קלמנטינות ולנקות את הידיים אחר כך? כמה שעות במקפיא הופכות אותה לסורבה טבעי, והפלחים יוצאים מהקליפה בתנועה אחת",
+   "time": "2026-10-26T00:54:44+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Serbia celebrates historic election win for student-backed movement",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/serbia-celebrates-historic-election-win-for-student-backed-movement?traffic_source=rss",
+   "summary": "Celebrations erupted across Belgrade as Serbia&#039;s student-backed movement claimed a major election victory",
+   "time": "2026-10-26T00:58:21+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "היא תפסה את בעלה בוגד - והחליטה לפתוח בית בושת: מה חדש בטלוויזיה",
+   "url": "https://www.israelhayom.co.il/culture/tv/article/21701180",
+   "summary": "כוכבת \"עמוק באדמה\" מובילה דרמה קומית ניו זילנדית בהשראת סיפור אמיתי על אישה שמקימה בית בושת פמיניסטי, נטפליקס משיקה קומדיה על בני נוער העובדים בפיצרייה, פארקר פוזי מנחה תחרות ריאליטי בהשראת סרטי מאפיה, עונה חדשה של \"סיפון תחתון הים התיכון\" ועוד תכנים שעולים היום (שני) בטלוויזיה בישראל",
+   "time": "2026-10-26T01:00:00+00:00",
    "tier": 2,
    "type": "reporting"
   },
@@ -1970,10 +2110,408 @@
    "time": "2026-10-26T01:01:39+02:00",
    "tier": 2,
    "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Netanyahu rival Eisenkot holds final rally before Israeli election",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/netanyahu-rival-eisenkot-holds-final-rally-before-israeli-election?traffic_source=rss",
+   "summary": "Gadi Eisenkot, Benjamin Netanyahu’s rival in Israel’s upcoming election, held his final campaign rally on Sunday.",
+   "time": "2026-10-26T01:02:57+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "המועמד הפרו-ישראלי בברזיל על ניצחון לולה: \"אבקש לבטל את הבחירות\"",
+   "url": "https://www.israelhayom.co.il/news/world-news/article/21707284",
+   "summary": "פלאביו בולסונארו מסרב להכיר בניצחון של לולה בגלל הארכת ההצבעה ברגע האחרון: \"קרה כאן משהו שאין לו הסבר\" • לולה, שפיגר בסיבוב הראשון, נבחר לכהונה רביעית אחרי שבועיים דרמטיים בהם הצליח להעיר את \"בייס\" המצביעים שלו • גל ניצחונות הימין נבלם בברזיליה, אכזבה בירושלים",
+   "time": "2026-10-26T01:20:57+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "טראמפ על ניקי מינאז': \"ישבן יפהפה\" | והתפקיד שמיועד לה בבית הלבן",
+   "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21707307",
+   "summary": "נשיא ארה\"ב החמיא לישבנה של הראפרית במהלך עצרת בחירות, לאחר שהתבדח על התבטאות דומה כלפי סנאטור רפובליקני • במקביל, בכירים בבית הלבן העלו את שמה כמועמדת לתפקיד דוברת הנשיא • בינתיים לא ברור אם מדובר בהצעה רצינית או בהלצה",
+   "time": "2026-10-26T01:54:55+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Two storms slam northern Europe, cut power to 150,000 homes",
+   "url": "https://www.aljazeera.com/news/2026/10/26/two-storms-slam-northern-europe-cut-power-to-150000-homes?traffic_source=rss",
+   "summary": "Storms Boelo and Austen kill a man in Scotland and cut electricity to homes in the UK, France and Germany.",
+   "time": "2026-10-26T02:04:31+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "דרמה בבחירות בברזיל: הנשיא לולה הביס את מנהיג הימין הפרו-ישראלי",
+   "url": "https://www.ynet.co.il/news/article/by6d3fh2ml",
+   "summary": "",
+   "time": "2026-10-26T02:18:52+02:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "חדשות לחולי הקרוהן: הטיפול שיאפשר להתחיל בזריקה במקום בעירוי",
+   "url": "https://www.israelhayom.co.il/health/article/21707343",
+   "summary": "רשות התרופות האמריקאית אישרה להתחיל טיפול בסקיריזי בזריקות מתחת לעור במקום עירויים לווריד • בניסוי שנערך יותר ממחצית המטופלים הגיעו להפוגה תוך 12 שבועות",
+   "time": "2026-10-26T02:33:02+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "מתחילים להרגיש את החורף? השינוי שמגיע לישראל",
+   "url": "https://www.israelhayom.co.il/weather/article/21707362",
+   "summary": "היום תחול יציבות בטמפרטורות, אך משעות אחר הצהריים ייתכנו גשמים מקומיים בדרום • מחר הגשמים יתחזקו וילוו בסופות רעמים, רוחות חזקות וברד • השירות המטאורולוגי מזהיר מפני שיטפונות משמעותיים בנחלי דרום הנגב, הערבה וים המלח",
+   "time": "2026-10-26T02:53:54+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Seoul ‘fabricated” landmine blast, North Korea tells UN in letter",
+   "url": "https://www.aljazeera.com/news/2026/10/26/seoul-fabricated-landmine-blast-north-korea-tells-un-in-letter?traffic_source=rss",
+   "summary": "South Korea blames Pyongyang for September landmine blast, but North Korea says incident a &#039;sinister obstructive move&#039;.",
+   "time": "2026-10-26T02:55:15+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Brazil election results 2026: Key takeaways from Lula’s historic win",
+   "url": "https://www.aljazeera.com/news/2026/10/26/brazil-election-2026-key-takeaways-from-lulas-historic-win?traffic_source=rss",
+   "summary": "Lula wins a fourth term after a dramatic run-off marred by voting confusion and allegations of interference.",
+   "time": "2026-10-26T02:59:50+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Lula thanks Brazil’s youth for historic election win",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/lula-thanks-brazils-youth-for-historic-election-win?traffic_source=rss",
+   "summary": "Brazil’s President Luiz Inacio Lula da Silva has won an unprecedented fourth term.",
+   "time": "2026-10-26T03:14:26+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "הטריק הגאוני שחוסך 80% מהמקום: הסוד של קובץ ה-ZIP",
+   "url": "https://www.israelhayom.co.il/tech/tech-news/article/21699164",
+   "summary": "קובצי ארכיון דיגיטליים מצליחים לכווץ תיקיות ענק בשיעור של עשרות אחוזים, אך בעת פתיחתם אף לא פסיק אחד הולך לאיבוד • מבט מעמיק אל המתמטיקה של תורת האינפורמציה ומהעבודת הסמסטר של סטודנט ב-MIT ששינתה את עולם המחשוב לנצח • וגם: האלגוריתם הגאוני שמחליף את הבזבוז ההיסטורי של שפת המחשב",
+   "time": "2026-10-26T03:22:00+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "בלי רשתות חברתיות, עם אותן מלחמות: כך נראו פעם הבחירות",
+   "url": "https://www.israelhayom.co.il/news/politics/article/21706667",
+   "summary": "הבטחות שאפשר לזרוק לפח, פוליטיקאים במטחנה, קריקטורות עוקצניות, מאבקים אידיאולוגיים, מפלגת נשים ועצרות של בגין שאסור היה להכניס אליהן ילדים • כרזות ישנות חושפות - כך נראו הבחירות בראשית ימי המדינה",
+   "time": "2026-10-26T03:25:00+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "ליברמן מסבך את בנט ואיזנקוט: המכשול שעלול לעלות לגוש השינוי בבחירות",
+   "url": "https://www.israelhayom.co.il/news/politics/article/21706053",
+   "summary": "ממשלת מיעוט בתמיכת רע\"מ, חקיקה נגד נתניהו או בחירות חוזרות – כל התרחישים עדיין פתוחים • ההתעקשות של ליברמן עלולה לטרפד את האפשרות להקים ממשלה, ובגוש הימין מזהים הזדמנות לבלום את יריביהם ולשנות את מפת הבחירות",
+   "time": "2026-10-26T03:30:00+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Ballon d’Or 2026 predictions: Yamal, Mbappe and Kane – who will win?",
+   "url": "https://www.aljazeera.com/sports/2026/10/26/ballon-dor-2026-predictions-yamal-mbappe-kane-who-will-win?traffic_source=rss",
+   "summary": "The winner of the 2026 Ballon d&#039;Or will be crowned at Monday&#039;s gala in London, the first time it has been held in Britain.",
+   "time": "2026-10-26T03:34:59+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "לולה נשא נאום ניצחון: \"מנענו התערבות זרה, ברזיל היא לא החצר האחורית של אף אחד\"",
+   "url": "https://www.ynet.co.il/news/article/s1serxhhge",
+   "summary": "",
+   "time": "2026-10-26T03:45:48+02:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "7 באוקטובר, הבידוד והקרע בעם: איך נתניהו שוב הפך את הבחירות לקרב על עצמו?",
+   "url": "https://www.israelhayom.co.il/news/politics/article/21706180",
+   "summary": "שני עשורים של פוליטיקה סביב אדם אחד מגיעים שוב לנקודת הכרעה • למרות הכישלון ב־7 באוקטובר והאתגרים המדיניים והביטחוניים, נתניהו הצליח לשקם את מעמדו בקרב תומכיו • האם ישראל תצליח להשתחרר מהמעגל הזה, או שהבחירות יעמיקו את המשבר?",
+   "time": "2026-10-26T03:50:00+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "World reacts to Lula’s victory in Brazil’s presidential election",
+   "url": "https://www.aljazeera.com/news/2026/10/26/world-reacts-to-lulas-victory-in-brazilian-presidential-race?traffic_source=rss",
+   "summary": "International leaders and politicians congratulate the Brazilian president on his re-election.",
+   "time": "2026-10-26T03:50:12+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "ביטחון, חינוך, משפט, כלכלה ודת-ומדינה: הסוגיות הבוערות שמחכות לממשלה הבאה",
+   "url": "https://www.israelhayom.co.il/news/local/article/21704744",
+   "summary": "מחר ייצאו הישראלים אל הקלפי, ולנציגים שהם יבחרו ממתינים לא מעט אתגרים בכל תחומי חיינו - בביטחון, בחינוך, בכלכלה ובמשפט • ממשלה חדשה, משימות ישנות: כתבה מיוחדת לקראת יום הבחירות",
+   "time": "2026-10-26T03:58:00+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "NYT",
+   "outlet": "NYT",
+   "title": "Israeli Jews Across the Spectrum Face an Election of Fears",
+   "url": "https://www.nytimes.com/2026/10/26/world/middleeast/israel-election-stakes.html",
+   "summary": "Supporters and opponents of Prime Minister Benjamin Netanyahu have expressed intense anxieties about isolation abroad, security at home and the future of Israel’s identity.",
+   "time": "2026-10-26T04:01:08+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Trump dials up Islamophobia at Michigan Senate rally against Abdul El-Sayed",
+   "url": "https://www.aljazeera.com/news/2026/10/26/trump-dials-up-islamophobia-at-michigan-senate-rally-against-abdul-el-sayed?traffic_source=rss",
+   "summary": "Al Jazeera looks at the key takeaways from the US president&#039;s campaign event in Michigan ahead of the midterm vote.",
+   "time": "2026-10-26T04:03:28+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "US military says it helped Gulf states export 1.5 billion barrels of oil",
+   "url": "https://www.aljazeera.com/economy/2026/10/26/us-military-says-it-helped-gulf-states-export-1-5-billion-barrels-of-oil?traffic_source=rss",
+   "summary": "US Central Command says more than 3,000 commercial vessels have transited the Strait of Hormuz with its support.",
+   "time": "2026-10-26T04:05:44+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "‏קללות, פתקים פסולים ומצלמות נסתרות: הסודות של עובדי הקלפי",
+   "url": "https://www.israelhayom.co.il/news/geopolitics/article/21660012",
+   "summary": "‏ארבעה נציגים לשעבר חושפים את מה שקורה באמת מאחורי הפרגוד • מהוויכוחים הסוערים בין בני זוג ועד לניסיונות זיוף והשחתה בספירת הקולות • הדרמות, הרגעים המצחיקים והטיפים למי שמתכנן לעבוד ביום הבוחר",
+   "time": "2026-10-26T04:07:00+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "הטעות שתעלה לכם ביוקר: 8 דברים שאסור לשים בכיס המושב",
+   "url": "https://www.israelhayom.co.il/travel/aviation/article/21703418",
+   "summary": "מומחי תעופה מזהירים מפני ההרגל המגונה של נוסעים רבים שמשתמשים בתא האחסון בגב המושב • מסכנת התלקחות סוללות באוויר, דרך אובדן חפצים יקרים ועד לזיהום מחריד",
+   "time": "2026-10-26T04:10:00+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "בולסונרו: \"בלתי אפשרי להכיר בתוצאות הבחירות בברזיל. נבקש שיבוטלו\"",
+   "url": "https://www.ynet.co.il/news/article/rkhy0043nfl",
+   "summary": "",
+   "time": "2026-10-26T04:20:11+02:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Attackers kill nurse, injure health worker responding to DRC Ebola case",
+   "url": "https://www.aljazeera.com/news/2026/10/26/attackers-kill-nurse-injure-health-worker-responding-to-drc-ebola-case?traffic_source=rss",
+   "summary": "The attack in eastern Dr Congo is the latest on health workers and responders to the deadly Ebola outbreak.",
+   "time": "2026-10-26T04:21:26+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "חיים לוינסון חושף מדוע לא יצביע ליאיר גולן: \"לא יכול לתת לזה יד בשם ערכי השמאל\"",
+   "url": "https://www.israelhayom.co.il/news/trending-online/article/21707401",
+   "summary": "יממה לפני הבחירות, העיתונאי הודיע כי יצביע לרע\"ם ותקף בחריפות את יו\"ר הדמוקרטים • על כוונתו לסגור את ערוץ 14: \"זה מעשה אנטי-דמוקרטי, זה פאשיסטי\" • על התנהלות מפלגתו: \"במקומות מסוימים זה אסון אידיאולוגי\"",
+   "time": "2026-10-26T04:28:01+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "US appeals court sceptical of Trump’s lawsuit over California voter rolls",
+   "url": "https://www.aljazeera.com/news/2026/10/26/us-appeals-court-sceptical-of-trumps-lawsuit-over-california-voter-rolls?traffic_source=rss",
+   "summary": "Judge questions Trump-led effort to exert greater influence over elections process ahead of upcoming midterm vote.",
+   "time": "2026-10-26T04:32:48+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Bolsonaro calls for Brazil election result to be annulled",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/bolsonaro-calls-for-brazil-election-result-to-be-annulled?traffic_source=rss",
+   "summary": "Brazil’s right-wing Senator Flavio Bolsonaro has called for the presidential election result to be ‘annulled’.",
+   "time": "2026-10-26T04:36:46+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "גבר נפצע קשה באירוע אלימות בטבריה",
+   "url": "https://www.ynet.co.il/news/article/bjg28r33fe",
+   "summary": "",
+   "time": "2026-10-26T05:20:10+02:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "ירדן: עצרנו את 3 מבצעי הפיגוע בכנסייה - שנפצעו קשה בעימות עם כוחות הביטחון",
+   "url": "https://www.ynet.co.il/news/article/syoc00l3hfl",
+   "summary": "",
+   "time": "2026-10-26T06:37:52+02:00",
+   "tier": 2,
+   "type": "reporting"
   }
  ],
- "updated": "2026-10-25T23:18:43.673135+00:00",
+ "updated": "2026-10-26T04:54:19.488968+00:00",
  "clusters": [
+  {
+   "id": "3e2cf84d96",
+   "title": "סרביה: הנשיא לשעבר והאיש החזק במדינה בשנים האחרונות, אלכסנדר ווצ'יץ', הודה בהפסד בבחירות לפרלמנט",
+   "sourceCount": 3,
+   "outlets": [
+    "ynet",
+    "ישראל היום",
+    "מעריב"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 15,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-25T20:34:12+00:00",
+   "lastSeen": "2026-10-26T04:20:11+02:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "מהפך בסרביה: המנהיג הפרו-ישראלי הובס בידי תנועת הסטודנטים",
+     "url": "https://www.israelhayom.co.il/news/world-news/europe/article/21706271",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-25T20:34:12+00:00"
+    },
+    {
+     "source": "ישראל היום",
+     "title": "ההצבעה הוארכה, הספירה בעיצומה, לולה מאשים: \"תכסיסים מלוכלכים\" | הדרמה בברזיל",
+     "url": "https://www.israelhayom.co.il/news/world-news/article/21706733",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-25T20:48:59+00:00"
+    },
+    {
+     "source": "מעריב",
+     "title": "סרביה: הנשיא לשעבר והאיש החזק במדינה בשנים האחרונות, אלכסנדר ווצ'יץ', הודה בהפסד בבחירות לפרלמנט",
+     "url": "https://www.maariv.co.il/breaking-news/article-1381285",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-25T20:49:22+00:00"
+    },
+    {
+     "source": "מעריב",
+     "title": "בחירות לנשיאות ברזיל: הקלפיות נסגרו; החלה ספירת הקולות",
+     "url": "https://www.maariv.co.il/breaking-news/article-1381302",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-25T22:30:03+00:00"
+    },
+    {
+     "source": "ynet",
+     "title": "ראש הממשלה הפרו ישראלי של סרביה הפסיד בבחירות לפרלמנט",
+     "url": "https://www.ynet.co.il/news/article/sk2ekk2nmg",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-25T22:57:04+02:00"
+    },
+    {
+     "source": "מעריב",
+     "title": "אחרי ספירת מעל 20% מהקולות: בולסונארו עוקף את לולה בבחירות לנשיאות",
+     "url": "https://www.maariv.co.il/breaking-news/article-1381304",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-25T23:01:08+00:00"
+    },
+    {
+     "source": "מעריב",
+     "title": "אחרי ספירת כ-48% מהקולות בברזיל: לולה חוזר להוביל בפער זעום",
+     "url": "https://www.maariv.co.il/breaking-news/article-1381307",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-25T23:33:41+00:00"
+    },
+    {
+     "source": "ישראל היום",
+     "title": "דרמה בברזיל: לאחר מהפכים בספירה - לולה נבחר לכהונה נוספת",
+     "url": "https://www.israelhayom.co.il/news/world-news/article/21707205",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-25T23:55:50+00:00"
+    },
+    {
+     "source": "מעריב",
+     "title": "דיווח: אחרי ספירת כ-83% מהקולות - לולה מוביל ב-3 מיליון קולות בבחירות לנשיאות ברזיל",
+     "url": "https://www.maariv.co.il/breaking-news/article-1381308",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-26T00:12:34+00:00"
+    },
+    {
+     "source": "מעריב",
+     "title": "הבטיח כהונה רביעית: המבקר הגדול של ישראל זכה בבחירות לנשיאות ברזיל",
+     "url": "https://www.maariv.co.il/breaking-news/article-1381309",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-26T00:18:22+00:00"
+    }
+   ]
+  },
   {
    "id": "932c922449",
    "title": "צה\"ל ושב\"כ: נעצר מחבל שלפי החשד תכנן לבצע פיגוע בטווח הזמן המיידי",
@@ -2055,48 +2593,6 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-10-25T20:02:56+02:00"
-    }
-   ]
-  },
-  {
-   "id": "3e2cf84d96",
-   "title": "סרביה: הנשיא לשעבר והאיש החזק במדינה בשנים האחרונות, אלכסנדר ווצ'יץ', הודה בהפסד בבחירות לפרלמנט",
-   "sourceCount": 3,
-   "outlets": [
-    "ynet",
-    "ישראל היום",
-    "מעריב"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 3,
-   "opinionOnly": false,
-   "firstSeen": "2026-10-25T20:34:12+00:00",
-   "lastSeen": "2026-10-25T22:57:04+02:00",
-   "articles": [
-    {
-     "source": "ישראל היום",
-     "title": "מהפך בסרביה: המנהיג הפרו-ישראלי הובס בידי תנועת הסטודנטים",
-     "url": "https://www.israelhayom.co.il/news/world-news/europe/article/21706271",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-25T20:34:12+00:00"
-    },
-    {
-     "source": "מעריב",
-     "title": "סרביה: הנשיא לשעבר והאיש החזק במדינה בשנים האחרונות, אלכסנדר ווצ'יץ', הודה בהפסד בבחירות לפרלמנט",
-     "url": "https://www.maariv.co.il/breaking-news/article-1381285",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-25T20:49:22+00:00"
-    },
-    {
-     "source": "ynet",
-     "title": "ראש הממשלה הפרו ישראלי של סרביה הפסיד בבחירות לפרלמנט",
-     "url": "https://www.ynet.co.il/news/article/sk2ekk2nmg",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-25T22:57:04+02:00"
     }
    ]
   },
@@ -2225,47 +2721,6 @@
    ]
   },
   {
-   "id": "e2040c2a35",
-   "title": "הבחירות בברזיל: כ-13% מהקולות נספרו, בולסונרו מצמצם את הפער מול הנשיא לולה",
-   "sourceCount": 2,
-   "outlets": [
-    "ynet",
-    "מעריב"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 3,
-   "opinionOnly": false,
-   "firstSeen": "2026-10-25T22:30:03+00:00",
-   "lastSeen": "2026-10-26T00:54:03+02:00",
-   "articles": [
-    {
-     "source": "מעריב",
-     "title": "בחירות לנשיאות ברזיל: הקלפיות נסגרו; החלה ספירת הקולות",
-     "url": "https://www.maariv.co.il/breaking-news/article-1381302",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-25T22:30:03+00:00"
-    },
-    {
-     "source": "מעריב",
-     "title": "אחרי ספירת מעל 20% מהקולות: בולסונארו עוקף את לולה בבחירות לנשיאות",
-     "url": "https://www.maariv.co.il/breaking-news/article-1381304",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-25T23:01:08+00:00"
-    },
-    {
-     "source": "ynet",
-     "title": "הבחירות בברזיל: כ-13% מהקולות נספרו, בולסונרו מצמצם את הפער מול הנשיא לולה",
-     "url": "https://www.ynet.co.il/news/article/skq6pbhnfl",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-26T00:54:03+02:00"
-    }
-   ]
-  },
-  {
    "id": "32151483ad",
    "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
    "sourceCount": 2,
@@ -2299,6 +2754,39 @@
    ]
   },
   {
+   "id": "21aa2438c8",
+   "title": "Thousands rally against Netanyahu in Tel Aviv ahead of Israeli elections – video",
+   "sourceCount": 2,
+   "outlets": [
+    "Al Jazeera",
+    "Guardian"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 2,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-25T15:35:04+00:00",
+   "lastSeen": "2026-10-26T01:02:57+00:00",
+   "articles": [
+    {
+     "source": "Guardian",
+     "title": "Thousands rally against Netanyahu in Tel Aviv ahead of Israeli elections – video",
+     "url": "https://www.theguardian.com/world/video/2026/oct/25/thousands-rally-against-netanyahu-in-tel-aviv-ahead-of-israeli-elections-video",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-25T15:35:04+00:00"
+    },
+    {
+     "source": "Al Jazeera",
+     "title": "Netanyahu rival Eisenkot holds final rally before Israeli election",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/netanyahu-rival-eisenkot-holds-final-rally-before-israeli-election?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-26T01:02:57+00:00"
+    }
+   ]
+  },
+  {
    "id": "72dee42c50",
    "title": "אחרי הודעת טראמפ על דחיית התקיפה - התיעוד של F-35 נוחת על נושאת מטוסים",
    "sourceCount": 2,
@@ -2328,6 +2816,39 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-10-25T18:18:15+02:00"
+    }
+   ]
+  },
+  {
+   "id": "04d9b89515",
+   "title": "\"אני כאן. איתכם\": מנהיגת האופוזיציה מצ'אדו חזרה לוונצואלה - לאחר 10 חודשי גלות",
+   "sourceCount": 2,
+   "outlets": [
+    "ישראל היום",
+    "מעריב"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 2,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-25T17:41:13+00:00",
+   "lastSeen": "2026-10-25T23:21:24+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "האתגר הגדול מאז נפילת מדורו: מנהיגת האופוזיציה חזרה לוונצואלה",
+     "url": "https://www.israelhayom.co.il/news/world-news/other/article/21705682",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-25T17:41:13+00:00"
+    },
+    {
+     "source": "מעריב",
+     "title": "\"אני כאן. איתכם\": מנהיגת האופוזיציה מצ'אדו חזרה לוונצואלה - לאחר 10 חודשי גלות",
+     "url": "https://www.maariv.co.il/breaking-news/article-1381306",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-25T23:21:24+00:00"
     }
    ]
   },
@@ -2427,6 +2948,39 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-10-25T21:23:08+02:00"
+    }
+   ]
+  },
+  {
+   "id": "68a81b1e40",
+   "title": "Saudi Arabia Reopens Riyadh Airport Even as Houthis Threaten Further Strikes",
+   "sourceCount": 2,
+   "outlets": [
+    "Al Jazeera",
+    "NYT"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 2,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-25T21:39:45+00:00",
+   "lastSeen": "2026-10-26T00:00:00+00:00",
+   "articles": [
+    {
+     "source": "NYT",
+     "title": "Saudi Arabia Reopens Riyadh Airport Even as Houthis Threaten Further Strikes",
+     "url": "https://www.nytimes.com/2026/10/25/world/middleeast/saudi-arabia-riyadh-airport-reopens.html",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-25T21:39:45+00:00"
+    },
+    {
+     "source": "Al Jazeera",
+     "title": "Iran war live: Saudi forces attack Sanaa after Houthis target Riyadh",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/10/26/iran-war-live-trump-rules-out-strikes-today-israeli-forces-raid-hebron?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-26T00:00:00+00:00"
     }
    ]
   },
@@ -2560,6 +3114,86 @@
    ]
   },
   {
+   "id": "3bf4623a77",
+   "title": "Brazil election results 2026 live: Vote counting begins for Lula, Bolsonaro",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 8,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-25T19:19:54+00:00",
+   "lastSeen": "2026-10-26T04:36:46+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "Serbia’s Vucic concedes election defeat to student-led movement",
+     "url": "https://www.aljazeera.com/news/2026/10/25/serbia-voter-turnout-highest-in-decades-as-students-oppose-longtime-leader?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-25T19:19:54+00:00"
+    },
+    {
+     "source": "Al Jazeera",
+     "title": "Brazil election results 2026 live: Vote counting begins for Lula, Bolsonaro",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/10/25/brazil-election-results-2026-live-polls-close-in-lula-bolsonaro-face-off?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-25T20:00:04+00:00"
+    },
+    {
+     "source": "Al Jazeera",
+     "title": "Lula holds off far right with victory in Brazil presidential election",
+     "url": "https://www.aljazeera.com/news/2026/10/26/lula-holds-off-far-right-with-victory-in-brazil-presidential-election?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-26T00:16:29+00:00"
+    },
+    {
+     "source": "Al Jazeera",
+     "title": "Serbia celebrates historic election win for student-backed movement",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/serbia-celebrates-historic-election-win-for-student-backed-movement?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-26T00:58:21+00:00"
+    },
+    {
+     "source": "Al Jazeera",
+     "title": "Brazil election results 2026: Key takeaways from Lula’s historic win",
+     "url": "https://www.aljazeera.com/news/2026/10/26/brazil-election-2026-key-takeaways-from-lulas-historic-win?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-26T02:59:50+00:00"
+    },
+    {
+     "source": "Al Jazeera",
+     "title": "Lula thanks Brazil’s youth for historic election win",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/lula-thanks-brazils-youth-for-historic-election-win?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-26T03:14:26+00:00"
+    },
+    {
+     "source": "Al Jazeera",
+     "title": "World reacts to Lula’s victory in Brazil’s presidential election",
+     "url": "https://www.aljazeera.com/news/2026/10/26/world-reacts-to-lulas-victory-in-brazilian-presidential-race?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-26T03:50:12+00:00"
+    },
+    {
+     "source": "Al Jazeera",
+     "title": "Bolsonaro calls for Brazil election result to be annulled",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/bolsonaro-calls-for-brazil-election-result-to-be-annulled?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-26T04:36:46+00:00"
+    }
+   ]
+  },
+  {
    "id": "7b7527f38e",
    "title": "כביש 6 במנהרת רכסים נחסם משני הכיוונים בעקבות מיגונית שנפלה ממשאית",
    "sourceCount": 1,
@@ -2612,6 +3246,46 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-10-25T21:14:49+02:00"
+    }
+   ]
+  },
+  {
+   "id": "5bbfa8cb39",
+   "title": "Ballon d’Or 2026: Can Barcelona phenom Lamine Yamal become youngest winner?",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 3,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-25T18:34:19+00:00",
+   "lastSeen": "2026-10-26T03:34:59+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "When is the 2026 Ballon d’Or, who are the favourites, and how can you watch it?",
+     "url": "https://www.aljazeera.com/sports/2026/10/25/when-is-the-2026-ballon-dor-who-are-the-favourites-and-how-can-you-watch-it?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-25T18:34:19+00:00"
+    },
+    {
+     "source": "Al Jazeera",
+     "title": "Ballon d’Or 2026: Can Barcelona phenom Lamine Yamal become youngest winner?",
+     "url": "https://www.aljazeera.com/sports/2026/10/25/ballon-dor-2026-can-barcelona-phenom-lamine-yamal-become-youngest-winner?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-25T23:38:57+00:00"
+    },
+    {
+     "source": "Al Jazeera",
+     "title": "Ballon d’Or 2026 predictions: Yamal, Mbappe and Kane – who will win?",
+     "url": "https://www.aljazeera.com/sports/2026/10/26/ballon-dor-2026-predictions-yamal-mbappe-kane-who-will-win?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-26T03:34:59+00:00"
     }
    ]
   },
@@ -2776,6 +3450,70 @@
    ]
   },
   {
+   "id": "41297b247f",
+   "title": "Venezuela’s opposition leader Maria Corina Machado returns from exile",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 2,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-25T18:55:39+00:00",
+   "lastSeen": "2026-10-25T23:23:25+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "Venezuela’s opposition leader Maria Corina Machado returns from exile",
+     "url": "https://www.aljazeera.com/news/2026/10/25/venezuelas-opposition-leader-maria-corina-machado-returns-from-exile?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-25T18:55:39+00:00"
+    },
+    {
+     "source": "Al Jazeera",
+     "title": "Venezuela’s opposition leader Machado returns after months in exile",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/venezuelas-opposition-leader-machado-returns-after-months-in-exile?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-25T23:23:25+00:00"
+    }
+   ]
+  },
+  {
+   "id": "5fcd237239",
+   "title": "US appeals court sceptical of Trump’s lawsuit over California voter rolls",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 2,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-25T21:29:23+00:00",
+   "lastSeen": "2026-10-26T04:32:48+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "Trump VS California",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/trump-vs-california?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-25T21:29:23+00:00"
+    },
+    {
+     "source": "Al Jazeera",
+     "title": "US appeals court sceptical of Trump’s lawsuit over California voter rolls",
+     "url": "https://www.aljazeera.com/news/2026/10/26/us-appeals-court-sceptical-of-trumps-lawsuit-over-california-voter-rolls?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-26T04:32:48+00:00"
+    }
+   ]
+  },
+  {
    "id": "d72c94e3f4",
    "title": "Marine Le Pen vows French ‘renaissance’ as far right eyes seat of power",
    "sourceCount": 1,
@@ -2808,50 +3546,34 @@
    ]
   },
   {
-   "id": "0d168ffe94",
-   "title": "Netanyahu Is Up for Re-election After Years of War. How Will Voters See Him?",
+   "id": "64088e7869",
+   "title": "Trump dials up Islamophobia at Michigan Senate rally against Abdul El-Sayed",
    "sourceCount": 1,
    "outlets": [
-    "NYT"
+    "Al Jazeera"
    ],
    "bestTier": 2,
    "hasOfficial": false,
-   "reportingCount": 1,
+   "reportingCount": 2,
    "opinionOnly": false,
-   "firstSeen": "2026-10-24T17:45:17+00:00",
-   "lastSeen": "2026-10-24T17:45:17+00:00",
+   "firstSeen": "2026-10-26T00:02:55+00:00",
+   "lastSeen": "2026-10-26T04:03:28+00:00",
    "articles": [
     {
-     "source": "NYT",
-     "title": "Netanyahu Is Up for Re-election After Years of War. How Will Voters See Him?",
-     "url": "https://www.nytimes.com/2026/10/24/world/middleeast/netanyahu-has-reinvented-himself-will-voters-think-its-enough.html",
+     "source": "Al Jazeera",
+     "title": "Trump escalates anti-Muslim rhetoric in fierce attack on El-Sayed",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/trump-escalates-anti-muslim-rhetoric-in-fierce-attack-on-el-sayed?traffic_source=rss",
      "tier": 2,
      "type": "reporting",
-     "time": "2026-10-24T17:45:17+00:00"
-    }
-   ]
-  },
-  {
-   "id": "d4be895486",
-   "title": "Israeli Settlers Turn a Palestinian Rite Into a Gantlet of Violence and Fear",
-   "sourceCount": 1,
-   "outlets": [
-    "NYT"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-10-24T19:31:56+00:00",
-   "lastSeen": "2026-10-24T19:31:56+00:00",
-   "articles": [
+     "time": "2026-10-26T00:02:55+00:00"
+    },
     {
-     "source": "NYT",
-     "title": "Israeli Settlers Turn a Palestinian Rite Into a Gantlet of Violence and Fear",
-     "url": "https://www.nytimes.com/2026/10/23/world/middleeast/west-bank-settlers-palestinians-harvest.html",
+     "source": "Al Jazeera",
+     "title": "Trump dials up Islamophobia at Michigan Senate rally against Abdul El-Sayed",
+     "url": "https://www.aljazeera.com/news/2026/10/26/trump-dials-up-islamophobia-at-michigan-senate-rally-against-abdul-el-sayed?traffic_source=rss",
      "tier": 2,
      "type": "reporting",
-     "time": "2026-10-24T19:31:56+00:00"
+     "time": "2026-10-26T04:03:28+00:00"
     }
    ]
   },
@@ -3404,30 +4126,6 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-10-25T15:33:38+00:00"
-    }
-   ]
-  },
-  {
-   "id": "21aa2438c8",
-   "title": "Thousands rally against Netanyahu in Tel Aviv ahead of Israeli elections – video",
-   "sourceCount": 1,
-   "outlets": [
-    "Guardian"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-10-25T15:35:04+00:00",
-   "lastSeen": "2026-10-25T15:35:04+00:00",
-   "articles": [
-    {
-     "source": "Guardian",
-     "title": "Thousands rally against Netanyahu in Tel Aviv ahead of Israeli elections – video",
-     "url": "https://www.theguardian.com/world/video/2026/oct/25/thousands-rally-against-netanyahu-in-tel-aviv-ahead-of-israeli-elections-video",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-25T15:35:04+00:00"
     }
    ]
   },
@@ -4536,30 +5234,6 @@
    ]
   },
   {
-   "id": "04d9b89515",
-   "title": "האתגר הגדול מאז נפילת מדורו: מנהיגת האופוזיציה חזרה לוונצואלה",
-   "sourceCount": 1,
-   "outlets": [
-    "ישראל היום"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-10-25T17:41:13+00:00",
-   "lastSeen": "2026-10-25T17:41:13+00:00",
-   "articles": [
-    {
-     "source": "ישראל היום",
-     "title": "האתגר הגדול מאז נפילת מדורו: מנהיגת האופוזיציה חזרה לוונצואלה",
-     "url": "https://www.israelhayom.co.il/news/world-news/other/article/21705682",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-25T17:41:13+00:00"
-    }
-   ]
-  },
-  {
    "id": "fa0e00bde1",
    "title": "\"החוצה מה שלא שייך\": ראפרית דרכה על דגל ישראל | צפו",
    "sourceCount": 1,
@@ -4968,30 +5642,6 @@
    ]
   },
   {
-   "id": "5bbfa8cb39",
-   "title": "When is the 2026 Ballon d’Or, who are the favourites, and how can you watch it?",
-   "sourceCount": 1,
-   "outlets": [
-    "Al Jazeera"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-10-25T18:34:19+00:00",
-   "lastSeen": "2026-10-25T18:34:19+00:00",
-   "articles": [
-    {
-     "source": "Al Jazeera",
-     "title": "When is the 2026 Ballon d’Or, who are the favourites, and how can you watch it?",
-     "url": "https://www.aljazeera.com/sports/2026/10/25/when-is-the-2026-ballon-dor-who-are-the-favourites-and-how-can-you-watch-it?traffic_source=rss",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-25T18:34:19+00:00"
-    }
-   ]
-  },
-  {
    "id": "99ba08188c",
    "title": "בעקבות הביקורת על הממשלה: שיר אלמליח לא מתנצלת",
    "sourceCount": 1,
@@ -5088,30 +5738,6 @@
    ]
   },
   {
-   "id": "41297b247f",
-   "title": "Venezuela’s opposition leader Maria Corina Machado returns from exile",
-   "sourceCount": 1,
-   "outlets": [
-    "Al Jazeera"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-10-25T18:55:39+00:00",
-   "lastSeen": "2026-10-25T18:55:39+00:00",
-   "articles": [
-    {
-     "source": "Al Jazeera",
-     "title": "Venezuela’s opposition leader Maria Corina Machado returns from exile",
-     "url": "https://www.aljazeera.com/news/2026/10/25/venezuelas-opposition-leader-maria-corina-machado-returns-from-exile?traffic_source=rss",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-25T18:55:39+00:00"
-    }
-   ]
-  },
-  {
    "id": "ceaf364ff4",
    "title": "מנהיג יהודי בריטניה משגר מסר לישראל: \"אם תרצו, אין זו אגדה\"",
    "sourceCount": 1,
@@ -5180,30 +5806,6 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-10-25T19:03:43+02:00"
-    }
-   ]
-  },
-  {
-   "id": "3bf4623a77",
-   "title": "Serbia’s Vucic concedes election defeat to student-led movement",
-   "sourceCount": 1,
-   "outlets": [
-    "Al Jazeera"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-10-25T19:19:54+00:00",
-   "lastSeen": "2026-10-25T19:19:54+00:00",
-   "articles": [
-    {
-     "source": "Al Jazeera",
-     "title": "Serbia’s Vucic concedes election defeat to student-led movement",
-     "url": "https://www.aljazeera.com/news/2026/10/25/serbia-voter-turnout-highest-in-decades-as-students-oppose-longtime-leader?traffic_source=rss",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-25T19:19:54+00:00"
     }
    ]
   },
@@ -5400,30 +6002,6 @@
    ]
   },
   {
-   "id": "16ac4cf9e6",
-   "title": "Brazil election results 2026 live: Vote counting begins for Lula, Bolsonaro",
-   "sourceCount": 1,
-   "outlets": [
-    "Al Jazeera"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-10-25T20:00:04+00:00",
-   "lastSeen": "2026-10-25T20:00:04+00:00",
-   "articles": [
-    {
-     "source": "Al Jazeera",
-     "title": "Brazil election results 2026 live: Vote counting begins for Lula, Bolsonaro",
-     "url": "https://www.aljazeera.com/news/liveblog/2026/10/25/brazil-election-results-2026-live-polls-close-in-lula-bolsonaro-face-off?traffic_source=rss",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-25T20:00:04+00:00"
-    }
-   ]
-  },
-  {
    "id": "b052e62b72",
    "title": "Uriel Simon, Biblical Scholar and ‘Noted Religious Dove,’ Dies at 97",
    "sourceCount": 1,
@@ -5516,30 +6094,6 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-10-25T20:38:11+00:00"
-    }
-   ]
-  },
-  {
-   "id": "7c50f62aee",
-   "title": "ההצבעה הוארכה, הספירה בעיצומה, לולה מאשים: \"תכסיסים מלוכלכים\" | הדרמה בברזיל",
-   "sourceCount": 1,
-   "outlets": [
-    "ישראל היום"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-10-25T20:48:59+00:00",
-   "lastSeen": "2026-10-25T20:48:59+00:00",
-   "articles": [
-    {
-     "source": "ישראל היום",
-     "title": "ההצבעה הוארכה, הספירה בעיצומה, לולה מאשים: \"תכסיסים מלוכלכים\" | הדרמה בברזיל",
-     "url": "https://www.israelhayom.co.il/news/world-news/article/21706733",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-25T20:48:59+00:00"
     }
    ]
   },
@@ -5660,54 +6214,6 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-10-25T21:09:50+00:00"
-    }
-   ]
-  },
-  {
-   "id": "5fcd237239",
-   "title": "Trump VS California",
-   "sourceCount": 1,
-   "outlets": [
-    "Al Jazeera"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-10-25T21:29:23+00:00",
-   "lastSeen": "2026-10-25T21:29:23+00:00",
-   "articles": [
-    {
-     "source": "Al Jazeera",
-     "title": "Trump VS California",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/trump-vs-california?traffic_source=rss",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-25T21:29:23+00:00"
-    }
-   ]
-  },
-  {
-   "id": "68a81b1e40",
-   "title": "Saudi Arabia Reopens Riyadh Airport Even as Houthis Threaten Further Strikes",
-   "sourceCount": 1,
-   "outlets": [
-    "NYT"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-10-25T21:39:45+00:00",
-   "lastSeen": "2026-10-25T21:39:45+00:00",
-   "articles": [
-    {
-     "source": "NYT",
-     "title": "Saudi Arabia Reopens Riyadh Airport Even as Houthis Threaten Further Strikes",
-     "url": "https://www.nytimes.com/2026/10/25/world/middleeast/saudi-arabia-riyadh-airport-reopens.html",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-25T21:39:45+00:00"
     }
    ]
   },
@@ -5928,6 +6434,54 @@
    ]
   },
   {
+   "id": "247417f124",
+   "title": "טראמפ: \"הצביעו לנתניהו, חייבים לסיים את העבודה\"",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-25T23:28:59+00:00",
+   "lastSeen": "2026-10-25T23:28:59+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "טראמפ: \"הצביעו לנתניהו, חייבים לסיים את העבודה\"",
+     "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21707189",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-25T23:28:59+00:00"
+    }
+   ]
+  },
+  {
+   "id": "16675e491c",
+   "title": "Thousands protest in Prague against public media funding reforms",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-25T23:29:13+00:00",
+   "lastSeen": "2026-10-25T23:29:13+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "Thousands protest in Prague against public media funding reforms",
+     "url": "https://www.aljazeera.com/news/2026/10/25/thousands-protest-in-prague-against-public-media-funding-reforms?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-25T23:29:13+00:00"
+    }
+   ]
+  },
+  {
    "id": "e9d5b50c1b",
    "title": "דיווח: טראמפ רוצה לקדם את ראש ממשלת הונגריה לשעבר לתפקיד מזכ\"ל האו\"ם",
    "sourceCount": 1,
@@ -5948,6 +6502,510 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-10-25T23:45:28+02:00"
+    }
+   ]
+  },
+  {
+   "id": "8297ae891b",
+   "title": "מהפכת הסטודנטים הסרבית: כך הפיל האסון בתחנת הרכבת את השלטון",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-26T00:31:18+00:00",
+   "lastSeen": "2026-10-26T00:31:18+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "מהפכת הסטודנטים הסרבית: כך הפיל האסון בתחנת הרכבת את השלטון",
+     "url": "https://www.israelhayom.co.il/news/world-news/article/21707223",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-26T00:31:18+00:00"
+    }
+   ]
+  },
+  {
+   "id": "4382b03cac",
+   "title": "כמעט 11 מיליון צפיות: הטריק שהופך קלמנטינה קפואה לקינוח נדיר",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-26T00:54:44+00:00",
+   "lastSeen": "2026-10-26T00:54:44+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "כמעט 11 מיליון צפיות: הטריק שהופך קלמנטינה קפואה לקינוח נדיר",
+     "url": "https://www.israelhayom.co.il/news/trending-online/article/21707270",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-26T00:54:44+00:00"
+    }
+   ]
+  },
+  {
+   "id": "b408e06e78",
+   "title": "היא תפסה את בעלה בוגד - והחליטה לפתוח בית בושת: מה חדש בטלוויזיה",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-26T01:00:00+00:00",
+   "lastSeen": "2026-10-26T01:00:00+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "היא תפסה את בעלה בוגד - והחליטה לפתוח בית בושת: מה חדש בטלוויזיה",
+     "url": "https://www.israelhayom.co.il/culture/tv/article/21701180",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-26T01:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "2db20315c2",
+   "title": "טראמפ על ניקי מינאז': \"ישבן יפהפה\" | והתפקיד שמיועד לה בבית הלבן",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-26T01:54:55+00:00",
+   "lastSeen": "2026-10-26T01:54:55+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "טראמפ על ניקי מינאז': \"ישבן יפהפה\" | והתפקיד שמיועד לה בבית הלבן",
+     "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21707307",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-26T01:54:55+00:00"
+    }
+   ]
+  },
+  {
+   "id": "16a43bd4ae",
+   "title": "Two storms slam northern Europe, cut power to 150,000 homes",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-26T02:04:31+00:00",
+   "lastSeen": "2026-10-26T02:04:31+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "Two storms slam northern Europe, cut power to 150,000 homes",
+     "url": "https://www.aljazeera.com/news/2026/10/26/two-storms-slam-northern-europe-cut-power-to-150000-homes?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-26T02:04:31+00:00"
+    }
+   ]
+  },
+  {
+   "id": "e73c3132e4",
+   "title": "חדשות לחולי הקרוהן: הטיפול שיאפשר להתחיל בזריקה במקום בעירוי",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-26T02:33:02+00:00",
+   "lastSeen": "2026-10-26T02:33:02+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "חדשות לחולי הקרוהן: הטיפול שיאפשר להתחיל בזריקה במקום בעירוי",
+     "url": "https://www.israelhayom.co.il/health/article/21707343",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-26T02:33:02+00:00"
+    }
+   ]
+  },
+  {
+   "id": "3d23d844ae",
+   "title": "מתחילים להרגיש את החורף? השינוי שמגיע לישראל",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-26T02:53:54+00:00",
+   "lastSeen": "2026-10-26T02:53:54+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "מתחילים להרגיש את החורף? השינוי שמגיע לישראל",
+     "url": "https://www.israelhayom.co.il/weather/article/21707362",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-26T02:53:54+00:00"
+    }
+   ]
+  },
+  {
+   "id": "a567d6b0dc",
+   "title": "Seoul ‘fabricated” landmine blast, North Korea tells UN in letter",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-26T02:55:15+00:00",
+   "lastSeen": "2026-10-26T02:55:15+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "Seoul ‘fabricated” landmine blast, North Korea tells UN in letter",
+     "url": "https://www.aljazeera.com/news/2026/10/26/seoul-fabricated-landmine-blast-north-korea-tells-un-in-letter?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-26T02:55:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": "3e335a4c4b",
+   "title": "הטריק הגאוני שחוסך 80% מהמקום: הסוד של קובץ ה-ZIP",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-26T03:22:00+00:00",
+   "lastSeen": "2026-10-26T03:22:00+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "הטריק הגאוני שחוסך 80% מהמקום: הסוד של קובץ ה-ZIP",
+     "url": "https://www.israelhayom.co.il/tech/tech-news/article/21699164",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-26T03:22:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "297c99bbaf",
+   "title": "בלי רשתות חברתיות, עם אותן מלחמות: כך נראו פעם הבחירות",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-26T03:25:00+00:00",
+   "lastSeen": "2026-10-26T03:25:00+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "בלי רשתות חברתיות, עם אותן מלחמות: כך נראו פעם הבחירות",
+     "url": "https://www.israelhayom.co.il/news/politics/article/21706667",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-26T03:25:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "5493bbe1a5",
+   "title": "ליברמן מסבך את בנט ואיזנקוט: המכשול שעלול לעלות לגוש השינוי בבחירות",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-26T03:30:00+00:00",
+   "lastSeen": "2026-10-26T03:30:00+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "ליברמן מסבך את בנט ואיזנקוט: המכשול שעלול לעלות לגוש השינוי בבחירות",
+     "url": "https://www.israelhayom.co.il/news/politics/article/21706053",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-26T03:30:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "d5da4eadcb",
+   "title": "7 באוקטובר, הבידוד והקרע בעם: איך נתניהו שוב הפך את הבחירות לקרב על עצמו?",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-26T03:50:00+00:00",
+   "lastSeen": "2026-10-26T03:50:00+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "7 באוקטובר, הבידוד והקרע בעם: איך נתניהו שוב הפך את הבחירות לקרב על עצמו?",
+     "url": "https://www.israelhayom.co.il/news/politics/article/21706180",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-26T03:50:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "f7dbf42976",
+   "title": "ביטחון, חינוך, משפט, כלכלה ודת-ומדינה: הסוגיות הבוערות שמחכות לממשלה הבאה",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-26T03:58:00+00:00",
+   "lastSeen": "2026-10-26T03:58:00+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "ביטחון, חינוך, משפט, כלכלה ודת-ומדינה: הסוגיות הבוערות שמחכות לממשלה הבאה",
+     "url": "https://www.israelhayom.co.il/news/local/article/21704744",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-26T03:58:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "c38640ac6a",
+   "title": "Israeli Jews Across the Spectrum Face an Election of Fears",
+   "sourceCount": 1,
+   "outlets": [
+    "NYT"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-26T04:01:08+00:00",
+   "lastSeen": "2026-10-26T04:01:08+00:00",
+   "articles": [
+    {
+     "source": "NYT",
+     "title": "Israeli Jews Across the Spectrum Face an Election of Fears",
+     "url": "https://www.nytimes.com/2026/10/26/world/middleeast/israel-election-stakes.html",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-26T04:01:08+00:00"
+    }
+   ]
+  },
+  {
+   "id": "6144e963cc",
+   "title": "US military says it helped Gulf states export 1.5 billion barrels of oil",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-26T04:05:44+00:00",
+   "lastSeen": "2026-10-26T04:05:44+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "US military says it helped Gulf states export 1.5 billion barrels of oil",
+     "url": "https://www.aljazeera.com/economy/2026/10/26/us-military-says-it-helped-gulf-states-export-1-5-billion-barrels-of-oil?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-26T04:05:44+00:00"
+    }
+   ]
+  },
+  {
+   "id": "adf9ac2b76",
+   "title": "‏קללות, פתקים פסולים ומצלמות נסתרות: הסודות של עובדי הקלפי",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-26T04:07:00+00:00",
+   "lastSeen": "2026-10-26T04:07:00+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "‏קללות, פתקים פסולים ומצלמות נסתרות: הסודות של עובדי הקלפי",
+     "url": "https://www.israelhayom.co.il/news/geopolitics/article/21660012",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-26T04:07:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "6168763910",
+   "title": "הטעות שתעלה לכם ביוקר: 8 דברים שאסור לשים בכיס המושב",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-26T04:10:00+00:00",
+   "lastSeen": "2026-10-26T04:10:00+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "הטעות שתעלה לכם ביוקר: 8 דברים שאסור לשים בכיס המושב",
+     "url": "https://www.israelhayom.co.il/travel/aviation/article/21703418",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-26T04:10:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "ce50004f9b",
+   "title": "Attackers kill nurse, injure health worker responding to DRC Ebola case",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-26T04:21:26+00:00",
+   "lastSeen": "2026-10-26T04:21:26+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "Attackers kill nurse, injure health worker responding to DRC Ebola case",
+     "url": "https://www.aljazeera.com/news/2026/10/26/attackers-kill-nurse-injure-health-worker-responding-to-drc-ebola-case?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-26T04:21:26+00:00"
+    }
+   ]
+  },
+  {
+   "id": "c5cf4d0129",
+   "title": "חיים לוינסון חושף מדוע לא יצביע ליאיר גולן: \"לא יכול לתת לזה יד בשם ערכי השמאל\"",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-26T04:28:01+00:00",
+   "lastSeen": "2026-10-26T04:28:01+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "חיים לוינסון חושף מדוע לא יצביע ליאיר גולן: \"לא יכול לתת לזה יד בשם ערכי השמאל\"",
+     "url": "https://www.israelhayom.co.il/news/trending-online/article/21707401",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-26T04:28:01+00:00"
+    }
+   ]
+  },
+  {
+   "id": "d08f2d1520",
+   "title": "גבר נפצע קשה באירוע אלימות בטבריה",
+   "sourceCount": 1,
+   "outlets": [
+    "ynet"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-26T05:20:10+02:00",
+   "lastSeen": "2026-10-26T05:20:10+02:00",
+   "articles": [
+    {
+     "source": "ynet",
+     "title": "גבר נפצע קשה באירוע אלימות בטבריה",
+     "url": "https://www.ynet.co.il/news/article/bjg28r33fe",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-26T05:20:10+02:00"
+    }
+   ]
+  },
+  {
+   "id": "f1a1341858",
+   "title": "ירדן: עצרנו את 3 מבצעי הפיגוע בכנסייה - שנפצעו קשה בעימות עם כוחות הביטחון",
+   "sourceCount": 1,
+   "outlets": [
+    "ynet"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-26T06:37:52+02:00",
+   "lastSeen": "2026-10-26T06:37:52+02:00",
+   "articles": [
+    {
+     "source": "ynet",
+     "title": "ירדן: עצרנו את 3 מבצעי הפיגוע בכנסייה - שנפצעו קשה בעימות עם כוחות הביטחון",
+     "url": "https://www.ynet.co.il/news/article/syoc00l3hfl",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-26T06:37:52+02:00"
     }
    ]
   },
@@ -6049,8 +7107,8 @@
   }
  ],
  "stats": {
-  "articles": 197,
-  "clusters": 156,
-  "multiSource": 13
+  "articles": 241,
+  "clusters": 175,
+  "multiSource": 15
  }
 }
