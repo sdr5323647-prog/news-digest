@@ -2,26 +2,6 @@
  "date": "2026-10-26",
  "articles": [
   {
-   "source": "NYT",
-   "outlet": "NYT",
-   "title": "Israel’s High-Stakes Election: What to Know",
-   "url": "https://www.nytimes.com/2026/10/25/world/middleeast/israels-high-stakes-election-what-to-know.html",
-   "summary": "Israelis head to the polls on Tuesday for an election that will determine the country’s next prime minister. But it can take weeks, months or longer to form a new government.",
-   "time": "2026-10-25T09:01:00+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
-   "source": "NYT",
-   "outlet": "NYT",
-   "title": "The Expat Voters Hoping to Swing Israel’s Election",
-   "url": "https://www.nytimes.com/video/world/middleeast/100000011225659/expat-voters-israel-election.html",
-   "summary": "The return of thousands of Israeli expats to vote in their country’s tight election has set off debate over their political influence. We traveled to Tel Aviv to find out why.",
-   "time": "2026-10-25T09:01:42+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
    "source": "Guardian",
    "outlet": "Guardian",
    "title": "‘A hidden tradition’: Benjamin Moser wants you to know Jewish anti-Zionism is not new",
@@ -4512,7 +4492,7 @@
    "type": "reporting"
   }
  ],
- "updated": "2026-10-26T13:11:30.081137+00:00",
+ "updated": "2026-10-26T17:01:51.618241+00:00",
  "clusters": [
   {
    "id": "932c922449",
@@ -4975,48 +4955,6 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-10-26T10:21:20+02:00"
-    }
-   ]
-  },
-  {
-   "id": "e7bc0b9c95",
-   "title": "What you need to know about the most consequential election in Israel’s history",
-   "sourceCount": 3,
-   "outlets": [
-    "BBC",
-    "Guardian",
-    "NYT"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 3,
-   "opinionOnly": false,
-   "firstSeen": "2026-10-25T09:01:00+00:00",
-   "lastSeen": "2026-10-26T12:17:58+00:00",
-   "articles": [
-    {
-     "source": "NYT",
-     "title": "Israel’s High-Stakes Election: What to Know",
-     "url": "https://www.nytimes.com/2026/10/25/world/middleeast/israels-high-stakes-election-what-to-know.html",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-25T09:01:00+00:00"
-    },
-    {
-     "source": "BBC",
-     "title": "Why Israel's election is one of the most important in its history",
-     "url": "https://www.bbc.co.uk/news/videos/c64g1wje3jjwo?at_medium=RSS&at_campaign=rss",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-25T22:05:30+00:00"
-    },
-    {
-     "source": "Guardian",
-     "title": "What you need to know about the most consequential election in Israel’s history",
-     "url": "https://www.theguardian.com/world/2026/oct/26/what-you-need-to-know-about-the-most-consequential-election-in-israels-history",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-26T12:17:58+00:00"
     }
    ]
   },
@@ -5623,6 +5561,39 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-10-25T23:47:14+02:00"
+    }
+   ]
+  },
+  {
+   "id": "b3a8a79ad8",
+   "title": "What you need to know about the most consequential election in Israel’s history",
+   "sourceCount": 2,
+   "outlets": [
+    "BBC",
+    "Guardian"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 2,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-25T22:05:30+00:00",
+   "lastSeen": "2026-10-26T12:17:58+00:00",
+   "articles": [
+    {
+     "source": "BBC",
+     "title": "Why Israel's election is one of the most important in its history",
+     "url": "https://www.bbc.co.uk/news/videos/c64g1wje3jjwo?at_medium=RSS&at_campaign=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-25T22:05:30+00:00"
+    },
+    {
+     "source": "Guardian",
+     "title": "What you need to know about the most consequential election in Israel’s history",
+     "url": "https://www.theguardian.com/world/2026/oct/26/what-you-need-to-know-about-the-most-consequential-election-in-israels-history",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-26T12:17:58+00:00"
     }
    ]
   },
@@ -6696,30 +6667,6 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-10-26T11:59:40+00:00"
-    }
-   ]
-  },
-  {
-   "id": "b37a6ad989",
-   "title": "The Expat Voters Hoping to Swing Israel’s Election",
-   "sourceCount": 1,
-   "outlets": [
-    "NYT"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-10-25T09:01:42+00:00",
-   "lastSeen": "2026-10-25T09:01:42+00:00",
-   "articles": [
-    {
-     "source": "NYT",
-     "title": "The Expat Voters Hoping to Swing Israel’s Election",
-     "url": "https://www.nytimes.com/video/world/middleeast/100000011225659/expat-voters-israel-election.html",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-25T09:01:42+00:00"
     }
    ]
   },
@@ -13325,8 +13272,8 @@
   }
  ],
  "stats": {
-  "articles": 451,
-  "clusters": 327,
+  "articles": 449,
+  "clusters": 326,
   "multiSource": 33
  }
 }

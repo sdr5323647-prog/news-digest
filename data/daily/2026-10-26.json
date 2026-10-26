@@ -1,0 +1,486 @@
+{
+  "schema": 2,
+  "date": "2026-10-26",
+  "type": "daily",
+  "headline": "לולה ניצח בברזיל, וצ'יץ' הפסיד בסרביה, ליבר הורשע בפרשת הצוללות והמבצע בחברון נמשך ערב הבחירות בישראל.",
+  "events": [
+    {
+      "id": "brazil-election-lula",
+      "title": "לולה זכה בבחירות לנשיאות ברזיל לכהונה נוספת",
+      "summary": "לפי אל-ג'זירה, ynet וישראל היום, הנשיא לולה דה סילבה ניצח בבחירות לנשיאות ברזיל מול מנהיג הימין בולסונארו, לאחר ספירה שבה התחלפה ההובלה כמה פעמים. ynet מציין כי היריב מזוהה כפרו-ישראלי, ולפי ישראל היום הוא הודיע שיבקש לבטל את הבחירות.",
+      "why": "ברזיל היא המדינה הגדולה בדרום אמריקה, ותוצאת הבחירות משפיעה על יחסיה עם ישראל ועם ארה\"ב.",
+      "change": "",
+      "next": "בחינת טענות היריב לביטול הבחירות.",
+      "status": "VERIFIED",
+      "importance": 4,
+      "categories": [
+        "world",
+        "politics"
+      ],
+      "kind": "event",
+      "entities": [
+        "ברזיל",
+        "בחירות בעולם"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "אל-ג'זירה",
+          "url": "https://www.aljazeera.com/news/2026/10/26/lula-holds-off-far-right-with-victory-in-brazil-presidential-election",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/by6d3fh2ml",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/news/world-news/article/21707205",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 3,
+      "firstSeen": "2026-10-26",
+      "lastUpdated": "2026-10-26"
+    },
+    {
+      "id": "liber-submarine-conviction",
+      "title": "צחי ליבר, יועץ התקשורת, הורשע בתיווך לשוחד ובהלבנת הון בפרשת הצוללות",
+      "summary": "לפי ynet, וואלה וישראל היום, יועץ התקשורת צחי ליבר הורשע בתיווך לשוחד ובהלבנת הון במסגרת פרשת הצוללות.",
+      "why": "הפרשה נוגעת לעסקאות הצוללות, והרשעה בה היא התפתחות משפטית משמעותית.",
+      "change": "",
+      "next": "",
+      "status": "VERIFIED",
+      "importance": 4,
+      "categories": [
+        "law",
+        "politics"
+      ],
+      "kind": "legal",
+      "entities": [
+        "פרשת הצוללות",
+        "ועדת הצוללות"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/skvpd32hmg",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "וואלה",
+          "url": "https://www.walla.co.il/news/breaking-news/383958972",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/news/crime/article/21710311",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 3,
+      "firstSeen": "2026-10-26",
+      "lastUpdated": "2026-10-26"
+    },
+    {
+      "id": "jordan-church-shooting",
+      "title": "ירדן עצרה שלושה חשודים בירי בכנסייה",
+      "summary": "לפי ynet, BBC, NYT ואל-ג'זירה, ירדן עצרה שלושה חשודים בפיגוע בכנסייה בדרום המדינה, בפשיטה עם שחר. לפי ynet, השלושה נפצעו קשה בעימות עם כוחות הביטחון.",
+      "why": "הפיגוע התרחש במדינה הגובלת בישראל, והמעצרים הם התפתחות בחקירה.",
+      "change": "שלושה חשודים נעצרו בפשיטה לפנות בוקר, לאחר עימות עם כוחות הביטחון.",
+      "next": "",
+      "status": "VERIFIED",
+      "importance": 4,
+      "categories": [
+        "world",
+        "security"
+      ],
+      "kind": "event",
+      "entities": [
+        "ירדן",
+        "פיגועים"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/syoc00l3hfl",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cm4g17qq8wz4o",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "אל-ג'זירה",
+          "url": "https://www.aljazeera.com/news/2026/10/26/jordan-arrests-three-suspects-in-deadly-church-attack",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "NYT",
+          "url": "https://www.nytimes.com/2026/10/26/world/middleeast/jordan-arrests-terror-attack-church.html",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 4,
+      "firstSeen": "2026-10-24",
+      "lastUpdated": "2026-10-26"
+    },
+    {
+      "id": "yehuda-junction-shooting",
+      "title": "המבצע בחברון נמשך: תיעוד מחיסול המחבלים, נסרקו עשרות יעדים ונעצרו חמישה",
+      "summary": "לפי ynet, וואלה וישראל היום, צה\"ל פרסם תיעוד מרגעי חיסול המחבלים בפיגוע בצומת יהודה, שבו נפלו שני לוחמים. לפי הודעת צה\"ל, כפי שדווחה בוואלה, סיירת צנחנים סרקה יותר מ-50 יעדים בקבאטיה וחמישה חשודים נעצרו. וואלה מוסיף כי נמצא חלל תת-קרקעי סמוך לבית אחד המחבלים בחברון.",
+      "why": "המבצע בחברון מגביל את התנועה בגדה לקראת הבחירות ומעלה את הסיכון להסלמה.",
+      "change": "פורסם תיעוד מהקרב, בקבאטיה נסרקו מעל 50 יעדים ונעצרו חמישה חשודים, ונמצא חלל תת-קרקעי בחברון.",
+      "next": "",
+      "status": "VERIFIED",
+      "importance": 4,
+      "categories": [
+        "security",
+        "israel_world"
+      ],
+      "kind": "event",
+      "entities": [
+        "יהודה ושומרון",
+        "פיגועים"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/syjhkns3fl",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "וואלה",
+          "url": "https://www.walla.co.il/news/breaking-news/383958926",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/news/defense/article/21705506",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "הגרדיאן",
+          "url": "https://www.theguardian.com/world/2026/oct/26/collective-punishment-palestinians-displaced-israeli-forces-take-over-hebron-homes",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 4,
+      "firstSeen": "2026-10-23",
+      "lastUpdated": "2026-10-26"
+    },
+    {
+      "id": "serbia-election-vucic",
+      "title": "וצ'יץ' הודה בהפסד בבחירות לפרלמנט בסרביה לתנועה בהובלת סטודנטים",
+      "summary": "לפי אל-ג'זירה, ynet ומעריב, הנשיא לשעבר אלכסנדר וצ'יץ', שנחשב לאיש החזק במדינה, הודה בהפסד בבחירות לפרלמנט בסרביה. ההפסד הוא לתנועה בהובלת סטודנטים. ynet מציין כי מדובר במנהיג הנחשב פרו-ישראלי.",
+      "why": "שינוי שלטון בסרביה עשוי להשפיע על עמדת המדינה כלפי ישראל ועל מאזן הכוחות באירופה.",
+      "change": "",
+      "next": "",
+      "status": "VERIFIED",
+      "importance": 3,
+      "categories": [
+        "world",
+        "politics"
+      ],
+      "kind": "event",
+      "entities": [
+        "סרביה",
+        "בחירות בעולם"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "אל-ג'זירה",
+          "url": "https://www.aljazeera.com/news/2026/10/25/serbia-voter-turnout-highest-in-decades-as-students-oppose-longtime-leader",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/sk2ekk2nmg",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "מעריב",
+          "url": "https://www.maariv.co.il/breaking-news/article-1381285",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 3,
+      "firstSeen": "2026-10-26",
+      "lastUpdated": "2026-10-26"
+    },
+    {
+      "id": "foreign-agent-lawyer-indictment",
+      "title": "הוגש כתב אישום נגד עורכת דין ישראלית בחשד למגע עם סוכן זר ולשיבוש הליכי משפט",
+      "summary": "לפי ynet, ישראל היום, וואלה ומעריב, הוגש כתב אישום נגד עורכת דין ישראלית בחשד שהייתה בקשר עם סוכן חוץ ושיבשה הליכי משפט. השב\"כ מעורב בפרשה.",
+      "why": "פרשות של מגע עם סוכנים זרים נחשבות לעבירות ביטחוניות חמורות.",
+      "change": "",
+      "next": "",
+      "status": "VERIFIED",
+      "importance": 4,
+      "categories": [
+        "security",
+        "law"
+      ],
+      "kind": "legal",
+      "entities": [
+        "ריגול"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/bk0es3hnmx",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/news/defense/article/21710423",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "וואלה",
+          "url": "https://www.walla.co.il/news/breaking-news/383958968",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "מעריב",
+          "url": "https://www.maariv.co.il/breaking-news/article-1381548",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 4,
+      "firstSeen": "2026-10-26",
+      "lastUpdated": "2026-10-26"
+    },
+    {
+      "id": "german-nationals-security-sites",
+      "title": "שני התיירים הגרמנים שנעצרו בחשד לריגול שוחררו",
+      "summary": "לפי ynet וואלה, שני אזרחי גרמניה שנעצרו בחשד שצילמו את הכניסה לכלא דמון שוחררו. לפי וואלה, נמסר כי אין ראיה התומכת בחשד.",
+      "why": "העצירה עוררה חשש לריגול, וכעת השניים שוחררו.",
+      "change": "השניים שוחררו ללא ראיה התומכת בחשד.",
+      "next": "",
+      "status": "VERIFIED",
+      "importance": 3,
+      "categories": [
+        "security"
+      ],
+      "kind": "decision",
+      "entities": [
+        "ריגול"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/sjq9k323mx",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "וואלה",
+          "url": "https://www.walla.co.il/news/breaking-news/383958964",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 2,
+      "firstSeen": "2026-10-25",
+      "lastUpdated": "2026-10-26"
+    },
+    {
+      "id": "israel-cyprus-patrol-boat",
+      "title": "ישראל וקפריסין חתמו על עסקה ביטחונית לאספקת ספינת סיור ימית",
+      "summary": "לפי ynet, וואלה וישראל היום, ישראל תספק לקפריסין ספינת סיור עם מערכות ימיות של רפאל.",
+      "why": "העסקה מעמיקה את שיתוף הפעולה הביטחוני עם קפריסין במזרח הים התיכון.",
+      "change": "",
+      "next": "",
+      "status": "VERIFIED",
+      "importance": 3,
+      "categories": [
+        "security",
+        "israel_world"
+      ],
+      "kind": "decision",
+      "entities": [
+        "קפריסין"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/hytlg6hhzg",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "וואלה",
+          "url": "https://www.walla.co.il/news/breaking-news/383958973",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/news/defense/article/21711132",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 3,
+      "firstSeen": "2026-10-26",
+      "lastUpdated": "2026-10-26"
+    },
+    {
+      "id": "packer-netanyahu-lawyer-report",
+      "title": "דיווח: ג'יימס פאקר העביר כ-1.25 מיליון דולר למשרד עורך דינו של נתניהו",
+      "summary": "לפי וואלה וישראל היום, פאקר העביר סכום של יותר ממיליון דולר למשרד עורך דינו של נתניהו. לפי ישראל היום, עורך הדין עמית חדד טוען כי הדבר אינו קשור למשפט נתניהו. בנפרד, לפי ynet, סנגורי נתניהו ביקשו מבית המשפט לאפשר לפאקר להעיד מחו\"ל.",
+      "why": "פאקר הוא עד מרכזי במשפט נתניהו, ולכן כל קשר כספי עם הסנגורים מעורר שאלות.",
+      "change": "",
+      "next": "",
+      "status": "REPORTED",
+      "importance": 3,
+      "categories": [
+        "law",
+        "politics"
+      ],
+      "kind": "legal",
+      "entities": [
+        "נתניהו",
+        "משפט נתניהו"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "וואלה",
+          "url": "https://www.walla.co.il/news/breaking-news/383958936",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/news/world-news/other/article/21708423",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/rkgnty22fg",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 3,
+      "firstSeen": "2026-10-26",
+      "lastUpdated": "2026-10-26"
+    }
+  ],
+  "unverified": [
+    {
+      "id": "katz-idf-gaps-iran",
+      "title": "כ\"ץ: הדיווחים על פערים בין הדרג המדיני לצה\"ל בנושא איראן מופרכים",
+      "summary": "לפי מעריב, קיים בצה\"ל חשש מהמצב ומהתכתשות מול הדרג המדיני. שר הביטחון כ\"ץ טען, לפי וואלה, כי הפרסומים על פערים בנושא איראן מופרכים.",
+      "why": "פערים בין הדרג המדיני לצבא סביב איראן יכולים להשפיע על החלטות על תקיפה.",
+      "change": "",
+      "next": "",
+      "status": "CONFLICTING",
+      "importance": 4,
+      "categories": [
+        "security",
+        "politics"
+      ],
+      "kind": "statement",
+      "entities": [
+        "איראן"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "וואלה",
+          "url": "https://www.walla.co.il/news/breaking-news/383958918",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "מעריב",
+          "url": "https://www.maariv.co.il/breaking-news/article-1381538",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 2,
+      "firstSeen": "2026-10-26",
+      "lastUpdated": "2026-10-26"
+    },
+    {
+      "id": "netanyahu-police-chief-election-day",
+      "title": "על פי דיווח: נתניהו הביע חשש מפעילי שמאל קיצוני ביום הבחירות",
+      "summary": "על פי ynet, בכיר במשטרה מסר כי ראש הממשלה הביע בפני המפכ\"ל חשש מפעילי שמאל קיצוני וביקש \"קשב מיוחד\". ישראל היום ומעריב מדווחים באופן דומה על דיון עם המפכ\"ל.",
+      "why": "קשור להיערכות המשטרה ליום הבחירות.",
+      "change": "",
+      "next": "",
+      "status": "REPORTED",
+      "importance": 3,
+      "categories": [
+        "politics",
+        "society"
+      ],
+      "kind": "statement",
+      "entities": [
+        "נתניהו",
+        "בחירות 2026"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/byoyzx2nzl",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/news/local/article/21707097",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "מעריב",
+          "url": "https://www.maariv.co.il/breaking-news/article-1381289",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 3,
+      "firstSeen": "2026-10-26",
+      "lastUpdated": "2026-10-26"
+    }
+  ],
+  "filtered_out": 300,
+  "note": ""
+}
