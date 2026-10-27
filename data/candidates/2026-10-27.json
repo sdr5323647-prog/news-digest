@@ -4,56 +4,6 @@
   {
    "source": "Guardian",
    "outlet": "Guardian",
-   "title": "Sudan paramilitary drone strikes cause mass power cuts in eastern states",
-   "url": "https://www.theguardian.com/world/2026/oct/26/sudan-paramilitary-drone-strikes-rapid-support-forces-power-cuts-eastern-states",
-   "summary": "Rapid Support Forces strike five power stations in three states controlled by Sudanese army Sudan’s paramilitary Rapid Support Forces have launched a coordinated drone attack against five power stations, causing mass power outages across the country’s east, a government official said. The drones hit",
-   "time": "2026-10-26T09:59:27+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
-   "source": "NYT",
-   "outlet": "NYT",
-   "title": "U.S. Army Trains Apache Helicopter Pilots to Shoot Drones",
-   "url": "https://www.nytimes.com/2026/10/26/world/europe/helicopters-drones-apache-shahed-russia-iran.html",
-   "summary": "The U.S. Army is training Apache pilots to shoot down drones as militaries around the world assess the efficacy of 20th-century technologies in a new era.",
-   "time": "2026-10-26T10:00:51+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
-   "source": "NYT",
-   "outlet": "NYT",
-   "title": "Israeli Jews Across the Spectrum Face an Election of Fears",
-   "url": "https://www.nytimes.com/2026/10/26/world/middleeast/israel-election-stakes.html",
-   "summary": "Supporters and opponents of Prime Minister Benjamin Netanyahu have expressed intense anxieties about isolation abroad, security at home and the future of Israel’s identity.",
-   "time": "2026-10-26T10:30:57+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
-   "source": "Guardian",
-   "outlet": "Guardian",
-   "title": "US forces accused of ‘weaponising’ Somalia’s floods by trapping women and children in the path of El Niño",
-   "url": "https://www.theguardian.com/global-development/2026/oct/26/us-forces-accused-of-weaponising-somalia-flood-el-nino",
-   "summary": "Exclusive: Coordinated airstrikes on territory held by al-Shabaab are driving the civilian population to find refuge alongside a river where rising water levels are a threat to safety. Is it a deliberate military strategy? The water was rising rapidly. It had already reached Cayni Ali’s waist. Her h",
-   "time": "2026-10-26T11:00:40+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
-   "source": "BBC",
-   "outlet": "BBC",
-   "title": "Jordan arrests three men suspected of deadly church attack after shootout",
-   "url": "https://www.bbc.co.uk/news/articles/cm4g17qq8wz4o?at_medium=RSS&at_campaign=rss",
-   "summary": "No group has yet said it was behind Friday's shooting attack in the village of Hmoud, which left nine Christians dead.",
-   "time": "2026-10-26T11:01:16+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
-   "source": "Guardian",
-   "outlet": "Guardian",
    "title": "What you need to know about the most consequential election in Israel’s history",
    "url": "https://www.theguardian.com/world/2026/oct/26/what-you-need-to-know-about-the-most-consequential-election-in-israels-history",
    "summary": "Benjamin Netanyahu is seeking a new mandate in Israel’s first election since the 7 October 2023 Hamas attacks On Tuesday Israel holds its first election since the 7 October 2023 Hamas attacks, the deadliest day in the country’s history, which resulted in the deaths of about 1,200 people, the majorit",
@@ -4922,99 +4872,8 @@
    "type": "reporting"
   }
  ],
- "updated": "2026-10-27T15:24:05.058715+00:00",
+ "updated": "2026-10-27T17:02:06.075187+00:00",
  "clusters": [
-  {
-   "id": "f6d2bc612b",
-   "title": "Jordan arrests three men suspected of deadly church attack after shootout",
-   "sourceCount": 4,
-   "outlets": [
-    "Al Jazeera",
-    "BBC",
-    "Guardian",
-    "NYT"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 9,
-   "opinionOnly": false,
-   "firstSeen": "2026-10-26T11:01:16+00:00",
-   "lastSeen": "2026-10-27T10:52:48+00:00",
-   "articles": [
-    {
-     "source": "BBC",
-     "title": "Jordan arrests three men suspected of deadly church attack after shootout",
-     "url": "https://www.bbc.co.uk/news/articles/cm4g17qq8wz4o?at_medium=RSS&at_campaign=rss",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-26T11:01:16+00:00"
-    },
-    {
-     "source": "Al Jazeera",
-     "title": "Jordan arrests three suspects over deadly church attack",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/jordan-arrests-three-suspects-over-deadly-church-attack?traffic_source=rss",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-26T19:25:53+00:00"
-    },
-    {
-     "source": "NYT",
-     "title": "Jordan Arrests 3 in Connection With Church Attack, State Media Reports",
-     "url": "https://www.nytimes.com/2026/10/26/world/middleeast/jordan-arrests-terror-attack-church.html",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-26T20:28:57+00:00"
-    },
-    {
-     "source": "Guardian",
-     "title": "Jordan attacks militants in Syria in retaliation for last week’s church attack",
-     "url": "https://www.theguardian.com/world/2026/oct/26/jordan-attacks-militants-syria-retaliation-for-last-week-church-attack",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-26T22:08:38+00:00"
-    },
-    {
-     "source": "Al Jazeera",
-     "title": "Jordan attacks Syria in response to Karak church attack",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/jordan-attacks-syria-in-response-to-karak-church-attack?traffic_source=rss",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-26T23:48:51+00:00"
-    },
-    {
-     "source": "Al Jazeera",
-     "title": "Jordan launches air strikes in Syria in response to a fatal church shooting",
-     "url": "https://www.aljazeera.com/news/2026/10/26/jordan-launches-air-strikes-in-syria-in-response-to-a-fatal-church-shooting?traffic_source=rss",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-26T23:50:11+00:00"
-    },
-    {
-     "source": "BBC",
-     "title": "Jordan carries out deadly strike in Syria in retaliation for church attack",
-     "url": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&at_campaign=rss",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-27T02:40:17+00:00"
-    },
-    {
-     "source": "NYT",
-     "title": "Jordan Airstrikes on Syria Kill Seven Civilians, Syrian State Media Says",
-     "url": "https://www.nytimes.com/2026/10/27/world/middleeast/jordan-syria-strikes-attack.html",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-27T08:37:38+00:00"
-    },
-    {
-     "source": "Al Jazeera",
-     "title": "Families of victims killed in Jordanian strike deny links to church attack",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/families-of-victims-killed-in-jordanian-strike-deny-links-to-church-attack?traffic_source=rss",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-27T10:52:48+00:00"
-    }
-   ]
-  },
   {
    "id": "a584582566",
    "title": "Israel election 2026 live: Polls open as Netanyahu faces tough test",
@@ -5095,6 +4954,89 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-10-27T12:04:19+00:00"
+    }
+   ]
+  },
+  {
+   "id": "ee000f77c4",
+   "title": "Jordan attacks militants in Syria in retaliation for last week’s church attack",
+   "sourceCount": 4,
+   "outlets": [
+    "Al Jazeera",
+    "BBC",
+    "Guardian",
+    "NYT"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 8,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-26T19:25:53+00:00",
+   "lastSeen": "2026-10-27T10:52:48+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "Jordan arrests three suspects over deadly church attack",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/jordan-arrests-three-suspects-over-deadly-church-attack?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-26T19:25:53+00:00"
+    },
+    {
+     "source": "NYT",
+     "title": "Jordan Arrests 3 in Connection With Church Attack, State Media Reports",
+     "url": "https://www.nytimes.com/2026/10/26/world/middleeast/jordan-arrests-terror-attack-church.html",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-26T20:28:57+00:00"
+    },
+    {
+     "source": "Guardian",
+     "title": "Jordan attacks militants in Syria in retaliation for last week’s church attack",
+     "url": "https://www.theguardian.com/world/2026/oct/26/jordan-attacks-militants-syria-retaliation-for-last-week-church-attack",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-26T22:08:38+00:00"
+    },
+    {
+     "source": "Al Jazeera",
+     "title": "Jordan attacks Syria in response to Karak church attack",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/jordan-attacks-syria-in-response-to-karak-church-attack?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-26T23:48:51+00:00"
+    },
+    {
+     "source": "Al Jazeera",
+     "title": "Jordan launches air strikes in Syria in response to a fatal church shooting",
+     "url": "https://www.aljazeera.com/news/2026/10/26/jordan-launches-air-strikes-in-syria-in-response-to-a-fatal-church-shooting?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-26T23:50:11+00:00"
+    },
+    {
+     "source": "BBC",
+     "title": "Jordan carries out deadly strike in Syria in retaliation for church attack",
+     "url": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&at_campaign=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-27T02:40:17+00:00"
+    },
+    {
+     "source": "NYT",
+     "title": "Jordan Airstrikes on Syria Kill Seven Civilians, Syrian State Media Says",
+     "url": "https://www.nytimes.com/2026/10/27/world/middleeast/jordan-syria-strikes-attack.html",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-27T08:37:38+00:00"
+    },
+    {
+     "source": "Al Jazeera",
+     "title": "Families of victims killed in Jordanian strike deny links to church attack",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/families-of-victims-killed-in-jordanian-strike-deny-links-to-church-attack?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-27T10:52:48+00:00"
     }
    ]
   },
@@ -7247,102 +7189,6 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-10-27T13:08:08+00:00"
-    }
-   ]
-  },
-  {
-   "id": "37448fd2d8",
-   "title": "Sudan paramilitary drone strikes cause mass power cuts in eastern states",
-   "sourceCount": 1,
-   "outlets": [
-    "Guardian"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-10-26T09:59:27+00:00",
-   "lastSeen": "2026-10-26T09:59:27+00:00",
-   "articles": [
-    {
-     "source": "Guardian",
-     "title": "Sudan paramilitary drone strikes cause mass power cuts in eastern states",
-     "url": "https://www.theguardian.com/world/2026/oct/26/sudan-paramilitary-drone-strikes-rapid-support-forces-power-cuts-eastern-states",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-26T09:59:27+00:00"
-    }
-   ]
-  },
-  {
-   "id": "323dce858b",
-   "title": "U.S. Army Trains Apache Helicopter Pilots to Shoot Drones",
-   "sourceCount": 1,
-   "outlets": [
-    "NYT"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-10-26T10:00:51+00:00",
-   "lastSeen": "2026-10-26T10:00:51+00:00",
-   "articles": [
-    {
-     "source": "NYT",
-     "title": "U.S. Army Trains Apache Helicopter Pilots to Shoot Drones",
-     "url": "https://www.nytimes.com/2026/10/26/world/europe/helicopters-drones-apache-shahed-russia-iran.html",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-26T10:00:51+00:00"
-    }
-   ]
-  },
-  {
-   "id": "c38640ac6a",
-   "title": "Israeli Jews Across the Spectrum Face an Election of Fears",
-   "sourceCount": 1,
-   "outlets": [
-    "NYT"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-10-26T10:30:57+00:00",
-   "lastSeen": "2026-10-26T10:30:57+00:00",
-   "articles": [
-    {
-     "source": "NYT",
-     "title": "Israeli Jews Across the Spectrum Face an Election of Fears",
-     "url": "https://www.nytimes.com/2026/10/26/world/middleeast/israel-election-stakes.html",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-26T10:30:57+00:00"
-    }
-   ]
-  },
-  {
-   "id": "7c5e755dd8",
-   "title": "US forces accused of ‘weaponising’ Somalia’s floods by trapping women and children in the path of El Niño",
-   "sourceCount": 1,
-   "outlets": [
-    "Guardian"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-10-26T11:00:40+00:00",
-   "lastSeen": "2026-10-26T11:00:40+00:00",
-   "articles": [
-    {
-     "source": "Guardian",
-     "title": "US forces accused of ‘weaponising’ Somalia’s floods by trapping women and children in the path of El Niño",
-     "url": "https://www.theguardian.com/global-development/2026/oct/26/us-forces-accused-of-weaponising-somalia-flood-el-nino",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-26T11:00:40+00:00"
     }
    ]
   },
@@ -14244,8 +14090,8 @@
   }
  ],
  "stats": {
-  "articles": 492,
-  "clusters": 344,
+  "articles": 487,
+  "clusters": 340,
   "multiSource": 31
  }
 }

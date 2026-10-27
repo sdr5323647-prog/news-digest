@@ -1,0 +1,497 @@
+{
+ "schema": 2,
+ "date": "2026-10-27",
+ "type": "daily",
+ "headline": "יום הבחירות לכנסת: שיעור הצבעה שיא, ירדן תקפה בסוריה והמתיחות מול איראן נמשכת.",
+ "events": [
+  {
+   "id": "election-day-turnout",
+   "title": "יום הבחירות לכנסת: שיעור הצבעה גבוה מבעבר",
+   "summary": "לפי ynet ומעריב, שיעור ההצבעה עמד על 44.9% עד השעה 14:00 ועל 55.7% עד השעה 16:00, עלייה של כ-6 נקודות האחוז לעומת הבחירות הקודמות באותה שעה. מעריב מציין כי מדובר בשיעור ההצבעה הגבוה ביותר בהיסטוריה של ישראל. לפי ynet, בצה\"ל הצביעו 48% מהמשרתים עד השעה 13:00. הגרדיאן, BBC ואל-ג'זירה מתארים את הבחירות כמכריעות.",
+   "why": "שיעור ההצבעה משפיע על חלוקת המנדטים ועל היכולת להרכיב קואליציה.",
+   "change": "",
+   "next": "סגירת הקלפיות והפרסום הראשוני של תוצאות המדגם.",
+   "status": "VERIFIED",
+   "importance": 5,
+   "categories": [
+    "politics"
+   ],
+   "kind": "event",
+   "entities": [
+    "בחירות 2026"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/bkkekx02mg",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1381990",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "אל-ג'זירה",
+     "url": "https://www.aljazeera.com/news/2026/10/27/israel-heads-to-the-polls-as-shift-to-the-right-dominates-critical-election?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 4,
+   "firstSeen": "2026-10-27",
+   "lastUpdated": "2026-10-27"
+  },
+  {
+   "id": "election-day-incidents",
+   "title": "אירועי יום הבחירות: עצור סמוך ליאיר גולן, קטטות בקלפיות ומעצרי חשד לשוחד בחירות",
+   "summary": "לפי ynet, המשטרה מסרה כי אדם שהחזיק סכין נעצר סמוך ליאיר גולן בתל אביב וכי לא מדובר בניסיון דקירה. לפי ynet וישראל היום, פרצו קטטות ליד קלפיות ברהט ובחולון, ובמקרה ברהט נעצרו ארבעה אנשים. מעריב וישראל היום מדווחים על מעצר שלושה תושבי פזורת הנגב בחשד לשוחד בחירות.",
+   "why": "אירועים אלה נוגעים לשלום הציבור ולתקינות ההליך הדמוקרטי ביום הבחירות.",
+   "change": "",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "politics",
+    "society"
+   ],
+   "kind": "event",
+   "entities": [
+    "בחירות 2026"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/b1bxjfrhfg",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/local/article/21718666",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1381852",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/crime/article/21716150",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-10-27",
+   "lastUpdated": "2026-10-27"
+  },
+  {
+   "id": "jordan-church-shooting",
+   "title": "ירדן תקפה בסוריה בתגובה לירי בכנסייה",
+   "summary": "לפי ynet, ישראל היום, BBC והגרדיאן, ירדן תקפה יעדי חמושים בדרום סוריה בתגובה לירי בכנסייה שבו נרצחו שבעה אנשים. NYT מצטט את הטלוויזיה הממלכתית הסורית, לפיה בתקיפות נהרגו שבעה אזרחים. אל-ג'זירה מדווחת כי משפחות הנהרגים מכחישות קשר לפיגוע.",
+   "why": "הסלמה צבאית בין ירדן לסוריה, בגבולה של ישראל.",
+   "change": "ירדן תקפה בסוריה; לפי הטלוויזיה הסורית נהרגו שבעה אזרחים, ומשפחות הנהרגים מכחישות קשר לפיגוע.",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "world",
+    "security"
+   ],
+   "kind": "event",
+   "entities": [
+    "ירדן",
+    "פיגועים"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/h1ypq7phfe",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21714419",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&at_campaign=rss",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "NYT",
+     "url": "https://www.nytimes.com/2026/10/27/world/middleeast/jordan-syria-strikes-attack.html",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "אל-ג'זירה",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/families-of-victims-killed-in-jordanian-strike-deny-links-to-church-attack?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 5,
+   "firstSeen": "2026-10-24",
+   "lastUpdated": "2026-10-27"
+  },
+  {
+   "id": "trump-iran-strike-plans",
+   "title": "איראן: טהרן טוענת שארה\"ב אינה רצינית במגעים, וברקע דיווחים על תוכניות לחידוש המלחמה",
+   "summary": "לפי אל-ג'זירה, איראן אמרה כי ארה\"ב \"אינה רצינית\" לגבי המשא ומתן. NYT מדווח על פעילות דיפלומטית ערה ברקע דיווחים על תוכניות אמריקאיות וישראליות לחדש את המלחמה. אל-ג'זירה מדווחת גם על ספינה בוערת מול חופי עיראק.",
+   "why": "חידוש המלחמה מול איראן ישפיע ישירות על ביטחון ישראל.",
+   "change": "איראן טוענת שארה\"ב אינה רצינית במגעים, בעוד דיווחים על חידוש המלחמה נמשכים.",
+   "next": "אם יושג הסכם או שהמלחמה תחודש.",
+   "status": "REPORTED",
+   "importance": 4,
+   "categories": [
+    "security",
+    "israel_world"
+   ],
+   "kind": "negotiation",
+   "entities": [
+    "איראן",
+    "ארצות הברית",
+    "טראמפ"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "אל-ג'זירה",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/iran-says-us-not-serious-about-talks-amid-tehran-meeting?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "NYT",
+     "url": "https://www.nytimes.com/2026/10/26/world/middleeast/iran-war-new-attacks-diplomacy.html",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-10-08",
+   "lastUpdated": "2026-10-27"
+  },
+  {
+   "id": "saudi-houthi-fighting",
+   "title": "סעודיה: יורטו טילים וכטב\"מים שהחות'ים שיגרו",
+   "summary": "לפי ynet, סעודיה מסרה כי יורטו טילים בליסטיים וכטב\"מים שהחות'ים שיגרו למדינה, ובהם שני טילים לעבר ריאד.",
+   "why": "המשך ההסלמה בין החות'ים לסעודיה משפיע על יציבות האזור.",
+   "change": "סבב נוסף של שיגורים חות'ים לעבר סעודיה יורט, לפי ynet.",
+   "next": "",
+   "status": "REPORTED",
+   "importance": 3,
+   "categories": [
+    "world",
+    "security"
+   ],
+   "kind": "event",
+   "entities": [
+    "סעודיה",
+    "החות'ים"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/sjuwqothgl",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/bkat7fr2mx",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 1,
+   "firstSeen": "2026-10-03",
+   "lastUpdated": "2026-10-27"
+  },
+  {
+   "id": "intel-classiq-acquisition",
+   "title": "אינטל רוכשת את הסטארט-אפ הישראלי קלאסיק ב-2.2 מיליארד דולר",
+   "summary": "לפי ynet וישראל היום, אינטל תרכוש את הסטארט-אפ הישראלי קלאסיק תמורת 2.2 מיליארד דולר. ynet מצטט תיאור של העסקה כ\"האקזיט הגבוה ביותר בענף\".",
+   "why": "עסקה גדולה בהייטק הישראלי.",
+   "change": "",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "economy",
+    "tech"
+   ],
+   "kind": "event",
+   "entities": [
+    "הייטק"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/hkul7vthzl",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/business/article/21714600",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-10-27",
+   "lastUpdated": "2026-10-27"
+  },
+  {
+   "id": "microsoft-voluntary-exit",
+   "title": "מיקרוסופט הודיעה על תוכנית עזיבה מרצון",
+   "summary": "לפי ynet וישראל היום, מיקרוסופט הודיעה על תוכנית עזיבה מרצון שאליה זכאים כ-60 אלף עובדים בעולם.",
+   "why": "צעד בולט בענף הטכנולוגיה העולמי, שיש לו השפעה על שוק העבודה בהייטק.",
+   "change": "",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "economy",
+    "tech"
+   ],
+   "kind": "decision",
+   "entities": [
+    "הייטק"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/r1yxybtnml",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/business/article/21713212",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-10-27",
+   "lastUpdated": "2026-10-27"
+  },
+  {
+   "id": "south-floods-eilat-roads",
+   "title": "שיטפונות בדרום: הדרכים לאילת נחסמו",
+   "summary": "לפי ynet ומעריב, כל הדרכים המובילות לאילת וממנה נחסמו בשל הצפות. המשטרה מסרה כי אתרי טיולים בין באר שבע לאילת ייסגרו, וכי קטעים בכבישים 12 ו-40 נחסמים.",
+   "why": "סכנה לחיי אדם ופגיעה בתנועה לדרום.",
+   "change": "",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "society"
+   ],
+   "kind": "event",
+   "entities": [
+    "מזג אוויר"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/hk00jxxchme",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1381965",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/syhmnm6hgg",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-10-27",
+   "lastUpdated": "2026-10-27"
+  },
+  {
+   "id": "russia-ukraine-olshaki-ceasefire",
+   "title": "הפסקת האש המקומית באולשקי נכנסה לתוקף",
+   "summary": "לפי אל-ג'זירה, רוסיה הפסיקה תקיפות על חרסון עם כניסת הפסקת האש באולשקי לתוקף, אחרי שתקפה את קייב ערב כניסתה. ישראל היום מייחס את היוזמה למלניה טראמפ.",
+   "why": "הפסקת אש מקומית ראשונה במלחמה, ומבחן להסכמות רחבות יותר.",
+   "change": "ההפסקה נכנסה לתוקף ורוסיה הפסיקה תקיפות בחרסון.",
+   "next": "",
+   "status": "REPORTED",
+   "importance": 3,
+   "categories": [
+    "world"
+   ],
+   "kind": "decision",
+   "entities": [
+    "רוסיה",
+    "אוקראינה"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "אל-ג'זירה",
+     "url": "https://www.aljazeera.com/news/2026/10/27/russia-halts-strikes-on-ukraines-kherson-as-oleshky-ceasefire-takes-effect?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/world-news/europe/article/21715193",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-10-24",
+   "lastUpdated": "2026-10-27"
+  },
+  {
+   "id": "packer-netanyahu-lawyer-report",
+   "title": "פאקר מכחיש מימון הגנתו של נתניהו",
+   "summary": "לפי ynet ומעריב, ג'יימס פאקר מסר כי הטענה שמימן את ההגנה של נתניהו במשפטו \"שקרית\".",
+   "why": "הטענה נוגעת למימון ההגנה של ראש הממשלה במשפט.",
+   "change": "פאקר הגיב ודחה את הדיווח.",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 2,
+   "categories": [
+    "law",
+    "politics"
+   ],
+   "kind": "legal",
+   "entities": [
+    "נתניהו",
+    "משפט נתניהו"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/rkmrge6ngg",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1381668",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-10-26",
+   "lastUpdated": "2026-10-27"
+  }
+ ],
+ "unverified": [
+  {
+   "id": "gaza-khan-yunis-tunnel-strike",
+   "title": "על פי צה\"ל: חוסלו בעזה מחבלים, בהם ראש חוליית נוחבה",
+   "summary": "על פי הודעת צה\"ל כפי שדווחה ב-ynet ובמעריב, חוסלו ברצועה כמה מחבלים, ובהם ראש חוליית נוחבה של חמאס ושלושה מחבלים שיצאו ממנהרה בחאן יונס. הטענות אינן מאומתות באופן עצמאי.",
+   "why": "סבב חיסולים ברצועה בזמן הפסקת האש.",
+   "change": "",
+   "next": "",
+   "status": "CLAIM",
+   "importance": 3,
+   "categories": [
+    "security"
+   ],
+   "kind": "event",
+   "entities": [
+    "עזה",
+    "חמאס"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/rkiqym62gl",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1381691",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-10-27",
+   "lastUpdated": "2026-10-27"
+  },
+  {
+   "id": "netanyahu-pressure-iran-attack-election",
+   "title": "על פי דיווח של NYT והגרדיאן: נתניהו לחץ על צה\"ל לתקוף באיראן לפני הבחירות",
+   "summary": "על פי דיווח של NYT, שאותו מביא גם הגרדיאן, גורמים לא מזוהים טוענים כי נתניהו לחץ על הצבא לתקוף באיראן לפני הבחירות. הדיווח מבוסס על מקורות אנונימיים ולא אושר רשמית.",
+   "why": "אם יתברר כנכון, ישפיע על הדיון הציבורי ביום הבחירות.",
+   "change": "",
+   "next": "",
+   "status": "REPORTED",
+   "importance": 4,
+   "categories": [
+    "politics",
+    "security"
+   ],
+   "kind": "statement",
+   "entities": [
+    "נתניהו",
+    "איראן",
+    "בחירות 2026"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "NYT",
+     "url": "https://www.nytimes.com/2026/10/26/world/middleeast/netanyahu-iran-israel-election.html",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "הגרדיאן",
+     "url": "https://www.theguardian.com/world/2026/oct/26/netanyahu-reportedly-pressured-israel-military-attack-iran-runup-to-election",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-10-27",
+   "lastUpdated": "2026-10-27"
+  }
+ ],
+ "filtered_out": 328,
+ "note": ""
+}
