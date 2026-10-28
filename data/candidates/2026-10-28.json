@@ -2,46 +2,6 @@
  "date": "2026-10-28",
  "articles": [
   {
-   "source": "BBC",
-   "outlet": "BBC",
-   "title": "Why it could take time for a new Israeli government to form",
-   "url": "https://www.bbc.co.uk/news/videos/c574p31l1l2no?at_medium=RSS&at_campaign=rss",
-   "summary": "Israel faces what many view as one of the most pivotal elections in the country's history.",
-   "time": "2026-10-27T08:37:30+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
-   "source": "Guardian",
-   "outlet": "Guardian",
-   "title": "Fears grow for Iranian athletes on death row as mountaineer latest to be hanged",
-   "url": "https://www.theguardian.com/global-development/2026/oct/27/fears-grow-for-iranian-athletes-on-death-row-as-mountaineer-latest-to-be-hanged",
-   "summary": "Two sportspeople have been executed in the past month and at least six more face the same fate, says activist group Fears are growing for more Iranian athletes facing execution after mountain climber Ali-Sina Mostafavi became the latest in a string to be killed by the regime. Mostafavi – who documen",
-   "time": "2026-10-27T09:30:30+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
-   "source": "NYT",
-   "outlet": "NYT",
-   "title": "5 Key Moments From Israel’s Pivotal Election Campaign",
-   "url": "https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-campaign-highlights.html",
-   "summary": "New political alliances, a contentious A.I. video and accusations about security failures all featured in the run-up to Tuesday’s election, widely seen as one of the most consequential in Israeli history.",
-   "time": "2026-10-27T09:45:05+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
-   "source": "BBC",
-   "outlet": "BBC",
-   "title": "What does Israel's election mean for Gaza and the wider world?",
-   "url": "https://www.bbc.co.uk/news/videos/ck240dg5n4gjo?at_medium=RSS&at_campaign=rss",
-   "summary": "The BBC's diplomatic correspondent James Landale reports from Jerusalem as ballots are cast.",
-   "time": "2026-10-27T10:17:36+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
    "source": "NYT",
    "outlet": "NYT",
    "title": "Itamar Ben-Gvir and Bezalel Smotrich Diverge in Israel’s Election",
@@ -5172,7 +5132,7 @@
    "type": "reporting"
   }
  ],
- "updated": "2026-10-28T13:03:02.361831+00:00",
+ "updated": "2026-10-28T17:01:53.922165+00:00",
  "clusters": [
   {
    "id": "5fe3a7833d",
@@ -5274,7 +5234,7 @@
    ]
   },
   {
-   "id": "63111beffd",
+   "id": "d7243841e2",
    "title": "Israel election live: exit polls project no clear winner, as anti-Netanyahu bloc leads but Likud remains biggest party",
    "sourceCount": 4,
    "outlets": [
@@ -5285,19 +5245,11 @@
    ],
    "bestTier": 2,
    "hasOfficial": false,
-   "reportingCount": 33,
+   "reportingCount": 32,
    "opinionOnly": false,
-   "firstSeen": "2026-10-27T09:45:05+00:00",
+   "firstSeen": "2026-10-27T11:04:05+00:00",
    "lastSeen": "2026-10-28T12:22:20+00:00",
    "articles": [
-    {
-     "source": "NYT",
-     "title": "5 Key Moments From Israel’s Pivotal Election Campaign",
-     "url": "https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-campaign-highlights.html",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-27T09:45:05+00:00"
-    },
     {
      "source": "NYT",
      "title": "Itamar Ben-Gvir and Bezalel Smotrich Diverge in Israel’s Election",
@@ -5369,6 +5321,14 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-10-27T19:47:03+00:00"
+    },
+    {
+     "source": "Al Jazeera",
+     "title": "Exit polls from Israel’s election show no clear winner",
+     "url": "https://www.aljazeera.com/news/2026/10/27/exit-polls-following-israeli-elections-indicate-no-clear-winner?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-27T20:18:18+00:00"
     }
    ]
   },
@@ -7326,78 +7286,6 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-10-28T11:55:08+00:00"
-    }
-   ]
-  },
-  {
-   "id": "53b3e79491",
-   "title": "Why it could take time for a new Israeli government to form",
-   "sourceCount": 1,
-   "outlets": [
-    "BBC"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-10-27T08:37:30+00:00",
-   "lastSeen": "2026-10-27T08:37:30+00:00",
-   "articles": [
-    {
-     "source": "BBC",
-     "title": "Why it could take time for a new Israeli government to form",
-     "url": "https://www.bbc.co.uk/news/videos/c574p31l1l2no?at_medium=RSS&at_campaign=rss",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-27T08:37:30+00:00"
-    }
-   ]
-  },
-  {
-   "id": "c3071901a6",
-   "title": "Fears grow for Iranian athletes on death row as mountaineer latest to be hanged",
-   "sourceCount": 1,
-   "outlets": [
-    "Guardian"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-10-27T09:30:30+00:00",
-   "lastSeen": "2026-10-27T09:30:30+00:00",
-   "articles": [
-    {
-     "source": "Guardian",
-     "title": "Fears grow for Iranian athletes on death row as mountaineer latest to be hanged",
-     "url": "https://www.theguardian.com/global-development/2026/oct/27/fears-grow-for-iranian-athletes-on-death-row-as-mountaineer-latest-to-be-hanged",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-27T09:30:30+00:00"
-    }
-   ]
-  },
-  {
-   "id": "bd5f97a209",
-   "title": "What does Israel's election mean for Gaza and the wider world?",
-   "sourceCount": 1,
-   "outlets": [
-    "BBC"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-10-27T10:17:36+00:00",
-   "lastSeen": "2026-10-27T10:17:36+00:00",
-   "articles": [
-    {
-     "source": "BBC",
-     "title": "What does Israel's election mean for Gaza and the wider world?",
-     "url": "https://www.bbc.co.uk/news/videos/ck240dg5n4gjo?at_medium=RSS&at_campaign=rss",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-27T10:17:36+00:00"
     }
    ]
   },
@@ -13475,8 +13363,8 @@
   }
  ],
  "stats": {
-  "articles": 517,
-  "clusters": 306,
+  "articles": 513,
+  "clusters": 303,
   "multiSource": 33
  }
 }

@@ -1,0 +1,515 @@
+{
+ "schema": 2,
+ "date": "2026-10-28",
+ "type": "daily",
+ "headline": "הבחירות לכנסת: המדגמים מצביעים על היעדר רוב לגוש נתניהו, והספירה הסופית תימשך ביממה הקרובה.",
+ "events": [
+  {
+   "id": "election-exit-polls",
+   "title": "מדגמי הבחירות: גוש נתניהו ללא רוב להקמת ממשלה, והמפלגות מגיבות",
+   "summary": "לפי מדגמי חדשות 12 וחדשות 13, כפי שדיווח וואלה, גוש נתניהו מקבל 50 מנדטים ואין לו רוב להקמת ממשלה. מעריב פרסם גם את מדגמי i24 וכאן חדשות. אחרי פרסום המדגמים אמרו גדי איזנקוט ויאיר גולן כי הציבור ביקש להחליף את הממשלה, ובנט טען כי \"נתניהו הפסיד\". ynet ומעריב דיווחו כי שיעור ההצבעה עד השעה 22:00 עמד על 77.7%, הגבוה ביותר לשעה זו מאז 2001. לפי ynet וישראל היום, ספירת המעטפות הכפולות, ששוות כ-14 מנדטים, צפויה להתחיל בחצות ולהסתיים רק במהלך היום.",
+   "why": "מדובר במדגמים ולא בתוצאות סופיות, והמנדטים שבמעטפות הכפולות עשויים לשנות את התמונה ואת יכולת הצדדים להרכיב קואליציה.",
+   "change": "",
+   "next": "פרסום התוצאות הסופיות אחרי ספירת המעטפות הכפולות, ואז התייעצויות הנשיא להטלת המנדט.",
+   "status": "VERIFIED",
+   "importance": 5,
+   "categories": [
+    "politics"
+   ],
+   "kind": "data",
+   "entities": [
+    "בחירות 2026",
+    "נתניהו",
+    "איזנקוט"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383959150",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1382062",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/politics/article/21720993",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/r16l79cnfl",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/sjdfkmjpzg",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 5,
+   "firstSeen": "2026-10-28",
+   "lastUpdated": "2026-10-28"
+  },
+  {
+   "id": "herzog-avoid-another-election",
+   "title": "הרצוג: יש לעשות הכול כדי לא לחזור לבחירות נוספות",
+   "summary": "לפי ynet, מעריב וישראל היום, נשיא המדינה יצחק הרצוג אמר כי צריך לעשות הכול כדי לא לחזור לבחירות נוספות, ושהוא מצפה ממי שיגיע אליו לבוא עם ראש פתוח. ישראל היום מציין כי הנשיא נערך לאפשרות של פלונטר פוליטי.",
+   "why": "הנשיא מקבל את ההמלצות להרכבת הממשלה, ותפקידו מרכזי כשאין לאף גוש רוב ברור.",
+   "change": "",
+   "next": "מועד פנייתם של נציגי המפלגות לנשיא אחרי פרסום התוצאות.",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "politics"
+   ],
+   "kind": "statement",
+   "entities": [
+    "הרצוג",
+    "בחירות 2026"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/bjvacdkpfe",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1382282",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/geopolitics/article/21724184",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-10-28",
+   "lastUpdated": "2026-10-28"
+  },
+  {
+   "id": "trump-iran-strike-plans",
+   "title": "דיווח: ארה\"ב הזהירה מדינות במפרץ להיערך למערכה קצרה ועצימה מול איראן",
+   "summary": "לפי דיווחים בישראל היום, ynet ומעריב, ארה\"ב הזהירה מדינות במפרץ להיערך למערכה צבאית קצרה ועצימה נגד איראן, ולפי ynet אחרי בחירות האמצע בארה\"ב. וואלה מדווח כי איראן הזהירה שפעולה ישראלית במפרץ תזעזע את השווקים. הדיווחים אינם מאושרים רשמית.",
+   "why": "חידוש הלחימה מול איראן ישפיע ישירות על ביטחון ישראל ועל שוקי האנרגיה.",
+   "change": "לפי דיווחים, ארה\"ב הזהירה את מדינות המפרץ להיערך למערכה קצרה ועצימה נגד איראן.",
+   "next": "אם ארה\"ב תחדש את התקיפות אחרי בחירות האמצע.",
+   "status": "REPORTED",
+   "importance": 4,
+   "categories": [
+    "security",
+    "israel_world"
+   ],
+   "kind": "statement",
+   "entities": [
+    "איראן",
+    "ארצות הברית",
+    "טראמפ"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/rjcpz0r2ml",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21722801",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1382120",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-10-08",
+   "lastUpdated": "2026-10-28"
+  },
+  {
+   "id": "us-iran-war-cost",
+   "title": "רויטרס: עלות מלחמת ארה\"ב-איראן חצתה 47 מיליארד דולר",
+   "summary": "לפי רויטרס, כפי שדווח ב-ynet, בוואלה ובמעריב, העלות הכוללת של פעולות ארה\"ב באיראן נאמדת ביותר מ-47 מיליארד דולר.",
+   "why": "העלות משפיעה על הדיון הציבורי בארה\"ב סביב המשך המערכה ועל הלחץ הפוליטי לפני בחירות האמצע.",
+   "change": "",
+   "next": "",
+   "status": "REPORTED",
+   "importance": 3,
+   "categories": [
+    "security",
+    "world"
+   ],
+   "kind": "data",
+   "entities": [
+    "איראן",
+    "ארצות הברית"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/h1bivarhzx",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383959167",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1382150",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-10-28",
+   "lastUpdated": "2026-10-28"
+  },
+  {
+   "id": "belgrade-embassy-attack-attempt",
+   "title": "משרד החוץ: ניסיון פיגוע סמוך לשגרירות ישראל בבלגרד",
+   "summary": "לפי מעריב, משרד החוץ אישר את הפרסומים על ניסיון פיגוע ליד שגרירות ישראל בבלגרד. וואלה דיווח על פיגוע סמוך לשגרירות בסרביה. הפרטים על המבצע ועל מצב הנפגעים לא פורסמו בדיווחים שנבדקו.",
+   "why": "פגיעה בנציגות ישראלית בחו\"ל נוגעת לביטחון הדיפלומטים והישראלים בחו\"ל.",
+   "change": "",
+   "next": "",
+   "status": "REPORTED",
+   "importance": 4,
+   "categories": [
+    "security",
+    "israel_world"
+   ],
+   "kind": "event",
+   "entities": [
+    "סרביה",
+    "שגרירות ישראל"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1382165",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383959185",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-10-28",
+   "lastUpdated": "2026-10-28"
+  },
+  {
+   "id": "spain-train-collision",
+   "title": "ספרד: עשרות הרוגים בהתנגשות רכבות מהירות",
+   "summary": "לפי דיווחי ישראל היום, מעריב, וואלה ו-ynet, שתי רכבות התנגשו בספרד (ynet: באזור טולדו). מספר ההרוגים המדווח עלה במהלך היום: ynet ואל-ג'זירה דיווחו על 30 לפחות, מעריב על 39, וישראל היום על יותר מ-60 הרוגים ו-176 פצועים.",
+   "why": "אחד מאסונות התחבורה הקשים באירופה בשנים האחרונות.",
+   "change": "",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "world"
+   ],
+   "kind": "event",
+   "entities": [
+    "ספרד"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/world-news/europe/article/21724911",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1382206",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/sywxjly6ge",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/28/injuries-reported-after-two-trains-collide-in-spain?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 4,
+   "firstSeen": "2026-10-28",
+   "lastUpdated": "2026-10-28"
+  },
+  {
+   "id": "nave-ornstein-bribery-probe-ends",
+   "title": "המשטרה סיימה את חקירת החשד לשוחד בין עו\"ד אפי נוה לשופט אורנשטיין",
+   "summary": "לפי ynet, וואלה וישראל היום, המשטרה סיימה את חקירת החשד לשוחד במינוי שופט, בעניינם של עו\"ד אפי נוה והשופט אורנשטיין. ynet מצטט כי לדעת החוקרים \"יש תשתית להגשת אישום\".",
+   "why": "החלטה על אישום תהיה בידי הפרקליטות והיועצת המשפטית, ונוגעת לתקינות מינויי שופטים.",
+   "change": "",
+   "next": "העברת התיק לפרקליטות והחלטה בעניין אישום.",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "law"
+   ],
+   "kind": "legal",
+   "entities": [
+    "אפי נוה",
+    "מינוי שופטים"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/h1uotuk6gx",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383959223",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/law/article/21725819",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-10-28",
+   "lastUpdated": "2026-10-28"
+  },
+  {
+   "id": "netanyahu-trial-ag-testimony",
+   "title": "משפט נתניהו: השופט שואל איך אפשר להתעלם מעדות היועמ\"ש לשעבר",
+   "summary": "לפי ynet וישראל היום, שופט במשפט נתניהו אמר בדיון כי קשה להתעלם מעדות של יועץ משפטי לממשלה לשעבר על פעולות לא חוקיות. הדברים נאמרו במהלך הדיון ואינם פסק דין.",
+   "why": "דבריו של השופט מצביעים על שאלות שמטרידות את בית המשפט בהליך נגד ראש הממשלה.",
+   "change": "",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "law",
+    "politics"
+   ],
+   "kind": "legal",
+   "entities": [
+    "משפט נתניהו",
+    "נתניהו"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/hynfhekpml",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/law/article/21724692",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-10-28",
+   "lastUpdated": "2026-10-28"
+  },
+  {
+   "id": "jordan-church-shooting",
+   "title": "ירדן: התקיפות בסוריה כוונו נגד דאעש",
+   "summary": "לפי אל-ג'זירה ו-NYT, ירדן מסרה כי התקיפות הקטלניות שביצעה בסוריה כוונו נגד מדינת דאעש.",
+   "why": "פעולה צבאית ירדנית בסוריה משפיעה על היציבות לאורך הגבול הצפוני של ישראל.",
+   "change": "ירדן מסרה כי התקיפות בסוריה כוונו נגד דאעש.",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "security",
+    "israel_world"
+   ],
+   "kind": "statement",
+   "entities": [
+    "ירדן",
+    "סוריה"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/28/syria-jordan-border-reopens-amid-probe-into-deadly-airstrikes?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "NYT",
+     "url": "https://www.nytimes.com/2026/10/27/world/middleeast/jordan-syria-strikes-attack.html",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-10-24",
+   "lastUpdated": "2026-10-28"
+  }
+ ],
+ "unverified": [
+  {
+   "id": "trump-circle-unity-government",
+   "title": "דיווח: סביבת טראמפ מעדיפה ממשלת אחדות ללא בן גביר וסמוטריץ'",
+   "summary": "לפי וואלה, מקורות אמריקניים טוענים כי טראמפ מעדיף ממשלה ללא בן גביר וסמוטריץ'. ynet מדווח כי גורמים בסביבת טראמפ מעריכים אפשרות לממשלת אחדות ברוטציה. הדברים מיוחסים למקורות לא מזוהים ולא נמסרה הצהרה רשמית.",
+   "why": "עמדת ארה\"ב עשויה להשפיע על הרכבת הקואליציה.",
+   "change": "",
+   "next": "",
+   "status": "CLAIM",
+   "importance": 4,
+   "categories": [
+    "politics",
+    "israel_world"
+   ],
+   "kind": "statement",
+   "entities": [
+    "טראמפ",
+    "בן גביר",
+    "בחירות 2026"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383959169",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/skkawncngl",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-10-28",
+   "lastUpdated": "2026-10-28"
+  },
+  {
+   "id": "qatar-us-iran-talks-claim",
+   "title": "סתירה: האם קטאר הציעה לאיראן הצעה חדשה לסיום המלחמה",
+   "summary": "לפי ynet, איראן צפויה להשיב עד סוף השבוע לטיוטה חדשה להסכם סיום המלחמה. מנגד, איראן הכחישה, לפי ישראל היום, שקטאר הציגה הצעה חדשה, ולפי ynet הודיעה כי לא תתפשר בנושא הגרעין.",
+   "why": "הסכם עשוי למנוע חידוש המלחמה מול איראן.",
+   "change": "איראן מכחישה הצעה חדשה של קטאר, בעוד דיווח אחר מדבר על טיוטה חדשה להסכם.",
+   "next": "",
+   "status": "CONFLICTING",
+   "importance": 4,
+   "categories": [
+    "security",
+    "israel_world"
+   ],
+   "kind": "negotiation",
+   "entities": [
+    "איראן",
+    "קטאר",
+    "ארצות הברית"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/bjgr6ekpfx",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21725851",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-10-21",
+   "lastUpdated": "2026-10-28"
+  },
+  {
+   "id": "nukhba-gaza-three-killed",
+   "title": "לטענת צה\"ל: חוסלו בעזה שלושה מחבלי נוח'בה",
+   "summary": "לפי מעריב, וואלה וישראל היום, צה\"ל מסר כי חיסל שלושה מחבלי נוח'בה בעזה. לטענת צה\"ל, אחד מהם השתתף בחטיפת אלכסנדר דנציג ב-7 באוקטובר. הנתונים לא אומתו ממקור עצמאי.",
+   "why": "המשך פעילות צה\"ל בעזה והטיפול במעורבי 7 באוקטובר.",
+   "change": "",
+   "next": "",
+   "status": "CLAIM",
+   "importance": 3,
+   "categories": [
+    "security"
+   ],
+   "kind": "event",
+   "entities": [
+    "עזה",
+    "נוח'בה",
+    "7 באוקטובר"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1382158",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383959191",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/defense/article/21723817",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-10-28",
+   "lastUpdated": "2026-10-28"
+  }
+ ],
+ "filtered_out": 291,
+ "note": ""
+}
