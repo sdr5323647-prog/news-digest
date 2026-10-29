@@ -1,0 +1,149 @@
+{
+  "schema": 2, "date": "2026-10-29", "type": "daily",
+  "headline": "הספירה בבחירות מתקרבת לסיומה בלי שינוי בתמונת הגושים, וסולברג הורה לשב\"כ לבדוק חשד להתערבות זרה; במקביל פעל צה\"ל בלבנון.",
+  "events": [
+    {
+      "id": "election-exit-polls",
+      "title": "הבחירות לכנסת: כ-94% מהקולות נספרו, בלי שינוי בתמונת הגושים",
+      "summary": "לפי ynet, מעריב ווואלה, בספירה נכון ל-90% מהקולות לגוש נתניהו 53 מנדטים ולגוש איזנקוט 48. ספירת המעטפות הכפולות, שמניינן עולה על 400 אלף, החלה בלילה, וב-ynet מוערך שהספירה תסתיים אחר הצהריים. בוואלה דווח כי כשכ-94% מהקולות נספרו, רע\"ם מתחזקת והרשימה המשותפת ירדה ל-11 מנדטים.",
+      "why": "התוצאה הסופית תקבע מי יקבל את המנדט להרכבת הממשלה.",
+      "change": "הספירה התקדמה מ-88.6% ל-כ-94% ללא שינוי בגושים; הרשימה המשותפת ב-11 מנדטים לפי הספירה החלקית.",
+      "next": "סיום ספירת המעטפות הכפולות ופרסום תוצאות סופיות.",
+      "status": "VERIFIED", "importance": 5,
+      "categories": ["politics"], "kind": "data",
+      "entities": ["בחירות 2026", "נתניהו", "איזנקוט"],
+      "noise": [],
+      "sources": [
+        {"name": "ynet", "url": "https://www.ynet.co.il/news/article/sjlu2ryagg", "tier": 2, "type": "reporting"},
+        {"name": "וואלה", "url": "https://www.walla.co.il/news/breaking-news/383959328", "tier": 2, "type": "reporting"},
+        {"name": "מעריב", "url": "https://www.maariv.co.il/breaking-news/article-1382416", "tier": 2, "type": "reporting"}
+      ],
+      "sourceCount": 3, "firstSeen": "2026-10-28", "lastUpdated": "2026-10-29"
+    },
+    {
+      "id": "foreign-election-interference-probe",
+      "title": "סולברג הנחה את ראש השב\"כ לחקור חשד לשוחד בחירות בידי גורמים זרים",
+      "summary": "לפי ynet ווואלה, השופט סולברג, העומד בראש ועדת הבחירות המרכזית, הנחה את ראש השב\"כ לחקור חשדות בעניין שוחד בחירות בידי גורמים זרים. ועדת הבחירות מסרה לפי מעריב כי אין בשלב זה מידע נוסף על החשדות. המשטרה מסרה, לפי ynet ווואלה, כי אין תימוכין חקירתי לטענות הליכוד ש\"הבחירות נגנבו\".",
+      "why": "בדיקה כזו עלולה להשפיע על אמון הציבור בתוצאות ועל המגעים להרכבת הממשלה.",
+      "change": "",
+      "next": "תגובת ועדת הבחירות לדרישת האופוזיציה להציג ראיות; ממצאי השב\"כ.",
+      "status": "VERIFIED", "importance": 5,
+      "categories": ["politics", "security", "law"], "kind": "legal",
+      "entities": ["בחירות 2026", "שב\"כ", "ועדת הבחירות המרכזית"],
+      "noise": [],
+      "sources": [
+        {"name": "ynet", "url": "https://www.ynet.co.il/news/article/b1uzx00xtzl", "tier": 2, "type": "reporting"},
+        {"name": "וואלה", "url": "https://www.walla.co.il/news/breaking-news/383959313", "tier": 2, "type": "reporting"},
+        {"name": "מעריב", "url": "https://www.maariv.co.il/breaking-news/article-1382562", "tier": 2, "type": "reporting"}
+      ],
+      "sourceCount": 3, "firstSeen": "2026-10-29", "lastUpdated": "2026-10-29"
+    },
+    {
+      "id": "coalition-building-after-election",
+      "title": "אחרי הבחירות: הצהרות מנהלי המפלגות על הרכבת הממשלה",
+      "summary": "לפי ynet, מעריב וישראל היום, איזנקוט אמר שהוא ממוקד בהקמת \"ממשלת גיוס ציונית\", ליברמן אמר שלא ישב עם נתניהו ועם טיבי, והרשימה המשותפת הודיעה על נכונות לשיתוף פעולה פוליטי כדי להפיל את ממשלת נתניהו. לפי ישראל היום, גולן צפוי להיפגש עם שלושה מראשי גוש השינוי.",
+      "why": "ההצהרות מסמנות את האפשרויות להרכבת קואליציה בלי רוב ברור לאף גוש.",
+      "change": "",
+      "next": "פגישות בין ראשי גוש השינוי והתחלת התייעצויות אצל הנשיא.",
+      "status": "VERIFIED", "importance": 4,
+      "categories": ["politics"], "kind": "negotiation",
+      "entities": ["בחירות 2026", "איזנקוט", "ליברמן", "הרשימה המשותפת"],
+      "noise": [],
+      "sources": [
+        {"name": "ynet", "url": "https://www.ynet.co.il/news/article/SyYVW0JTGg", "tier": 2, "type": "reporting"},
+        {"name": "ynet", "url": "https://www.ynet.co.il/news/article/sjvbkyg6zl", "tier": 2, "type": "reporting"},
+        {"name": "ישראל היום", "url": "https://www.israelhayom.co.il/news/politics/article/21733807", "tier": 2, "type": "reporting"}
+      ],
+      "sourceCount": 3, "firstSeen": "2026-10-29", "lastUpdated": "2026-10-29"
+    },
+    {
+      "id": "lebanon-strikes-wave",
+      "title": "פיקוד הצפון: תקיפות בלבנון, הדי פיצוצים יישמעו בצפון",
+      "summary": "לפי ynet, פיקוד הצפון מסר כי יישמעו הדי פיצוצים בגליל, ברכס רמים ובגולן בשל תקיפות בלבנון. לפי מעריב ווואלה, צה\"ל שיגר מיירט לעבר מטרה אווירית חשודה בדרום לבנון. ב-ynet דווח גם על דיווחים בלבנון על תקיפות בדרום המדינה.",
+      "why": "פעילות צבאית נמשכת בגבול הצפון ומשפיעה על תושבי הצפון.",
+      "change": "",
+      "next": "",
+      "status": "VERIFIED", "importance": 3,
+      "categories": ["security"], "kind": "event",
+      "entities": ["לבנון", "פיקוד הצפון"],
+      "noise": [],
+      "sources": [
+        {"name": "ynet", "url": "https://www.ynet.co.il/news/article/sk4hsp1age", "tier": 2, "type": "reporting"},
+        {"name": "מעריב", "url": "https://www.maariv.co.il/breaking-news/article-1382412", "tier": 2, "type": "reporting"},
+        {"name": "וואלה", "url": "https://www.walla.co.il/news/breaking-news/383959292", "tier": 2, "type": "reporting"}
+      ],
+      "sourceCount": 3, "firstSeen": "2026-10-29", "lastUpdated": "2026-10-29"
+    },
+    {
+      "id": "vance-letter-iran",
+      "title": "דיווח: סגן נשיא ארה\"ב שלח מכתב לבכיר איראני במטרה לחדש את שיחות השלום",
+      "summary": "על פי דיווחי מעריב, וואלה ו-ynet, סגן נשיא ארה\"ב ואנס שלח מכתב ליו\"ר מועצת הביטחון האיראנית בניסיון לחדש את שיחות השלום. הדיווחים מציינים זאת כדיווח, ולא נמסר אישור רשמי בחומר שנבדק.",
+      "why": "מסלול דיפלומטי עשוי להשפיע על ההסלמה האפשרית מול איראן.",
+      "change": "",
+      "next": "תגובה רשמית של איראן או של ארה\"ב.",
+      "status": "REPORTED", "importance": 4,
+      "categories": ["security", "israel_world"], "kind": "negotiation",
+      "entities": ["איראן", "ארצות הברית"],
+      "noise": [],
+      "sources": [
+        {"name": "ynet", "url": "https://www.ynet.co.il/news/article/hjmyg0ytfg", "tier": 2, "type": "reporting"},
+        {"name": "וואלה", "url": "https://www.walla.co.il/news/breaking-news/383959289", "tier": 2, "type": "reporting"}
+      ],
+      "sourceCount": 2, "firstSeen": "2026-10-29", "lastUpdated": "2026-10-29"
+    },
+    {
+      "id": "spain-train-collision",
+      "title": "ספרד: מספר ההרוגים בהתנגשות הרכבות מתקרב ל-70",
+      "summary": "לפי ישראל היום, כמעט 70 בני אדם נהרגו בהתנגשות הרכבות בספרד, ונמסר כי הרכבת קיבלה הוראה להמשיך. המספר עולה מהדיווחים הקודמים ומקור אחד בלבד נבדק לגבי העדכון.",
+      "why": "אחד מאסונות הרכבות החמורים באירופה בשנים האחרונות, עם נפגעים רבים.",
+      "change": "מספר ההרוגים עלה מ-60 ומעלה לכמעט 70, ונמסרה הסיבה המדווחת: הוראה לרכבת להמשיך.",
+      "next": "חקירת האסון.",
+      "status": "REPORTED", "importance": 3,
+      "categories": ["world"], "kind": "event",
+      "entities": ["ספרד"],
+      "noise": [],
+      "sources": [
+        {"name": "ישראל היום", "url": "https://www.israelhayom.co.il/news/world-news/europe/article/21729802", "tier": 2, "type": "reporting"}
+      ],
+      "sourceCount": 1, "firstSeen": "2026-10-28", "lastUpdated": "2026-10-29"
+    }
+  ],
+  "unverified": [
+    {
+      "id": "qatar-election-funding-claim",
+      "title": "חשד לא מאומת: קטאר העבירה כספים להטיית תוצאות הבחירות",
+      "summary": "על פי דיווח ב-ynet, השופט זיני מסר \"מידע מוצק\" על התערבות מדינת אויב בבחירות, והחשד מתייחס לקטאר. בליכוד טענו, לפי ישראל היום, כי \"הבחירות נגנבו על ידי מפלגות ערביות\", ובבל\"ד הגיבו שמדובר ב\"עלילת דם\". ועדת הבחירות מסרה כי אין בשלב זה מידע נוסף, והמשטרה מסרה כי אין תימוכין חקירתי לטענות הליכוד.",
+      "why": "טענות על התערבות זרה בבחירות, אם יוכחו, עלולות להשפיע על אמון הציבור בתוצאות.",
+      "change": "",
+      "next": "ממצאי השב\"כ ותגובת ועדת הבחירות.",
+      "status": "CLAIM", "importance": 4,
+      "categories": ["politics", "security"], "kind": "dispute",
+      "entities": ["בחירות 2026", "קטאר", "הליכוד"],
+      "noise": [],
+      "sources": [
+        {"name": "ynet", "url": "https://www.ynet.co.il/news/article/bk7ea00l6ml", "tier": 2, "type": "reporting"},
+        {"name": "ישראל היום", "url": "https://www.israelhayom.co.il/news/law/article/21729204", "tier": 2, "type": "reporting"}
+      ],
+      "sourceCount": 2, "firstSeen": "2026-10-29", "lastUpdated": "2026-10-29"
+    },
+    {
+      "id": "saudi-houthi-fighting",
+      "title": "לטענת סעודיה: יורט טיל בליסטי ששיגרו החות'ים",
+      "summary": "על פי הודעת סעודיה, כפי שדווח בוואלה וב-ynet, יורט טיל בליסטי שהחות'ים שיגרו לעבר הממלכה. הנתון לא אומת ממקור עצמאי.",
+      "why": "המשך ההתפתחות מול החות'ים באזור המפרץ.",
+      "change": "יירוט נוסף שדווח היום.",
+      "next": "",
+      "status": "CLAIM", "importance": 3,
+      "categories": ["security", "world"], "kind": "event",
+      "entities": ["סעודיה", "החות'ים"],
+      "noise": [],
+      "sources": [
+        {"name": "ynet", "url": "https://www.ynet.co.il/news/article/h1fydmetgx", "tier": 2, "type": "reporting"},
+        {"name": "וואלה", "url": "https://www.walla.co.il/news/breaking-news/383959300", "tier": 2, "type": "reporting"}
+      ],
+      "sourceCount": 2, "firstSeen": "2026-10-03", "lastUpdated": "2026-10-29"
+    }
+  ],
+  "filtered_out": 270,
+  "note": ""
+}
