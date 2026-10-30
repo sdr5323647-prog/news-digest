@@ -2,26 +2,6 @@
  "date": "2026-10-30",
  "articles": [
   {
-   "source": "BBC",
-   "outlet": "BBC",
-   "title": "How could Israel break election deadlock? Here are four scenarios",
-   "url": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss",
-   "summary": "With more than 90% of votes counted, all signs point to an impasse. The most likely outcome may be new elections.",
-   "time": "2026-10-29T09:06:48+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
-   "source": "NYT",
-   "outlet": "NYT",
-   "title": "How Netanyahu Used Fear, Again, to Win Votes in the Israel Elections",
-   "url": "https://www.nytimes.com/2026/10/29/world/middleeast/netanyahu-fear-election-votes.html",
-   "summary": "Despite years of political baggage, the Israeli prime minister outperformed expectations, and his rivals, by playing on Jewish voters’ fears of Arab political power and potential security threats.",
-   "time": "2026-10-29T10:29:01+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
    "source": "NYT",
    "outlet": "NYT",
    "title": "How Arab Voters in Israel Shifted the Political Landscape",
@@ -3702,107 +3682,8 @@
    "type": "reporting"
   }
  ],
- "updated": "2026-10-30T10:07:35.167720+00:00",
+ "updated": "2026-10-30T17:06:54.915245+00:00",
  "clusters": [
-  {
-   "id": "4429b62108",
-   "title": "Israel election result shows no overall majority as vote count complete",
-   "sourceCount": 4,
-   "outlets": [
-    "Al Jazeera",
-    "BBC",
-    "Guardian",
-    "NYT"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 10,
-   "opinionOnly": false,
-   "firstSeen": "2026-10-29T09:06:48+00:00",
-   "lastSeen": "2026-10-30T07:07:36+00:00",
-   "articles": [
-    {
-     "source": "BBC",
-     "title": "How could Israel break election deadlock? Here are four scenarios",
-     "url": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-29T09:06:48+00:00"
-    },
-    {
-     "source": "NYT",
-     "title": "How Netanyahu Used Fear, Again, to Win Votes in the Israel Elections",
-     "url": "https://www.nytimes.com/2026/10/29/world/middleeast/netanyahu-fear-election-votes.html",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-29T10:29:01+00:00"
-    },
-    {
-     "source": "NYT",
-     "title": "How Arab Voters in Israel Shifted the Political Landscape",
-     "url": "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-arab-parties.html",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-29T11:44:03+00:00"
-    },
-    {
-     "source": "NYT",
-     "title": "With No Clear Winner, How Could Israel Get a Prime Minister?",
-     "url": "https://www.nytimes.com/2026/10/29/world/middleeast/israel-election-coalition-scenarios.html",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-29T12:30:50+00:00"
-    },
-    {
-     "source": "NYT",
-     "title": "How Israel’s Election Could End",
-     "url": "https://www.nytimes.com/video/world/middleeast/100000011242127/how-israels-election-could-end.html",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-29T17:01:22+00:00"
-    },
-    {
-     "source": "Guardian",
-     "title": "Israel election results: Qatar says accusations of election interference in Israel ‘ridiculous and dangerous’ – as it happened",
-     "url": "https://www.theguardian.com/world/live/2026/oct/29/israel-election-results-live-updates-poll-netanyahu-eisenkot-bloc-coalition-latest-news",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-29T17:49:57+00:00"
-    },
-    {
-     "source": "Al Jazeera",
-     "title": "Israel election result shows no overall majority as vote count complete",
-     "url": "https://www.aljazeera.com/news/2026/10/29/israel-election-result-shows-no-overall-majority-as-vote-count-complete?traffic_source=rss",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-29T20:22:04+00:00"
-    },
-    {
-     "source": "NYT",
-     "title": "No Clear Winner in Israel Election, Final Results Show",
-     "url": "https://www.nytimes.com/2026/10/29/world/middleeast/israel-election-results-netanyahu-eisenkot.html",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-29T23:07:49+00:00"
-    },
-    {
-     "source": "NYT",
-     "title": "An Arab Town in Israel Celebrates the Election but Wonders What Will Change",
-     "url": "https://www.nytimes.com/2026/10/30/world/middleeast/arab-voters-israel-election-taibe.html",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-30T04:01:20+00:00"
-    },
-    {
-     "source": "Al Jazeera",
-     "title": "How Israel choked off Hebron at 10 entrances, as 5,000 forced to flee",
-     "url": "https://www.aljazeera.com/economy/2026/10/30/how-israel-choked-off-hebron-at-10-entrances-as-5000-forced-to-flee?traffic_source=rss",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-30T07:07:36+00:00"
-    }
-   ]
-  },
   {
    "id": "6e39345f49",
    "title": "אירוע אלימות בריינה: נקבע מותו של גבר בן 40; שני פצועים נוספים בינוני וקל",
@@ -3977,6 +3858,88 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-10-30T09:09:24+00:00"
+    }
+   ]
+  },
+  {
+   "id": "4f4b0e76af",
+   "title": "Israel election result shows no overall majority as vote count complete",
+   "sourceCount": 3,
+   "outlets": [
+    "Al Jazeera",
+    "Guardian",
+    "NYT"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 8,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-29T11:44:03+00:00",
+   "lastSeen": "2026-10-30T07:07:36+00:00",
+   "articles": [
+    {
+     "source": "NYT",
+     "title": "How Arab Voters in Israel Shifted the Political Landscape",
+     "url": "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-arab-parties.html",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-29T11:44:03+00:00"
+    },
+    {
+     "source": "NYT",
+     "title": "With No Clear Winner, How Could Israel Get a Prime Minister?",
+     "url": "https://www.nytimes.com/2026/10/29/world/middleeast/israel-election-coalition-scenarios.html",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-29T12:30:50+00:00"
+    },
+    {
+     "source": "NYT",
+     "title": "How Israel’s Election Could End",
+     "url": "https://www.nytimes.com/video/world/middleeast/100000011242127/how-israels-election-could-end.html",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-29T17:01:22+00:00"
+    },
+    {
+     "source": "Guardian",
+     "title": "Israel election results: Qatar says accusations of election interference in Israel ‘ridiculous and dangerous’ – as it happened",
+     "url": "https://www.theguardian.com/world/live/2026/oct/29/israel-election-results-live-updates-poll-netanyahu-eisenkot-bloc-coalition-latest-news",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-29T17:49:57+00:00"
+    },
+    {
+     "source": "Al Jazeera",
+     "title": "Israel election result shows no overall majority as vote count complete",
+     "url": "https://www.aljazeera.com/news/2026/10/29/israel-election-result-shows-no-overall-majority-as-vote-count-complete?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-29T20:22:04+00:00"
+    },
+    {
+     "source": "NYT",
+     "title": "No Clear Winner in Israel Election, Final Results Show",
+     "url": "https://www.nytimes.com/2026/10/29/world/middleeast/israel-election-results-netanyahu-eisenkot.html",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-29T23:07:49+00:00"
+    },
+    {
+     "source": "NYT",
+     "title": "An Arab Town in Israel Celebrates the Election but Wonders What Will Change",
+     "url": "https://www.nytimes.com/2026/10/30/world/middleeast/arab-voters-israel-election-taibe.html",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-30T04:01:20+00:00"
+    },
+    {
+     "source": "Al Jazeera",
+     "title": "How Israel choked off Hebron at 10 entrances, as 5,000 forced to flee",
+     "url": "https://www.aljazeera.com/economy/2026/10/30/how-israel-choked-off-hebron-at-10-entrances-as-5000-forced-to-flee?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-30T07:07:36+00:00"
     }
    ]
   },
@@ -10874,7 +10837,7 @@
   }
  ],
  "stats": {
-  "articles": 370,
+  "articles": 368,
   "clusters": 261,
   "multiSource": 39
  }

@@ -1,0 +1,484 @@
+{
+ "schema": 2,
+ "date": "2026-10-30",
+ "type": "daily",
+ "headline": "הספירה הסתיימה ואין רוב לאף גוש (53 מול 48); בנט ואיזנקוט נפגשו, השב\"כ הבהיר את מקור המידע על התערבות זרה, ודווח על הצגת אפשרויות תקיפה באיראן לטראמפ.",
+ "events": [
+  {
+   "id": "election-exit-polls",
+   "title": "תוצאות הבחירות לכנסת: אף גוש לא הגיע ל-61 מנדטים",
+   "summary": "לפי ניו יורק טיימס ואל ג'זירה, בתוצאות הסופיות של הספירה גוש נתניהו זכה ב-53 מנדטים וגוש איזנקוט ב-48, ואף גוש לא הגיע לרוב של 61. ועדת הבחירות המרכזית הודיעה לפי וואלה כי ספירת המעטפות הכפולות הסתיימה, וכי התוצאות הרשמיות יפורסמו ביום רביעי לאחר בדיקות נוספות.",
+   "why": "בלי רוב ברור, הרכבת הממשלה תלויה במשא ומתן בין המפלגות, ועלולה להוביל לבחירות חוזרות.",
+   "change": "הספירה הושלמה ואין רוב לאף גוש; התוצאות הרשמיות צפויות ביום רביעי.",
+   "next": "פרסום התוצאות הרשמיות והחלטת הנשיא על מי יוטל להרכיב ממשלה.",
+   "status": "VERIFIED",
+   "importance": 5,
+   "categories": [
+    "politics"
+   ],
+   "kind": "data",
+   "entities": [
+    "בחירות 2026",
+    "נתניהו",
+    "איזנקוט"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "NYT",
+     "url": "https://www.nytimes.com/2026/10/29/world/middleeast/israel-election-results-netanyahu-eisenkot.html",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/29/israel-election-result-shows-no-overall-majority-as-vote-count-complete",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383959370",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1382878",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 4,
+   "firstSeen": "2026-10-28",
+   "lastUpdated": "2026-10-30"
+  },
+  {
+   "id": "coalition-building-after-election",
+   "title": "בנט ואיזנקוט נפגשו לדיון בהקמת ממשלה; בן גביר נפגש עם נתניהו",
+   "summary": "לפי מעריב, וואלה ו-ynet, בנט ואיזנקוט נפגשו בביתו של בנט ברעננה ואמרו כי דנו בדרכי פעולה להקמת ממשלה. לפי הודעת עוצמה יהודית, כפי שפורסמה במעריב וב-ynet, בן גביר נפגש אמש ממושכות עם ראש הממשלה ודנו כיצד לשמור על ממשלת הימין.",
+   "why": "המגעים הראשונים בין הגושים יקבעו אם תוקם ממשלה או שישראל תלך לבחירות חוזרות.",
+   "change": "נערכו שתי פגישות ראשונות: בנט–איזנקוט ובן גביר–נתניהו.",
+   "next": "המשך מגעים בין המפלגות לקראת המלצות לנשיא.",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "politics"
+   ],
+   "kind": "negotiation",
+   "entities": [
+    "בחירות 2026",
+    "נתניהו",
+    "איזנקוט",
+    "בן גביר",
+    "בנט"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1382786",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383959388",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/bjrb6g116fg",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-10-29",
+   "lastUpdated": "2026-10-30"
+  },
+  {
+   "id": "foreign-election-interference-probe",
+   "title": "השב\"כ: המידע על חשד להשפעה זרה בבחירות נאסף על ידו ולא הגיע ממפלגה",
+   "summary": "לפי וואלה, השב\"כ מסר כי המידע על החשד להשפעה זרה בבחירות נאסף על ידיו ולא התקבל ממפלגה או מגורם פוליטי, וכי החקירה טרם הסתיימה. עוד נמסר כי מלבד השופט סולברג איש מחוץ לשירות לא נחשף למידע עד לסיום הבחירות. לפי ynet וישראל היום, יושב ראש ועדת הבחירות, השופט דין ליבנה, מסר כי הדיווחים שפורסמו על חקירת השב\"כ אינם מבוססים. לפי הגרדיאן, קטאר דחתה את ההאשמות וכינתה אותן 'מגוחכות ומסוכנות'.",
+   "why": "חשד להתערבות מדינה זרה בבחירות עלול להשפיע על האמון בתוצאות ועל יחסי ישראל עם קטאר.",
+   "change": "השב\"כ הבהיר מי מקור המידע; ועדת הבחירות הכחישה דיווחים על החקירה, וקטאר דחתה את ההאשמות.",
+   "next": "הצגת ממצאי השב\"כ ליושב ראש ועדת הבחירות.",
+   "status": "REPORTED",
+   "importance": 4,
+   "categories": [
+    "security",
+    "politics"
+   ],
+   "kind": "event",
+   "entities": [
+    "בחירות 2026",
+    "קטאר",
+    "שב\"כ"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383959372",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/ry6myrwagg",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/politics/article/21740356",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Guardian",
+     "url": "https://www.theguardian.com/world/live/2026/oct/29/israel-election-results-live-updates-poll-netanyahu-eisenkot-bloc-coalition-latest-news",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 4,
+   "firstSeen": "2026-10-29",
+   "lastUpdated": "2026-10-30"
+  },
+  {
+   "id": "trump-iran-strike-plans",
+   "title": "דיווח: מפקד סנטקום הציג לטראמפ אפשרויות לתקיפה באיראן",
+   "summary": "לפי דיווח שהובא בוואלה, ynet, ישראל היום ומעריב, מפקד פיקוד המרכז האמריקני ביקר בבית הלבן והציג לנשיא טראמפ תרחישים צבאיים לתקיפה באיראן, ויש דיווח על היערכות לאחר הבחירות. לפי וואלה ו-ynet, מתווכים מקטאר חזרו לטהרן בניסיון לקדם הסכם עם ארה\"ב.",
+   "why": "תקיפה אמריקנית באיראן תשפיע ישירות על הביטחון באזור ועל ישראל.",
+   "change": "דווח על הצגת אפשרויות תקיפה לנשיא, במקביל למגעי תיווך.",
+   "next": "החלטת טראמפ והתפתחות המגעים עם איראן.",
+   "status": "REPORTED",
+   "importance": 4,
+   "categories": [
+    "security",
+    "israel_world"
+   ],
+   "kind": "event",
+   "entities": [
+    "איראן",
+    "טראמפ",
+    "ארצות הברית"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383959397",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/s100btfwpze",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21739271",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1382877",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 4,
+   "firstSeen": "2026-10-08",
+   "lastUpdated": "2026-10-30"
+  },
+  {
+   "id": "soldier-iran-espionage-indictment",
+   "title": "הוגש כתב אישום נגד חייל צה\"ל בחשד לריגול עבור איראן",
+   "summary": "לפי וואלה, ynet וישראל היום, חייל צה\"ל הואשם בריגול חמור: לפי כתב האישום מסר לגורמים איראניים מידע רגיש על פעילות יחידתו, והוצעו לו 200 אלף דולר כדי להגיע לאיראן.",
+   "why": "ריגול עבור איראן בתוך צה\"ל הוא איום ביטחוני ישיר בעיצומו של עימות מול טהרן.",
+   "change": "",
+   "next": "המשך ההליך המשפטי.",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "security",
+    "law"
+   ],
+   "kind": "legal",
+   "entities": [
+    "איראן",
+    "ריגול"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383959384",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/h1chvg11pzl",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/defense/article/21738429",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-10-30",
+   "lastUpdated": "2026-10-30"
+  },
+  {
+   "id": "haredi-protest-route4",
+   "title": "הפגנת חרדים בכביש 4: שוטרים נפצעו וכתבת הותקפה",
+   "summary": "לפי וואלה, ynet וישראל היום, בהפגנת חרדים בכביש 4 נפצעו שלושה שוטרים, אחד מהם נפגע בראשו מאבן ואחד שבר צלעות. לפי המשטרה, כתבת נפצעה בראשה וצלם הותקף במוט ברזל.",
+   "why": "אלימות בהפגנות סביב סוגיית הגיוס מעמיקה את המתיחות הציבורית.",
+   "change": "",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "society"
+   ],
+   "kind": "event",
+   "entities": [
+    "חרדים",
+    "גיוס"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383959386",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/ry79tg116ge",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/culture/tv/article/21737060",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-10-30",
+   "lastUpdated": "2026-10-30"
+  },
+  {
+   "id": "spain-train-collision",
+   "title": "אסון הרכבות בספרד: מספר ההרוגים עלה ל-74",
+   "summary": "לפי ynet, מספר ההרוגים באסון הרכבות בספרד עלה ל-74. ישראל היום פרסם עדות של ניצול על הרגעים שאחרי ההתנגשות.",
+   "why": "אחד האסונות החמורים באירופה בשנים האחרונות.",
+   "change": "מספר ההרוגים עלה מכמעט 70 ל-74.",
+   "next": "עדכון הנתונים והחקירה.",
+   "status": "REPORTED",
+   "importance": 3,
+   "categories": [
+    "world"
+   ],
+   "kind": "event",
+   "entities": [
+    "ספרד"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/b13k0ewage",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/world-news/europe/article/21740135",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-10-28",
+   "lastUpdated": "2026-10-30"
+  },
+  {
+   "id": "binance-security-breach",
+   "title": "בייננס: חשד לפרצת אבטחה, נכסים בשווי כ-3 מיליארד דולר הוקפאו",
+   "summary": "לפי ynet וישראל היום, בורסת הקריפטו בייננס הקפיאה נכסים בשווי כ-3 מיליארד דולר בעקבות חשד לפרצת אבטחה. לפי ynet, בייננס מסרה כי ההשפעה היא 6.3 מיליארד דולר וכי היא מכסה את כל ההפסדים.",
+   "why": "פרצה בבורסה גדולה עלולה לפגוע בלקוחות ובשוק הקריפטו.",
+   "change": "",
+   "next": "בירור היקף הפרצה.",
+   "status": "REPORTED",
+   "importance": 3,
+   "categories": [
+    "economy",
+    "tech"
+   ],
+   "kind": "event",
+   "entities": [
+    "קריפטו",
+    "בייננס"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/hy5japwpmx",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/business/article/21740147",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-10-30",
+   "lastUpdated": "2026-10-30"
+  }
+ ],
+ "unverified": [
+  {
+   "id": "hormuz-tanker-fire-oct30",
+   "title": "סתירה בדיווחים על שריפה במכלית במצר הורמוז",
+   "summary": "לפי וואלה, מכלית נפגעה מעצם לא מזוהה במצר הורמוז וללא נפגעים. לפי ynet, השריפה נגרמה ממטעני חבלה שהוצמדו על ידי סירה קטנה. לפי אל ג'זירה, משמרות המהפכה טוענים כי ארבע מכליות פגעו במוקשים במצר.",
+   "why": "פגיעה בספנות במצר הורמוז משפיעה על מחירי האנרגיה ועל הסלמה מול איראן.",
+   "change": "",
+   "next": "בירור הגורם לאירוע.",
+   "status": "CONFLICTING",
+   "importance": 4,
+   "categories": [
+    "security",
+    "world"
+   ],
+   "kind": "event",
+   "entities": [
+    "איראן",
+    "מצר הורמוז"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383959395",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/hked11cztzl",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/10/30/iran-war-live-irgc-says-four-tankers-struck-mines-in-strait-of-hormuz",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-10-30",
+   "lastUpdated": "2026-10-30"
+  },
+  {
+   "id": "iran-fighter-jet-intercept-claim",
+   "title": "לטענת איראן: משמרות המהפכה יירטו מטוס קרב עוין",
+   "summary": "על פי דיווח איראני שהובא במעריב וב-ynet, משמרות המהפכה טוענים כי יירטו מטוס קרב עוין ואילצו אותו לעזוב, ויש טענות לתקיפה אמריקנית בדרום המדינה. אין אישור עצמאי לטענות.",
+   "why": "טענה על תקיפה אמריקנית, אם תתברר כנכונה, תהווה הסלמה מול איראן.",
+   "change": "",
+   "next": "",
+   "status": "CLAIM",
+   "importance": 4,
+   "categories": [
+    "security"
+   ],
+   "kind": "statement",
+   "entities": [
+    "איראן",
+    "משמרות המהפכה"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1382875",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/bjloue11pge",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-10-30",
+   "lastUpdated": "2026-10-30"
+  },
+  {
+   "id": "ukraine-refinery-strikes-pause",
+   "title": "סתירה בדיווחים: אוקראינה השהתה תקיפות בתי זיקוק ברוסיה בלחץ אמריקני?",
+   "summary": "לפי וואלה, ynet ומעריב, אוקראינה הפסיקה או השהתה תקיפות בתי זיקוק ברוסיה בעקבות לחץ אמריקני. לפי ישראל היום, כלי תקשורת בעולם דיווחו על ההפסקה, ובפועל אוקראינה תקפה שוב.",
+   "why": "תקיפות בתשתיות אנרגיה משפיעות על מהלך המלחמה ועל שוק האנרגיה.",
+   "change": "",
+   "next": "",
+   "status": "CONFLICTING",
+   "importance": 3,
+   "categories": [
+    "world"
+   ],
+   "kind": "event",
+   "entities": [
+    "אוקראינה",
+    "רוסיה"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383959414",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/h1kmqlbpfe",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/world-news/europe/article/21740945",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-10-30",
+   "lastUpdated": "2026-10-30"
+  }
+ ],
+ "filtered_out": 240,
+ "note": ""
+}
