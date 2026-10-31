@@ -1,0 +1,672 @@
+{
+ "schema": 2,
+ "date": "2026-10-31",
+ "type": "weekly",
+ "headline": "השבוע: בחירות בלי הכרעה, חקירת חשד להתערבות זרה בבחירות, הריסת בתי מחבלים בחברון ומגעים עם איראן לסיום המלחמה.",
+ "events": [
+  {
+   "id": "election-exit-polls",
+   "title": "תוצאות הבחירות לכנסת: אף גוש לא הגיע ל-61 מנדטים",
+   "summary": "לפי ניו יורק טיימס ואל ג'זירה, בתוצאות הסופיות של הספירה גוש נתניהו זכה ב-53 מנדטים וגוש איזנקוט ב-48, ואף גוש לא הגיע לרוב של 61. ועדת הבחירות המרכזית הודיעה לפי וואלה כי ספירת המעטפות הכפולות הסתיימה, וכי התוצאות הרשמיות יפורסמו ביום רביעי לאחר בדיקות נוספות.",
+   "why": "בלי רוב ברור, הרכבת הממשלה תלויה במשא ומתן בין המפלגות, ועלולה להוביל לבחירות חוזרות.",
+   "change": "הבחירות לכנסת הסתיימו בלי רוב ל-61 מנדטים לאף גוש, ובספירה הסופית 53 מול 48.",
+   "next": "פרסום התוצאות הרשמיות והחלטת הנשיא על מי יוטל להרכיב ממשלה.",
+   "status": "VERIFIED",
+   "importance": 5,
+   "categories": [
+    "politics"
+   ],
+   "kind": "data",
+   "entities": [
+    "בחירות 2026",
+    "נתניהו",
+    "איזנקוט"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "NYT",
+     "url": "https://www.nytimes.com/2026/10/29/world/middleeast/israel-election-results-netanyahu-eisenkot.html",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/29/israel-election-result-shows-no-overall-majority-as-vote-count-complete",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383959370",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1382878",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/sjlu2ryagg",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383959328",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1382416",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383959150",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1382062",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/politics/article/21720993",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/r16l79cnfl",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/sjdfkmjpzg",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 6,
+   "firstSeen": "2026-10-28",
+   "lastUpdated": "2026-10-31"
+  },
+  {
+   "id": "coalition-building-after-election",
+   "title": "בנט ואיזנקוט נפגשו לדיון בהקמת ממשלה; בן גביר נפגש עם נתניהו",
+   "summary": "לפי מעריב, וואלה ו-ynet, בנט ואיזנקוט נפגשו בביתו של בנט ברעננה ואמרו כי דנו בדרכי פעולה להקמת ממשלה. לפי הודעת עוצמה יהודית, כפי שפורסמה במעריב וב-ynet, בן גביר נפגש אמש ממושכות עם ראש הממשלה ודנו כיצד לשמור על ממשלת הימין.",
+   "why": "המגעים הראשונים בין הגושים יקבעו אם תוקם ממשלה או שישראל תלך לבחירות חוזרות.",
+   "change": "אחרי הבחירות נפגשו בנט ואיזנקוט, ובן גביר נפגש עם נתניהו; הקמת ממשלה עדיין לא הוכרעה.",
+   "next": "המשך מגעים בין המפלגות לקראת המלצות לנשיא.",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "politics"
+   ],
+   "kind": "negotiation",
+   "entities": [
+    "בחירות 2026",
+    "נתניהו",
+    "איזנקוט",
+    "בן גביר",
+    "בנט"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1382786",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383959388",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/bjrb6g116fg",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/SyYVW0JTGg",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/sjvbkyg6zl",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/politics/article/21733807",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 4,
+   "firstSeen": "2026-10-29",
+   "lastUpdated": "2026-10-31"
+  },
+  {
+   "id": "foreign-election-interference-probe",
+   "title": "המוסד מצטרף לשב\"כ בחקירת החשד להתערבות זרה בבחירות",
+   "summary": "לפי וואלה ו-ynet, המוסד יצטרף לשב\"כ בחקירת החשד למעורבות זרה בבחירות. החקירה, לפי דיווחים קודמים, טרם הסתיימה.",
+   "why": "חשד להתערבות מדינה זרה בבחירות נוגע לאמון הציבור בתוצאות ולביטחון המדינה.",
+   "change": "השב\"כ פתח בחקירה בחשד להתערבות זרה בבחירות, והמוסד הצטרף אליה בסוף השבוע.",
+   "next": "ממצאי החקירה.",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "security",
+    "politics"
+   ],
+   "kind": "event",
+   "entities": [
+    "בחירות 2026",
+    "קטאר",
+    "שב\"כ"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383959493",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/rybtgnm6gl",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383959372",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/ry6myrwagg",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/politics/article/21740356",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Guardian",
+     "url": "https://www.theguardian.com/world/live/2026/oct/29/israel-election-results-live-updates-poll-netanyahu-eisenkot-bloc-coalition-latest-news",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/b1uzx00xtzl",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383959313",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1382562",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 5,
+   "firstSeen": "2026-10-29",
+   "lastUpdated": "2026-10-31"
+  },
+  {
+   "id": "vance-letter-iran",
+   "title": "דיווחים: תיקונים להצעה לסיום המלחמה עם איראן הועברו לטהרן; טראמפ: המלחמה תסתיים בקרוב",
+   "summary": "לפי ynet ומעריב, הצעה של סגן נשיא ארה\"ב והצעות תיקון לטיוטת ההסכם לסיום המלחמה הגיעו לאיראן, ותשובה צפויה בתוך ימים. וואלה, ישראל היום ו-ynet מצטטים את טראמפ שאמר כי המלחמה עם איראן תסתיים בקרוב. לפי וואלה, טראמפ מסר שאיראן מעוניינת בהסכם ושניתן זמן לשיחות עם קטאר; לפי ישראל היום, קטאר דיווחה על פריצת דרך. אל-ג'זירה מדווחת שאיראן מזהירה מתגובה בלתי מרוסנת אם תותקף.",
+   "why": "מו\"מ מול איראן או חידוש הלחימה ישפיעו ישירות על הביטחון באזור, על מחירי האנרגיה ועל ישראל.",
+   "change": "שיחות ארה\"ב-איראן התקדמו: מכתב סגן הנשיא ותיקונים להצעה הועברו לטהרן, וטראמפ אמר שהמלחמה תסתיים בקרוב.",
+   "next": "תשובת איראן, צפויה בתוך ימים לפי הדיווחים.",
+   "status": "REPORTED",
+   "importance": 4,
+   "categories": [
+    "security",
+    "israel_world"
+   ],
+   "kind": "negotiation",
+   "entities": [
+    "איראן",
+    "טראמפ",
+    "ארצות הברית",
+    "קטאר"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/b1ktfbfpfe",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1383107",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383959474",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383959517",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21741739",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/31/iran-warns-of-unfettered-retaliation-if-attacked-as-mediators-try-for-peace",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/hjmyg0ytfg",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383959289",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 5,
+   "firstSeen": "2026-10-29",
+   "lastUpdated": "2026-10-31"
+  },
+  {
+   "id": "yehuda-junction-shooting",
+   "title": "צה\"ל הרס את בתי המחבלים מהפיגוע בצומת יהודה, בחברון",
+   "summary": "לפי וואלה, מעריב ו-ynet, צה\"ל הרס שבוע לאחר ההיתקלות בצומת יהודה, שבה נפלו שני לוחמים, את בתיהם של המחבלים בחברון. לפי וואלה, תושבי המקום פונו לפני ההריסה. אל-ג'זירה דיווחה אף היא על פיצוץ בתים של פלסטינים שהואשמו בהריגת החיילים.",
+   "why": "הריסת בתי מחבלים היא צעד בפועל בתגובה לפיגוע קטלני, והיא מעוררת מחלוקת מדינית ומשפטית.",
+   "change": "אחרי הפיגוע בצומת יהודה ומבצע בחברון, צה\"ל הרס את בתי המחבלים.",
+   "next": "תגובות מדיניות ומשפטיות להריסה.",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "security"
+   ],
+   "kind": "decision",
+   "entities": [
+    "יהודה ושומרון",
+    "פיגועים",
+    "חברון"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/r1em2qzpgx",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383959495",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1383038",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/31/israel-demolishes-homes-of-palestinians-blamed-for-attack-on-soldiers",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/syjhkns3fl",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383958926",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/defense/article/21705506",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "הגרדיאן",
+     "url": "https://www.theguardian.com/world/2026/oct/26/collective-punishment-palestinians-displaced-israeli-forces-take-over-hebron-homes",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/defense/article/21696720",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1380787",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/sjfpkqi3me",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/24/more-than-2000-forced-from-homes-in-hebron-amid-israels-west-bank-raids",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 7,
+   "firstSeen": "2026-10-23",
+   "lastUpdated": "2026-10-31"
+  },
+  {
+   "id": "liber-submarine-conviction",
+   "title": "צחי ליבר, יועץ התקשורת, הורשע בתיווך לשוחד ובהלבנת הון בפרשת הצוללות",
+   "summary": "לפי ynet, וואלה וישראל היום, יועץ התקשורת צחי ליבר הורשע בתיווך לשוחד ובהלבנת הון במסגרת פרשת הצוללות.",
+   "why": "הפרשה נוגעת לעסקאות הצוללות, והרשעה בה היא התפתחות משפטית משמעותית.",
+   "change": "צחי ליבר הורשע בתיווך לשוחד ובהלבנת הון בפרשת הצוללות.",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "law",
+    "politics"
+   ],
+   "kind": "legal",
+   "entities": [
+    "פרשת הצוללות",
+    "ועדת הצוללות"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/skvpd32hmg",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383958972",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/crime/article/21710311",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-10-26",
+   "lastUpdated": "2026-10-31"
+  },
+  {
+   "id": "soldier-iran-espionage-indictment",
+   "title": "הוגש כתב אישום נגד חייל צה\"ל בחשד לריגול עבור איראן",
+   "summary": "לפי וואלה, ynet וישראל היום, חייל צה\"ל הואשם בריגול חמור: לפי כתב האישום מסר לגורמים איראניים מידע רגיש על פעילות יחידתו, והוצעו לו 200 אלף דולר כדי להגיע לאיראן.",
+   "why": "ריגול עבור איראן בתוך צה\"ל הוא איום ביטחוני ישיר בעיצומו של עימות מול טהרן.",
+   "change": "הוגש כתב אישום נגד חייל צה\"ל בחשד לריגול עבור איראן.",
+   "next": "המשך ההליך המשפטי.",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "security",
+    "law"
+   ],
+   "kind": "legal",
+   "entities": [
+    "איראן",
+    "ריגול"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383959384",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/h1chvg11pzl",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/defense/article/21738429",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-10-30",
+   "lastUpdated": "2026-10-31"
+  },
+  {
+   "id": "spain-train-collision",
+   "title": "אסון הרכבות בספרד: מספר ההרוגים עלה ל-74",
+   "summary": "לפי ynet, מספר ההרוגים באסון הרכבות בספרד עלה ל-74. ישראל היום פרסם עדות של ניצול על הרגעים שאחרי ההתנגשות.",
+   "why": "אחד האסונות החמורים באירופה בשנים האחרונות.",
+   "change": "מספר ההרוגים באסון הרכבות בספרד עלה ל-74.",
+   "next": "עדכון הנתונים והחקירה.",
+   "status": "REPORTED",
+   "importance": 3,
+   "categories": [
+    "world"
+   ],
+   "kind": "event",
+   "entities": [
+    "ספרד"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/b13k0ewage",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/world-news/europe/article/21740135",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/world-news/europe/article/21729802",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/world-news/europe/article/21724911",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1382206",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/sywxjly6ge",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/28/injuries-reported-after-two-trains-collide-in-spain?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 4,
+   "firstSeen": "2026-10-28",
+   "lastUpdated": "2026-10-31"
+  },
+  {
+   "id": "brazil-election-lula",
+   "title": "לולה זכה בבחירות לנשיאות ברזיל לכהונה נוספת",
+   "summary": "לפי אל-ג'זירה, ynet וישראל היום, הנשיא לולה דה סילבה ניצח בבחירות לנשיאות ברזיל מול מנהיג הימין בולסונארו, לאחר ספירה שבה התחלפה ההובלה כמה פעמים. ynet מציין כי היריב מזוהה כפרו-ישראלי, ולפי ישראל היום הוא הודיע שיבקש לבטל את הבחירות.",
+   "why": "ברזיל היא המדינה הגדולה בדרום אמריקה, ותוצאת הבחירות משפיעה על יחסיה עם ישראל ועם ארה\"ב.",
+   "change": "לולה זכה בבחירות לנשיאות ברזיל לכהונה נוספת.",
+   "next": "בחינת טענות היריב לביטול הבחירות.",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "world",
+    "politics"
+   ],
+   "kind": "event",
+   "entities": [
+    "ברזיל",
+    "בחירות בעולם"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "אל-ג'זירה",
+     "url": "https://www.aljazeera.com/news/2026/10/26/lula-holds-off-far-right-with-victory-in-brazil-presidential-election",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/by6d3fh2ml",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/world-news/article/21707205",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-10-26",
+   "lastUpdated": "2026-10-31"
+  },
+  {
+   "id": "poland-constitutional-court-crisis",
+   "title": "פולין: משבר בבית הדין לחוקה, המשטרה נפרסה והנשיא חזר ארצה",
+   "summary": "לפי ישראל היום, וואלה ו-ynet, משטרה נפרסה בבית הדין לחוקה בפולין והנשיא חזר מחו\"ל. לפי ynet, נשיא בית הדין הושעה ועשרות הפגינו מול שעריו. אל-ג'זירה מדווחת שנשיא פולין הצטרף למחאה בעקבות המשבר החוקתי.",
+   "why": "סכסוך בין הנשיא לבית המשפט החוקתי במדינת נאט\"ו ואיחוד אירופי מעמיד במבחן את שלטון החוק.",
+   "change": "משבר בבית הדין לחוקה בפולין: משטרה נפרסה, הנשיא חזר ארצה ונשיא בית הדין הושעה.",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "world",
+    "law"
+   ],
+   "kind": "dispute",
+   "entities": [
+    "פולין",
+    "משבר חוקתי"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/world-news/article/21743163",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383959515",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/rkm5s00zage",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/polands-president-joins-protest-amid-constitutional-crisis-at-top-court",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 4,
+   "firstSeen": "2026-10-31",
+   "lastUpdated": "2026-10-31"
+  }
+ ],
+ "unverified": [],
+ "filtered_out": 0,
+ "note": ""
+}

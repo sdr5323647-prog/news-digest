@@ -1,0 +1,389 @@
+{
+ "schema": 2,
+ "date": "2026-10-31",
+ "type": "daily",
+ "headline": "המוסד הצטרף לחקירת החשד להתערבות זרה בבחירות, צה\"ל הרס את בתי המחבלים בחברון, ודווח על העברת תיקונים להצעה לסיום המלחמה לאיראן.",
+ "events": [
+  {
+   "id": "yehuda-junction-shooting",
+   "title": "צה\"ל הרס את בתי המחבלים מהפיגוע בצומת יהודה, בחברון",
+   "summary": "לפי וואלה, מעריב ו-ynet, צה\"ל הרס שבוע לאחר ההיתקלות בצומת יהודה, שבה נפלו שני לוחמים, את בתיהם של המחבלים בחברון. לפי וואלה, תושבי המקום פונו לפני ההריסה. אל-ג'זירה דיווחה אף היא על פיצוץ בתים של פלסטינים שהואשמו בהריגת החיילים.",
+   "why": "הריסת בתי מחבלים היא צעד בפועל בתגובה לפיגוע קטלני, והיא מעוררת מחלוקת מדינית ומשפטית.",
+   "change": "שבוע אחרי הפיגוע הרס צה\"ל את בתי המחבלים בחברון, והתושבים פונו מהמקום.",
+   "next": "תגובות מדיניות ומשפטיות להריסה.",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "security"
+   ],
+   "kind": "decision",
+   "entities": [
+    "יהודה ושומרון",
+    "פיגועים",
+    "חברון"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/r1em2qzpgx",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383959495",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1383038",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/31/israel-demolishes-homes-of-palestinians-blamed-for-attack-on-soldiers",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 4,
+   "firstSeen": "2026-10-23",
+   "lastUpdated": "2026-10-31"
+  },
+  {
+   "id": "vance-letter-iran",
+   "title": "דיווחים: תיקונים להצעה לסיום המלחמה עם איראן הועברו לטהרן; טראמפ: המלחמה תסתיים בקרוב",
+   "summary": "לפי ynet ומעריב, הצעה של סגן נשיא ארה\"ב והצעות תיקון לטיוטת ההסכם לסיום המלחמה הגיעו לאיראן, ותשובה צפויה בתוך ימים. וואלה, ישראל היום ו-ynet מצטטים את טראמפ שאמר כי המלחמה עם איראן תסתיים בקרוב. לפי וואלה, טראמפ מסר שאיראן מעוניינת בהסכם ושניתן זמן לשיחות עם קטאר; לפי ישראל היום, קטאר דיווחה על פריצת דרך. אל-ג'זירה מדווחת שאיראן מזהירה מתגובה בלתי מרוסנת אם תותקף.",
+   "why": "מו\"מ מול איראן או חידוש הלחימה ישפיעו ישירות על הביטחון באזור, על מחירי האנרגיה ועל ישראל.",
+   "change": "דווח כי תיקונים להצעה האמריקנית הועברו לאיראן וטראמפ אמר שהמלחמה תסתיים בקרוב; איראן מזהירה מתגובה אם תותקף.",
+   "next": "תשובת איראן, צפויה בתוך ימים לפי הדיווחים.",
+   "status": "REPORTED",
+   "importance": 4,
+   "categories": [
+    "security",
+    "israel_world"
+   ],
+   "kind": "negotiation",
+   "entities": [
+    "איראן",
+    "טראמפ",
+    "ארצות הברית",
+    "קטאר"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/b1ktfbfpfe",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1383107",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383959474",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383959517",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21741739",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/31/iran-warns-of-unfettered-retaliation-if-attacked-as-mediators-try-for-peace",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 5,
+   "firstSeen": "2026-10-29",
+   "lastUpdated": "2026-10-31"
+  },
+  {
+   "id": "foreign-election-interference-probe",
+   "title": "המוסד מצטרף לשב\"כ בחקירת החשד להתערבות זרה בבחירות",
+   "summary": "לפי וואלה ו-ynet, המוסד יצטרף לשב\"כ בחקירת החשד למעורבות זרה בבחירות. החקירה, לפי דיווחים קודמים, טרם הסתיימה.",
+   "why": "חשד להתערבות מדינה זרה בבחירות נוגע לאמון הציבור בתוצאות ולביטחון המדינה.",
+   "change": "המוסד הצטרף לשב\"כ בחקירה, לפי וואלה ו-ynet.",
+   "next": "ממצאי החקירה.",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "security",
+    "politics"
+   ],
+   "kind": "event",
+   "entities": [
+    "בחירות 2026",
+    "קטאר",
+    "שב\"כ"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383959493",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/rybtgnm6gl",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-10-29",
+   "lastUpdated": "2026-10-31"
+  },
+  {
+   "id": "fitch-israel-election-warning",
+   "title": "פיץ': חוסר ההכרעה בבחירות עלול לפגוע בכלכלת ישראל",
+   "summary": "לפי ynet וישראל היום, סוכנות דירוג האשראי פיץ' הזהירה בעקבות תוצאות הבחירות שחוסר ההכרעה עלול להיקלע לשיתוק במשק ולעלות לישראל ביוקר. הדיווחים מצטטים את הסוכנות.",
+   "why": "הערכת סוכנות דירוג משפיעה על עלויות הלוואה של המדינה ועל אמון המשקיעים.",
+   "change": "",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "economy",
+    "politics"
+   ],
+   "kind": "statement",
+   "entities": [
+    "בחירות 2026",
+    "דירוג אשראי",
+    "כלכלה"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/by5tgxf6fx",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/business/article/21741596",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-10-31",
+   "lastUpdated": "2026-10-31"
+  },
+  {
+   "id": "poland-constitutional-court-crisis",
+   "title": "פולין: משבר בבית הדין לחוקה, המשטרה נפרסה והנשיא חזר ארצה",
+   "summary": "לפי ישראל היום, וואלה ו-ynet, משטרה נפרסה בבית הדין לחוקה בפולין והנשיא חזר מחו\"ל. לפי ynet, נשיא בית הדין הושעה ועשרות הפגינו מול שעריו. אל-ג'זירה מדווחת שנשיא פולין הצטרף למחאה בעקבות המשבר החוקתי.",
+   "why": "סכסוך בין הנשיא לבית המשפט החוקתי במדינת נאט\"ו ואיחוד אירופי מעמיד במבחן את שלטון החוק.",
+   "change": "",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "world",
+    "law"
+   ],
+   "kind": "dispute",
+   "entities": [
+    "פולין",
+    "משבר חוקתי"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/world-news/article/21743163",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383959515",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/rkm5s00zage",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/polands-president-joins-protest-amid-constitutional-crisis-at-top-court",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 4,
+   "firstSeen": "2026-10-31",
+   "lastUpdated": "2026-10-31"
+  },
+  {
+   "id": "intel-share-plunge",
+   "title": "מניית אינטל צנחה בכ-30%",
+   "summary": "לפי ישראל היום, מניית אינטל ירדה בכ-30%, ירידה שעלולה למחוק כ-100 מיליארד דולר משווי החברה.",
+   "why": "לאינטל פעילות רחבה בישראל והיא אחת המעסיקות הגדולות במשק ההייטק.",
+   "change": "",
+   "next": "",
+   "status": "REPORTED",
+   "importance": 3,
+   "categories": [
+    "economy",
+    "tech"
+   ],
+   "kind": "data",
+   "entities": [
+    "אינטל",
+    "שוק ההון"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/business/article/21742318",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 1,
+   "firstSeen": "2026-10-31",
+   "lastUpdated": "2026-10-31"
+  }
+ ],
+ "unverified": [
+  {
+   "id": "gaza-hamas-strikes-oct31",
+   "title": "לטענת צה\"ל ושב\"כ: חוסלו בעזה ארבעה מחבלי חמאס והושמדו שני מחסני אמל\"ח",
+   "summary": "על פי הודעת צה\"ל ושב\"כ, כפי שדווחה בוואלה, מעריב ו-ynet, בשתי תקיפות ברצועת עזה חוסלו ארבעה מחבלי חמאס והושמדו שני מחסני אמצעי לחימה. אין אישור עצמאי.",
+   "why": "הלחימה נמשכת ברצועה למרות הסדרי הרגיעה.",
+   "change": "",
+   "next": "",
+   "status": "CLAIM",
+   "importance": 3,
+   "categories": [
+    "security"
+   ],
+   "kind": "event",
+   "entities": [
+    "עזה",
+    "חמאס"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383959472",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1383021",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/b1w9xwm6fe",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-10-31",
+   "lastUpdated": "2026-10-31"
+  },
+  {
+   "id": "hormuz-tanker-fire-oct30",
+   "title": "לטענת איראן: ארבע מכליות עלו באש לאחר שפגעו במוקשים במצר הורמוז",
+   "summary": "על פי איראן, כפי שדווח באל-ג'זירה, ארבע מכליות עלו באש לאחר שפגעו במוקשים במצר הורמוז. אל-ג'זירה דיווחה אתמול כי עומאן חילצה 25 אנשים ממכלית בוערת. אין אישור עצמאי לפרטי הטענה.",
+   "why": "פגיעה בשיט במצר הורמוז משפיעה על שוק הנפט העולמי ועל האיזור.",
+   "change": "איראן טוענת כעת כי ארבע מכליות פגעו במוקשים; בפעם הקודמת הייתה סתירה בדיווחים.",
+   "next": "",
+   "status": "CLAIM",
+   "importance": 4,
+   "categories": [
+    "security",
+    "world"
+   ],
+   "kind": "event",
+   "entities": [
+    "איראן",
+    "מצר הורמוז"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/iran-says-four-tankers-on-fire-after-striking-mines-in-hormuz",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/30/oman-rescues-25-from-burning-oil-tanker-in-strait-of-hormuz",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 1,
+   "firstSeen": "2026-10-30",
+   "lastUpdated": "2026-10-31"
+  },
+  {
+   "id": "likud-ballot-forgery-claim",
+   "title": "הליכוד טוען לזיופים בקלפיות במגזר הערבי; ועדת הבחירות: לא נמצאו ממצאים משמעותיים",
+   "summary": "לפי ישראל היום, בליכוד טוענים לזיופים בקלפיות במגזר הערבי, ואילו ועדת הבחירות מסרה כי לא נמצאו ממצאים משמעותיים. אין אישור עצמאי לטענה.",
+   "why": "טענות לזיוף בבחירות עלולות לפגוע באמון הציבור בתוצאות.",
+   "change": "",
+   "next": "",
+   "status": "CLAIM",
+   "importance": 4,
+   "categories": [
+    "politics"
+   ],
+   "kind": "dispute",
+   "entities": [
+    "בחירות 2026",
+    "הליכוד"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/politics/article/21741822",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 1,
+   "firstSeen": "2026-10-31",
+   "lastUpdated": "2026-10-31"
+  }
+ ],
+ "filtered_out": 20,
+ "note": ""
+}
