@@ -4,46 +4,6 @@
   {
    "source": "NYT",
    "outlet": "NYT",
-   "title": "How Israel’s Election Could End",
-   "url": "https://www.nytimes.com/video/world/middleeast/100000011242127/how-israels-election-could-end.html",
-   "summary": "Neither Benjamin Netanyahu nor Gadi Eisenkot won a majority in Israel’s Parliament, leaving both with a chance to form a government. Our Jerusalem bureau chief, David M. Halbfinger, explains the possible coalitions and the obstacles to an opposition alliance that could include Arab parties.",
-   "time": "2026-10-29T17:01:22+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
-   "source": "Guardian",
-   "outlet": "Guardian",
-   "title": "Israel election results: Qatar says accusations of election interference in Israel ‘ridiculous and dangerous’ – as it happened",
-   "url": "https://www.theguardian.com/world/live/2026/oct/29/israel-election-results-live-updates-poll-netanyahu-eisenkot-bloc-coalition-latest-news",
-   "summary": "Netanyahu’s claim of interference in election also dismissed by Israeli police and opposition parties Israel’s choice: Netanyahu remaining in power or a Palestinian-backed coalition Gadi Eisenkot, leader of the Yashar party and Benjamin Netanyahu’s main rival, has warned political opponents against ",
-   "time": "2026-10-29T17:49:57+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
-   "source": "Guardian",
-   "outlet": "Guardian",
-   "title": "JD Vance letter may offer last chance to avert fresh conflict between US and Iran",
-   "url": "https://www.theguardian.com/world/2026/oct/29/jd-vance-letter-may-offer-last-chance-to-avert-fresh-conflict-between-us-and-iran",
-   "summary": "US vice-president writes to top Iranian security official in sign Washington has not abandoned diplomacy Hopes of averting a major new conflagration between Iran and the US soon after Tuesday’s midterm elections could rest on Iran’s response to a personal letter from the US vice-president, JD Vance,",
-   "time": "2026-10-29T19:32:24+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
-   "source": "Guardian",
-   "outlet": "Guardian",
-   "title": "Netanyahu accused of smearing Arab voters to hold on to power",
-   "url": "https://www.theguardian.com/world/2026/oct/29/israeli-leader-netanyahu-accused-of-using-ugly-smear-tactics-to-cling-to-power",
-   "summary": "Prime minister claims Arab Israeli parties used foreign backing to steal elections, in which his coalition lost its majority Benjamin Netanyahu has been accused of using smear tactics to cling to power, after he claimed that Arab Israeli parties had used foreign backing to “steal” Tuesday’s election",
-   "time": "2026-10-29T23:14:53+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
-   "source": "NYT",
-   "outlet": "NYT",
    "title": "An Arab Town in Israel Celebrates the Election but Wonders What Will Change",
    "url": "https://www.nytimes.com/2026/10/30/world/middleeast/arab-voters-israel-election-taibe.html",
    "summary": "Gains for Arab-led parties have electrified Taibe, in central Israel, even as voters elsewhere in Israel say they have no place in any future government.",
@@ -2222,12 +2182,112 @@
    "type": "reporting"
   },
   {
+   "source": "מעריב",
+   "outlet": "מעריב",
+   "title": "נמאס לה: המדינה באירופה שהקפיאה את הסחר הביטחוני עם ישראל - \"5.2 מיליארד דולר\"",
+   "url": "https://www.maariv.co.il/breaking-news/article-1383100",
+   "summary": "",
+   "time": "2026-10-30T22:27:23+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
    "source": "ynet",
    "outlet": "ynet",
    "title": "המשטרה: גבר נרצח ביריות בתל שבע שבנגב",
    "url": "https://www.ynet.co.il/news/article/b1adcuzamx",
    "summary": "",
    "time": "2026-10-30T22:32:43+02:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "סימנו בתים של יהודים: רשת ההפחדה שנחשפה בארה\"ב",
+   "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21743513",
+   "summary": "התביעה במישיגן חשפה כתב אישום נגד פעילים שסימנו בתי יהודים במשולשי חמאס והשליכו כימיקלים • התובע הפדרלי הצהיר כי \"מי שהטילו אימה על יהודים היו הרעים\" • אילו הודעות נמצאו בטלפונים של חברי ההתארגנות ומה מטרתם האמיתית",
+   "time": "2026-10-30T22:35:34+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "מעריב",
+   "outlet": "מעריב",
+   "title": "מיד אחרי תוצאות האמת: \"נתניהו קיבל את הקלף הכי חזק שיש - עכשיו הוא נחשף\"",
+   "url": "https://www.maariv.co.il/breaking-news/article-1383102",
+   "summary": "",
+   "time": "2026-10-30T22:39:51+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "מעריב",
+   "outlet": "מעריב",
+   "title": "בחירות 2026: \"נתניהו קיבל החלטה דרמטית לגבי איתמר בן גביר ואיזנקוט\"",
+   "url": "https://www.maariv.co.il/breaking-news/article-1383104",
+   "summary": "",
+   "time": "2026-10-30T22:41:09+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "פרטים חדשים: כך נראתה החתונה של טיילור סוויפט",
+   "url": "https://www.israelhayom.co.il/news/trending-online/article/21743528",
+   "summary": "חודשים לאחר החתונה החשאית במדיסון סקוור גארדן מתגלים הנהלים הנוקשים לאירוע • מאיסור מוחלט על הכנסת שעונים חכמים, דרך מתנות ה־VIP לברדלי קופר ועד ההזמנה עליה חתמו \"באהבה טיילור וטרוויס\" • כך הפך אולם הספורט ליער מהאגדות",
+   "time": "2026-10-30T22:55:11+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "US judge orders ethics inquiry into Trump lawyers over golf course case",
+   "url": "https://www.aljazeera.com/news/2026/10/30/us-judge-orders-ethics-inquiry-into-trump-lawyers-over-golf-course-case?traffic_source=rss",
+   "summary": "Judge Ana Reyes calls on US government lawyers to explain contradictory statements about the East Potomac Golf Links.",
+   "time": "2026-10-30T22:58:38+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Why AI could threaten much of the world’s digital infrastructure",
+   "url": "https://www.aljazeera.com/news/2026/10/30/why-ai-could-threaten-much-of-the-worlds-digital-infrastructure?traffic_source=rss",
+   "summary": "Volunteer-led PHP, which powers most websites, is increasingly under threat from cyberattacks using AI capabilities.",
+   "time": "2026-10-30T23:13:51+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Polish police deployed to top court after head judge suspended",
+   "url": "https://www.aljazeera.com/news/2026/10/30/polish-police-deployed-to-top-court-after-head-judge-suspended?traffic_source=rss",
+   "summary": "Judge&#039;s suspension is part of a long dispute over politicisation of the Constitutional Tribunal under former government.",
+   "time": "2026-10-30T23:19:42+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "הבועה מתפוצצת? מניות ה-AI בקריסה ואינטל בשפל היסטורי",
+   "url": "https://www.israelhayom.co.il/business/article/21743542",
+   "summary": "אכזבה עמוקה מהדוחות הכספיים של ענקיות הטכנולוגיה שלחה את בורסות ניו יורק ליום מסחר אדום • בזמן שהאנליסטים מזהירים כי \"הביקוש לא מבטיח תשואות\", אפל כובשת מחדש את הפסגה על חשבון אנבידיה • וגם: שוד הקריפטו שגנב 6.3 מיליארד דולר וטלטל את השוק",
+   "time": "2026-10-30T23:35:23+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Fans voice support on final night of Macklemore’s ‘Free Palestine’ tour",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/fans-voice-support-on-final-night-of-macklemores-free-palestine-tour?traffic_source=rss",
+   "summary": "Al Jazeera spoke to fans attending Macklemore’s ‘Free Palestine’ concert after he was dropped from Ed Sheeran’s tour.",
+   "time": "2026-10-30T23:39:19+00:00",
    "tier": 2,
    "type": "reporting"
   },
@@ -2240,9 +2300,409 @@
    "time": "2026-10-30T23:44:52+02:00",
    "tier": 2,
    "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Iran war live: 4 tankers hit in Hormuz; Trump says conflict will end ‘soon’",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/10/31/iran-war-live-oil-tankers-hit-in-hormuz-trump-says-conflict-will-end-soon?traffic_source=rss",
+   "summary": "IRGC says four tankers hit in Strait of Hormuz, as Trump says war on Iran will &#039;get wrapped up soon&#039;.",
+   "time": "2026-10-31T00:00:00+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Brazil summons Argentinian diplomat over Bolsonaro’s flight to US",
+   "url": "https://www.aljazeera.com/news/2026/10/31/brazil-summons-argentinian-diplomat-over-bolsonaros-flight-to-us?traffic_source=rss",
+   "summary": "The move threatens to further strain relations between Brazilian President Lula and his Argentinian counterpart, Milei.",
+   "time": "2026-10-31T00:02:06+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "דיווח בארה\"ב: הרגע בו טראמפ יחדש את התקיפות באיראן",
+   "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21743550",
+   "summary": "נשיא ארה\"ב נערך לסבב תקיפות בטהרן החל מ-4 בנובמבר, במקביל למאמץ דיפלומטי של הרגע האחרון שמנהל סגנו ג'יי.די ואנס • מדינות המפרץ חוששות מהסלמה ועשויות למנוע שימוש בבסיסים, בעוד כוח משימה אמריקני עצום עושה את דרכו לאזור",
+   "time": "2026-10-31T00:04:15+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Germany and France brace for protests on Halloween weekend",
+   "url": "https://www.aljazeera.com/news/2026/10/31/germany-and-france-brace-for-protests-on-halloween-weekend?traffic_source=rss",
+   "summary": "A wave of youth-led protests has swept Europe, with demonstrators denouncing rising prices and a lack of prospects.",
+   "time": "2026-10-31T00:17:35+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "התנגשויות, תקלות והשליטה של פרארי: הדרמה בפורמולה 1 מגיעה לשיא",
+   "url": "https://www.israelhayom.co.il/news/world-news/other/article/21743563",
+   "summary": "קבוצת פרארי קבעה את הזמן המהיר ביותר בשני מקצי האימון לקראת הגרנד פרי של מקסיקו סיטי • במקביל, נהג צעיר של מרצדס זקוק לשתי נקודות בלבד בראשון כדי להפוך לאלוף הצעיר בהיסטוריה • בינתיים, האימונים נקטעו לאחר התנגשות על המסלול",
+   "time": "2026-10-31T00:31:10+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "פלורידה: גבר נעצר בחשד שאיים לבצע ירי המוני בקהילה חרדית חדשה",
+   "url": "https://www.ynet.co.il/news/article/rk9nxogpme",
+   "summary": "",
+   "time": "2026-10-31T00:59:02+02:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "הרוצח הסדרתי האהוב ביותר חוזר (שוב): מה חדש בטלוויזיה",
+   "url": "https://www.israelhayom.co.il/culture/tv/article/21735573",
+   "summary": "מייקל סי הול חוזר לגלם את דקסטר מורגן בעונה שנייה של \"דקסטר: התחייה\", מול רוצחים חדשים בגילומם של בריאן קוקס ודן סטיבנס, הדוקו עטור הפרסים שתוהה אם העיתונאית הישראלית שהתרועעה עם מנהיגים הייתה סוכנת מוסד, 100 שנה להולדתו של הודיני ועוד תכנים שעולים היום (שבת) בטלוויזיה בישראל",
+   "time": "2026-10-31T01:00:00+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "\"הטליבאן מחכה להם\": בוושינגטון רוצים לגרש עשרות פליטים אפגנים",
+   "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21743614",
+   "summary": "יותר מ-150 מהגרים שברחו מאימת השלטון החדש במולדתם צפויים להיות מגורשים חזרה לאפגניסטן, בצעד שעורר סערה בארה\"ב. פעילים מזהירים כי מדובר בבני משפחה של מי שסייעו לצבא האמריקני, וחושפים מתי תצא טיסת הגירוש הראשונה",
+   "time": "2026-10-31T01:20:51+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Dog walker threatened with gun during ICE arrest in North Hollywood",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/dog-walker-threatened-with-gun-during-ice-arrest-in-north-hollywood?traffic_source=rss",
+   "summary": "Footage shows masked ICE agents pointing a handgun at a bystander walking his dogs as they arrest another man in the US.",
+   "time": "2026-10-31T01:23:59+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Fake polls expose vulnerabilities in US elections ahead of midterms",
+   "url": "https://www.aljazeera.com/news-analysis/2026/10/31/fake-polls-expose-vulnerabilities-in-us-elections-ahead-of-midterms?traffic_source=rss",
+   "summary": "Fabricated surveys are adding to tensions in the country&#039;s increasingly polarised political environment.",
+   "time": "2026-10-31T01:26:34+00:00",
+   "tier": 2,
+   "type": "opinion"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Pope Leo becomes first pontiff to vote in US general election",
+   "url": "https://www.aljazeera.com/news/2026/10/31/pope-leo-becomes-first-pontiff-to-vote-in-us-general-election?traffic_source=rss",
+   "summary": "Vatican confirms the pope submitted a mail-in ballot in his native Chicago ahead of November 3 midterm elections",
+   "time": "2026-10-31T01:31:44+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "לראשונה בארה\"ב: ממשל טראמפ העניק רישיונות פדרליים לחנויות קנאביס רפואי",
+   "url": "https://www.ynet.co.il/news/article/s1mz0of6zl",
+   "summary": "",
+   "time": "2026-10-31T01:59:03+02:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "צעיר נפצע קשה מפגיעת רכב בתל אביב",
+   "url": "https://www.ynet.co.il/news/article/ryrwk2fame",
+   "summary": "",
+   "time": "2026-10-31T02:03:28+02:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Poland’s president joins protest amid constitutional crisis at top court",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/polands-president-joins-protest-amid-constitutional-crisis-at-top-court?traffic_source=rss",
+   "summary": "Poland’s president has cut short a trip to Senegal, joining protesters facing off with police.",
+   "time": "2026-10-31T02:24:00+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "הפרידה הופכת רשמית: כוכבת \"היו זמנים בהוליווד\" מתגרשת מהמפיק האגדי",
+   "url": "https://www.israelhayom.co.il/news/trending-online/article/21743625",
+   "summary": "השחקנית והמפיק המוזיקלי עטור הפרסים הגישו מסמכי גירושים לבית המשפט בניו יורק שלוש שנים לאחר החתונה. מי הגיש את התביעה ומה מסתתר מאחורי פירוק החבילה של אחד הזוגות המסקרנים בהוליווד",
+   "time": "2026-10-31T02:30:59+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "גשמים בצפון, אובך בדרום: סוף שבוע קריר מהרגיל",
+   "url": "https://www.israelhayom.co.il/weather/article/21743635",
+   "summary": "מעונן וקריר מהרגיל לעונה, בעיקר באזורי ההרים • בצפון ינשבו רוחות ערות וייתכן טפטוף שיתפשט בערב גם למרכז הארץ, בעוד תושבי הדרום עשויים לחוות אובך • כל מה שצריך לדעת על מפת המשקעים",
+   "time": "2026-10-31T02:41:05+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Hundreds evacuated from Melania-brokered ceasefire town of Oleshky",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/hundreds-evacuated-from-melania-brokered-ceasefire-town-of-oleshky?traffic_source=rss",
+   "summary": "Hundreds have been evacuated from Russia-occupied Oleshky under a localised ceasefire brokered by Melania Trump.",
+   "time": "2026-10-31T02:44:38+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Ebola death toll in DR Congo passes 5,000",
+   "url": "https://www.aljazeera.com/news/2026/10/31/ebola-death-toll-in-dr-congo-passes-5000?traffic_source=rss",
+   "summary": "Authorities ​are struggling to find a way to control the ⁠outbreak, with no approved treatments or vaccines.",
+   "time": "2026-10-31T02:51:52+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Russia’s Novaya Gazeta ‘killed off’ after murders, arrests and pressure",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/russias-novaya-gazeta-killed-off-after-murders-arrests-and-pressure?traffic_source=rss",
+   "summary": "Russia’s most prominent investigative newspaper is closing, with staff accusing the government of killing it off.",
+   "time": "2026-10-31T03:27:21+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "פולין: הנשיא חזר ארצה - והתעמת פיזית עם שופטים בבית המשפט לחוקה",
+   "url": "https://www.ynet.co.il/news/article/rjuzvaf6fl",
+   "summary": "",
+   "time": "2026-10-31T03:29:16+02:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "US execution survivor Christa Pike says she is now in ‘constant pain’",
+   "url": "https://www.aljazeera.com/news/2026/10/31/us-execution-survivor-christa-pike-says-she-is-now-in-constant?traffic_source=rss",
+   "summary": "Pike, 50, is being held in solitary confinement and faces an uncertain future after surviving a failed lethal injection.",
+   "time": "2026-10-31T03:42:14+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "מעריב",
+   "outlet": "מעריב",
+   "title": "דיווח: הצעה של סגן נשיא ארה\"ב הגיעה לאיראן; תשובה צפויה בתוך ימים",
+   "url": "https://www.maariv.co.il/breaking-news/article-1383107",
+   "summary": "",
+   "time": "2026-10-31T03:54:50+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Iran says four tankers on fire after striking mines in Hormuz",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/iran-says-four-tankers-on-fire-after-striking-mines-in-hormuz?traffic_source=rss",
+   "summary": "Iran&#039;s Revolutionary Guard says four tankers have caught fire in the Strait of Hormuz.",
+   "time": "2026-10-31T03:55:48+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "פעם אחת ולתמיד: האם בני אדם הגיעו לכדור הארץ ממאדים?",
+   "url": "https://www.israelhayom.co.il/tech/space/article/21739513",
+   "summary": "במשך מאות שנים תהתה האנושות האם קיימים חיים מחוץ לכדור הארץ, אך ייתכן שהשאלה האמיתית הפוכה לחלוטין • תגליות גיאולוגיות במטאוריטים עתיקים, חישובי התקררות פלנטריים ומודלים מתקדמים של ראשית הביולוגיה חושפים תרחיש מסעיר • כאשר כדור הארץ היה אוקיינוס מגמה לוהט ונטול יבשה, מאדים כבר נהנה מנהרות, אגמים ותנ",
+   "time": "2026-10-31T04:06:00+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "המרוץ למזכ\"ל האו\"ם: המועמדת היהודייה מתחזקת",
+   "url": "https://www.israelhayom.co.il/news/world-news/other/article/21743644",
+   "summary": "בסקר הקש השביעי במועצת הביטחון זכתה נציגת קוסטה ריקה ב-11 קולות והשאירה מאחור את לאנה נוסייבה מאיחוד האמירויות • במקביל, טורקיה הטילה למערכה את שר החוץ לשעבר סינירליאולו בניסיון לשבור את הקיפאון • האם האיום על גרינספן יגיע דווקא מהמעצמות",
+   "time": "2026-10-31T04:09:33+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "\"אפרוש בגיל 93\": מפתח הגוף בן ה-90 שמתחרה בצעירים",
+   "url": "https://www.israelhayom.co.il/news/world-news/other/article/21743651",
+   "summary": "טושיסוקה קנאזווה היפני עלה לבמה בספרד כדי להתחרות מול ספורטאים הצעירים ממנו בעשרות שנים • הוא חושף את התפריט המדויק ששומר עליו בריא, ומסביר מדוע בכוונתו להמשיך לדחוף את גבולות היכולת האנושית קדימה",
+   "time": "2026-10-31T04:25:31+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "מעריב",
+   "outlet": "מעריב",
+   "title": "מזג האוויר: עלייה קלה בטמפרטורות, שיהיו רגילות לעונה",
+   "url": "https://www.maariv.co.il/breaking-news/article-1383108",
+   "summary": "",
+   "time": "2026-10-31T04:29:37+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "מעריב",
+   "outlet": "מעריב",
+   "title": "בלי לפזר את הכנסת ובלי קואליציה עם הערבים: שפן הבחירות הישירות ששוקל גוש השינוי",
+   "url": "https://www.maariv.co.il/breaking-news/article-1383109",
+   "summary": "",
+   "time": "2026-10-31T04:31:58+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "מעריב",
+   "outlet": "מעריב",
+   "title": "האיתות הראשון הגיע לישראל: מסתמן - זה התאריך שסימן טראמפ לתקיפה באיראן",
+   "url": "https://www.maariv.co.il/breaking-news/article-1383110",
+   "summary": "",
+   "time": "2026-10-31T04:38:55+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "US jails two Chinese nationals for spying",
+   "url": "https://www.aljazeera.com/news/2026/10/31/us-jails-two-chinese-nationals-for-spying?traffic_source=rss",
+   "summary": "Liren Lai and Yuance Chen admitted to facilitating &#039;dead drop&#039; cash payments worth at least $30,000 to people in the US.",
+   "time": "2026-10-31T04:41:32+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "מעריב",
+   "outlet": "מעריב",
+   "title": "ההתרעה המצרית שלא נמסרה: האמת מאחורי הביקור המסתורי לפני 7 באוקטובר",
+   "url": "https://www.maariv.co.il/breaking-news/article-1383111",
+   "summary": "",
+   "time": "2026-10-31T04:49:47+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "US greenlights $2.1bn Patriot missile sale to Ukraine",
+   "url": "https://www.aljazeera.com/news/2026/10/31/us-greenlights-2-1bn-patriot-missile-sale-to-ukraine?traffic_source=rss",
+   "summary": "Deal would be one of the most significant steps to supply defensive weapons to Kyiv since ​Trump took office in 2025.",
+   "time": "2026-10-31T04:51:25+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "בולסונרו: \"נמלטתי מברזיל בגלל רדיפה נגדי\"",
+   "url": "https://www.ynet.co.il/news/article/s1ngkcmaze",
+   "summary": "",
+   "time": "2026-10-31T04:59:04+02:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Guardian",
+   "outlet": "Guardian",
+   "title": "‘You need the power of all your votes’: Bedouin women secure success for Arab parties in Israeli election",
+   "url": "https://www.theguardian.com/world/2026/oct/31/bedouin-women-success-arab-parties-israel-election",
+   "summary": "With 180,000 eligible voters, Bedouin turnout was key in Palestinian-led parties winning unprecedented 19 seats Last year, Umm Khaled Fatoum returned from volunteering in a Jewish-Arab support centre for victims of war to find bulldozers tearing into her son’s house in the Bedouin village of Azzarnu",
+   "time": "2026-10-31T05:00:33+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Trump tells voters to send El-Sayed ‘back to where he came from’",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/trump-tells-voters-to-send-el-sayed-back-to-where-he-came?traffic_source=rss",
+   "summary": "Speaking at a campaign rally, Donald Trump told voters to send Michigan’s Abdul El-Sayed ‘back to where he came from’.",
+   "time": "2026-10-31T05:07:25+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Mohammed Deif, rare footage and October 7 documents",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/mohammed-deif-rare-footage-and-october-7-documents?traffic_source=rss",
+   "summary": "Rare footage obtained by Al Jazeera offers a look at the life of former Hamas military commander, Mohammed Deif.",
+   "time": "2026-10-31T05:07:34+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "מעריב",
+   "outlet": "מעריב",
+   "title": "צעיר בן 19 נפצע באורח קשה באירוע אלימות ברהט",
+   "url": "https://www.maariv.co.il/breaking-news/article-1383115",
+   "summary": "",
+   "time": "2026-10-31T05:10:25+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "התחזית: עלייה קלה בטמפרטורות",
+   "url": "https://www.ynet.co.il/news/article/syozdyqage",
+   "summary": "",
+   "time": "2026-10-31T05:57:32+02:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "ארה\"ב: שני אזרחים סינים נידונו ל-30 חודשי מאסר בגין ריגול",
+   "url": "https://www.ynet.co.il/news/article/bkquxl7tgx",
+   "summary": "",
+   "time": "2026-10-31T06:51:08+02:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "נער נפצע מירי באזור רהט, מצבו קשה",
+   "url": "https://www.ynet.co.il/news/article/bjxvolqtml",
+   "summary": "",
+   "time": "2026-10-31T07:15:11+02:00",
+   "tier": 2,
+   "type": "reporting"
   }
  ],
- "updated": "2026-10-30T22:25:25.546786+00:00",
+ "updated": "2026-10-31T05:51:20.086994+00:00",
  "clusters": [
   {
    "id": "06d7bc6565",
@@ -2496,6 +2956,56 @@
    ]
   },
   {
+   "id": "bf44c07dc6",
+   "title": "פולין: נשיא ביהמ\"ש החוקתי הושעה, עשרות יצאו להפגין מול שערי בית הדין",
+   "sourceCount": 3,
+   "outlets": [
+    "ynet",
+    "וואלה",
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 4,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-30T19:06:51+00:00",
+   "lastSeen": "2026-10-31T03:29:16+02:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "המשטרה הגיעה לבית הדין, הנשיא חזר מחו\"ל: המשבר שמטלטל את פולין",
+     "url": "https://www.israelhayom.co.il/news/world-news/article/21743163",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-30T19:06:51+00:00"
+    },
+    {
+     "source": "וואלה",
+     "title": "דרמה בפולין: משטרה נפרסה בבית הדין לחוקה, הנשיא שב למדינה",
+     "url": "https://www.walla.co.il/news/breaking-news/383959515",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-30T19:52:04+00:00"
+    },
+    {
+     "source": "ynet",
+     "title": "פולין: נשיא ביהמ\"ש החוקתי הושעה, עשרות יצאו להפגין מול שערי בית הדין",
+     "url": "https://www.ynet.co.il/news/article/rkm5s00zage",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-30T22:26:57+02:00"
+    },
+    {
+     "source": "ynet",
+     "title": "פולין: הנשיא חזר ארצה - והתעמת פיזית עם שופטים בבית המשפט לחוקה",
+     "url": "https://www.ynet.co.il/news/article/rjuzvaf6fl",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-31T03:29:16+02:00"
+    }
+   ]
+  },
+  {
    "id": "28e1538557",
    "title": "טראמפ: המלחמה עם איראן תסתיים בקרוב",
    "sourceCount": 3,
@@ -2534,121 +3044,6 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-10-30T13:45:34+02:00"
-    }
-   ]
-  },
-  {
-   "id": "bf44c07dc6",
-   "title": "פולין: נשיא ביהמ\"ש החוקתי הושעה, עשרות יצאו להפגין מול שערי בית הדין",
-   "sourceCount": 3,
-   "outlets": [
-    "ynet",
-    "וואלה",
-    "ישראל היום"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 3,
-   "opinionOnly": false,
-   "firstSeen": "2026-10-30T19:06:51+00:00",
-   "lastSeen": "2026-10-30T22:26:57+02:00",
-   "articles": [
-    {
-     "source": "ישראל היום",
-     "title": "המשטרה הגיעה לבית הדין, הנשיא חזר מחו\"ל: המשבר שמטלטל את פולין",
-     "url": "https://www.israelhayom.co.il/news/world-news/article/21743163",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-30T19:06:51+00:00"
-    },
-    {
-     "source": "וואלה",
-     "title": "דרמה בפולין: משטרה נפרסה בבית הדין לחוקה, הנשיא שב למדינה",
-     "url": "https://www.walla.co.il/news/breaking-news/383959515",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-30T19:52:04+00:00"
-    },
-    {
-     "source": "ynet",
-     "title": "פולין: נשיא ביהמ\"ש החוקתי הושעה, עשרות יצאו להפגין מול שערי בית הדין",
-     "url": "https://www.ynet.co.il/news/article/rkm5s00zage",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-30T22:26:57+02:00"
-    }
-   ]
-  },
-  {
-   "id": "d7bf2caa10",
-   "title": "This is the hard lesson from Israel’s election: to stop national populists, you can’t play by gentlemen’s rules | Jonathan Freedland",
-   "sourceCount": 2,
-   "outlets": [
-    "Guardian",
-    "NYT"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 7,
-   "opinionOnly": false,
-   "firstSeen": "2026-10-29T17:01:22+00:00",
-   "lastSeen": "2026-10-30T15:12:57+00:00",
-   "articles": [
-    {
-     "source": "NYT",
-     "title": "How Israel’s Election Could End",
-     "url": "https://www.nytimes.com/video/world/middleeast/100000011242127/how-israels-election-could-end.html",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-29T17:01:22+00:00"
-    },
-    {
-     "source": "Guardian",
-     "title": "Israel election results: Qatar says accusations of election interference in Israel ‘ridiculous and dangerous’ – as it happened",
-     "url": "https://www.theguardian.com/world/live/2026/oct/29/israel-election-results-live-updates-poll-netanyahu-eisenkot-bloc-coalition-latest-news",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-29T17:49:57+00:00"
-    },
-    {
-     "source": "NYT",
-     "title": "An Arab Town in Israel Celebrates the Election but Wonders What Will Change",
-     "url": "https://www.nytimes.com/2026/10/30/world/middleeast/arab-voters-israel-election-taibe.html",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-30T04:01:20+00:00"
-    },
-    {
-     "source": "NYT",
-     "title": "What Israeli Election Results Reveal About the Electorate",
-     "url": "https://www.nytimes.com/2026/10/29/world/middleeast/israel-voter-data-takeaways.html",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-30T06:31:44+00:00"
-    },
-    {
-     "source": "NYT",
-     "title": "Israel’s Election Results Show No Clear Winner. What Are the Paths to a New Government?",
-     "url": "https://www.nytimes.com/2026/10/29/world/middleeast/israel-election-coalition-scenarios.html",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-30T06:31:57+00:00"
-    },
-    {
-     "source": "NYT",
-     "title": "No Clear Winner in Israel Election, Final Results Show",
-     "url": "https://www.nytimes.com/2026/10/29/world/middleeast/israel-election-results-netanyahu-eisenkot.html",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-30T15:02:51+00:00"
-    },
-    {
-     "source": "Guardian",
-     "title": "This is the hard lesson from Israel’s election: to stop national populists, you can’t play by gentlemen’s rules | Jonathan Freedland",
-     "url": "https://www.theguardian.com/commentisfree/2026/oct/30/israel-election-national-populists-benjamin-netanyahu-arab-parties",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-30T15:12:57+00:00"
     }
    ]
   },
@@ -2896,6 +3291,39 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-10-30T16:15:18+00:00"
+    }
+   ]
+  },
+  {
+   "id": "6ae7e11f39",
+   "title": "דיווח: הצעה של סגן נשיא ארה\"ב הגיעה לאיראן; תשובה צפויה בתוך ימים",
+   "sourceCount": 2,
+   "outlets": [
+    "ynet",
+    "מעריב"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 2,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-30T14:23:24+02:00",
+   "lastSeen": "2026-10-31T03:54:50+00:00",
+   "articles": [
+    {
+     "source": "ynet",
+     "title": "דיווח: הועברו לאיראן תיקונים לטיוטת ההצעה לסיום המלחמה עם ארה\"ב",
+     "url": "https://www.ynet.co.il/news/article/b1ktfbfpfe",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-30T14:23:24+02:00"
+    },
+    {
+     "source": "מעריב",
+     "title": "דיווח: הצעה של סגן נשיא ארה\"ב הגיעה לאיראן; תשובה צפויה בתוך ימים",
+     "url": "https://www.maariv.co.il/breaking-news/article-1383107",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-31T03:54:50+00:00"
     }
    ]
   },
@@ -3164,6 +3592,39 @@
    ]
   },
   {
+   "id": "6a0e44daf6",
+   "title": "מזג האוויר: עלייה קלה בטמפרטורות, שיהיו רגילות לעונה",
+   "sourceCount": 2,
+   "outlets": [
+    "ynet",
+    "מעריב"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 2,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-31T04:29:37+00:00",
+   "lastSeen": "2026-10-31T05:57:32+02:00",
+   "articles": [
+    {
+     "source": "מעריב",
+     "title": "מזג האוויר: עלייה קלה בטמפרטורות, שיהיו רגילות לעונה",
+     "url": "https://www.maariv.co.il/breaking-news/article-1383108",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-31T04:29:37+00:00"
+    },
+    {
+     "source": "ynet",
+     "title": "התחזית: עלייה קלה בטמפרטורות",
+     "url": "https://www.ynet.co.il/news/article/syozdyqage",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-31T05:57:32+02:00"
+    }
+   ]
+  },
+  {
    "id": "8417e56ced",
    "title": "הפועל תל אביב נכנעה לדובאי 97:83, פציעה מבהילה לתומאש סטורנסקי",
    "sourceCount": 1,
@@ -3240,6 +3701,54 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-10-30T19:31:33+00:00"
+    }
+   ]
+  },
+  {
+   "id": "fdf479b1ab",
+   "title": "Israel’s Election Results Show No Clear Winner. What Are the Paths to a New Government?",
+   "sourceCount": 1,
+   "outlets": [
+    "NYT"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 4,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-30T04:01:20+00:00",
+   "lastSeen": "2026-10-30T15:02:51+00:00",
+   "articles": [
+    {
+     "source": "NYT",
+     "title": "An Arab Town in Israel Celebrates the Election but Wonders What Will Change",
+     "url": "https://www.nytimes.com/2026/10/30/world/middleeast/arab-voters-israel-election-taibe.html",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-30T04:01:20+00:00"
+    },
+    {
+     "source": "NYT",
+     "title": "What Israeli Election Results Reveal About the Electorate",
+     "url": "https://www.nytimes.com/2026/10/29/world/middleeast/israel-voter-data-takeaways.html",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-30T06:31:44+00:00"
+    },
+    {
+     "source": "NYT",
+     "title": "Israel’s Election Results Show No Clear Winner. What Are the Paths to a New Government?",
+     "url": "https://www.nytimes.com/2026/10/29/world/middleeast/israel-election-coalition-scenarios.html",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-30T06:31:57+00:00"
+    },
+    {
+     "source": "NYT",
+     "title": "No Clear Winner in Israel Election, Final Results Show",
+     "url": "https://www.nytimes.com/2026/10/29/world/middleeast/israel-election-results-netanyahu-eisenkot.html",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-30T15:02:51+00:00"
     }
    ]
   },
@@ -3380,50 +3889,66 @@
    ]
   },
   {
-   "id": "f4ac41eada",
-   "title": "JD Vance letter may offer last chance to avert fresh conflict between US and Iran",
+   "id": "48d6102b42",
+   "title": "המדינה באירופה שהגדילה הכי הרבה את תקציב הביטחון: \"נמאס מהאיומים של השכנה\"",
    "sourceCount": 1,
    "outlets": [
-    "Guardian"
+    "מעריב"
    ],
    "bestTier": 2,
    "hasOfficial": false,
-   "reportingCount": 1,
+   "reportingCount": 2,
    "opinionOnly": false,
-   "firstSeen": "2026-10-29T19:32:24+00:00",
-   "lastSeen": "2026-10-29T19:32:24+00:00",
+   "firstSeen": "2026-10-30T22:10:47+00:00",
+   "lastSeen": "2026-10-30T22:27:23+00:00",
    "articles": [
     {
-     "source": "Guardian",
-     "title": "JD Vance letter may offer last chance to avert fresh conflict between US and Iran",
-     "url": "https://www.theguardian.com/world/2026/oct/29/jd-vance-letter-may-offer-last-chance-to-avert-fresh-conflict-between-us-and-iran",
+     "source": "מעריב",
+     "title": "המדינה באירופה שהגדילה הכי הרבה את תקציב הביטחון: \"נמאס מהאיומים של השכנה\"",
+     "url": "https://www.maariv.co.il/breaking-news/article-1383096",
      "tier": 2,
      "type": "reporting",
-     "time": "2026-10-29T19:32:24+00:00"
+     "time": "2026-10-30T22:10:47+00:00"
+    },
+    {
+     "source": "מעריב",
+     "title": "נמאס לה: המדינה באירופה שהקפיאה את הסחר הביטחוני עם ישראל - \"5.2 מיליארד דולר\"",
+     "url": "https://www.maariv.co.il/breaking-news/article-1383100",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-30T22:27:23+00:00"
     }
    ]
   },
   {
-   "id": "38d67bbae0",
-   "title": "Netanyahu accused of smearing Arab voters to hold on to power",
+   "id": "7116fb04b3",
+   "title": "Iran war live: 4 tankers hit in Hormuz; Trump says conflict will end ‘soon’",
    "sourceCount": 1,
    "outlets": [
-    "Guardian"
+    "Al Jazeera"
    ],
    "bestTier": 2,
    "hasOfficial": false,
-   "reportingCount": 1,
+   "reportingCount": 2,
    "opinionOnly": false,
-   "firstSeen": "2026-10-29T23:14:53+00:00",
-   "lastSeen": "2026-10-29T23:14:53+00:00",
+   "firstSeen": "2026-10-31T00:00:00+00:00",
+   "lastSeen": "2026-10-31T03:55:48+00:00",
    "articles": [
     {
-     "source": "Guardian",
-     "title": "Netanyahu accused of smearing Arab voters to hold on to power",
-     "url": "https://www.theguardian.com/world/2026/oct/29/israeli-leader-netanyahu-accused-of-using-ugly-smear-tactics-to-cling-to-power",
+     "source": "Al Jazeera",
+     "title": "Iran war live: 4 tankers hit in Hormuz; Trump says conflict will end ‘soon’",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/10/31/iran-war-live-oil-tankers-hit-in-hormuz-trump-says-conflict-will-end-soon?traffic_source=rss",
      "tier": 2,
      "type": "reporting",
-     "time": "2026-10-29T23:14:53+00:00"
+     "time": "2026-10-31T00:00:00+00:00"
+    },
+    {
+     "source": "Al Jazeera",
+     "title": "Iran says four tankers on fire after striking mines in Hormuz",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/iran-says-four-tankers-on-fire-after-striking-mines-in-hormuz?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-31T03:55:48+00:00"
     }
    ]
   },
@@ -5108,30 +5633,6 @@
    ]
   },
   {
-   "id": "6ae7e11f39",
-   "title": "דיווח: הועברו לאיראן תיקונים לטיוטת ההצעה לסיום המלחמה עם ארה\"ב",
-   "sourceCount": 1,
-   "outlets": [
-    "ynet"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-10-30T14:23:24+02:00",
-   "lastSeen": "2026-10-30T14:23:24+02:00",
-   "articles": [
-    {
-     "source": "ynet",
-     "title": "דיווח: הועברו לאיראן תיקונים לטיוטת ההצעה לסיום המלחמה עם ארה\"ב",
-     "url": "https://www.ynet.co.il/news/article/b1ktfbfpfe",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-30T14:23:24+02:00"
-    }
-   ]
-  },
-  {
    "id": "bfed015e4e",
    "title": "הכדורגלן האגדי חשף: ההצעה הדרמטית ש\"מעניינת\" את אוריין גורן",
    "sourceCount": 1,
@@ -5248,6 +5749,30 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-10-30T15:10:05+00:00"
+    }
+   ]
+  },
+  {
+   "id": "10722abdbd",
+   "title": "This is the hard lesson from Israel’s election: to stop national populists, you can’t play by gentlemen’s rules | Jonathan Freedland",
+   "sourceCount": 1,
+   "outlets": [
+    "Guardian"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-30T15:12:57+00:00",
+   "lastSeen": "2026-10-30T15:12:57+00:00",
+   "articles": [
+    {
+     "source": "Guardian",
+     "title": "This is the hard lesson from Israel’s election: to stop national populists, you can’t play by gentlemen’s rules | Jonathan Freedland",
+     "url": "https://www.theguardian.com/commentisfree/2026/oct/30/israel-election-national-populists-benjamin-netanyahu-arab-parties",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-30T15:12:57+00:00"
     }
    ]
   },
@@ -6620,30 +7145,6 @@
    ]
   },
   {
-   "id": "48d6102b42",
-   "title": "המדינה באירופה שהגדילה הכי הרבה את תקציב הביטחון: \"נמאס מהאיומים של השכנה\"",
-   "sourceCount": 1,
-   "outlets": [
-    "מעריב"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-10-30T22:10:47+00:00",
-   "lastSeen": "2026-10-30T22:10:47+00:00",
-   "articles": [
-    {
-     "source": "מעריב",
-     "title": "המדינה באירופה שהגדילה הכי הרבה את תקציב הביטחון: \"נמאס מהאיומים של השכנה\"",
-     "url": "https://www.maariv.co.il/breaking-news/article-1383096",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-10-30T22:10:47+00:00"
-    }
-   ]
-  },
-  {
    "id": "1af404d707",
    "title": "מכלית הותקפה בהורמוז, משמרות המהפכה: עלתה על מוקש ב\"נתיב לא מאושר\" בהורמוז",
    "sourceCount": 1,
@@ -6692,6 +7193,222 @@
    ]
   },
   {
+   "id": "c8b00d1adb",
+   "title": "סימנו בתים של יהודים: רשת ההפחדה שנחשפה בארה\"ב",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-30T22:35:34+00:00",
+   "lastSeen": "2026-10-30T22:35:34+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "סימנו בתים של יהודים: רשת ההפחדה שנחשפה בארה\"ב",
+     "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21743513",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-30T22:35:34+00:00"
+    }
+   ]
+  },
+  {
+   "id": "76bceb0ca3",
+   "title": "מיד אחרי תוצאות האמת: \"נתניהו קיבל את הקלף הכי חזק שיש - עכשיו הוא נחשף\"",
+   "sourceCount": 1,
+   "outlets": [
+    "מעריב"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-30T22:39:51+00:00",
+   "lastSeen": "2026-10-30T22:39:51+00:00",
+   "articles": [
+    {
+     "source": "מעריב",
+     "title": "מיד אחרי תוצאות האמת: \"נתניהו קיבל את הקלף הכי חזק שיש - עכשיו הוא נחשף\"",
+     "url": "https://www.maariv.co.il/breaking-news/article-1383102",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-30T22:39:51+00:00"
+    }
+   ]
+  },
+  {
+   "id": "eade9ef1c4",
+   "title": "בחירות 2026: \"נתניהו קיבל החלטה דרמטית לגבי איתמר בן גביר ואיזנקוט\"",
+   "sourceCount": 1,
+   "outlets": [
+    "מעריב"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-30T22:41:09+00:00",
+   "lastSeen": "2026-10-30T22:41:09+00:00",
+   "articles": [
+    {
+     "source": "מעריב",
+     "title": "בחירות 2026: \"נתניהו קיבל החלטה דרמטית לגבי איתמר בן גביר ואיזנקוט\"",
+     "url": "https://www.maariv.co.il/breaking-news/article-1383104",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-30T22:41:09+00:00"
+    }
+   ]
+  },
+  {
+   "id": "4ef3dad647",
+   "title": "פרטים חדשים: כך נראתה החתונה של טיילור סוויפט",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-30T22:55:11+00:00",
+   "lastSeen": "2026-10-30T22:55:11+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "פרטים חדשים: כך נראתה החתונה של טיילור סוויפט",
+     "url": "https://www.israelhayom.co.il/news/trending-online/article/21743528",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-30T22:55:11+00:00"
+    }
+   ]
+  },
+  {
+   "id": "079f931511",
+   "title": "US judge orders ethics inquiry into Trump lawyers over golf course case",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-30T22:58:38+00:00",
+   "lastSeen": "2026-10-30T22:58:38+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "US judge orders ethics inquiry into Trump lawyers over golf course case",
+     "url": "https://www.aljazeera.com/news/2026/10/30/us-judge-orders-ethics-inquiry-into-trump-lawyers-over-golf-course-case?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-30T22:58:38+00:00"
+    }
+   ]
+  },
+  {
+   "id": "6a6621c65b",
+   "title": "Why AI could threaten much of the world’s digital infrastructure",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-30T23:13:51+00:00",
+   "lastSeen": "2026-10-30T23:13:51+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "Why AI could threaten much of the world’s digital infrastructure",
+     "url": "https://www.aljazeera.com/news/2026/10/30/why-ai-could-threaten-much-of-the-worlds-digital-infrastructure?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-30T23:13:51+00:00"
+    }
+   ]
+  },
+  {
+   "id": "881a51334e",
+   "title": "Polish police deployed to top court after head judge suspended",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-30T23:19:42+00:00",
+   "lastSeen": "2026-10-30T23:19:42+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "Polish police deployed to top court after head judge suspended",
+     "url": "https://www.aljazeera.com/news/2026/10/30/polish-police-deployed-to-top-court-after-head-judge-suspended?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-30T23:19:42+00:00"
+    }
+   ]
+  },
+  {
+   "id": "934339bd5e",
+   "title": "הבועה מתפוצצת? מניות ה-AI בקריסה ואינטל בשפל היסטורי",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-30T23:35:23+00:00",
+   "lastSeen": "2026-10-30T23:35:23+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "הבועה מתפוצצת? מניות ה-AI בקריסה ואינטל בשפל היסטורי",
+     "url": "https://www.israelhayom.co.il/business/article/21743542",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-30T23:35:23+00:00"
+    }
+   ]
+  },
+  {
+   "id": "66c910d1ce",
+   "title": "Fans voice support on final night of Macklemore’s ‘Free Palestine’ tour",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-30T23:39:19+00:00",
+   "lastSeen": "2026-10-30T23:39:19+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "Fans voice support on final night of Macklemore’s ‘Free Palestine’ tour",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/fans-voice-support-on-final-night-of-macklemores-free-palestine-tour?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-30T23:39:19+00:00"
+    }
+   ]
+  },
+  {
    "id": "67a0b1901b",
    "title": "ארה\"ב: תושב קליפורניה תכנן לרצוח יהודי כי האמין ששירת בצה\"ל",
    "sourceCount": 1,
@@ -6712,6 +7429,798 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-10-30T23:44:52+02:00"
+    }
+   ]
+  },
+  {
+   "id": "9a514c090f",
+   "title": "Brazil summons Argentinian diplomat over Bolsonaro’s flight to US",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-31T00:02:06+00:00",
+   "lastSeen": "2026-10-31T00:02:06+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "Brazil summons Argentinian diplomat over Bolsonaro’s flight to US",
+     "url": "https://www.aljazeera.com/news/2026/10/31/brazil-summons-argentinian-diplomat-over-bolsonaros-flight-to-us?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-31T00:02:06+00:00"
+    }
+   ]
+  },
+  {
+   "id": "648c247f66",
+   "title": "דיווח בארה\"ב: הרגע בו טראמפ יחדש את התקיפות באיראן",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-31T00:04:15+00:00",
+   "lastSeen": "2026-10-31T00:04:15+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "דיווח בארה\"ב: הרגע בו טראמפ יחדש את התקיפות באיראן",
+     "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21743550",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-31T00:04:15+00:00"
+    }
+   ]
+  },
+  {
+   "id": "fc5e15d598",
+   "title": "Germany and France brace for protests on Halloween weekend",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-31T00:17:35+00:00",
+   "lastSeen": "2026-10-31T00:17:35+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "Germany and France brace for protests on Halloween weekend",
+     "url": "https://www.aljazeera.com/news/2026/10/31/germany-and-france-brace-for-protests-on-halloween-weekend?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-31T00:17:35+00:00"
+    }
+   ]
+  },
+  {
+   "id": "edf4d8c3e9",
+   "title": "התנגשויות, תקלות והשליטה של פרארי: הדרמה בפורמולה 1 מגיעה לשיא",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-31T00:31:10+00:00",
+   "lastSeen": "2026-10-31T00:31:10+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "התנגשויות, תקלות והשליטה של פרארי: הדרמה בפורמולה 1 מגיעה לשיא",
+     "url": "https://www.israelhayom.co.il/news/world-news/other/article/21743563",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-31T00:31:10+00:00"
+    }
+   ]
+  },
+  {
+   "id": "f6edd39c64",
+   "title": "פלורידה: גבר נעצר בחשד שאיים לבצע ירי המוני בקהילה חרדית חדשה",
+   "sourceCount": 1,
+   "outlets": [
+    "ynet"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-31T00:59:02+02:00",
+   "lastSeen": "2026-10-31T00:59:02+02:00",
+   "articles": [
+    {
+     "source": "ynet",
+     "title": "פלורידה: גבר נעצר בחשד שאיים לבצע ירי המוני בקהילה חרדית חדשה",
+     "url": "https://www.ynet.co.il/news/article/rk9nxogpme",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-31T00:59:02+02:00"
+    }
+   ]
+  },
+  {
+   "id": "41b8d8f9ed",
+   "title": "הרוצח הסדרתי האהוב ביותר חוזר (שוב): מה חדש בטלוויזיה",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-31T01:00:00+00:00",
+   "lastSeen": "2026-10-31T01:00:00+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "הרוצח הסדרתי האהוב ביותר חוזר (שוב): מה חדש בטלוויזיה",
+     "url": "https://www.israelhayom.co.il/culture/tv/article/21735573",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-31T01:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "bb08bcdbf8",
+   "title": "\"הטליבאן מחכה להם\": בוושינגטון רוצים לגרש עשרות פליטים אפגנים",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-31T01:20:51+00:00",
+   "lastSeen": "2026-10-31T01:20:51+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "\"הטליבאן מחכה להם\": בוושינגטון רוצים לגרש עשרות פליטים אפגנים",
+     "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21743614",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-31T01:20:51+00:00"
+    }
+   ]
+  },
+  {
+   "id": "be122df54a",
+   "title": "Dog walker threatened with gun during ICE arrest in North Hollywood",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-31T01:23:59+00:00",
+   "lastSeen": "2026-10-31T01:23:59+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "Dog walker threatened with gun during ICE arrest in North Hollywood",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/dog-walker-threatened-with-gun-during-ice-arrest-in-north-hollywood?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-31T01:23:59+00:00"
+    }
+   ]
+  },
+  {
+   "id": "3678a59d70",
+   "title": "Pope Leo becomes first pontiff to vote in US general election",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-31T01:31:44+00:00",
+   "lastSeen": "2026-10-31T01:31:44+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "Pope Leo becomes first pontiff to vote in US general election",
+     "url": "https://www.aljazeera.com/news/2026/10/31/pope-leo-becomes-first-pontiff-to-vote-in-us-general-election?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-31T01:31:44+00:00"
+    }
+   ]
+  },
+  {
+   "id": "8b850645a0",
+   "title": "לראשונה בארה\"ב: ממשל טראמפ העניק רישיונות פדרליים לחנויות קנאביס רפואי",
+   "sourceCount": 1,
+   "outlets": [
+    "ynet"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-31T01:59:03+02:00",
+   "lastSeen": "2026-10-31T01:59:03+02:00",
+   "articles": [
+    {
+     "source": "ynet",
+     "title": "לראשונה בארה\"ב: ממשל טראמפ העניק רישיונות פדרליים לחנויות קנאביס רפואי",
+     "url": "https://www.ynet.co.il/news/article/s1mz0of6zl",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-31T01:59:03+02:00"
+    }
+   ]
+  },
+  {
+   "id": "b038782ff3",
+   "title": "צעיר נפצע קשה מפגיעת רכב בתל אביב",
+   "sourceCount": 1,
+   "outlets": [
+    "ynet"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-31T02:03:28+02:00",
+   "lastSeen": "2026-10-31T02:03:28+02:00",
+   "articles": [
+    {
+     "source": "ynet",
+     "title": "צעיר נפצע קשה מפגיעת רכב בתל אביב",
+     "url": "https://www.ynet.co.il/news/article/ryrwk2fame",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-31T02:03:28+02:00"
+    }
+   ]
+  },
+  {
+   "id": "b2b19847d6",
+   "title": "Poland’s president joins protest amid constitutional crisis at top court",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-31T02:24:00+00:00",
+   "lastSeen": "2026-10-31T02:24:00+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "Poland’s president joins protest amid constitutional crisis at top court",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/polands-president-joins-protest-amid-constitutional-crisis-at-top-court?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-31T02:24:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "c3028239b1",
+   "title": "הפרידה הופכת רשמית: כוכבת \"היו זמנים בהוליווד\" מתגרשת מהמפיק האגדי",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-31T02:30:59+00:00",
+   "lastSeen": "2026-10-31T02:30:59+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "הפרידה הופכת רשמית: כוכבת \"היו זמנים בהוליווד\" מתגרשת מהמפיק האגדי",
+     "url": "https://www.israelhayom.co.il/news/trending-online/article/21743625",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-31T02:30:59+00:00"
+    }
+   ]
+  },
+  {
+   "id": "1094c894c5",
+   "title": "גשמים בצפון, אובך בדרום: סוף שבוע קריר מהרגיל",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-31T02:41:05+00:00",
+   "lastSeen": "2026-10-31T02:41:05+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "גשמים בצפון, אובך בדרום: סוף שבוע קריר מהרגיל",
+     "url": "https://www.israelhayom.co.il/weather/article/21743635",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-31T02:41:05+00:00"
+    }
+   ]
+  },
+  {
+   "id": "78c9d17cdf",
+   "title": "Hundreds evacuated from Melania-brokered ceasefire town of Oleshky",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-31T02:44:38+00:00",
+   "lastSeen": "2026-10-31T02:44:38+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "Hundreds evacuated from Melania-brokered ceasefire town of Oleshky",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/hundreds-evacuated-from-melania-brokered-ceasefire-town-of-oleshky?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-31T02:44:38+00:00"
+    }
+   ]
+  },
+  {
+   "id": "ca0f1987f7",
+   "title": "Ebola death toll in DR Congo passes 5,000",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-31T02:51:52+00:00",
+   "lastSeen": "2026-10-31T02:51:52+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "Ebola death toll in DR Congo passes 5,000",
+     "url": "https://www.aljazeera.com/news/2026/10/31/ebola-death-toll-in-dr-congo-passes-5000?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-31T02:51:52+00:00"
+    }
+   ]
+  },
+  {
+   "id": "049b0ac1e6",
+   "title": "Russia’s Novaya Gazeta ‘killed off’ after murders, arrests and pressure",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-31T03:27:21+00:00",
+   "lastSeen": "2026-10-31T03:27:21+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "Russia’s Novaya Gazeta ‘killed off’ after murders, arrests and pressure",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/russias-novaya-gazeta-killed-off-after-murders-arrests-and-pressure?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-31T03:27:21+00:00"
+    }
+   ]
+  },
+  {
+   "id": "8403575352",
+   "title": "US execution survivor Christa Pike says she is now in ‘constant pain’",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-31T03:42:14+00:00",
+   "lastSeen": "2026-10-31T03:42:14+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "US execution survivor Christa Pike says she is now in ‘constant pain’",
+     "url": "https://www.aljazeera.com/news/2026/10/31/us-execution-survivor-christa-pike-says-she-is-now-in-constant?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-31T03:42:14+00:00"
+    }
+   ]
+  },
+  {
+   "id": "3145446f92",
+   "title": "פעם אחת ולתמיד: האם בני אדם הגיעו לכדור הארץ ממאדים?",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-31T04:06:00+00:00",
+   "lastSeen": "2026-10-31T04:06:00+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "פעם אחת ולתמיד: האם בני אדם הגיעו לכדור הארץ ממאדים?",
+     "url": "https://www.israelhayom.co.il/tech/space/article/21739513",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-31T04:06:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "45611a833a",
+   "title": "המרוץ למזכ\"ל האו\"ם: המועמדת היהודייה מתחזקת",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-31T04:09:33+00:00",
+   "lastSeen": "2026-10-31T04:09:33+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "המרוץ למזכ\"ל האו\"ם: המועמדת היהודייה מתחזקת",
+     "url": "https://www.israelhayom.co.il/news/world-news/other/article/21743644",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-31T04:09:33+00:00"
+    }
+   ]
+  },
+  {
+   "id": "a4dd528ba8",
+   "title": "\"אפרוש בגיל 93\": מפתח הגוף בן ה-90 שמתחרה בצעירים",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-31T04:25:31+00:00",
+   "lastSeen": "2026-10-31T04:25:31+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "\"אפרוש בגיל 93\": מפתח הגוף בן ה-90 שמתחרה בצעירים",
+     "url": "https://www.israelhayom.co.il/news/world-news/other/article/21743651",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-31T04:25:31+00:00"
+    }
+   ]
+  },
+  {
+   "id": "facc7dff20",
+   "title": "בלי לפזר את הכנסת ובלי קואליציה עם הערבים: שפן הבחירות הישירות ששוקל גוש השינוי",
+   "sourceCount": 1,
+   "outlets": [
+    "מעריב"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-31T04:31:58+00:00",
+   "lastSeen": "2026-10-31T04:31:58+00:00",
+   "articles": [
+    {
+     "source": "מעריב",
+     "title": "בלי לפזר את הכנסת ובלי קואליציה עם הערבים: שפן הבחירות הישירות ששוקל גוש השינוי",
+     "url": "https://www.maariv.co.il/breaking-news/article-1383109",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-31T04:31:58+00:00"
+    }
+   ]
+  },
+  {
+   "id": "8be36fbe0d",
+   "title": "האיתות הראשון הגיע לישראל: מסתמן - זה התאריך שסימן טראמפ לתקיפה באיראן",
+   "sourceCount": 1,
+   "outlets": [
+    "מעריב"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-31T04:38:55+00:00",
+   "lastSeen": "2026-10-31T04:38:55+00:00",
+   "articles": [
+    {
+     "source": "מעריב",
+     "title": "האיתות הראשון הגיע לישראל: מסתמן - זה התאריך שסימן טראמפ לתקיפה באיראן",
+     "url": "https://www.maariv.co.il/breaking-news/article-1383110",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-31T04:38:55+00:00"
+    }
+   ]
+  },
+  {
+   "id": "6d8b49944c",
+   "title": "US jails two Chinese nationals for spying",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-31T04:41:32+00:00",
+   "lastSeen": "2026-10-31T04:41:32+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "US jails two Chinese nationals for spying",
+     "url": "https://www.aljazeera.com/news/2026/10/31/us-jails-two-chinese-nationals-for-spying?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-31T04:41:32+00:00"
+    }
+   ]
+  },
+  {
+   "id": "20aa43f74e",
+   "title": "ההתרעה המצרית שלא נמסרה: האמת מאחורי הביקור המסתורי לפני 7 באוקטובר",
+   "sourceCount": 1,
+   "outlets": [
+    "מעריב"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-31T04:49:47+00:00",
+   "lastSeen": "2026-10-31T04:49:47+00:00",
+   "articles": [
+    {
+     "source": "מעריב",
+     "title": "ההתרעה המצרית שלא נמסרה: האמת מאחורי הביקור המסתורי לפני 7 באוקטובר",
+     "url": "https://www.maariv.co.il/breaking-news/article-1383111",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-31T04:49:47+00:00"
+    }
+   ]
+  },
+  {
+   "id": "3c45ba35ac",
+   "title": "US greenlights $2.1bn Patriot missile sale to Ukraine",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-31T04:51:25+00:00",
+   "lastSeen": "2026-10-31T04:51:25+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "US greenlights $2.1bn Patriot missile sale to Ukraine",
+     "url": "https://www.aljazeera.com/news/2026/10/31/us-greenlights-2-1bn-patriot-missile-sale-to-ukraine?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-31T04:51:25+00:00"
+    }
+   ]
+  },
+  {
+   "id": "e7f600be6a",
+   "title": "בולסונרו: \"נמלטתי מברזיל בגלל רדיפה נגדי\"",
+   "sourceCount": 1,
+   "outlets": [
+    "ynet"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-31T04:59:04+02:00",
+   "lastSeen": "2026-10-31T04:59:04+02:00",
+   "articles": [
+    {
+     "source": "ynet",
+     "title": "בולסונרו: \"נמלטתי מברזיל בגלל רדיפה נגדי\"",
+     "url": "https://www.ynet.co.il/news/article/s1ngkcmaze",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-31T04:59:04+02:00"
+    }
+   ]
+  },
+  {
+   "id": "7d04fbd525",
+   "title": "‘You need the power of all your votes’: Bedouin women secure success for Arab parties in Israeli election",
+   "sourceCount": 1,
+   "outlets": [
+    "Guardian"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-31T05:00:33+00:00",
+   "lastSeen": "2026-10-31T05:00:33+00:00",
+   "articles": [
+    {
+     "source": "Guardian",
+     "title": "‘You need the power of all your votes’: Bedouin women secure success for Arab parties in Israeli election",
+     "url": "https://www.theguardian.com/world/2026/oct/31/bedouin-women-success-arab-parties-israel-election",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-31T05:00:33+00:00"
+    }
+   ]
+  },
+  {
+   "id": "a8a721f97e",
+   "title": "Trump tells voters to send El-Sayed ‘back to where he came from’",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-31T05:07:25+00:00",
+   "lastSeen": "2026-10-31T05:07:25+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "Trump tells voters to send El-Sayed ‘back to where he came from’",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/trump-tells-voters-to-send-el-sayed-back-to-where-he-came?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-31T05:07:25+00:00"
+    }
+   ]
+  },
+  {
+   "id": "b4e7dbd1f1",
+   "title": "Mohammed Deif, rare footage and October 7 documents",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-31T05:07:34+00:00",
+   "lastSeen": "2026-10-31T05:07:34+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "Mohammed Deif, rare footage and October 7 documents",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/mohammed-deif-rare-footage-and-october-7-documents?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-31T05:07:34+00:00"
+    }
+   ]
+  },
+  {
+   "id": "b293dd457c",
+   "title": "צעיר בן 19 נפצע באורח קשה באירוע אלימות ברהט",
+   "sourceCount": 1,
+   "outlets": [
+    "מעריב"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-31T05:10:25+00:00",
+   "lastSeen": "2026-10-31T05:10:25+00:00",
+   "articles": [
+    {
+     "source": "מעריב",
+     "title": "צעיר בן 19 נפצע באורח קשה באירוע אלימות ברהט",
+     "url": "https://www.maariv.co.il/breaking-news/article-1383115",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-31T05:10:25+00:00"
+    }
+   ]
+  },
+  {
+   "id": "ca14896604",
+   "title": "ארה\"ב: שני אזרחים סינים נידונו ל-30 חודשי מאסר בגין ריגול",
+   "sourceCount": 1,
+   "outlets": [
+    "ynet"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-31T06:51:08+02:00",
+   "lastSeen": "2026-10-31T06:51:08+02:00",
+   "articles": [
+    {
+     "source": "ynet",
+     "title": "ארה\"ב: שני אזרחים סינים נידונו ל-30 חודשי מאסר בגין ריגול",
+     "url": "https://www.ynet.co.il/news/article/bkquxl7tgx",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-31T06:51:08+02:00"
+    }
+   ]
+  },
+  {
+   "id": "3e70a7c162",
+   "title": "נער נפצע מירי באזור רהט, מצבו קשה",
+   "sourceCount": 1,
+   "outlets": [
+    "ynet"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-10-31T07:15:11+02:00",
+   "lastSeen": "2026-10-31T07:15:11+02:00",
+   "articles": [
+    {
+     "source": "ynet",
+     "title": "נער נפצע מירי באזור רהט, מצבו קשה",
+     "url": "https://www.ynet.co.il/news/article/bjxvolqtml",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-10-31T07:15:11+02:00"
     }
    ]
   },
@@ -6738,11 +8247,35 @@
      "time": "2026-10-30T10:13:24+00:00"
     }
    ]
+  },
+  {
+   "id": "159ce70041",
+   "title": "Fake polls expose vulnerabilities in US elections ahead of midterms",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 0,
+   "opinionOnly": true,
+   "firstSeen": "2026-10-31T01:26:34+00:00",
+   "lastSeen": "2026-10-31T01:26:34+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "Fake polls expose vulnerabilities in US elections ahead of midterms",
+     "url": "https://www.aljazeera.com/news-analysis/2026/10/31/fake-polls-expose-vulnerabilities-in-us-elections-ahead-of-midterms?traffic_source=rss",
+     "tier": 2,
+     "type": "opinion",
+     "time": "2026-10-31T01:26:34+00:00"
+    }
+   ]
   }
  ],
  "stats": {
-  "articles": 224,
-  "clusters": 167,
-  "multiSource": 22
+  "articles": 270,
+  "clusters": 211,
+  "multiSource": 23
  }
 }
