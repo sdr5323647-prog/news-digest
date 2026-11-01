@@ -1,0 +1,450 @@
+{
+ "schema": 2,
+ "date": "2026-11-01",
+ "type": "daily",
+ "headline": "לחץ להקמת ממשלה סביב איזנקוט, שיחת טראמפ-נתניהו על איראן, ופריצת הענק לבייננס יוחסה לצפון קוריאה.",
+ "events": [
+  {
+   "id": "coalition-building-after-election",
+   "title": "איזנקוט מפעיל לחץ להקמת ממשלה; הרשימה המשותפת ורע\"מ צפויות להמליץ עליו בפני הנשיא",
+   "summary": "לפי ynet ווואלה, מסתמן שהרשימה המשותפת ורע\"מ ימליצו על איזנקוט בפני הנשיא, אך מספר 4 ברשימה המשותפת מסר שאינם מקבלים את העקרונות שהציב כתנאי. ynet מדווח שאיזנקוט הנחה לבחון הקמת ממשלה בהימנעות של רע\"מ ויהדות התורה, ויהדות התורה השיבה כי יתפרסמו \"אינספור ספינים\". איזנקוט אמר כי יפעל למימוש הרוב הפרלמנטרי, וישראל היום מדווחת על חשדנות בין חברי גוש השינוי. ליברמן הכחיש כוונה להיות יו\"ר הכנסת.",
+   "why": "ללא הכרעה בבחירות, הרכב הממשלה הבאה ייקבע במשא ומתן בין המחנות.",
+   "change": "מסתמנת המלצה של המשותפת ורע\"מ על איזנקוט, ובוחנים אפשרות לממשלה בהימנעות.",
+   "next": "המלצות המפלגות בפני הנשיא והתקדמות המגעים.",
+   "status": "VERIFIED",
+   "importance": 5,
+   "categories": [
+    "politics"
+   ],
+   "kind": "negotiation",
+   "entities": [
+    "בחירות 2026",
+    "איזנקוט",
+    "הקמת ממשלה"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/hy0ajc4afe",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383959638",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/politics/article/21745627",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1383534",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383959570",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 5,
+   "firstSeen": "2026-10-29",
+   "lastUpdated": "2026-11-01"
+  },
+  {
+   "id": "trump-iran-strike-plans",
+   "title": "דיווח: טראמפ ונתניהו שוחחו על רקע היערכות ארה\"ב לחידוש התקיפות באיראן; רוביו: טרם התקבלה החלטה",
+   "summary": "לפי דיווח בארה\"ב שצוטט במעריב, בוואלה, בישראל היום וב-ynet, טראמפ ונתניהו שוחחו על רקע המתיחות מול איראן. שר החוץ רוביו אמר כי טראמפ טרם החליט אם לתקוף. ישראל היום מצטטת את טראמפ שאמר כי ארה\"ב יכולה לתקוף את האתרים שנותרו באיראן בתוך עשר דקות, ואיראן הכריזה כי \"בנק המטרות\" עודכן. אל-ג'זירה מדווחת במקביל שמתווכים ממשיכים במגעים בין ארה\"ב לאיראן.",
+   "why": "החלטה על חידוש התקיפות או על הסכם תשפיע ישירות על הביטחון בישראל ובאזור.",
+   "change": "שיחת טראמפ-נתניהו, הצהרת רוביו שלא התקבלה החלטה והצהרות איראניות על עדכון בנק המטרות.",
+   "next": "החלטה אמריקנית על תקיפה או התקדמות במגעים.",
+   "status": "REPORTED",
+   "importance": 5,
+   "categories": [
+    "security",
+    "israel_world"
+   ],
+   "kind": "negotiation",
+   "entities": [
+    "איראן",
+    "טראמפ",
+    "נתניהו"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1383320",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21747911",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383959602",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/r1gpmeeagg",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/sjz1giqpzl",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/1/mediators-continue-us-iran-negotiations-amid-war-rhetoric-what-we-know",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 6,
+   "firstSeen": "2026-10-08",
+   "lastUpdated": "2026-11-01"
+  },
+  {
+   "id": "bribery-probe-raam-negev",
+   "title": "פרשת שוחד הבחירות בנגב: החשודים צפויים להשתחרר, המשטרה תבקש הגבלות",
+   "summary": "לפי ישראל היום, החשודים בפרשת השוחד לטובת רע\"ם צפויים להשתחרר והמשטרה תבקש להטיל עליהם הגבלות, בהן איסור מפגש בין ראש עיריית כסייפה לרעייתו. ynet מדווח שהמשטרה תבקש להאריך את מעצרם של חלק מהחשודים, וכי בית המשפט הורה לשחרר רופא שנחשד בפרשה.",
+   "why": "החקירה נוגעת לחשד לשוחד בחירות, בשעה שמפלגת רע\"ם נחשבת שותפה אפשרית להרכבת הממשלה.",
+   "change": "",
+   "next": "המשך ההליכים והחלטות על הגבלות.",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "law",
+    "politics"
+   ],
+   "kind": "legal",
+   "entities": [
+    "בחירות 2026",
+    "רע\"ם",
+    "שוחד בחירות"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/crime/article/21747025",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/hyjzqonamx",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/by1rfiepzl",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-11-01",
+   "lastUpdated": "2026-11-01"
+  },
+  {
+   "id": "binance-security-breach",
+   "title": "ה-FBI: האקרים הנתמכים על ידי צפון קוריאה עמדו מאחורי הפריצה לבייננס",
+   "summary": "לפי וואלה, ynet ואל-ג'זירה, ה-FBI מייחס את הפריצה לבורסת הקריפטו בייננס להאקרים הנתמכים על ידי צפון קוריאה, ומדובר בגניבה של יותר מ-6 מיליארד דולר.",
+   "why": "זו אחת מפריצות הקריפטו הגדולות שתועדו ויש לה השלכות על הביטחון בשוק הדיגיטלי ועל מימון צפון קוריאה.",
+   "change": "ה-FBI ייחס את הפריצה לצפון קוריאה והסכום הוערך ביותר מ-6 מיליארד דולר.",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "tech",
+    "economy",
+    "world"
+   ],
+   "kind": "data",
+   "entities": [
+    "קריפטו",
+    "בייננס",
+    "צפון קוריאה"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383959597",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/s1xitgntze",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/1/fbi-blames-north-korea-for-record-6-3bn-crypto-heist?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-10-30",
+   "lastUpdated": "2026-11-01"
+  },
+  {
+   "id": "europe-mass-protests",
+   "title": "הפגנות המוניות באירופה: 422 נעצרו בצרפת, דגלי ישראל וארה\"ב הוצתו; בביזה בפרנקפורט",
+   "summary": "לפי מעריב, וואלה וישראל היום, הפגנות גדולות התקיימו בצרפת, ובהן הוצתו דגלי ישראל וארה\"ב בליון. ynet מצטט את שר הפנים הצרפתי שלפיו 422 נעצרו וכי \"ניסו לרצוח אנשי כוחות ביטחון\". ynet וישראל היום מדווחים שבגרמניה הפגינו עשרות אלפים ובפרנקפורט נבזזו חנויות והושלכו בקבוקי תבערה על שוטרים.",
+   "why": "אלימות בהפגנות באירופה משפיעה על ביטחון הקהילות היהודיות והישראליות ועל היחסים עם ממשלות היבשת.",
+   "change": "",
+   "next": "התפתחויות בהפגנות והחלטות משטרתיות.",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "world",
+    "israel_world"
+   ],
+   "kind": "event",
+   "entities": [
+    "אירופה",
+    "הפגנות",
+    "צרפת"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1383316",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/syl00ftxtfe",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/world-news/europe/article/21745512",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/skyr007tfl",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 4,
+   "firstSeen": "2026-11-01",
+   "lastUpdated": "2026-11-01"
+  },
+  {
+   "id": "trump-wsj-lawsuit-dismissed",
+   "title": "בית המשפט דחה את תביעת טראמפ נגד ה\"וול סטריט ג'ורנל\" בפרשת הברכה לאפשטיין",
+   "summary": "לפי ynet וישראל היום, נדחתה תביעת הדיבה של טראמפ נגד ה\"וול סטריט ג'ורנל\" בגין פרסום ברכה שיוחסה לו לג'פרי אפשטיין.",
+   "why": "פסיקה בתביעה בהיקף מיליארדי דולרים נגד עיתון מרכזי, שבה צד הנשיא האמריקני.",
+   "change": "",
+   "next": "ייתכן ערעור.",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "law",
+    "world"
+   ],
+   "kind": "legal",
+   "entities": [
+    "טראמפ",
+    "אפשטיין"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/skfqxzvazl",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21748254",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-11-01",
+   "lastUpdated": "2026-11-01"
+  },
+  {
+   "id": "ukraine-refinery-strikes-pause",
+   "title": "בית זיקוק בניז'ני נובגורוד הותקף ועלה באש",
+   "summary": "לפי ynet וישראל היום, בית זיקוק בניז'ני נובגורוד, כ-400 ק\"מ ממזרח למוסקבה, הותקף ועלה באש. ישראל היום מייחסת את התקיפה לאוקראינה ומציינת שמדובר בבית הזיקוק הרביעי בגודלו ברוסיה.",
+   "why": "תקיפות על תשתיות אנרגיה רוסיות משפיעות על מהלך המלחמה ועל שווקי האנרגיה.",
+   "change": "בניגוד לדיווחים על השהיית תקיפות, תועדה היום תקיפה על בית זיקוק.",
+   "next": "",
+   "status": "REPORTED",
+   "importance": 3,
+   "categories": [
+    "world"
+   ],
+   "kind": "event",
+   "entities": [
+    "רוסיה",
+    "אוקראינה"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/hjpxpmn6ge",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/world-news/europe/article/21748343",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-10-30",
+   "lastUpdated": "2026-11-01"
+  }
+ ],
+ "unverified": [
+  {
+   "id": "hormuz-tanker-fire-oct30",
+   "title": "לטענת צבא איראן: מכלית פגעה במוקשים ליד מצר הורמוז ועלתה באש",
+   "summary": "לפי חיל הים של צבא איראן, כפי שדווח ב-ynet ובוואלה, מכלית נפט פגעה במוקשים מזרחית למצר הורמוז ועלתה באש. אין אישור עצמאי.",
+   "why": "תקריות במצר הורמוז משפיעות על סחר האנרגיה העולמי.",
+   "change": "הצהרה איראנית חדשה על אירוע נוסף.",
+   "next": "",
+   "status": "CLAIM",
+   "importance": 4,
+   "categories": [
+    "security",
+    "world"
+   ],
+   "kind": "event",
+   "entities": [
+    "איראן",
+    "הורמוז"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/s1bexoq6mx",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383959572",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-10-30",
+   "lastUpdated": "2026-11-01"
+  },
+  {
+   "id": "moscow-terror-warning-claim",
+   "title": "לטענת רוסיה: ארה\"ב הזהירה מפני פיגוע המוני מתוכנן במוסקבה",
+   "summary": "על פי הודעה רוסית שדווחה בוואלה ובישראל היום, ארה\"ב הזהירה את רוסיה מפיגוע טרור מתוכנן במוסקבה, ובעקבות זאת נסגרו מוזיאונים ופארק. אין אישור עצמאי מארה\"ב.",
+   "why": "אזהרה כזו, אם תאושש, מעידה על שיתוף מודיעין בין מעצמות.",
+   "change": "",
+   "next": "",
+   "status": "CLAIM",
+   "importance": 3,
+   "categories": [
+    "security",
+    "world"
+   ],
+   "kind": "statement",
+   "entities": [
+    "רוסיה",
+    "טרור"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383959558",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/world-news/europe/article/21746503",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-11-01",
+   "lastUpdated": "2026-11-01"
+  },
+  {
+   "id": "gaza-palestinian-reports-nov1",
+   "title": "לפי דיווחים פלסטיניים: 5–8 הרוגים בתקיפות צה\"ל ברצועת עזה",
+   "summary": "על פי דיווחים פלסטיניים שצוטטו ב-ynet ובוואלה, בין חמישה לשמונה בני אדם נהרגו בתקיפות ברצועת עזה. המספרים אינם עקביים בין הדיווחים ואין אישור עצמאי.",
+   "why": "אירועי אש ברצועה משפיעים על יציבות הרגיעה.",
+   "change": "",
+   "next": "",
+   "status": "CLAIM",
+   "importance": 3,
+   "categories": [
+    "security"
+   ],
+   "kind": "event",
+   "entities": [
+    "עזה"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/r1sekqvpfx",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383959673",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-11-01",
+   "lastUpdated": "2026-11-01"
+  }
+ ],
+ "filtered_out": 320,
+ "note": ""
+}
