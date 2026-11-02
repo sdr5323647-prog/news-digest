@@ -2,46 +2,6 @@
  "date": "2026-11-02",
  "articles": [
   {
-   "source": "Guardian",
-   "outlet": "Guardian",
-   "title": "‘What’s our crime?’: A Palestinian family’s fight to get care for son injured by Hamas rocket",
-   "url": "https://www.theguardian.com/world/2026/nov/01/palestinian-family-fight-care-son-hamas-rocket",
-   "summary": "Kinaan Dadou, 10, has been left disabled since 7 October 2023 as his parents struggle to find funding for specialist treatment It was 7.30am on 7 October 2023 when a Hamas rocket exploded next to 7-year-old Kinaan Dadou. The rocket was aimed at the Israeli settlement of Efrat in the occupied West Ba",
-   "time": "2026-11-01T06:00:03+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
-   "source": "NYT",
-   "outlet": "NYT",
-   "title": "How a Little-Known Company Dominated the Persian Gulf Oil Trade",
-   "url": "https://www.nytimes.com/2026/11/01/business/sinokor-oil-tankers-strait-hormuz-shipping-iran.html",
-   "summary": "South Korea’s Sinokor controls about half the tanker transits through the Strait of Hormuz, benefiting from a big bet just before the war in Iran started.",
-   "time": "2026-11-01T10:02:30+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
-   "source": "NYT",
-   "outlet": "NYT",
-   "title": "Where Do Israel’s Arab Parties Stand?",
-   "url": "https://www.nytimes.com/2026/11/01/world/middleeast/israel-arab-parties.html",
-   "summary": "Having won a record 19 seats in Israel’s Parliament, the two Arab-led parties say they want to work with opposition factions to take down the Netanyahu government.",
-   "time": "2026-11-01T10:03:51+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
-   "source": "NYT",
-   "outlet": "NYT",
-   "title": "Netanyahu’s Bid to Stay in Power Will Test His Political Savvy",
-   "url": "https://www.nytimes.com/2026/11/01/world/middleeast/netanyahu-coalition-building-tests-political-skills.html",
-   "summary": "After losing ground in Israel’s election, Prime Minister Benjamin Netanyahu must draw on decades of political capital and reckon with old foes if he is to build a governing coalition.",
-   "time": "2026-11-01T10:20:20+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
    "source": "ישראל היום",
    "outlet": "ישראל היום",
    "title": "שבועיים אחרי הפרידה: שני ויובל תופסים מרחק",
@@ -3912,7 +3872,7 @@
    "type": "reporting"
   }
  ],
- "updated": "2026-11-02T11:18:28.226135+00:00",
+ "updated": "2026-11-02T17:30:31.529095+00:00",
  "clusters": [
   {
    "id": "20897901da",
@@ -5452,102 +5412,6 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-11-02T09:21:55+00:00"
-    }
-   ]
-  },
-  {
-   "id": "c27bfdc657",
-   "title": "‘What’s our crime?’: A Palestinian family’s fight to get care for son injured by Hamas rocket",
-   "sourceCount": 1,
-   "outlets": [
-    "Guardian"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-11-01T06:00:03+00:00",
-   "lastSeen": "2026-11-01T06:00:03+00:00",
-   "articles": [
-    {
-     "source": "Guardian",
-     "title": "‘What’s our crime?’: A Palestinian family’s fight to get care for son injured by Hamas rocket",
-     "url": "https://www.theguardian.com/world/2026/nov/01/palestinian-family-fight-care-son-hamas-rocket",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-11-01T06:00:03+00:00"
-    }
-   ]
-  },
-  {
-   "id": "b3c6e770b0",
-   "title": "How a Little-Known Company Dominated the Persian Gulf Oil Trade",
-   "sourceCount": 1,
-   "outlets": [
-    "NYT"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-11-01T10:02:30+00:00",
-   "lastSeen": "2026-11-01T10:02:30+00:00",
-   "articles": [
-    {
-     "source": "NYT",
-     "title": "How a Little-Known Company Dominated the Persian Gulf Oil Trade",
-     "url": "https://www.nytimes.com/2026/11/01/business/sinokor-oil-tankers-strait-hormuz-shipping-iran.html",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-11-01T10:02:30+00:00"
-    }
-   ]
-  },
-  {
-   "id": "1867068c9d",
-   "title": "Where Do Israel’s Arab Parties Stand?",
-   "sourceCount": 1,
-   "outlets": [
-    "NYT"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-11-01T10:03:51+00:00",
-   "lastSeen": "2026-11-01T10:03:51+00:00",
-   "articles": [
-    {
-     "source": "NYT",
-     "title": "Where Do Israel’s Arab Parties Stand?",
-     "url": "https://www.nytimes.com/2026/11/01/world/middleeast/israel-arab-parties.html",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-11-01T10:03:51+00:00"
-    }
-   ]
-  },
-  {
-   "id": "615dc3d6f4",
-   "title": "Netanyahu’s Bid to Stay in Power Will Test His Political Savvy",
-   "sourceCount": 1,
-   "outlets": [
-    "NYT"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-11-01T10:20:20+00:00",
-   "lastSeen": "2026-11-01T10:20:20+00:00",
-   "articles": [
-    {
-     "source": "NYT",
-     "title": "Netanyahu’s Bid to Stay in Power Will Test His Political Savvy",
-     "url": "https://www.nytimes.com/2026/11/01/world/middleeast/netanyahu-coalition-building-tests-political-skills.html",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-11-01T10:20:20+00:00"
     }
    ]
   },
@@ -11889,8 +11753,8 @@
   }
  ],
  "stats": {
-  "articles": 391,
-  "clusters": 304,
+  "articles": 387,
+  "clusters": 300,
   "multiSource": 26
  }
 }

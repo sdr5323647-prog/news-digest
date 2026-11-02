@@ -1,0 +1,427 @@
+{
+ "schema": 2,
+ "date": "2026-11-02",
+ "type": "daily",
+ "headline": "בנט ימליץ על איזנקוט, סולברג קבע שהבחירות תקינות, וטראמפ שוב מאיים על איראן.",
+ "events": [
+  {
+   "id": "coalition-building-after-election",
+   "title": "בנט הודיע רשמית: יומלץ על איזנקוט בפני הנשיא; בית הנשיא הזמין את נציגי הסיעות",
+   "summary": "לפי ynet, מעריב וישראל היום, בנט הודיע כי יומלץ על גדי איזנקוט להרכבת הממשלה. ynet מדווח כי בית הנשיא שלח הזמנה לנציגי הסיעות לקראת הטלת המנדט. לפי ישראל היום, ביהדות התורה ממתינים להכרעת הרבנים.",
+   "why": "ההמלצות לנשיא קובעות מי יקבל את המנדט להרכבת הממשלה לאחר בחירות ללא הכרעה ברורה.",
+   "change": "בנט הודיע רשמית על המלצה על איזנקוט, ובית הנשיא הזמין את נציגי הסיעות להתייעצויות.",
+   "next": "התייעצויות הנשיא עם הסיעות והטלת המנדט.",
+   "status": "VERIFIED",
+   "importance": 5,
+   "categories": [
+    "politics"
+   ],
+   "kind": "decision",
+   "entities": [
+    "בחירות 2026",
+    "איזנקוט",
+    "בנט",
+    "הקמת ממשלה"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/SyBYjxS6fe",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1383670",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/politics/article/21754734",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/sy3ywgbtfg",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-10-29",
+   "lastUpdated": "2026-11-02"
+  },
+  {
+   "id": "foreign-election-interference-probe",
+   "title": "סולברג, היועמ\"שית וזיני: הבחירות התנהלו בתקינות; הליכוד: \"תמוה\"",
+   "summary": "לפי ynet וישראל היום, השופט סולברג אמר לצד היועמ\"שית והשופט זיני כי הבחירות לכנסת התנהלו בתקינות וכי מרבית הפרסומים אינם נכונים. לפי מעריב, סולברג דחה את הטענה שחומר הראיות עשוי לערער את תוצאות הבחירות בכללותן. בליכוד הגיבו כי הדברים \"תמוהים מאוד\".",
+   "why": "הטענות על התערבות זרה ועל זיופים עמדו בלב הוויכוח הציבורי על לגיטימיות התוצאות.",
+   "change": "בעקבות החשדות הקודמים, סולברג והיועמ\"שית קבעו פומבית כי הבחירות התנהלו בתקינות; בליכוד חולקים.",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "politics",
+    "law"
+   ],
+   "kind": "statement",
+   "entities": [
+    "בחירות 2026",
+    "ועדת הבחירות המרכזית",
+    "הליכוד"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/HJuErxHTfe",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/law/article/21754809",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1383662",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-10-29",
+   "lastUpdated": "2026-11-02"
+  },
+  {
+   "id": "bribery-probe-raam-negev",
+   "title": "פרשת שוחד הבחירות ברע\"ם: הוסרו המגבלות על אחד החשודים והמשטרה לא תערער",
+   "summary": "לפי ישראל היום וואלה, בית המשפט הסיר את כל המגבלות מעל אחד החשודים בפרשה. ynet מדווח כי המשטרה ביקשה בתחילה להשאיר מגבלות, אך לא תערער על השחרור.",
+   "why": "החשד נוגע לשוחד תמורת הצבעה לרע\"ם, מפלגה שמעורבת בדיוני הקמת הממשלה.",
+   "change": "בית המשפט הסיר את המגבלות מעל חשוד אחד והמשטרה הודיעה שלא תערער.",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "law",
+    "politics"
+   ],
+   "kind": "legal",
+   "entities": [
+    "בחירות 2026",
+    "רע\"ם",
+    "שוחד בחירות"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/syl00t3eaze",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/crime/article/21758357",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383959778",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-11-01",
+   "lastUpdated": "2026-11-02"
+  },
+  {
+   "id": "trump-iran-strike-plans",
+   "title": "טראמפ: שוחחתי עם נתניהו על איראן; \"נצטרך להנחית את הפטיש\"",
+   "summary": "לפי מעריב, וואלה, ישראל היום ו-ynet, טראמפ אמר כי קיים שיחה טובה עם נתניהו וכי דיברו על איראן. לפי וואלה וישראל היום, טראמפ אמר גם כי בשלב מסוים יצטרכו \"להנחית את הפטיש\" על איראן. אלה דברים שאמר טראמפ, ללא פירוט החלטה בפועל.",
+   "why": "מדובר בהצהרות על אפשרות להסלמה צבאית מול איראן, שעלולה להשפיע ישירות על ישראל.",
+   "change": "טראמפ אישר פומבית שיחה עם נתניהו על איראן והוסיף איום חדש.",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "security",
+    "israel_world"
+   ],
+   "kind": "statement",
+   "entities": [
+    "איראן",
+    "טראמפ",
+    "נתניהו"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1383728",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383959731",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/hyozvqhpfe",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21756301",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 4,
+   "firstSeen": "2026-10-08",
+   "lastUpdated": "2026-11-02"
+  },
+  {
+   "id": "haredi-draft-protests-nov2",
+   "title": "הפגנות חרדים אלימות בבית שמש ובירושלים בעקבות מעצר עריק",
+   "summary": "לפי ישראל היום ומעריב, בבית שמש הושלכו רימוני הלם, נמסר על חמישה פצועים ועל מאות מפרי סדר. לפי ynet וישראל היום, בירושלים חסמו חרדים את כביש 1 והיו עימותים עם שוטרים בעקבות מעצר עריק.",
+   "why": "ההפגנות מתמשכות סביב סוגיית הגיוס ופוגעות בסדר הציבורי.",
+   "change": "",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "society",
+    "security"
+   ],
+   "kind": "event",
+   "entities": [
+    "חרדים",
+    "גיוס"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/local/article/21756608",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1383757",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/hkitv4rpmx",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-11-02",
+   "lastUpdated": "2026-11-02"
+  },
+  {
+   "id": "gaza-idf-strikes-nov2",
+   "title": "צה\"ל: ארבעה מחבלי חמאס חוסלו בצפון עזה, בהם שניים מנוח'בה",
+   "summary": "לפי הודעת צה\"ל כפי שדווחה בוואלה וב-ynet, ארבעה מחבלי חמאס חוסלו בתקיפות בצפון הרצועה, ושניים מהם מחבלי נוח'בה, אחד מהם לטענת צה\"ל השתתף בפשיטה על ניר עוז ב-7 באוקטובר. BBC מצטט בתי חולים בעזה על שמונה הרוגים בתקיפות ישראליות, ללא אישור שמדובר באותו אירוע.",
+   "why": "המשך הפעילות הצבאית ברצועה מתרחש על רקע הרגיעה השברירית.",
+   "change": "",
+   "next": "",
+   "status": "REPORTED",
+   "importance": 3,
+   "categories": [
+    "security"
+   ],
+   "kind": "event",
+   "entities": [
+    "עזה",
+    "חמאס"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383959752",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/rjbndjstze",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-11-02",
+   "lastUpdated": "2026-11-02"
+  },
+  {
+   "id": "fx-market-election-shock",
+   "title": "לפי ישראל היום: הדולר זינק והבורסה ירדה בעקבות אי-הוודאות הפוליטית",
+   "summary": "לפי ישראל היום, בשוק המט\"ח נרשמה תנודתיות בעקבות הבחירות: הדולר עלה והבורסה ירדה על רקע חשש מחוסר ודאות. הידיעה מבוססת על מקור אחד ולא פורטו בה שיעורי השינוי.",
+   "why": "אי-ודאות פוליטית משפיעה על שערי החליפין, על הבורסה ועל הדירוג.",
+   "change": "",
+   "next": "",
+   "status": "REPORTED",
+   "importance": 3,
+   "categories": [
+    "economy"
+   ],
+   "kind": "data",
+   "entities": [
+    "כלכלה",
+    "בחירות 2026",
+    "דירוג אשראי"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/business/real-estate/article/21751736",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 1,
+   "firstSeen": "2026-11-02",
+   "lastUpdated": "2026-11-02"
+  }
+ ],
+ "unverified": [
+  {
+   "id": "hebron-operation-conflicting",
+   "title": "סתירה: צה\"ל הודיע על סיום המבצע בחברון; אל-ג'זירה מדווחת על המשך המצור",
+   "summary": "לפי ynet וישראל היום, צה\"ל הודיע על סיום המבצע בחברון, עם עשרות עצורים ונשק ורכבים גנובים. אל-ג'זירה דיווחה ב-1 בנובמבר על המשך המצור ביום העשירי ועל איום ישראלי להרחיב את המבצע. לא ברור המצב בפועל.",
+   "why": "מבצע רחב בחברון משפיע על המצב הביטחוני ביהודה ושומרון.",
+   "change": "",
+   "next": "",
+   "status": "CONFLICTING",
+   "importance": 3,
+   "categories": [
+    "security"
+   ],
+   "kind": "event",
+   "entities": [
+    "חברון",
+    "יהודה ושומרון"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/rjevxprazg",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/defense/article/21757564",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/1/hebron-siege-continues-for-10th-day-as-israel-threatens-wider-offensive",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-11-02",
+   "lastUpdated": "2026-11-02"
+  },
+  {
+   "id": "iran-delegation-doha-claim",
+   "title": "על פי מקור לרויטרס: משלחת איראן עזבה את המו\"מ בדוחא",
+   "summary": "על פי ynet, שציטט מקור לרויטרס, משלחת איראן עזבה את המשא ומתן בדוחא. לא פורסם אישור רשמי מאיראן או מארה\"ב.",
+   "why": "המגעים לסיום המלחמה עם איראן משפיעים על הסיכוי להסלמה.",
+   "change": "",
+   "next": "",
+   "status": "REPORTED",
+   "importance": 4,
+   "categories": [
+    "security",
+    "israel_world"
+   ],
+   "kind": "negotiation",
+   "entities": [
+    "איראן",
+    "קטאר",
+    "טראמפ"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/ryqngpbagg",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 1,
+   "firstSeen": "2026-11-02",
+   "lastUpdated": "2026-11-02"
+  },
+  {
+   "id": "hormuz-vessel-attack-nov2",
+   "title": "על פי דיווחים: כלי שיט נפגע מתקיפה ממערב למצר הורמוז",
+   "summary": "לפי וואלה, כלי שיט נפגע מתקיפה לא מזוהה ממערב למצר הורמוז. אל-ג'זירה מדווחת בשידור חי על פגיעה במכליות באזור. לא פורסם מי אחראי.",
+   "why": "פגיעה בספנות במצר משפיעה על מחירי האנרגיה ועל המגעים מול איראן.",
+   "change": "",
+   "next": "",
+   "status": "REPORTED",
+   "importance": 3,
+   "categories": [
+    "security",
+    "world"
+   ],
+   "kind": "event",
+   "entities": [
+    "איראן",
+    "נפט"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383959721",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/11/2/iran-war-live-tankers-hit-in-hormuz-trump-again-says-conflict-to-end-soon",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-11-02",
+   "lastUpdated": "2026-11-02"
+  }
+ ],
+ "filtered_out": 290,
+ "note": ""
+}
