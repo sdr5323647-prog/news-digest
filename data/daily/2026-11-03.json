@@ -1,0 +1,173 @@
+{
+ "schema": 2,
+ "date": "2026-11-03",
+ "type": "daily",
+ "headline": "דיווחים על תקיפה אמריקנית באי קשם לצד מגעים לעסקה עם איראן, ונתניהו מושיט יד לממשלה רחבה.",
+ "events": [
+  {
+   "change": "דיווח על תקיפה אמריקנית באי קשם, לצד אותות סותרים על עסקה: אופטימיות אמריקנית מול הצהרות איראניות על פערים.",
+   "next": "ישראל מצפה להכרעה מול איראן; מעריב מדווח על ציפייה ליום חמישי.",
+   "noise": [],
+   "lastUpdated": "2026-11-03",
+   "id": "trump-iran-strike-plans",
+   "title": "דיווחים: ארה\"ב תקפה באי קשם שבאיראן; טראמפ מדבר על עסקה, בכיר איראני: \"לא נקבל דרישות מוגזמות\"",
+   "summary": "לפי ynet, מעריב, ישראל היום ואל-ג'זירה, ארה\"ב תקפה במהלך הלילה באזור הורמוז, ובתקשורת האמריקנית דווח על תקיפה באי קשם. אל-ג'זירה ציינה כי מדובר בתקיפות \"הגנתיות\". לפי ynet, טראמפ אמר כי איראן רוצה עסקה וכי ייתכן שהיא תושג, וכי ייתכן שיהיה צורך לתקוף את הר המכוש. בכיר איראני אמר לרויטרס, לפי מעריב, כי המדינות רחוקות מהסכם. לפי NYT, איראן הצהירה כי תפתח מחדש את מצר הורמוז תוך יומיים כחלק מעסקה.",
+   "why": "תקיפה אמריקנית ומשא ומתן על מצר הורמוז משפיעים ישירות על הביטחון האזורי של ישראל ועל מחירי האנרגיה.",
+   "status": "REPORTED",
+   "importance": 5,
+   "categories": [
+    "security",
+    "israel_world"
+   ],
+   "kind": "negotiation",
+   "entities": [
+    "איראן",
+    "טראמפ",
+    "מצר הורמוז"
+   ],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/bklrwhi6gx",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1384191",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21764581",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/3/explosions-hit-irans-qeshm-island-as-us-media-report-us-strikes-in-hormuz",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "NYT",
+     "url": "https://www.nytimes.com/2026/11/02/world/middleeast/iran-deal-strait-of-hormuz.html",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "firstSeen": "2026-10-08",
+   "sourceCount": 5
+  },
+  {
+   "change": "נתניהו הצהיר בפומבי על נכונות להקמת ממשלה רחבה בראשותו.",
+   "next": "התייעצויות הנשיא והטלת המנדט.",
+   "noise": [],
+   "lastUpdated": "2026-11-03",
+   "id": "coalition-building-after-election",
+   "title": "נתניהו: \"ידינו מושטת להקמת ממשלה לאומית רחבה\", אך הוא יוביל",
+   "summary": "לפי ynet וישראל היום, נתניהו אמר כי הוא פתוח לשיח על ממשלה רחבה עם שותפיו, וכי הוא יוביל אותה.",
+   "why": "הצהרה זו נאמרת בעת הליך הרכבת הממשלה לאחר הבחירות.",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "politics"
+   ],
+   "kind": "statement",
+   "entities": [
+    "בחירות 2026",
+    "נתניהו",
+    "הקמת ממשלה"
+   ],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/ByeMwUUTzl",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/politics/article/21763458",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "firstSeen": "2026-10-29",
+   "sourceCount": 2
+  },
+  {
+   "change": "",
+   "next": "שיחות באבו דאבי בשבוע הבא.",
+   "noise": [],
+   "lastUpdated": "2026-11-03",
+   "id": "russia-ukraine-talks-abu-dhabi",
+   "title": "וויטקוף: שיחות בין רוסיה לאוקראינה יתקיימו בשבוע הבא באבו דאבי",
+   "summary": "לפי ynet וישראל היום, שליח ארה\"ב וויטקוף הודיע כי בתיווך אמריקני יתקיימו בשבוע הבא באבו דאבי שיחות בין רוסיה לאוקראינה במטרה לסיים את המלחמה.",
+   "why": "מהלך דיפלומטי שעשוי להשפיע על הסדר העולמי ועל שווקי האנרגיה.",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "world"
+   ],
+   "kind": "negotiation",
+   "entities": [
+    "רוסיה",
+    "אוקראינה",
+    "וויטקוף"
+   ],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/r1pt85l6ze",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/world-news/article/21764395",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "firstSeen": "2026-11-03",
+   "sourceCount": 2
+  }
+ ],
+ "unverified": [
+  {
+   "change": "",
+   "next": "",
+   "noise": [],
+   "lastUpdated": "2026-11-03",
+   "id": "iran-trump-assassination-claim",
+   "title": "על פי דיווח בישראל היום: בארה\"ב התגלה ניסיון איראני להתנקש בטראמפ",
+   "summary": "לפי ישראל היום, בארה\"ב התגלה כי איראן מנסה להתנקש בנשיא טראמפ והאבטחה סביבו תוגברה. הדיווח לא אושר במקור נוסף ופרטים לא פורסמו.",
+   "why": "אם יאומת, עלול להשפיע על המשא ומתן והעימות עם איראן.",
+   "status": "REPORTED",
+   "importance": 4,
+   "categories": [
+    "security",
+    "israel_world"
+   ],
+   "kind": "event",
+   "entities": [
+    "איראן",
+    "טראמפ"
+   ],
+   "sources": [
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21763010",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "firstSeen": "2026-11-03",
+   "sourceCount": 1
+  }
+ ],
+ "filtered_out": 135,
+ "note": "הסיכום מבוסס על כותרות ופידים בלבד; אתרי חלק מהכלים לא היו נגישים לאימות מעמיק."
+}

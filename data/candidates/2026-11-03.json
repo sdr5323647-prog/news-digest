@@ -4,36 +4,6 @@
   {
    "source": "Guardian",
    "outlet": "Guardian",
-   "title": "Israel has ‘historic’ opportunity to change direction, says leader of Arab coalition",
-   "url": "https://www.theguardian.com/world/2026/nov/02/israel-opposition-bloc-arab-coalition-knesset-yousef-jabareen",
-   "summary": "Yousef Jabareen says he is ready to join forces with opposition bloc to oust Benjamin Netanyahu after winning record number of seats in Knesset The leader of Israel’s main Palestinian coalition, which holds the balance of power after Tuesday’s elections, has said the country is facing a historic opp",
-   "time": "2026-11-02T06:00:32+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
-   "source": "Guardian",
-   "outlet": "Guardian",
-   "title": "Most Israelis think settlements policy should change to avoid more sanctions, poll finds",
-   "url": "https://www.theguardian.com/world/2026/nov/02/uk-trade-ban-west-bank-settlements-israel-election-poll",
-   "summary": "Survey finds UK government’s decision to impose trade ban was not a decisive factor in how Israelis voted in election The UK government’s decision to impose a ban on trade in goods from illegal settlements was not decisive in how Israelis voted in their general election , but a majority think the Is",
-   "time": "2026-11-02T06:00:33+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
-   "source": "BBC",
-   "outlet": "BBC",
-   "title": "Iran killed her teenage daughter - now she is facing up to the regime",
-   "url": "https://www.bbc.co.uk/news/articles/c3qjn8117kwjo?at_medium=RSS&at_campaign=rss",
-   "summary": "Samira's 16-year-old daughter Sevda was shot dead as they took part in mass protests in January.",
-   "time": "2026-11-02T06:00:54+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
-   "source": "Guardian",
-   "outlet": "Guardian",
    "title": "One in a Million review – deeply moving film about displacement, freedom and the upheaval of starting again",
    "url": "https://www.theguardian.com/film/2026/nov/02/one-in-a-million-review-itab-azzam-jack-macinnes",
    "summary": "Following a Syrian mother and daughter over a decade, Itab Azzam and Jack MacInnes capture a family transformed There’s a startling moment in this BBC refugee documentary when Syrian mother Nisreen – in the apparently miserable situation of hiking across the Balkans towards Germany, four kids in tow",
@@ -1882,7 +1852,7 @@
    "type": "reporting"
   }
  ],
- "updated": "2026-11-03T06:55:11.852196+00:00",
+ "updated": "2026-11-03T17:01:20.985960+00:00",
  "clusters": [
   {
    "id": "75e95e9e9e",
@@ -2668,78 +2638,6 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-11-03T05:15:50+00:00"
-    }
-   ]
-  },
-  {
-   "id": "451a04e84b",
-   "title": "Israel has ‘historic’ opportunity to change direction, says leader of Arab coalition",
-   "sourceCount": 1,
-   "outlets": [
-    "Guardian"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-11-02T06:00:32+00:00",
-   "lastSeen": "2026-11-02T06:00:32+00:00",
-   "articles": [
-    {
-     "source": "Guardian",
-     "title": "Israel has ‘historic’ opportunity to change direction, says leader of Arab coalition",
-     "url": "https://www.theguardian.com/world/2026/nov/02/israel-opposition-bloc-arab-coalition-knesset-yousef-jabareen",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-11-02T06:00:32+00:00"
-    }
-   ]
-  },
-  {
-   "id": "e8945d7d03",
-   "title": "Most Israelis think settlements policy should change to avoid more sanctions, poll finds",
-   "sourceCount": 1,
-   "outlets": [
-    "Guardian"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-11-02T06:00:33+00:00",
-   "lastSeen": "2026-11-02T06:00:33+00:00",
-   "articles": [
-    {
-     "source": "Guardian",
-     "title": "Most Israelis think settlements policy should change to avoid more sanctions, poll finds",
-     "url": "https://www.theguardian.com/world/2026/nov/02/uk-trade-ban-west-bank-settlements-israel-election-poll",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-11-02T06:00:33+00:00"
-    }
-   ]
-  },
-  {
-   "id": "f3f6c3d1fb",
-   "title": "Iran killed her teenage daughter - now she is facing up to the regime",
-   "sourceCount": 1,
-   "outlets": [
-    "BBC"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-11-02T06:00:54+00:00",
-   "lastSeen": "2026-11-02T06:00:54+00:00",
-   "articles": [
-    {
-     "source": "BBC",
-     "title": "Iran killed her teenage daughter - now she is facing up to the regime",
-     "url": "https://www.bbc.co.uk/news/articles/c3qjn8117kwjo?at_medium=RSS&at_campaign=rss",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-11-02T06:00:54+00:00"
     }
    ]
   },
@@ -5673,8 +5571,8 @@
   }
  ],
  "stats": {
-  "articles": 188,
-  "clusters": 143,
+  "articles": 185,
+  "clusters": 140,
   "multiSource": 9
  }
 }
