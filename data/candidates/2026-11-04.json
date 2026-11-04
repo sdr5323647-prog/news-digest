@@ -2,36 +2,6 @@
  "date": "2026-11-04",
  "articles": [
   {
-   "source": "NYT",
-   "outlet": "NYT",
-   "title": "Jury Selection Begins in First Death-Penalty Case at Guantánamo Bay",
-   "url": "https://www.nytimes.com/2026/11/02/us/politics/jury-selection-death-penalty-cole-bombing.html",
-   "summary": "A Saudi man is charged with the bombing of the U.S.S. Cole, which killed 17 American sailors in 2000.",
-   "time": "2026-11-02T18:22:32+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
-   "source": "NYT",
-   "outlet": "NYT",
-   "title": "Netanyahu and Eisenkot Seek Shot to Be Israel’s Premier",
-   "url": "https://www.nytimes.com/2026/11/02/world/middleeast/israel-election-prime-minister.html",
-   "summary": "Party leaders will make competing cases to the Israeli president for either Benjamin Netanyahu or Gadi Eisenkot to get the first chance to build a governing coalition.",
-   "time": "2026-11-02T20:30:58+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
-   "source": "NYT",
-   "outlet": "NYT",
-   "title": "Gulf Economies, Torn by War in Iran, Desperately Need a Return to Normal",
-   "url": "https://www.nytimes.com/2026/11/02/business/iran-war-gulf-economies.html",
-   "summary": "States like Saudi Arabia and the United Arab Emirates that have worked to rebalance from a dependence on energy have seen growth plunge in a year of strife.",
-   "time": "2026-11-02T23:12:15+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
    "source": "Guardian",
    "outlet": "Guardian",
    "title": "Sheikh Tahnoon: the most powerful man you’ve never heard of – podcast",
@@ -2172,6 +2142,16 @@
    "type": "reporting"
   },
   {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "שבועות לפני הבחירות בספרד: שר התחבורה מתפטר בעקבות האסון",
+   "url": "https://www.israelhayom.co.il/news/world-news/europe/article/21774633",
+   "summary": "אחרי התנגשות קטלנית שגבתה 69 קורבנות ולחץ ציבורי כבד, הודיע השר כי יעזוב את תפקידו • \"אי אפשר להמשיך אחרי שתי תאונות כאלו בפחות משנה\" • המהלך מנחית מכה פוליטית קשה על הממשלה, בעוד פרטי הכשלים במערך הבקרה נחשפים",
+   "time": "2026-11-03T23:18:37+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
    "source": "וואלה",
    "outlet": "וואלה",
    "title": "הבחירות לקונגרס: טראמפ יעקוב אחר התוצאות מהבית הלבן",
@@ -2192,6 +2172,26 @@
    "type": "reporting"
   },
   {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "\"נראה מה יקרה\": איראן סימנה 15 בסיסים מערביים באירופה",
+   "url": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21774646",
+   "summary": "\"המשהרי\", עיתון עיריית טהרן הציג מפת מטרות ברחבי היבשת תחת איום לפעולה \"ללא מגבלה גאוגרפית\" • ברקע: מעצר חוליית חבלה ליד מתקן צבאי בבריטניה ופינוי מפציצים אמריקניים • כעת נחשפים כתבי האישום שמקשרים ישירות בין טהרן לניסיון הפגיעה בבסיס",
+   "time": "2026-11-03T23:28:15+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "טראמפ: \"אין לארה\"ב תוכנית מיידית לתקוף באיראן\"",
+   "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21774665",
+   "summary": "בריאיון ל\"פייננשל טיימס\" הנשיא האמריקני ניסה להנמיך את החששות מהסלמה נוספת מול טהרן אחרי בחירות האמצע, אך הבהיר: \"אנחנו מוכנים ודרוכים, אבל ייתכן שאין לכך סיבה\" • במקביל טען כי המצור האמריקני פוגע בכלכלה האיראנית וכי זרימת הנפט דרך מצר הורמוז גדולה מזו שהייתה לפני המלחמה",
+   "time": "2026-11-03T23:43:43+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
    "source": "ynet",
    "outlet": "ynet",
    "title": "לפיד: \"ניסיון לרסק את הדמוקרטיה ולגנוב את הבחירות בסיוע שתולי השלטון במערכת הביטחון\"",
@@ -2200,6 +2200,36 @@
    "time": "2026-11-03T23:51:01+02:00",
    "tier": 2,
    "type": "reporting"
+  },
+  {
+   "source": "מעריב",
+   "outlet": "מעריב",
+   "title": "טראמפ: אין לארה\"ב תוכניות מיידיות לתקוף באיראן",
+   "url": "https://www.maariv.co.il/breaking-news/article-1384602",
+   "summary": "",
+   "time": "2026-11-03T23:58:11+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "וואלה",
+   "outlet": "וואלה",
+   "title": "מדגמי הבחירות בארה”ב: 62% מהמצביעים אינם מרוצים מטראמפ, רוב מתנגדים למלחמה באיראן",
+   "url": "https://www.walla.co.il/news/breaking-news/383960021",
+   "summary": "נתונים ראשוניים ממדגמי הבחירות בארצות הברית מצביעים הלילה (רביעי) על חוסר שביעות רצון נרחב מהנשיא דונלד טראמפ: לפי מדגם NBC, כ-62% מהמצביעים אינם מרוצים מתפקודו, לעומת 38% שמביעים תמיכה בו. לפי סקר המצביעים של סוכנות הידיעות AP, כשלושה רבעים מהמצביעים כועסים או אינם מרוצים מהכיוון שאליו צועדת ארצות ",
+   "time": "2026-11-04T00:04:30+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "מתברר שתמונת הממלכתיות הייתה פוטושופ",
+   "url": "https://www.israelhayom.co.il/opinions/article/21774681",
+   "summary": "תמונת האחדות של שומרי הסף החזיקה יומיים בלבד • מאחורי החיוכים התנהל ויכוח חריף על הפעלת כלי שב\"כ ומעקבים ללא ראיות • העקיצות הפכו להאשמות הדדיות, והפרטים שנחשפים מחדר הדיונים מבהירים עד כמה המשבר עמוק",
+   "time": "2026-11-04T00:12:46+00:00",
+   "tier": 2,
+   "type": "opinion"
   },
   {
    "source": "ynet",
@@ -2212,6 +2242,36 @@
    "type": "reporting"
   },
   {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "הסדרה שזכתה לתואר \"הגרועה בכל הזמנים\" חוזרת לעונה שנייה: מה חדש בטלוויזיה",
+   "url": "https://www.israelhayom.co.il/culture/tv/article/21769066",
+   "summary": "קים קרדשיאן, גלן קלוז ונעמי ווטס חוזרות לדרמה המשפטית המושמצת \"הכל הוגן\", הסדרה החדשה בנטפליקס מגוללת את סיפור חייו של אלוף העולם, הדרמה הקומית של אפל מתחדשת עם שחקנית אהובה, \"SWAT: כוח חדש\" מחזירה את שמאר מור לתפקיד הונדו, ועוד תכנים שעולים היום (רביעי) בטלוויזיה בישראל",
+   "time": "2026-11-04T01:00:00+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "וואלה",
+   "outlet": "וואלה",
+   "title": "ג'ורג'יה: הסנאטור היהודי ג'ון אוסוף זכה בכהונה שנייה",
+   "url": "https://www.walla.co.il/news/breaking-news/383960023",
+   "summary": "הסנאטור הדמוקרטי ג'ון אוסוף, היהודי הראשון שנבחר לייצג את מדינת ג'ורג'יה בסנאט האמריקני, צפוי להמשיך לכהונה שנייה, כך לפי תחזיות הבחירות שהכריזו הלילה (רביעי) על ניצחונו. אוסוף, שנבחר לראשונה בשנת 2021, גבר על יריבו הרפובליקני מייק קולינס. שמו של אוסוף הוזכר כאחד המועמדים האפשריים של המפלגה הדמוקרטי",
+   "time": "2026-11-04T01:01:00+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Scepticism as Trump says he’s ending Israel’s $3.8 bn military aid deal",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/scepticism-as-trump-says-hes-ending-israels-3-8-bn-military-aid-deal?traffic_source=rss",
+   "summary": "US President Donald Trump says he plans to stop the annual $3.8bn military aid package to Israel by the end of the year.",
+   "time": "2026-11-04T01:13:49+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
    "source": "ynet",
    "outlet": "ynet",
    "title": "נסגרו חלק מהקלפיות בבחירות האמצע בארה\"ב - החלה ספירת הקולות",
@@ -2220,10 +2280,1187 @@
    "time": "2026-11-04T01:14:58+02:00",
    "tier": 2,
    "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "סוף לפרשת הצפרדעים: התביעה בארה\"ב נסוגה",
+   "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21774744",
+   "summary": "התביעה בארה\"ב הודיעה על ביטול האישומים נגד קסניה פטרובה, מדענית ילידת רוסיה שהואשמה בהברחת עוברי צפרדעים • ההחלטה התקבלה לאחר ששופט אישר לה להוכיח כי ממשל טראמפ רדף אותה אישית • הסיבה שהובילה לסגירת התיק",
+   "time": "2026-11-04T01:31:25+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Democrat Roy Cooper flips North Carolina US Senate seat",
+   "url": "https://www.aljazeera.com/news/2026/11/4/democrat-roy-cooper-flips-north-carolina-us-senate-seat?traffic_source=rss",
+   "summary": "Roy Cooper beat out Republican Michael Whatley.",
+   "time": "2026-11-04T01:36:33+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Kazakhstan releases second tiger into the wild",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/kazakhstan-releases-second-tiger-into-the-wild?traffic_source=rss",
+   "summary": "Kazakhstan has released a second Siberian tiger, this time a male named Amur, into a nature reserve.",
+   "time": "2026-11-04T01:39:46+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "איתות למערב? צפון קוריאה שיגרה טיל לעבר החוף המזרחי",
+   "url": "https://www.israelhayom.co.il/news/world-news/other/article/21774775",
+   "summary": "משרד ההגנה בסיאול עדכן כי פיונגיאנג שיגרה עצם בלתי מזוהה לעבר הים מול חופה המזרחי • המהלך מתבצע על רקע הדאגה מהרחבת מתקני העשרת האורניום והבטחת קים ג'ונג און להעצים את כוחותיו • כיצד ישפיע השיגור על מאזן הכוחות באזור",
+   "time": "2026-11-04T01:47:58+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "וואלה",
+   "outlet": "וואלה",
+   "title": "חשד לאירוע דקירה באור עקיבא: שני גברים נפצעו קשה ובינוני",
+   "url": "https://www.walla.co.il/news/breaking-news/383960025",
+   "summary": "שני גברים, בני 28 וכ-30, נפצעו הלילה (רביעי) באורח קשה ובינוני מדקירות ברחוב הר שלמה באור עקיבא. צוותי מד\"א העניקו להם טיפול רפואי ופינו אותם לבית החולים הלל יפה בחדרה כשהם סובלים מפציעות חודרות. מצבו של הפצוע קשה הוגדר יציב. המשטרה פתחה בחקירת האירוע ואספה ממצאים בזירה. על פי החשד, הרקע לאירוע פליל",
+   "time": "2026-11-04T01:56:07+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "האזנות סתר בארמון: ראש הסגל של נשיא אינדונזיה נעצר",
+   "url": "https://www.israelhayom.co.il/news/world-news/other/article/21774786",
+   "summary": "ראש הסגל של הנשיא פראבוו סוביאנטו ושני קציני משטרה בכירים מואשמים כי צותתו שלא כחוק לשיחות טלפון של הנשיא, פוליטיקאים, אנשי עסקים ועיתונאים • החשודים ניסו למחוק את הרישומים כדי להעלים ראיות • המעצרים מגיעים על רקע צניחה בסקרים ומשבר כלכלי",
+   "time": "2026-11-04T01:58:12+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Ballot shortages reported in Dearborn, Michigan",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/ballot-shortages-reported-in-dearborn-michigan?traffic_source=rss",
+   "summary": "Reports of ballot shortages at several Dearborn polling stations have raised concerns over voter access",
+   "time": "2026-11-04T02:09:42+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Keisha Lance Bottoms makes history as first Black woman elected US governor",
+   "url": "https://www.aljazeera.com/news/2026/11/4/keisha-lance-bottoms-makes-us-history-as-first-black-woman-elected-governor?traffic_source=rss",
+   "summary": "Bottoms, a former adviser to former President Joe Biden, beat Republican Rick Jackson to win the Georgia governor&#039;s race",
+   "time": "2026-11-04T02:25:51+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Seven flights across Europe targeted by suspected bomb threats",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/seven-flights-across-europe-targeted-by-suspected-bomb-threats?traffic_source=rss",
+   "summary": "Seven flights across Europe were targeted by suspected bomb threats.",
+   "time": "2026-11-04T02:36:18+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "וואלה",
+   "outlet": "וואלה",
+   "title": "רוכב אופנוע כבן 20 נפצע קשה בירושלים",
+   "url": "https://www.walla.co.il/news/breaking-news/383960024",
+   "summary": "רוכב אופנוע נפצע לפני זמן קצר (רביעי) קשה, לאחר שרכב ברחוב גולדה מאיר בירושלים. צוותי הרפואה של מד\"א העניקו לפצוע טיפול רפואי ראשוני במקום, שלאחריו פונה לבית החולים שערי צדק, כשהוא בהכרה וסובל מחבלה רב מערכתית.",
+   "time": "2026-11-04T02:37:00+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "תכינו את המטריות: סערה חורפית מתקרבת - ויש חשש להצפות",
+   "url": "https://www.israelhayom.co.il/weather/article/21774828",
+   "summary": "הטמפרטורות הנוחות יתחלפו בקרוב במערכת חורפית משמעותית שתכה באזורנו • לפי נתוני השירות המטאורולוגי כמויות המים החריגות יורגשו בעיקר במישור החוף ובשפלה • מתי בדיוק תחל הסערה, אילו אזורים נמצאים במוקד הסיכון ואיזה לילה יהיה הקר ביותר השבוע",
+   "time": "2026-11-04T02:37:01+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "EU urges action as Germany, Romania and UK report supermarket cyberattacks",
+   "url": "https://www.aljazeera.com/news/2026/11/4/eu-urges-action-as-germany-romania-and-uk-report-supermarket-cyberattacks?traffic_source=rss",
+   "summary": "EU says supermarket hacks in at least 11 countries are &#039;not isolated&#039;, but a Romanian official suspects no state actor.",
+   "time": "2026-11-04T03:16:37+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Democrat Roy Cooper celebrates flipping North Carolina Senate seat",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/democrat-roy-cooper-celebrates-flipping-north-carolina-senate-seat?traffic_source=rss",
+   "summary": "Former North Carolina Governor Roy Cooper celebrated his Senate victory in Raleigh",
+   "time": "2026-11-04T03:21:05+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Ossoff wins reelection in Georgia holding Senate seat for Democrats",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/ossoff-wins-reelection-in-georgia-holding-senate-seat-for-democrats?traffic_source=rss",
+   "summary": "Jon Ossoff has been reelected to the Senate in Georgia holding on to a key seat for the Democrats.",
+   "time": "2026-11-04T03:25:17+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "וואלה",
+   "outlet": "וואלה",
+   "title": "כוחות צה\"ל פועלים בג'נין למעצר חשודים בטרור",
+   "url": "https://www.walla.co.il/news/breaking-news/383960026",
+   "summary": "כוחות צה\"ל פועלים בשעות האחרונות (רביעי) בשכונות רבות בעיר ג'נין שבצפון השומרון, במטרה לעצור חשודים במעורבות בפעילות טרור ולאתר אמצעי לחימה.",
+   "time": "2026-11-04T03:29:18+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Democrat Annie Andrews flips South Carolina’s Senate seat",
+   "url": "https://www.aljazeera.com/news/2026/11/4/democrat-annie-andrews-flips-south-carolinas-senate-seat?traffic_source=rss",
+   "summary": "Andrews beats Republican incumbent Darline Graham, sister of the late Senator Lindsey Graham, in a major upset.",
+   "time": "2026-11-04T03:39:58+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Nervous Republicans await results at Paxton’s Texas election party",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/nervous-republicans-await-results-at-paxtons-texas-election-party-2?traffic_source=rss",
+   "summary": "Texas Republicans are anxiously waiting to see if the state’s attorney general can hold off his Democrat challenger.",
+   "time": "2026-11-04T03:56:21+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "מחקר מדאיג: ליקויים מסכני חיים נחשפו בבתי הספר",
+   "url": "https://www.israelhayom.co.il/news/education/article/21773857",
+   "summary": "מחקר חדש של מרכז טאוב חושף כי ב-27% מבתי הספר שנבדקו נמצאה זמינות חסרה או חלקית של מזרקי אפיפן לטיפול בהתקפי אלרגיה חמורים • מספר התלמידים שהוריהם מדווחים על רגישות למזון יותר מהוכפל בתוך ארבע שנים • פערים משמעותיים בין רשויות, לצד סימני שאלה באשר ליעילות האיסורים הגורפים ומודל הסייעות הרפואיות",
+   "time": "2026-11-04T03:57:00+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "בארה\"ב ובישראל - הסוקרים הפכו לשחקנים במגרש הפוליטי",
+   "url": "https://www.israelhayom.co.il/news/politics/article/21773452",
+   "summary": "העיניים הישראליות המודאגות מוכרחות להביט גם פנימה. סקרים שפוגעים בהגינות הבחירות אינם נראים • אם המצב לא ישתנה, אנחנו עשויים לגלות שאנחנו, הבוחרים, לא באמת השחקנים. אנחנו הז'יטונים",
+   "time": "2026-11-04T03:59:00+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "טראמפ: \"הפסדנו בגללל המלחמה באיראן - אעבוד עם הדמוקרטים\"",
+   "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21774903",
+   "summary": "ניצחונות דרמטיים לדמוקרטים בבחירות האמצע, גם במדינות שנחשבו למעוזים רפובליקניים: המפלגה הפכה מושבים בסנאט בצפון קרוליינה ובדרום קרוליינה, וזכתה גם במרוץ למושלות ג'ורג'יה • לפי דיווח ב\"וול סטריט ג'ורנל\", גורמים בסביבת הנשיא מטילים את האחריות למפלה על המלחמה באיראן ועל הזינוק במחירי האנרגיה • טראמפ עצ",
+   "time": "2026-11-04T03:59:05+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "מאזן האימה יישבר? הנשק האיראני עלול להיות שובר שוויון",
+   "url": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21774708",
+   "summary": "דיווח אמריקני חושף כי ישראל העבירה לארה\"ב מידע על כוונת איראן לפתח נשק כימי שובר שוויון • בבית הלבן לוקחים את האיום ברצינות, אך גורמים בממשל מזכירים את התקדים בעיראק • בזמן שפרויקט הגרעין יורד מתחת לאדמה, מאזן ההרתעה במזרח התיכון עשוי להשתנות",
+   "time": "2026-11-04T04:00:00+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Talarico wins Senate race, ending decades of Republican dominance in Texas",
+   "url": "https://www.aljazeera.com/news/2026/11/4/talarico-wins-texas-senate-race-ending-decades-of-republican-dominance?traffic_source=rss",
+   "summary": "Democrats celebrate Talarico&#039;s and Hinojosa&#039;s victories, redefining Texas politics after decades of Republican reign.",
+   "time": "2026-11-04T04:03:41+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "מעריב",
+   "outlet": "מעריב",
+   "title": "אירוע דקירות באור עקיבא: בן 28 נפצע קשה, גבר נוסף נפצע בינוני",
+   "url": "https://www.maariv.co.il/breaking-news/article-1384604",
+   "summary": "",
+   "time": "2026-11-04T04:08:37+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "השיל 90 קילו: \"עדיין מנסה להתרגל לפנים שלי\"",
+   "url": "https://www.israelhayom.co.il/forreal/global/article/21774896",
+   "summary": "ג'ון גודמן, כוכב \"רוזאן\" ו\"ביג לבובסקי\", מדבר בגיל 74 על ההסתגלות לגופו אחרי הירידה הדרמטית במשקל, וחושף מדוע נרתע מסצנת עירום. וגם: מה טום קרוז זכר ממסיבה אצל ברוס וויליס לפני יותר מ-30 שנה?",
+   "time": "2026-11-04T04:11:46+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Sherrod Brown, an Ohio Democrat, wins return to US Senate",
+   "url": "https://www.aljazeera.com/news/2026/11/4/sherrod-brown-an-ohio-democrat-wins-return-to-us-senate?traffic_source=rss",
+   "summary": "More than $500m was spent on the contest, making it one of the most expensive Senate races in US history.",
+   "time": "2026-11-04T04:19:14+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "מעריב",
+   "outlet": "מעריב",
+   "title": "בחירות האמצע בארה\"ב: טראמפ מבהיר - \"נעבוד עם הדמוקרטים\"",
+   "url": "https://www.maariv.co.il/breaking-news/article-1384605",
+   "summary": "",
+   "time": "2026-11-04T04:21:43+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "בארה\"ב חוזים: הדמוקרטים ישלימו את המהפך בבית הנבחרים",
+   "url": "https://www.ynet.co.il/news/article/hyabwfotml",
+   "summary": "",
+   "time": "2026-11-04T04:22:02+02:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Democrat Amy Acton beats Republican Vivek Ramaswamy in Ohio governor’s race",
+   "url": "https://www.aljazeera.com/news/2026/11/4/democrat-amy-acton-beats-republican-vivek-ramaswamy-in-ohio-governors-race?traffic_source=rss",
+   "summary": "Acton is the first Democrat to become governor of Ohio since 2006.",
+   "time": "2026-11-04T04:25:54+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "ג'ורג'יה: קיישה לאנס בוטומס נבחרה למושלת השחורה הראשונה בארה\"ב",
+   "url": "https://www.ynet.co.il/news/article/bjwiwf00aml",
+   "summary": "",
+   "time": "2026-11-04T04:29:10+02:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "וואלה",
+   "outlet": "וואלה",
+   "title": "ירידה בטמפרטורות - לקראת סוף שבוע גשום | התחזית",
+   "url": "https://www.walla.co.il/news/breaking-news/383960027",
+   "summary": "לתחזית המלאה לחצו כאן",
+   "time": "2026-11-04T04:34:07+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Democratic Party wins US Senate in 2026 midterm elections",
+   "url": "https://www.aljazeera.com/news/2026/11/4/democratic-party-flips-us-senate-in-2026-midterm-elections?traffic_source=rss",
+   "summary": "The outcome is widely seen as a rebuke to Trump&#039;s Republican Party, which won control of the chamber in 2024.",
+   "time": "2026-11-04T04:37:05+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Kansas elects first Democratic senator in almost a century",
+   "url": "https://www.aljazeera.com/news/2026/11/4/kansas-elects-democrat-adam-hamilton?traffic_source=rss",
+   "summary": "Adam Hamilton beat Republican Roger Marshall in a highly competitive race.",
+   "time": "2026-11-04T04:37:12+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Iran says US reply to Hormuz plan ‘unconvincing’; Trump confirms strikes",
+   "url": "https://www.aljazeera.com/news/2026/11/4/iran-says-us-reply-to-hormuz-plan-unconvincing-trump-confirms-strikes?traffic_source=rss",
+   "summary": "Indirect talks continue as Trump says US military struck an Iranian anti-aircraft facility on Tuesday.",
+   "time": "2026-11-04T04:39:31+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "אחרי הלידה הקשה: היילי ביבר מדברת על ההפרעה",
+   "url": "https://www.israelhayom.co.il/forreal/global/article/21774963",
+   "summary": "שנתיים אחרי לידת בנה ג'ק, הדוגמנית ואשת העסקים חוזרת לדבר על ההפרעה שאובחנה אצלה חודשים לאחר הלידה. אחרי שכבר סיפרה על הדימום המסוכן שחוותה בחדר הלידה, היא מסבירה למה מותג הטיפוח שלה התחייב לתרום חמישה מיליון דולר למחקר בריאות נשים",
+   "time": "2026-11-04T04:44:54+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "מעריב",
+   "outlet": "מעריב",
+   "title": "שריפה פרצה במרכזית חוף הכרמל בחיפה: אזרחים פונו מהמקום",
+   "url": "https://www.maariv.co.il/breaking-news/article-1384615",
+   "summary": "",
+   "time": "2026-11-04T04:46:01+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Trump and Republicans trampled in the midterms",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/trump-and-republicans-trampled-in-the-midterms?traffic_source=rss",
+   "summary": "Al Jazeera’s Alan Fisher says Republicans are facing a worse-than-expected midterm performance.",
+   "time": "2026-11-04T04:47:55+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "BAZAAR Gallery גלריית בזאר – אירועים אינטימיים בלב יפו, עם מלון צמוד",
+   "url": "https://www.israelhayom.co.il/mumlazim/article/21775020",
+   "summary": "",
+   "time": "2026-11-04T04:48:07+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "מגוגל ועד ChatGPT: כך SO Digital מקדמת עסקים במנועי החיפוש ו- AI",
+   "url": "https://www.israelhayom.co.il/mumlazim/article/21775014",
+   "summary": "מנועי בינה מלאכותית כמו ChatGPT, Gemini ו-Perplexity משנים את האופן שבו אנשים מחפשים מידע, בוחנים מוצרים ומקבלים המלצות על עסקים. במקום להסתפק ברשימת אתרים, המשתמשים יכולים לקבל תשובות מפורטות הכוללות הסברים, שמות של חברות וקישורים למקורות מידע",
+   "time": "2026-11-04T04:49:33+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "הדמוקרטים עם 99 מושבים בבית הנבחרים, נציגה אנטי-ישראלית נבחרה בקולורדו",
+   "url": "https://www.ynet.co.il/news/article/b1gyngutmg",
+   "summary": "",
+   "time": "2026-11-04T04:51:27+02:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Democrat Josh Turek flips Iowa Senate seat",
+   "url": "https://www.aljazeera.com/news/2026/11/4/democrat-josh-turek-flips-iowa-senate-seat?traffic_source=rss",
+   "summary": "Turek beat Republican Ashley Hinson, a US House member.",
+   "time": "2026-11-04T04:55:10+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "ניו יורק טיימס חוזה: 95% שהדמוקרטים ישלטו בשני בתי הקונגרס",
+   "url": "https://www.ynet.co.il/news/article/bku6tzd6gx",
+   "summary": "",
+   "time": "2026-11-04T04:55:42+02:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "בלי מקרר ובלי חשמל: השיטות העתיקות לאחסון מזון",
+   "url": "https://www.israelhayom.co.il/food/recommendations/article/21758896",
+   "summary": "הרבה לפני שהמקרר הפך למכשיר חיוני בכל בית, קהילות בניגריה פיתחו ושימרו מסורות של ייבוש, עישון, המלחה ותסיסה • איך השיטות האלה עובדות, אילו מהן אפשר לאמץ במטבח הישראלי ומה חשוב לדעת כדי לא לסכן את הבריאות",
+   "time": "2026-11-04T05:01:00+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "לא עוד פסטה בצלחת: המתכון שהילדים יעופו עליו",
+   "url": "https://www.israelhayom.co.il/food/recipes/article/21770807",
+   "summary": "פסטה, רוטב עגבניות וגבינה מגוררת הופכים לארוחת ערב שנראית כמו פיצה על מקל • במקום להגיש את הפנה בצלחת, משחילים אותה על שיפודים ומכניסים לתנור לכמה דקות • רק לא לשכוח להוציא את השיפודים לפני שמגישים לקטנטנים",
+   "time": "2026-11-04T05:05:00+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "הדמוקרטים מובילים בפער גדול בבית הנבחרים, טראמפ: \"ננצח בגדול\"",
+   "url": "https://www.ynet.co.il/news/article/hjgi1mupzg",
+   "summary": "",
+   "time": "2026-11-04T05:06:41+02:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Keisha Lance Bottoms becomes Georgia’s first black governor",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/keisha-lance-bottoms-becomes-georgias-first-black-governor?traffic_source=rss",
+   "summary": "Democrat Keisha Lance Bottoms has been elected Governor-elect of Georgia becoming the state&#039;s first black governor",
+   "time": "2026-11-04T05:07:00+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "לראשונה מ-1998: הדמוקרטים ניצחו בקרב על הסנאט בדרום קרוליינה",
+   "url": "https://www.ynet.co.il/news/article/syggxqoafx",
+   "summary": "",
+   "time": "2026-11-04T05:08:27+02:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "מעריב",
+   "outlet": "מעריב",
+   "title": "גבר נפצע באירוע אלימות בכביש 805 - מצבו בינוני עם פציעה חודרת",
+   "url": "https://www.maariv.co.il/breaking-news/article-1384618",
+   "summary": "",
+   "time": "2026-11-04T05:08:29+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "N Korea fires multiple missiles, denies US claims on Binance hack",
+   "url": "https://www.aljazeera.com/news/2026/11/4/n-korea-fires-multiple-missiles-denies-us-claims-on-binance-hack?traffic_source=rss",
+   "summary": "Kim Yo Jong refuses dialogue with US after denying responsibility for theft of more than $6bn in crypto assets.",
+   "time": "2026-11-04T05:11:00+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "בארה\"ב חוזים: הדמוקרטים הבטיחו רוב בבית הנבחרים",
+   "url": "https://www.ynet.co.il/news/article/h1u3wmo6ml",
+   "summary": "",
+   "time": "2026-11-04T05:13:50+02:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Democrats dominate NYC races, Hochul re-elected New York governor",
+   "url": "https://www.aljazeera.com/economy/2026/11/4/democrats-dominate-nyc-races-hochul-re-elected-new-york-governor?traffic_source=rss",
+   "summary": "Brad Lander, Darializa Avila Chevalier and Claire Valdez sweep their congressional races in key Democratic districts.",
+   "time": "2026-11-04T05:27:30+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "מעריב",
+   "outlet": "מעריב",
+   "title": "הפוך על הפוך: ההכרזה של טראמפ על עצירת הסיוע - יכולה להרחיב את הסכמי אברהם",
+   "url": "https://www.maariv.co.il/breaking-news/article-1384624",
+   "summary": "",
+   "time": "2026-11-04T05:27:49+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "העובדים השאירו את הדלת פתוחה — ואז נכנס לחנות אורח בלתי צפוי",
+   "url": "https://www.israelhayom.co.il/news/trending-online/article/21775001",
+   "summary": "תנין קטן חדר בשבוע שעבר לחנות בצפון קרוליינה, וגרם להיסטריה בקרב העובדים • מצלמות האבטחה תיעדו את הזוחל נכנס דרך הדלת האחורית ומגיע עד לדלפק הקדמי • בעל המקום, שהיה עסוק בהתקנת תנור חדש, זינק בבהלה למראה התנין והזעיק את כוחות החירום",
+   "time": "2026-11-04T05:28:18+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "טראמפ טלטל את המערכת: האם ישראל ערוכה ליום שאחרי ההסכם הביטחוני?",
+   "url": "https://www.israelhayom.co.il/news/geopolitics/article/21775081",
+   "summary": "הודעתו של הנשיא דונלד טראמפ כי הסיוע הביטחוני האמריקני בסך 4 מיליארד דולר בשנה ייפסק בתום 2026 מעוררת דאגה במערכת הביטחון, אך מוצאת את התעשיות המקומיות בשיא גאות חסר תקדים • עם ייצוא ביטחוני שהגיע ל-19.2 מיליארד דולר ועסקאות ענק בהודו, יוון ואירופה - ישראל מסוגלת להישען על ייצור מקומי בתחומים חיוניי",
+   "time": "2026-11-04T05:29:32+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "ליגת העל נערכת למלחמה: הקבוצות חוששות מתרחיש דרמטי",
+   "url": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21775024",
+   "summary": "מרחבים מוגנים באצטדיונים, משחקים ללא קהל ומאמץ נרחב למנוע עזיבה של השחקנים הזרים • בצל האיום האיראני המתחדש, במנהלת הליגות פועלים בכל הגזרות כדי למנוע את עצירת הליגה",
+   "time": "2026-11-04T05:30:13+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "וואלה",
+   "outlet": "וואלה",
+   "title": "ועדת הבחירות המרכזית: כל טענות הסיעות נבדקו - אין פגיעה בטוהר המידות",
+   "url": "https://www.walla.co.il/news/breaking-news/383960029",
+   "summary": "ועדת הבחירות המרכזית הודיעה היום (רביעי) כי הסתיים מבצע הבקרה. הוועדה הכריזה כי כל פניות הסיעות נבדקו; לא נמצאו ממצאים המצביעים על פגיעה בטוהר הבחירות.",
+   "time": "2026-11-04T05:35:33+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "הוועדה הודיעה: \"אין ממצאים על פגיעה בטוהר הבחירות או שינוי התוצאות\"",
+   "url": "https://www.israelhayom.co.il/news/law/article/21775208",
+   "summary": "ועדת הבחירות המרכזית מפרסמת את סיכום מבצע הבקרה המקיף על תוצאות הבחירות לכנסת ה-26, שבמסגרתו נבדקו 9,069 קלפיות, המהוות כ-75% מכלל הקלפיות הרגילות • בדיקת הוועדה, שנמשכה שישה ימים בהשתתפות כ-250 עורכי דין מהשירות הציבורי, העלתה כי לא נמצאו חריגות או ממצאים המצביעים על פגיעה בטוהר הבחירות או על שינוי",
+   "time": "2026-11-04T05:37:48+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "מעריב",
+   "outlet": "מעריב",
+   "title": "ועדת הבחירות המרכזית: כל הטענות נבדקו - לא נמצאו ממצאים המצביעים על פגיעה בטוהר הבחירות",
+   "url": "https://www.maariv.co.il/breaking-news/article-1384626",
+   "summary": "",
+   "time": "2026-11-04T05:37:59+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "ראש העיר שנבחרה בוושינגטון התחייבה: \"לא אשתתף באירועים המקדמים ציונות\"",
+   "url": "https://www.ynet.co.il/news/article/s1wuuqopme",
+   "summary": "",
+   "time": "2026-11-04T05:44:20+02:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "מסתמן: מקורבו של טראמפ ראמאסוואמי הפסיד במרוץ למושלות באוהיו",
+   "url": "https://www.ynet.co.il/news/article/syxxtq00pfg",
+   "summary": "",
+   "time": "2026-11-04T05:45:36+02:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "3 בריכות וחדרי כושר: במזרח ירושלים נפתח מרכז ספורט חדש",
+   "url": "https://www.israelhayom.co.il/news/municipal/article/21775130",
+   "summary": "מרכז ספורט בית חנינא נחנך היום במזרח ירושלים בהשקעה של כ-20 מיליון דולר • המתחם, המשתרע על פני כ-5,000 מ\"ר, כולל לראשונה במזרח העיר בריכת שחייה ציבורית מקורה, לצד בריכות לפעוטות וללימוד שחייה, חדרי כושר וסטודיו • המרכז תוכנן יחד עם תושבי השכונה וצפוי לייצר עשרות מקומות עבודה חדשים באזור",
+   "time": "2026-11-04T05:46:25+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Photos: Champions League and Tenerife fans pay tribute to De Miguel",
+   "url": "https://www.aljazeera.com/gallery/2026/11/4/photos-champions-league-and-tenerife-fans-pay-tribute-to-de-miguel?traffic_source=rss",
+   "summary": "CD Tenerife forward Jesus de Miguel died after suffering cardiac arrest following an on-field collision.",
+   "time": "2026-11-04T05:49:43+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "טראמפ מגיב לתבוסה המסתמנת: \"אם שמי היה על הפתק, הינו מנצחים בגדול!\"",
+   "url": "https://www.ynet.co.il/news/article/h1ztcmdpzx",
+   "summary": "",
+   "time": "2026-11-04T05:51:53+02:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "בפעם השנייה בחצי שנה: מאפיית אבולעפיה בת\"א נסגרה עקב העסקת שב\"חים",
+   "url": "https://www.israelhayom.co.il/news/local/article/21775279",
+   "summary": "מפקד מחוז תל אביב, חתם על צו סגירה מנהלי ל-30 ימים למאפייה ברחוב השלושה בעיר • בפשיטה של שוטרי תחנת תל אביב דרום ופקחי רשות ההגירה אותרו במקום שלושה תושבי שטחים בשנות ה-20 עד ה-40 לחייהם שהועסקו ללא אישורים • מדובר בפעם השנייה בתוך פחות מחצי שנה שבה נסגר העסק, לאחר שבחודש יוני הוצא נגדו צו דומה בנסי",
+   "time": "2026-11-04T05:56:53+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "מעריב",
+   "outlet": "מעריב",
+   "title": "המאפיה המוכרת בתל אביב נסגרה בפעם השנייה בשל העסקת שב\"חים",
+   "url": "https://www.maariv.co.il/breaking-news/article-1384630",
+   "summary": "",
+   "time": "2026-11-04T05:58:25+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "וואלה",
+   "outlet": "וואלה",
+   "title": "יו\"ר הפרלמנט האיראני: \"האמריקנים אמרו לא למלחמה\"",
+   "url": "https://www.walla.co.il/news/breaking-news/383960032",
+   "summary": "יו\"ר הפרלמנט האיראני, מוחמד באקר קאליבאף, התייחס היום (רביעי) לראשונה לתוצאות בחירות האמצע בארצות הברית ולהפסד הרפובליקנים. \"העם האמריקני אמר לא למלחמה, ואנחנו תומכים במסר הזה\", אמר קאליבאף.",
+   "time": "2026-11-04T06:00:23+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "מהפך היסטורי בטקסס: מועמד דמוקרטי ניצח בבחירות לסנאט לראשונה מ-1988",
+   "url": "https://www.ynet.co.il/news/article/bkzfqm00age",
+   "summary": "",
+   "time": "2026-11-04T06:01:50+02:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "משמעות התבוסה של טראמפ: חקירות, \"מר וטו\" ומה זה אומר עבור ישראל",
+   "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21775085",
+   "summary": "הדמוקרטים זכו בשני בתי הקונגרס, ומינואר יוכלו לחסום חקיקה, לעכב מינויים בכירים ולפתוח בחקירות נגד הממשל • \"תשכרו עורכי דין\", הזהיר מי שצפוי לעמוד בראש ועדת הפיקוח, ומזכיר המלחמה הגסת' כבר מאוים בהדחה • במפלגה הרפובליקנית מתחילים להתנער מהנשיא, ובירושלים יצטרכו להתמודד עם קונגרס ביקורתי יותר",
+   "time": "2026-11-04T06:03:20+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "טראמפ: \"אני לגמרי מוכן לקבל את תוצאות הבחירות\"",
+   "url": "https://www.ynet.co.il/news/article/h1mqaqd6fe",
+   "summary": "",
+   "time": "2026-11-04T06:04:44+02:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "משמרות המהפכה: 4 מכליות עלו על מוקשים ונשרפו בהורמוז, עוד 2 נתפסו",
+   "url": "https://www.ynet.co.il/news/article/rkmq9700tfx",
+   "summary": "",
+   "time": "2026-11-04T06:09:16+02:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "בניו מקסיקו נבחרה מושלת ילידית ראשונה בתולדות ארה\"ב",
+   "url": "https://www.ynet.co.il/news/article/b1omkvutfe",
+   "summary": "",
+   "time": "2026-11-04T06:11:07+02:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "Lula’s victory is a stress test for the Global South",
+   "url": "https://www.aljazeera.com/opinions/2026/11/4/lulas-victory-is-a-stress-test-for-the-global-south?traffic_source=rss",
+   "summary": "Trump can still punish Brazil for pursuing an independent course. Can China offer lasting alternatives to US dominance?",
+   "time": "2026-11-04T06:12:59+00:00",
+   "tier": 2,
+   "type": "opinion"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "טוב לעולם - רע לישראל: ההשפעה של בחירות האמצע על הכלכלה",
+   "url": "https://www.israelhayom.co.il/business/article/21775354",
+   "summary": "החשש מריסון הבית הלבן מחד אל מול הפיכתו של הנשיא האמריקני לבלתי צפוי מאידך מייצרים תנודתיות בשווקים, כאשר הדולר רושם התחזקות קלה טרם כניסת הבנקים למסחר • בישראל מתרכזים הכלכלנים בשילוב שבין המשבר הפוליטי המקומי, המתיחות הביטחונית והגזירות הכלכליות הצפויות בשל ביטול הסיוע, העשוי לחייב את הממשלה הבאה ",
+   "time": "2026-11-04T06:14:37+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "וואלה",
+   "outlet": "וואלה",
+   "title": "משרד הביטחון: פיצוצים מבוקרים יישמעו ברמת הגולן",
+   "url": "https://www.walla.co.il/news/breaking-news/383960033",
+   "summary": "הרשות לפינוי מוקשים ונפלים במשרד הביטחון תבצע היום (רביעי) ומחר פעולות לפינוי מוקשים ונפלים באזור עין זיוון שברמת הגולן, בין השעות 10:00 ל־11:00. ממשרד הביטחון נמסר כי במהלך הפעילות צפויים להישמע קולות נפץ ולהיראות ענני עשן באזור.",
+   "time": "2026-11-04T06:16:11+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "ג'ינה הינוחוסה נבחרה להיות מושלת טקסס הראשונה ממוצא לטיני",
+   "url": "https://www.ynet.co.il/news/article/s1vb114oafx",
+   "summary": "",
+   "time": "2026-11-04T06:16:15+02:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "עומר אדם בליווי צמוד: הרגע שהתרחש לפני ההופעה",
+   "url": "https://www.israelhayom.co.il/culture/internet-culture/article/21775342",
+   "summary": "בזמן שאלפי מעריצים מחכים לו באולמות הענק בארה״ב, שתי הנשים הקרובות ביותר לזמר נמצאות לצדו לאורך הדרך • רגע אחד שתועד לפני העלייה לבמה חשף צד אחר של המסע",
+   "time": "2026-11-04T06:16:57+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "בראון גבר על יוסטד באוהיו - ועוד מושב רפובליקני עובר לדמוקרטים בסנאט",
+   "url": "https://www.ynet.co.il/news/article/hjlbg4u6fx",
+   "summary": "",
+   "time": "2026-11-04T06:18:59+02:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "מעריב",
+   "outlet": "מעריב",
+   "title": "קולות נפץ וענני עשן: מבצע מיוחד של הרשות לפינוי מוקשים ברמת הגולן",
+   "url": "https://www.maariv.co.il/breaking-news/article-1384633",
+   "summary": "",
+   "time": "2026-11-04T06:20:01+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "המרוץ לסנאט: הדמוקרטים ניצחו גם בקנזס - מעוז רפובליקני",
+   "url": "https://www.ynet.co.il/news/article/rktbg4oaml",
+   "summary": "",
+   "time": "2026-11-04T06:21:51+02:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "Al Jazeera",
+   "outlet": "Al Jazeera",
+   "title": "House Democratic leader Hakeem Jeffries hails midterm victory",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/house-democratic-leader-hakeem-jeffries-hails-midterm-victory?traffic_source=rss",
+   "summary": "Top US Democratic politician Hakeem Jeffries has called the midterm results the start of a ‘great American comeback’.",
+   "time": "2026-11-04T06:26:19+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "וואלה",
+   "outlet": "וואלה",
+   "title": "עוצמה יהודית תצביע נגד אישור תוצאות הבחירות",
+   "url": "https://www.walla.co.il/news/breaking-news/383960035",
+   "summary": "מפלגת עוצמה יהודית מתכוונת להצביע היום (רביעי) נגד אישור תוצאות הבחירות. גורמים במפלגה אמרו לוואלה כי אנשי ועדת הבחירות ניסו לשכנע אותם להימנע מהצבעה נגד, מחשש לפגיעה באמון הציבור בתוצאות. \"אנחנו הולכים להצביע נגד. זה אירוע גדול, כמעט היסטורי, וצריך צעדים משמעותיים\", אמרו. לטענתם, קיימת הטיה בבחירות",
+   "time": "2026-11-04T06:26:37+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "כשזה יתחיל, נדע: כך החדשות מאבדות את אמון הציבור עם ספקולציות על מלחמה",
+   "url": "https://www.israelhayom.co.il/culture/tv/article/21775360",
+   "summary": "בימים שלפני מלחמות, כולם מדברים בביטחון • אבל כשהמציאות אינה ידועה, הספקולציות דווקא מרחיקות את הצופים מהמסך",
+   "time": "2026-11-04T06:27:38+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "בארה\"ב מדווחים: הדמוקרטים השיגו שליטה גם בסנאט",
+   "url": "https://www.ynet.co.il/news/article/rkiemnd6fg",
+   "summary": "",
+   "time": "2026-11-04T06:28:38+02:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ישראל היום",
+   "outlet": "ישראל היום",
+   "title": "תחת אבטחה כבדה: אלפי שלוחי חב\"ד יגיעו לכינוס השנתי",
+   "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21775420",
+   "summary": "אלפי שלוחי חב\"ד מכל רחבי העולם, הפועלים בנקודות קצה מגוונות החל מיישובים ישראליים ועד לקהילות נידחות בבלארוס, בקרואטיה ובברזיל, מתכנסים בניו יורק לכינוס השנתי תחת מעטפת אבטחה הדוקה • המפגש השנתי מתמקד השנה בדיונים סביב מגמות חברתיות עכשוויות ובראשן התפתחויות הבינה המלאכותית, לצד סדנאות חינוכיות, מוד",
+   "time": "2026-11-04T06:28:39+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "הדמוקרטים הפכו מושב רפובליקני גם באייווה: ג'וש טורק גבר על אשלי הינסון",
+   "url": "https://www.ynet.co.il/news/article/bkhrvn00ame",
+   "summary": "",
+   "time": "2026-11-04T06:32:21+02:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "מעריב",
+   "outlet": "מעריב",
+   "title": "עמית הלוי מהליכוד התפטר מוועדת הבחירות המרכזית: \"לא אצביע נגד צו מצפוני\"",
+   "url": "https://www.maariv.co.il/breaking-news/article-1384636",
+   "summary": "",
+   "time": "2026-11-04T06:32:40+00:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "ניו יורק: מייק לולר הרפובליקני, תומך בולט של ישראל, הפסיד בבחירות לבית הנבחרים",
+   "url": "https://www.ynet.co.il/news/article/b1s2nn00tze",
+   "summary": "",
+   "time": "2026-11-04T06:36:30+02:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "הלילה: שריפה פרצה בתחנה מרכזית חוף הכרמל שבחיפה, אין נפגעים",
+   "url": "https://www.ynet.co.il/news/article/hycdhe00azl",
+   "summary": "",
+   "time": "2026-11-04T06:45:37+02:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "טראמפ: \"מברך את הדמוקרטים על הניצחון בבחירות האמצע\"",
+   "url": "https://www.ynet.co.il/news/article/sjgcw4utmx",
+   "summary": "",
+   "time": "2026-11-04T06:47:22+02:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "טראמפ על המפלה: \"זה בגלל איראן, אטיל וטו על החלטות משוגעות של הדמוקרטים\"",
+   "url": "https://www.ynet.co.il/news/article/hjjhd4006ze",
+   "summary": "",
+   "time": "2026-11-04T07:13:38+02:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "53 מושבים דמוקרטיים בסנאט: טרוי ג'קסון הביס את סוזן קולינס, שבתפקיד מ-1997",
+   "url": "https://www.ynet.co.il/news/article/hklsjsdtzx",
+   "summary": "",
+   "time": "2026-11-04T07:23:35+02:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "הוועדה הודיעה רשמית: מבצע הבקרה הסתיים, אין ממצאים על פגיעה בטוהר הבחירות",
+   "url": "https://www.ynet.co.il/news/article/Hk7lVrOazl",
+   "summary": "",
+   "time": "2026-11-04T07:34:35+02:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "חברות הקונגרס הדמוקרטיות אילהאן עומאר ורשידה טליב נבחרו לכהונה נוספת",
+   "url": "https://www.ynet.co.il/news/article/syo5nbu6ge",
+   "summary": "",
+   "time": "2026-11-04T07:39:24+02:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "באיראן לועגים לטראמפ: \"האמריקנים אמרו לא למלחמה\"",
+   "url": "https://www.ynet.co.il/news/article/hypimhu6fg",
+   "summary": "",
+   "time": "2026-11-04T07:47:17+02:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "מנכ\"ל חברת סטיקרים רפובליקני מניו יורק ניצח במרוץ לכיסא בבית הנבחרים",
+   "url": "https://www.ynet.co.il/news/article/hkwa5bupmx",
+   "summary": "",
+   "time": "2026-11-04T08:06:46+02:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "יוני ממו נבחר לראשות המועצה האזורית שדות נגב",
+   "url": "https://www.ynet.co.il/news/article/bjc9ns00tze",
+   "summary": "",
+   "time": "2026-11-04T08:14:16+02:00",
+   "tier": 2,
+   "type": "reporting"
+  },
+  {
+   "source": "ynet",
+   "outlet": "ynet",
+   "title": "בארה\"ב חוזים: הדמוקרט האנטי-ישראלי אל-סייד ניצח במרוץ לסנאט במישיגן",
+   "url": "https://www.ynet.co.il/news/article/bjrkahoagl",
+   "summary": "",
+   "time": "2026-11-04T08:24:06+02:00",
+   "tier": 2,
+   "type": "reporting"
   }
  ],
- "updated": "2026-11-03T23:27:14.011494+00:00",
+ "updated": "2026-11-04T06:33:18.311805+00:00",
  "clusters": [
+  {
+   "id": "7356e4c4db",
+   "title": "עמית הלוי מהליכוד התפטר מוועדת הבחירות המרכזית: \"לא אצביע נגד צו מצפוני\"",
+   "sourceCount": 4,
+   "outlets": [
+    "ynet",
+    "וואלה",
+    "ישראל היום",
+    "מעריב"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 10,
+   "opinionOnly": false,
+   "firstSeen": "2026-11-03T18:24:21+00:00",
+   "lastSeen": "2026-11-04T07:34:35+02:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "\"משבר חוקתי של ממש\": סולברג פועל מול הליכוד לאישור תוצאות הבחירות",
+     "url": "https://www.israelhayom.co.il/news/politics/article/21773151",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-03T18:24:21+00:00"
+    },
+    {
+     "source": "מעריב",
+     "title": "ועדת הבחירות מבהירה: \"אין שום סמכות לערער על התוצאות\"",
+     "url": "https://www.maariv.co.il/breaking-news/article-1384572",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-03T19:49:57+00:00"
+    },
+    {
+     "source": "ישראל היום",
+     "title": "\"אין לאף אחד סמכות שלא לפרסם את תוצאות הבחירות\"",
+     "url": "https://www.israelhayom.co.il/news/politics/article/21774054",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-03T20:44:45+00:00"
+    },
+    {
+     "source": "ynet",
+     "title": "סולברג: \"תוצאות הבחירות יפורסמו מחר. לאף אחד אין סמכות לא לפרסם אותן\"",
+     "url": "https://www.ynet.co.il/news/article/h1wy9pp6fe",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-03T22:59:34+02:00"
+    },
+    {
+     "source": "וואלה",
+     "title": "ועדת הבחירות המרכזית: כל טענות הסיעות נבדקו - אין פגיעה בטוהר המידות",
+     "url": "https://www.walla.co.il/news/breaking-news/383960029",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-04T05:35:33+00:00"
+    },
+    {
+     "source": "ישראל היום",
+     "title": "הוועדה הודיעה: \"אין ממצאים על פגיעה בטוהר הבחירות או שינוי התוצאות\"",
+     "url": "https://www.israelhayom.co.il/news/law/article/21775208",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-04T05:37:48+00:00"
+    },
+    {
+     "source": "מעריב",
+     "title": "ועדת הבחירות המרכזית: כל הטענות נבדקו - לא נמצאו ממצאים המצביעים על פגיעה בטוהר הבחירות",
+     "url": "https://www.maariv.co.il/breaking-news/article-1384626",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-04T05:37:59+00:00"
+    },
+    {
+     "source": "וואלה",
+     "title": "עוצמה יהודית תצביע נגד אישור תוצאות הבחירות",
+     "url": "https://www.walla.co.il/news/breaking-news/383960035",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-04T06:26:37+00:00"
+    },
+    {
+     "source": "מעריב",
+     "title": "עמית הלוי מהליכוד התפטר מוועדת הבחירות המרכזית: \"לא אצביע נגד צו מצפוני\"",
+     "url": "https://www.maariv.co.il/breaking-news/article-1384636",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-04T06:32:40+00:00"
+    },
+    {
+     "source": "ynet",
+     "title": "הוועדה הודיעה רשמית: מבצע הבקרה הסתיים, אין ממצאים על פגיעה בטוהר הבחירות",
+     "url": "https://www.ynet.co.il/news/article/Hk7lVrOazl",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-04T07:34:35+02:00"
+    }
+   ]
+  },
+  {
+   "id": "54eddc94a3",
+   "title": "בחירות האמצע: גואם בחרה ראשונה, טראמפ נערך לערב קשה | עדכונים שוטפים",
+   "sourceCount": 4,
+   "outlets": [
+    "ynet",
+    "וואלה",
+    "ישראל היום",
+    "מעריב"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 6,
+   "opinionOnly": false,
+   "firstSeen": "2026-11-03T12:05:07+00:00",
+   "lastSeen": "2026-11-04T06:47:22+02:00",
+   "articles": [
+    {
+     "source": "וואלה",
+     "title": "בחירות האמצע בארה\"ב: הקלפיות נפתחות בשורת מדינות",
+     "url": "https://www.walla.co.il/news/breaking-news/383959956",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-03T12:05:07+00:00"
+    },
+    {
+     "source": "ישראל היום",
+     "title": "בחירות האמצע: גואם בחרה ראשונה, טראמפ נערך לערב קשה | עדכונים שוטפים",
+     "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21774186",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-03T21:02:42+00:00"
+    },
+    {
+     "source": "מעריב",
+     "title": "בחירות האמצע בארה\"ב: הקלפיות הראשונות נסגרו בחלקים מאינדיאנה וקנטקי",
+     "url": "https://www.maariv.co.il/breaking-news/article-1384600",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-03T23:12:20+00:00"
+    },
+    {
+     "source": "ynet",
+     "title": "נסגרו חלק מהקלפיות בבחירות האמצע בארה\"ב - החלה ספירת הקולות",
+     "url": "https://www.ynet.co.il/news/article/hybbccwazl",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-04T01:14:58+02:00"
+    },
+    {
+     "source": "מעריב",
+     "title": "בחירות האמצע בארה\"ב: טראמפ מבהיר - \"נעבוד עם הדמוקרטים\"",
+     "url": "https://www.maariv.co.il/breaking-news/article-1384605",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-04T04:21:43+00:00"
+    },
+    {
+     "source": "ynet",
+     "title": "טראמפ: \"מברך את הדמוקרטים על הניצחון בבחירות האמצע\"",
+     "url": "https://www.ynet.co.il/news/article/sjgcw4utmx",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-04T06:47:22+02:00"
+    }
+   ]
+  },
+  {
+   "id": "6cf46aaa37",
+   "title": "קולות נפץ וענני עשן: מבצע מיוחד של הרשות לפינוי מוקשים ברמת הגולן",
+   "sourceCount": 4,
+   "outlets": [
+    "ynet",
+    "וואלה",
+    "ישראל היום",
+    "מעריב"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 4,
+   "opinionOnly": false,
+   "firstSeen": "2026-11-03T17:57:43+00:00",
+   "lastSeen": "2026-11-04T08:14:16+02:00",
+   "articles": [
+    {
+     "source": "וואלה",
+     "title": "מועצה אזורית גולן: מחר יבוצעו עבודות לפינוי שדות מוקשים",
+     "url": "https://www.walla.co.il/news/breaking-news/383960000",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-03T17:57:43+00:00"
+    },
+    {
+     "source": "ישראל היום",
+     "title": "בתום קרב צמוד: יוני ממו נבחר לראש מועצת שדות נגב",
+     "url": "https://www.israelhayom.co.il/news/local/article/21774576",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-03T22:14:28+00:00"
+    },
+    {
+     "source": "מעריב",
+     "title": "קולות נפץ וענני עשן: מבצע מיוחד של הרשות לפינוי מוקשים ברמת הגולן",
+     "url": "https://www.maariv.co.il/breaking-news/article-1384633",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-04T06:20:01+00:00"
+    },
+    {
+     "source": "ynet",
+     "title": "יוני ממו נבחר לראשות המועצה האזורית שדות נגב",
+     "url": "https://www.ynet.co.il/news/article/bjc9ns00tze",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-04T08:14:16+02:00"
+    }
+   ]
+  },
   {
    "id": "7062a3beba",
    "title": "US midterm election results live: Polls start closing in some states",
@@ -2235,10 +3472,10 @@
    ],
    "bestTier": 2,
    "hasOfficial": false,
-   "reportingCount": 6,
+   "reportingCount": 13,
    "opinionOnly": false,
    "firstSeen": "2026-11-03T11:33:33+00:00",
-   "lastSeen": "2026-11-03T23:03:42+00:00",
+   "lastSeen": "2026-11-04T04:55:10+00:00",
    "articles": [
     {
      "source": "BBC",
@@ -2287,6 +3524,38 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-11-03T23:03:42+00:00"
+    },
+    {
+     "source": "Al Jazeera",
+     "title": "Democrat Roy Cooper flips North Carolina US Senate seat",
+     "url": "https://www.aljazeera.com/news/2026/11/4/democrat-roy-cooper-flips-north-carolina-us-senate-seat?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-04T01:36:33+00:00"
+    },
+    {
+     "source": "Al Jazeera",
+     "title": "Democrat Roy Cooper celebrates flipping North Carolina Senate seat",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/democrat-roy-cooper-celebrates-flipping-north-carolina-senate-seat?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-04T03:21:05+00:00"
+    },
+    {
+     "source": "Al Jazeera",
+     "title": "Democrat Annie Andrews flips South Carolina’s Senate seat",
+     "url": "https://www.aljazeera.com/news/2026/11/4/democrat-annie-andrews-flips-south-carolinas-senate-seat?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-04T03:39:58+00:00"
+    },
+    {
+     "source": "Al Jazeera",
+     "title": "Sherrod Brown, an Ohio Democrat, wins return to US Senate",
+     "url": "https://www.aljazeera.com/news/2026/11/4/sherrod-brown-an-ohio-democrat-wins-return-to-us-senate?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-04T04:19:14+00:00"
     }
    ]
   },
@@ -2415,52 +3684,60 @@
    ]
   },
   {
-   "id": "7356e4c4db",
-   "title": "סולברג: \"תוצאות הבחירות יפורסמו מחר. לאף אחד אין סמכות לא לפרסם אותן\"",
+   "id": "cd73f605d5",
+   "title": "מדגמי הבחירות בארה”ב: 62% מהמצביעים אינם מרוצים מטראמפ, רוב מתנגדים למלחמה באיראן",
    "sourceCount": 3,
    "outlets": [
     "ynet",
-    "ישראל היום",
-    "מעריב"
+    "וואלה",
+    "ישראל היום"
    ],
    "bestTier": 2,
    "hasOfficial": false,
-   "reportingCount": 4,
+   "reportingCount": 5,
    "opinionOnly": false,
-   "firstSeen": "2026-11-03T18:24:21+00:00",
-   "lastSeen": "2026-11-03T22:59:34+02:00",
+   "firstSeen": "2026-11-04T00:04:30+00:00",
+   "lastSeen": "2026-11-04T07:47:17+02:00",
    "articles": [
     {
-     "source": "ישראל היום",
-     "title": "\"משבר חוקתי של ממש\": סולברג פועל מול הליכוד לאישור תוצאות הבחירות",
-     "url": "https://www.israelhayom.co.il/news/politics/article/21773151",
+     "source": "וואלה",
+     "title": "מדגמי הבחירות בארה”ב: 62% מהמצביעים אינם מרוצים מטראמפ, רוב מתנגדים למלחמה באיראן",
+     "url": "https://www.walla.co.il/news/breaking-news/383960021",
      "tier": 2,
      "type": "reporting",
-     "time": "2026-11-03T18:24:21+00:00"
-    },
-    {
-     "source": "מעריב",
-     "title": "ועדת הבחירות מבהירה: \"אין שום סמכות לערער על התוצאות\"",
-     "url": "https://www.maariv.co.il/breaking-news/article-1384572",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-11-03T19:49:57+00:00"
+     "time": "2026-11-04T00:04:30+00:00"
     },
     {
      "source": "ישראל היום",
-     "title": "\"אין לאף אחד סמכות שלא לפרסם את תוצאות הבחירות\"",
-     "url": "https://www.israelhayom.co.il/news/politics/article/21774054",
+     "title": "טראמפ: \"הפסדנו בגללל המלחמה באיראן - אעבוד עם הדמוקרטים\"",
+     "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21774903",
      "tier": 2,
      "type": "reporting",
-     "time": "2026-11-03T20:44:45+00:00"
+     "time": "2026-11-04T03:59:05+00:00"
+    },
+    {
+     "source": "וואלה",
+     "title": "יו\"ר הפרלמנט האיראני: \"האמריקנים אמרו לא למלחמה\"",
+     "url": "https://www.walla.co.il/news/breaking-news/383960032",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-04T06:00:23+00:00"
     },
     {
      "source": "ynet",
-     "title": "סולברג: \"תוצאות הבחירות יפורסמו מחר. לאף אחד אין סמכות לא לפרסם אותן\"",
-     "url": "https://www.ynet.co.il/news/article/h1wy9pp6fe",
+     "title": "טראמפ על המפלה: \"זה בגלל איראן, אטיל וטו על החלטות משוגעות של הדמוקרטים\"",
+     "url": "https://www.ynet.co.il/news/article/hjjhd4006ze",
      "tier": 2,
      "type": "reporting",
-     "time": "2026-11-03T22:59:34+02:00"
+     "time": "2026-11-04T07:13:38+02:00"
+    },
+    {
+     "source": "ynet",
+     "title": "באיראן לועגים לטראמפ: \"האמריקנים אמרו לא למלחמה\"",
+     "url": "https://www.ynet.co.il/news/article/hypimhu6fg",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-04T07:47:17+02:00"
     }
    ]
   },
@@ -2515,44 +3792,44 @@
    ]
   },
   {
-   "id": "54eddc94a3",
-   "title": "בחירות האמצע בארה\"ב: הקלפיות הראשונות נסגרו בחלקים מאינדיאנה וקנטקי",
+   "id": "fb781a800a",
+   "title": "Scepticism as Trump says he’s ending Israel’s $3.8 bn military aid deal",
    "sourceCount": 3,
    "outlets": [
-    "ynet",
-    "וואלה",
-    "מעריב"
+    "Al Jazeera",
+    "BBC",
+    "Guardian"
    ],
    "bestTier": 2,
    "hasOfficial": false,
    "reportingCount": 3,
    "opinionOnly": false,
-   "firstSeen": "2026-11-03T12:05:07+00:00",
-   "lastSeen": "2026-11-04T01:14:58+02:00",
+   "firstSeen": "2026-11-03T15:09:51+00:00",
+   "lastSeen": "2026-11-04T01:13:49+00:00",
    "articles": [
     {
-     "source": "וואלה",
-     "title": "בחירות האמצע בארה\"ב: הקלפיות נפתחות בשורת מדינות",
-     "url": "https://www.walla.co.il/news/breaking-news/383959956",
+     "source": "BBC",
+     "title": "Trump says US 'won't be paying Israel' by end of year",
+     "url": "https://www.bbc.co.uk/news/articles/cmx2dlx86n9yo?at_medium=RSS&at_campaign=rss",
      "tier": 2,
      "type": "reporting",
-     "time": "2026-11-03T12:05:07+00:00"
+     "time": "2026-11-03T15:09:51+00:00"
     },
     {
-     "source": "מעריב",
-     "title": "בחירות האמצע בארה\"ב: הקלפיות הראשונות נסגרו בחלקים מאינדיאנה וקנטקי",
-     "url": "https://www.maariv.co.il/breaking-news/article-1384600",
+     "source": "Guardian",
+     "title": "Trump claims US will end military aid to Israel by end of this year",
+     "url": "https://www.theguardian.com/us-news/2026/nov/03/donald-trump-usa-end-military-aid-to-israel-end-year-midterms",
      "tier": 2,
      "type": "reporting",
-     "time": "2026-11-03T23:12:20+00:00"
+     "time": "2026-11-03T17:17:11+00:00"
     },
     {
-     "source": "ynet",
-     "title": "נסגרו חלק מהקלפיות בבחירות האמצע בארה\"ב - החלה ספירת הקולות",
-     "url": "https://www.ynet.co.il/news/article/hybbccwazl",
+     "source": "Al Jazeera",
+     "title": "Scepticism as Trump says he’s ending Israel’s $3.8 bn military aid deal",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/scepticism-as-trump-says-hes-ending-israels-3-8-bn-military-aid-deal?traffic_source=rss",
      "tier": 2,
      "type": "reporting",
-     "time": "2026-11-04T01:14:58+02:00"
+     "time": "2026-11-04T01:13:49+00:00"
     }
    ]
   },
@@ -2656,51 +3933,59 @@
    ]
   },
   {
-   "id": "94f4352940",
-   "title": "As Trump’s Midterm Deadline Looms, Gulf Countries Brace for Possible Renewal of Iran War",
+   "id": "6c4633a506",
+   "title": "ניו יורק טיימס: ישראל הודיעה לארה\"ב שאיראן מתכוונת להשתמש בנשק כימי נגד יריבותיה",
    "sourceCount": 2,
    "outlets": [
-    "Guardian",
-    "NYT"
+    "ynet",
+    "ישראל היום"
    ],
    "bestTier": 2,
    "hasOfficial": false,
-   "reportingCount": 4,
+   "reportingCount": 5,
    "opinionOnly": false,
-   "firstSeen": "2026-11-02T23:12:15+00:00",
-   "lastSeen": "2026-11-03T21:30:27+00:00",
+   "firstSeen": "2026-11-03T18:07:22+00:00",
+   "lastSeen": "2026-11-04T08:06:46+02:00",
    "articles": [
     {
-     "source": "NYT",
-     "title": "Gulf Economies, Torn by War in Iran, Desperately Need a Return to Normal",
-     "url": "https://www.nytimes.com/2026/11/02/business/iran-war-gulf-economies.html",
+     "source": "ישראל היום",
+     "title": "דיווח: ישראל הזהירה את ארה\"ב כי איראן עשויה להשתמש בנשק כימי",
+     "url": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21773123",
      "tier": 2,
      "type": "reporting",
-     "time": "2026-11-02T23:12:15+00:00"
+     "time": "2026-11-03T18:07:22+00:00"
     },
     {
-     "source": "Guardian",
-     "title": "Will Trump relaunch his war on Iran after the midterm elections? | Mohamad Bazzi",
-     "url": "https://www.theguardian.com/commentisfree/2026/nov/03/trump-iran-war-after-midterm-elections",
+     "source": "ynet",
+     "title": "ניו יורק טיימס: ישראל הודיעה לארה\"ב שאיראן מתכוונת להשתמש בנשק כימי נגד יריבותיה",
+     "url": "https://www.ynet.co.il/news/article/SJucMovafx",
      "tier": 2,
      "type": "reporting",
-     "time": "2026-11-03T10:00:47+00:00"
+     "time": "2026-11-03T20:06:07+02:00"
     },
     {
-     "source": "NYT",
-     "title": "As Trump’s Midterm Deadline Looms, Gulf Countries Brace for Possible Renewal of Iran War",
-     "url": "https://www.nytimes.com/2026/11/03/world/middleeast/trump-iran-war-midterms-election.html",
+     "source": "ynet",
+     "title": "ניו יורק טיימס חוזה: 95% שהדמוקרטים ישלטו בשני בתי הקונגרס",
+     "url": "https://www.ynet.co.il/news/article/bku6tzd6gx",
      "tier": 2,
      "type": "reporting",
-     "time": "2026-11-03T10:47:18+00:00"
+     "time": "2026-11-04T04:55:42+02:00"
     },
     {
-     "source": "NYT",
-     "title": "Why Trump Often Mentioned Iran in the Midterm Campaign",
-     "url": "https://www.nytimes.com/2026/11/03/world/middleeast/trump-iran-war-election-strategy.html",
+     "source": "ynet",
+     "title": "ניו יורק: מייק לולר הרפובליקני, תומך בולט של ישראל, הפסיד בבחירות לבית הנבחרים",
+     "url": "https://www.ynet.co.il/news/article/b1s2nn00tze",
      "tier": 2,
      "type": "reporting",
-     "time": "2026-11-03T21:30:27+00:00"
+     "time": "2026-11-04T06:36:30+02:00"
+    },
+    {
+     "source": "ynet",
+     "title": "מנכ\"ל חברת סטיקרים רפובליקני מניו יורק ניצח במרוץ לכיסא בבית הנבחרים",
+     "url": "https://www.ynet.co.il/news/article/hkwa5bupmx",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-04T08:06:46+02:00"
     }
    ]
   },
@@ -2803,6 +4088,47 @@
    ]
   },
   {
+   "id": "56c27df9ea",
+   "title": "As Trump’s Midterm Deadline Looms, Gulf Countries Brace for Possible Renewal of Iran War",
+   "sourceCount": 2,
+   "outlets": [
+    "Guardian",
+    "NYT"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 3,
+   "opinionOnly": false,
+   "firstSeen": "2026-11-03T10:00:47+00:00",
+   "lastSeen": "2026-11-03T21:30:27+00:00",
+   "articles": [
+    {
+     "source": "Guardian",
+     "title": "Will Trump relaunch his war on Iran after the midterm elections? | Mohamad Bazzi",
+     "url": "https://www.theguardian.com/commentisfree/2026/nov/03/trump-iran-war-after-midterm-elections",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-03T10:00:47+00:00"
+    },
+    {
+     "source": "NYT",
+     "title": "As Trump’s Midterm Deadline Looms, Gulf Countries Brace for Possible Renewal of Iran War",
+     "url": "https://www.nytimes.com/2026/11/03/world/middleeast/trump-iran-war-midterms-election.html",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-03T10:47:18+00:00"
+    },
+    {
+     "source": "NYT",
+     "title": "Why Trump Often Mentioned Iran in the Midterm Campaign",
+     "url": "https://www.nytimes.com/2026/11/03/world/middleeast/trump-iran-war-election-strategy.html",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-03T21:30:27+00:00"
+    }
+   ]
+  },
+  {
    "id": "c61c283569",
    "title": "יעל שלביה ולאנס סטרול או מישל גרציג וטיבו קורטואה: מי שווים יותר?",
    "sourceCount": 2,
@@ -2844,35 +4170,68 @@
    ]
   },
   {
-   "id": "fb781a800a",
-   "title": "Trump claims US will end military aid to Israel by end of this year",
+   "id": "59ed90845b",
+   "title": "הסנאטור מג'ורג'יה שיהפוך לנשיא היהודי הראשון? המבחן של ג'ון אוסוף",
    "sourceCount": 2,
    "outlets": [
-    "BBC",
-    "Guardian"
+    "וואלה",
+    "ישראל היום"
    ],
    "bestTier": 2,
    "hasOfficial": false,
    "reportingCount": 2,
    "opinionOnly": false,
-   "firstSeen": "2026-11-03T15:09:51+00:00",
-   "lastSeen": "2026-11-03T17:17:11+00:00",
+   "firstSeen": "2026-11-03T15:16:15+00:00",
+   "lastSeen": "2026-11-04T01:01:00+00:00",
    "articles": [
     {
-     "source": "BBC",
-     "title": "Trump says US 'won't be paying Israel' by end of year",
-     "url": "https://www.bbc.co.uk/news/articles/cmx2dlx86n9yo?at_medium=RSS&at_campaign=rss",
+     "source": "ישראל היום",
+     "title": "הסנאטור מג'ורג'יה שיהפוך לנשיא היהודי הראשון? המבחן של ג'ון אוסוף",
+     "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21771242",
      "tier": 2,
      "type": "reporting",
-     "time": "2026-11-03T15:09:51+00:00"
+     "time": "2026-11-03T15:16:15+00:00"
     },
     {
-     "source": "Guardian",
-     "title": "Trump claims US will end military aid to Israel by end of this year",
-     "url": "https://www.theguardian.com/us-news/2026/nov/03/donald-trump-usa-end-military-aid-to-israel-end-year-midterms",
+     "source": "וואלה",
+     "title": "ג'ורג'יה: הסנאטור היהודי ג'ון אוסוף זכה בכהונה שנייה",
+     "url": "https://www.walla.co.il/news/breaking-news/383960023",
      "tier": 2,
      "type": "reporting",
-     "time": "2026-11-03T17:17:11+00:00"
+     "time": "2026-11-04T01:01:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "f37084befc",
+   "title": "לקראת סוף שבוע חורפי: צפויים לרדת עשרות מ\"מ של גשם - וחשש להצפות",
+   "sourceCount": 2,
+   "outlets": [
+    "וואלה",
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 2,
+   "opinionOnly": false,
+   "firstSeen": "2026-11-03T16:12:19+00:00",
+   "lastSeen": "2026-11-04T04:34:07+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "לקראת סוף שבוע חורפי: צפויים לרדת עשרות מ\"מ של גשם - וחשש להצפות",
+     "url": "https://www.israelhayom.co.il/weather/article/21771793",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-03T16:12:19+00:00"
+    },
+    {
+     "source": "וואלה",
+     "title": "ירידה בטמפרטורות - לקראת סוף שבוע גשום | התחזית",
+     "url": "https://www.walla.co.il/news/breaking-news/383960027",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-04T04:34:07+00:00"
     }
    ]
   },
@@ -2972,39 +4331,6 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-11-03T17:47:21+00:00"
-    }
-   ]
-  },
-  {
-   "id": "6c4633a506",
-   "title": "ניו יורק טיימס: ישראל הודיעה לארה\"ב שאיראן מתכוונת להשתמש בנשק כימי נגד יריבותיה",
-   "sourceCount": 2,
-   "outlets": [
-    "ynet",
-    "ישראל היום"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 2,
-   "opinionOnly": false,
-   "firstSeen": "2026-11-03T18:07:22+00:00",
-   "lastSeen": "2026-11-03T20:06:07+02:00",
-   "articles": [
-    {
-     "source": "ישראל היום",
-     "title": "דיווח: ישראל הזהירה את ארה\"ב כי איראן עשויה להשתמש בנשק כימי",
-     "url": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21773123",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-11-03T18:07:22+00:00"
-    },
-    {
-     "source": "ynet",
-     "title": "ניו יורק טיימס: ישראל הודיעה לארה\"ב שאיראן מתכוונת להשתמש בנשק כימי נגד יריבותיה",
-     "url": "https://www.ynet.co.il/news/article/SJucMovafx",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-11-03T20:06:07+02:00"
     }
    ]
   },
@@ -3141,6 +4467,204 @@
    ]
   },
   {
+   "id": "36ed679a64",
+   "title": "מהפך היסטורי בטקסס: מועמד דמוקרטי ניצח בבחירות לסנאט לראשונה מ-1988",
+   "sourceCount": 2,
+   "outlets": [
+    "ynet",
+    "מעריב"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 2,
+   "opinionOnly": false,
+   "firstSeen": "2026-11-03T22:29:36+00:00",
+   "lastSeen": "2026-11-04T06:01:50+02:00",
+   "articles": [
+    {
+     "source": "מעריב",
+     "title": "הבחירות בשדות נגב: המועמד של בן גביר ניצח את המועמד של נתניהו",
+     "url": "https://www.maariv.co.il/breaking-news/article-1384598",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-03T22:29:36+00:00"
+    },
+    {
+     "source": "ynet",
+     "title": "מהפך היסטורי בטקסס: מועמד דמוקרטי ניצח בבחירות לסנאט לראשונה מ-1988",
+     "url": "https://www.ynet.co.il/news/article/bkzfqm00age",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-04T06:01:50+02:00"
+    }
+   ]
+  },
+  {
+   "id": "6e0483f601",
+   "title": "הבחירות לקונגרס: טראמפ יעקוב אחר התוצאות מהבית הלבן",
+   "sourceCount": 2,
+   "outlets": [
+    "ynet",
+    "וואלה"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 2,
+   "opinionOnly": false,
+   "firstSeen": "2026-11-03T23:20:56+00:00",
+   "lastSeen": "2026-11-04T06:04:44+02:00",
+   "articles": [
+    {
+     "source": "וואלה",
+     "title": "הבחירות לקונגרס: טראמפ יעקוב אחר התוצאות מהבית הלבן",
+     "url": "https://www.walla.co.il/news/breaking-news/383960018",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-03T23:20:56+00:00"
+    },
+    {
+     "source": "ynet",
+     "title": "טראמפ: \"אני לגמרי מוכן לקבל את תוצאות הבחירות\"",
+     "url": "https://www.ynet.co.il/news/article/h1mqaqd6fe",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-04T06:04:44+02:00"
+    }
+   ]
+  },
+  {
+   "id": "f102411579",
+   "title": "טראמפ: \"אין לארה\"ב תוכנית מיידית לתקוף באיראן\"",
+   "sourceCount": 2,
+   "outlets": [
+    "ישראל היום",
+    "מעריב"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 2,
+   "opinionOnly": false,
+   "firstSeen": "2026-11-03T23:43:43+00:00",
+   "lastSeen": "2026-11-03T23:58:11+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "טראמפ: \"אין לארה\"ב תוכנית מיידית לתקוף באיראן\"",
+     "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21774665",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-03T23:43:43+00:00"
+    },
+    {
+     "source": "מעריב",
+     "title": "טראמפ: אין לארה\"ב תוכניות מיידיות לתקוף באיראן",
+     "url": "https://www.maariv.co.il/breaking-news/article-1384602",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-03T23:58:11+00:00"
+    }
+   ]
+  },
+  {
+   "id": "51c3819c87",
+   "title": "חשד לאירוע דקירה באור עקיבא: שני גברים נפצעו קשה ובינוני",
+   "sourceCount": 2,
+   "outlets": [
+    "וואלה",
+    "מעריב"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 2,
+   "opinionOnly": false,
+   "firstSeen": "2026-11-04T01:56:07+00:00",
+   "lastSeen": "2026-11-04T04:08:37+00:00",
+   "articles": [
+    {
+     "source": "וואלה",
+     "title": "חשד לאירוע דקירה באור עקיבא: שני גברים נפצעו קשה ובינוני",
+     "url": "https://www.walla.co.il/news/breaking-news/383960025",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-04T01:56:07+00:00"
+    },
+    {
+     "source": "מעריב",
+     "title": "אירוע דקירות באור עקיבא: בן 28 נפצע קשה, גבר נוסף נפצע בינוני",
+     "url": "https://www.maariv.co.il/breaking-news/article-1384604",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-04T04:08:37+00:00"
+    }
+   ]
+  },
+  {
+   "id": "70cea79080",
+   "title": "שריפה פרצה במרכזית חוף הכרמל בחיפה: אזרחים פונו מהמקום",
+   "sourceCount": 2,
+   "outlets": [
+    "ynet",
+    "מעריב"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 2,
+   "opinionOnly": false,
+   "firstSeen": "2026-11-04T04:46:01+00:00",
+   "lastSeen": "2026-11-04T06:45:37+02:00",
+   "articles": [
+    {
+     "source": "מעריב",
+     "title": "שריפה פרצה במרכזית חוף הכרמל בחיפה: אזרחים פונו מהמקום",
+     "url": "https://www.maariv.co.il/breaking-news/article-1384615",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-04T04:46:01+00:00"
+    },
+    {
+     "source": "ynet",
+     "title": "הלילה: שריפה פרצה בתחנה מרכזית חוף הכרמל שבחיפה, אין נפגעים",
+     "url": "https://www.ynet.co.il/news/article/hycdhe00azl",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-04T06:45:37+02:00"
+    }
+   ]
+  },
+  {
+   "id": "6744127d9f",
+   "title": "בפעם השנייה בחצי שנה: מאפיית אבולעפיה בת\"א נסגרה עקב העסקת שב\"חים",
+   "sourceCount": 2,
+   "outlets": [
+    "ישראל היום",
+    "מעריב"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 2,
+   "opinionOnly": false,
+   "firstSeen": "2026-11-04T05:56:53+00:00",
+   "lastSeen": "2026-11-04T05:58:25+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "בפעם השנייה בחצי שנה: מאפיית אבולעפיה בת\"א נסגרה עקב העסקת שב\"חים",
+     "url": "https://www.israelhayom.co.il/news/local/article/21775279",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-04T05:56:53+00:00"
+    },
+    {
+     "source": "מעריב",
+     "title": "המאפיה המוכרת בתל אביב נסגרה בפעם השנייה בשל העסקת שב\"חים",
+     "url": "https://www.maariv.co.il/breaking-news/article-1384630",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-04T05:58:25+00:00"
+    }
+   ]
+  },
+  {
    "id": "5a84c79eb5",
    "title": "מזל טלה, תחזית הורוסקופ יומית 04.11.2026",
    "sourceCount": 1,
@@ -3233,6 +4757,142 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-11-03T21:30:43+00:00"
+    }
+   ]
+  },
+  {
+   "id": "0abf8c84e3",
+   "title": "הדמוקרטים עם 99 מושבים בבית הנבחרים, נציגה אנטי-ישראלית נבחרה בקולורדו",
+   "sourceCount": 1,
+   "outlets": [
+    "ynet"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 4,
+   "opinionOnly": false,
+   "firstSeen": "2026-11-04T04:22:02+02:00",
+   "lastSeen": "2026-11-04T05:13:50+02:00",
+   "articles": [
+    {
+     "source": "ynet",
+     "title": "בארה\"ב חוזים: הדמוקרטים ישלימו את המהפך בבית הנבחרים",
+     "url": "https://www.ynet.co.il/news/article/hyabwfotml",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-04T04:22:02+02:00"
+    },
+    {
+     "source": "ynet",
+     "title": "הדמוקרטים עם 99 מושבים בבית הנבחרים, נציגה אנטי-ישראלית נבחרה בקולורדו",
+     "url": "https://www.ynet.co.il/news/article/b1gyngutmg",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-04T04:51:27+02:00"
+    },
+    {
+     "source": "ynet",
+     "title": "הדמוקרטים מובילים בפער גדול בבית הנבחרים, טראמפ: \"ננצח בגדול\"",
+     "url": "https://www.ynet.co.il/news/article/hjgi1mupzg",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-04T05:06:41+02:00"
+    },
+    {
+     "source": "ynet",
+     "title": "בארה\"ב חוזים: הדמוקרטים הבטיחו רוב בבית הנבחרים",
+     "url": "https://www.ynet.co.il/news/article/h1u3wmo6ml",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-04T05:13:50+02:00"
+    }
+   ]
+  },
+  {
+   "id": "9d23c92ee7",
+   "title": "בראון גבר על יוסטד באוהיו - ועוד מושב רפובליקני עובר לדמוקרטים בסנאט",
+   "sourceCount": 1,
+   "outlets": [
+    "ynet"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 4,
+   "opinionOnly": false,
+   "firstSeen": "2026-11-04T05:08:27+02:00",
+   "lastSeen": "2026-11-04T06:32:21+02:00",
+   "articles": [
+    {
+     "source": "ynet",
+     "title": "לראשונה מ-1998: הדמוקרטים ניצחו בקרב על הסנאט בדרום קרוליינה",
+     "url": "https://www.ynet.co.il/news/article/syggxqoafx",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-04T05:08:27+02:00"
+    },
+    {
+     "source": "ynet",
+     "title": "בראון גבר על יוסטד באוהיו - ועוד מושב רפובליקני עובר לדמוקרטים בסנאט",
+     "url": "https://www.ynet.co.il/news/article/hjlbg4u6fx",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-04T06:18:59+02:00"
+    },
+    {
+     "source": "ynet",
+     "title": "המרוץ לסנאט: הדמוקרטים ניצחו גם בקנזס - מעוז רפובליקני",
+     "url": "https://www.ynet.co.il/news/article/rktbg4oaml",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-04T06:21:51+02:00"
+    },
+    {
+     "source": "ynet",
+     "title": "הדמוקרטים הפכו מושב רפובליקני גם באייווה: ג'וש טורק גבר על אשלי הינסון",
+     "url": "https://www.ynet.co.il/news/article/bkhrvn00ame",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-04T06:32:21+02:00"
+    }
+   ]
+  },
+  {
+   "id": "f1f50824eb",
+   "title": "ג'ורג'יה: קיישה לאנס בוטומס נבחרה למושלת השחורה הראשונה בארה\"ב",
+   "sourceCount": 1,
+   "outlets": [
+    "ynet"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 3,
+   "opinionOnly": false,
+   "firstSeen": "2026-11-04T04:29:10+02:00",
+   "lastSeen": "2026-11-04T06:16:15+02:00",
+   "articles": [
+    {
+     "source": "ynet",
+     "title": "ג'ורג'יה: קיישה לאנס בוטומס נבחרה למושלת השחורה הראשונה בארה\"ב",
+     "url": "https://www.ynet.co.il/news/article/bjwiwf00aml",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-04T04:29:10+02:00"
+    },
+    {
+     "source": "ynet",
+     "title": "בניו מקסיקו נבחרה מושלת ילידית ראשונה בתולדות ארה\"ב",
+     "url": "https://www.ynet.co.il/news/article/b1omkvutfe",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-04T06:11:07+02:00"
+    },
+    {
+     "source": "ynet",
+     "title": "ג'ינה הינוחוסה נבחרה להיות מושלת טקסס הראשונה ממוצא לטיני",
+     "url": "https://www.ynet.co.il/news/article/s1vb114oafx",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-04T06:16:15+02:00"
     }
    ]
   },
@@ -3397,50 +5057,34 @@
    ]
   },
   {
-   "id": "838e2de5a8",
-   "title": "Jury Selection Begins in First Death-Penalty Case at Guantánamo Bay",
+   "id": "e96fa59ec5",
+   "title": "Keisha Lance Bottoms makes history as first Black woman elected US governor",
    "sourceCount": 1,
    "outlets": [
-    "NYT"
+    "Al Jazeera"
    ],
    "bestTier": 2,
    "hasOfficial": false,
-   "reportingCount": 1,
+   "reportingCount": 2,
    "opinionOnly": false,
-   "firstSeen": "2026-11-02T18:22:32+00:00",
-   "lastSeen": "2026-11-02T18:22:32+00:00",
+   "firstSeen": "2026-11-04T02:25:51+00:00",
+   "lastSeen": "2026-11-04T05:07:00+00:00",
    "articles": [
     {
-     "source": "NYT",
-     "title": "Jury Selection Begins in First Death-Penalty Case at Guantánamo Bay",
-     "url": "https://www.nytimes.com/2026/11/02/us/politics/jury-selection-death-penalty-cole-bombing.html",
+     "source": "Al Jazeera",
+     "title": "Keisha Lance Bottoms makes history as first Black woman elected US governor",
+     "url": "https://www.aljazeera.com/news/2026/11/4/keisha-lance-bottoms-makes-us-history-as-first-black-woman-elected-governor?traffic_source=rss",
      "tier": 2,
      "type": "reporting",
-     "time": "2026-11-02T18:22:32+00:00"
-    }
-   ]
-  },
-  {
-   "id": "eb9369293b",
-   "title": "Netanyahu and Eisenkot Seek Shot to Be Israel’s Premier",
-   "sourceCount": 1,
-   "outlets": [
-    "NYT"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-11-02T20:30:58+00:00",
-   "lastSeen": "2026-11-02T20:30:58+00:00",
-   "articles": [
+     "time": "2026-11-04T02:25:51+00:00"
+    },
     {
-     "source": "NYT",
-     "title": "Netanyahu and Eisenkot Seek Shot to Be Israel’s Premier",
-     "url": "https://www.nytimes.com/2026/11/02/world/middleeast/israel-election-prime-minister.html",
+     "source": "Al Jazeera",
+     "title": "Keisha Lance Bottoms becomes Georgia’s first black governor",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/keisha-lance-bottoms-becomes-georgias-first-black-governor?traffic_source=rss",
      "tier": 2,
      "type": "reporting",
-     "time": "2026-11-02T20:30:58+00:00"
+     "time": "2026-11-04T05:07:00+00:00"
     }
    ]
   },
@@ -4045,30 +5689,6 @@
    ]
   },
   {
-   "id": "59ed90845b",
-   "title": "הסנאטור מג'ורג'יה שיהפוך לנשיא היהודי הראשון? המבחן של ג'ון אוסוף",
-   "sourceCount": 1,
-   "outlets": [
-    "ישראל היום"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-11-03T15:16:15+00:00",
-   "lastSeen": "2026-11-03T15:16:15+00:00",
-   "articles": [
-    {
-     "source": "ישראל היום",
-     "title": "הסנאטור מג'ורג'יה שיהפוך לנשיא היהודי הראשון? המבחן של ג'ון אוסוף",
-     "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21771242",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-11-03T15:16:15+00:00"
-    }
-   ]
-  },
-  {
    "id": "f095c75d7a",
    "title": "\"פוחדים שיפגעו בילדים\": חשד לירי ליד גן שעשועים בנבטים",
    "sourceCount": 1,
@@ -4401,30 +6021,6 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-11-03T16:06:24+00:00"
-    }
-   ]
-  },
-  {
-   "id": "f37084befc",
-   "title": "לקראת סוף שבוע חורפי: צפויים לרדת עשרות מ\"מ של גשם - וחשש להצפות",
-   "sourceCount": 1,
-   "outlets": [
-    "ישראל היום"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-11-03T16:12:19+00:00",
-   "lastSeen": "2026-11-03T16:12:19+00:00",
-   "articles": [
-    {
-     "source": "ישראל היום",
-     "title": "לקראת סוף שבוע חורפי: צפויים לרדת עשרות מ\"מ של גשם - וחשש להצפות",
-     "url": "https://www.israelhayom.co.il/weather/article/21771793",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-11-03T16:12:19+00:00"
     }
    ]
   },
@@ -4905,30 +6501,6 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-11-03T17:55:08+00:00"
-    }
-   ]
-  },
-  {
-   "id": "6cf46aaa37",
-   "title": "מועצה אזורית גולן: מחר יבוצעו עבודות לפינוי שדות מוקשים",
-   "sourceCount": 1,
-   "outlets": [
-    "וואלה"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-11-03T17:57:43+00:00",
-   "lastSeen": "2026-11-03T17:57:43+00:00",
-   "articles": [
-    {
-     "source": "וואלה",
-     "title": "מועצה אזורית גולן: מחר יבוצעו עבודות לפינוי שדות מוקשים",
-     "url": "https://www.walla.co.il/news/breaking-news/383960000",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-11-03T17:57:43+00:00"
     }
    ]
   },
@@ -5965,30 +7537,6 @@
    ]
   },
   {
-   "id": "3e08545801",
-   "title": "בחירות האמצע: גואם בחרה ראשונה, טראמפ נערך לערב קשה | עדכונים שוטפים",
-   "sourceCount": 1,
-   "outlets": [
-    "ישראל היום"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-11-03T21:02:42+00:00",
-   "lastSeen": "2026-11-03T21:02:42+00:00",
-   "articles": [
-    {
-     "source": "ישראל היום",
-     "title": "בחירות האמצע: גואם בחרה ראשונה, טראמפ נערך לערב קשה | עדכונים שוטפים",
-     "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21774186",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-11-03T21:02:42+00:00"
-    }
-   ]
-  },
-  {
    "id": "17521f46aa",
    "title": "הגמר הוכרע: זה הזוכה הגדול של \"דה וויס אולסטארס\"",
    "sourceCount": 1,
@@ -6157,30 +7705,6 @@
    ]
   },
   {
-   "id": "ad652fdccf",
-   "title": "בתום קרב צמוד: יוני ממו נבחר לראש מועצת שדות נגב",
-   "sourceCount": 1,
-   "outlets": [
-    "ישראל היום"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-11-03T22:14:28+00:00",
-   "lastSeen": "2026-11-03T22:14:28+00:00",
-   "articles": [
-    {
-     "source": "ישראל היום",
-     "title": "בתום קרב צמוד: יוני ממו נבחר לראש מועצת שדות נגב",
-     "url": "https://www.israelhayom.co.il/news/local/article/21774576",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-11-03T22:14:28+00:00"
-    }
-   ]
-  },
-  {
    "id": "02c9225484",
    "title": "היועמ\"שית: לא ניתן לחקור ללא ראיות - השב״כ אינו מעביר את חומרי החקירה",
    "sourceCount": 1,
@@ -6201,30 +7725,6 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-11-03T22:27:58+02:00"
-    }
-   ]
-  },
-  {
-   "id": "36ed679a64",
-   "title": "הבחירות בשדות נגב: המועמד של בן גביר ניצח את המועמד של נתניהו",
-   "sourceCount": 1,
-   "outlets": [
-    "מעריב"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-11-03T22:29:36+00:00",
-   "lastSeen": "2026-11-03T22:29:36+00:00",
-   "articles": [
-    {
-     "source": "מעריב",
-     "title": "הבחירות בשדות נגב: המועמד של בן גביר ניצח את המועמד של נתניהו",
-     "url": "https://www.maariv.co.il/breaking-news/article-1384598",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-11-03T22:29:36+00:00"
     }
    ]
   },
@@ -6277,26 +7777,26 @@
    ]
   },
   {
-   "id": "6e0483f601",
-   "title": "הבחירות לקונגרס: טראמפ יעקוב אחר התוצאות מהבית הלבן",
+   "id": "790f6bb883",
+   "title": "שבועות לפני הבחירות בספרד: שר התחבורה מתפטר בעקבות האסון",
    "sourceCount": 1,
    "outlets": [
-    "וואלה"
+    "ישראל היום"
    ],
    "bestTier": 2,
    "hasOfficial": false,
    "reportingCount": 1,
    "opinionOnly": false,
-   "firstSeen": "2026-11-03T23:20:56+00:00",
-   "lastSeen": "2026-11-03T23:20:56+00:00",
+   "firstSeen": "2026-11-03T23:18:37+00:00",
+   "lastSeen": "2026-11-03T23:18:37+00:00",
    "articles": [
     {
-     "source": "וואלה",
-     "title": "הבחירות לקונגרס: טראמפ יעקוב אחר התוצאות מהבית הלבן",
-     "url": "https://www.walla.co.il/news/breaking-news/383960018",
+     "source": "ישראל היום",
+     "title": "שבועות לפני הבחירות בספרד: שר התחבורה מתפטר בעקבות האסון",
+     "url": "https://www.israelhayom.co.il/news/world-news/europe/article/21774633",
      "tier": 2,
      "type": "reporting",
-     "time": "2026-11-03T23:20:56+00:00"
+     "time": "2026-11-03T23:18:37+00:00"
     }
    ]
   },
@@ -6325,6 +7825,30 @@
    ]
   },
   {
+   "id": "ab3a265c15",
+   "title": "\"נראה מה יקרה\": איראן סימנה 15 בסיסים מערביים באירופה",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-11-03T23:28:15+00:00",
+   "lastSeen": "2026-11-03T23:28:15+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "\"נראה מה יקרה\": איראן סימנה 15 בסיסים מערביים באירופה",
+     "url": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21774646",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-03T23:28:15+00:00"
+    }
+   ]
+  },
+  {
    "id": "e6903293dc",
    "title": "ענקית נשק אמריקנית תשלם כ-30 מיליון דולר לאחר שנטען כי הפלתה עובדים לבנים",
    "sourceCount": 1,
@@ -6345,6 +7869,1206 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-11-04T00:39:30+02:00"
+    }
+   ]
+  },
+  {
+   "id": "317c541ed6",
+   "title": "הסדרה שזכתה לתואר \"הגרועה בכל הזמנים\" חוזרת לעונה שנייה: מה חדש בטלוויזיה",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-11-04T01:00:00+00:00",
+   "lastSeen": "2026-11-04T01:00:00+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "הסדרה שזכתה לתואר \"הגרועה בכל הזמנים\" חוזרת לעונה שנייה: מה חדש בטלוויזיה",
+     "url": "https://www.israelhayom.co.il/culture/tv/article/21769066",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-04T01:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "1e81c3d0c7",
+   "title": "סוף לפרשת הצפרדעים: התביעה בארה\"ב נסוגה",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-11-04T01:31:25+00:00",
+   "lastSeen": "2026-11-04T01:31:25+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "סוף לפרשת הצפרדעים: התביעה בארה\"ב נסוגה",
+     "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21774744",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-04T01:31:25+00:00"
+    }
+   ]
+  },
+  {
+   "id": "8a09d87c0a",
+   "title": "Kazakhstan releases second tiger into the wild",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-11-04T01:39:46+00:00",
+   "lastSeen": "2026-11-04T01:39:46+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "Kazakhstan releases second tiger into the wild",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/kazakhstan-releases-second-tiger-into-the-wild?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-04T01:39:46+00:00"
+    }
+   ]
+  },
+  {
+   "id": "957f0bb9d0",
+   "title": "איתות למערב? צפון קוריאה שיגרה טיל לעבר החוף המזרחי",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-11-04T01:47:58+00:00",
+   "lastSeen": "2026-11-04T01:47:58+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "איתות למערב? צפון קוריאה שיגרה טיל לעבר החוף המזרחי",
+     "url": "https://www.israelhayom.co.il/news/world-news/other/article/21774775",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-04T01:47:58+00:00"
+    }
+   ]
+  },
+  {
+   "id": "d95dd1385d",
+   "title": "האזנות סתר בארמון: ראש הסגל של נשיא אינדונזיה נעצר",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-11-04T01:58:12+00:00",
+   "lastSeen": "2026-11-04T01:58:12+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "האזנות סתר בארמון: ראש הסגל של נשיא אינדונזיה נעצר",
+     "url": "https://www.israelhayom.co.il/news/world-news/other/article/21774786",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-04T01:58:12+00:00"
+    }
+   ]
+  },
+  {
+   "id": "70b0633691",
+   "title": "Ballot shortages reported in Dearborn, Michigan",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-11-04T02:09:42+00:00",
+   "lastSeen": "2026-11-04T02:09:42+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "Ballot shortages reported in Dearborn, Michigan",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/ballot-shortages-reported-in-dearborn-michigan?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-04T02:09:42+00:00"
+    }
+   ]
+  },
+  {
+   "id": "8a62cd8475",
+   "title": "Seven flights across Europe targeted by suspected bomb threats",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-11-04T02:36:18+00:00",
+   "lastSeen": "2026-11-04T02:36:18+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "Seven flights across Europe targeted by suspected bomb threats",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/seven-flights-across-europe-targeted-by-suspected-bomb-threats?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-04T02:36:18+00:00"
+    }
+   ]
+  },
+  {
+   "id": "b3e37ada42",
+   "title": "רוכב אופנוע כבן 20 נפצע קשה בירושלים",
+   "sourceCount": 1,
+   "outlets": [
+    "וואלה"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-11-04T02:37:00+00:00",
+   "lastSeen": "2026-11-04T02:37:00+00:00",
+   "articles": [
+    {
+     "source": "וואלה",
+     "title": "רוכב אופנוע כבן 20 נפצע קשה בירושלים",
+     "url": "https://www.walla.co.il/news/breaking-news/383960024",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-04T02:37:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "13c118402b",
+   "title": "תכינו את המטריות: סערה חורפית מתקרבת - ויש חשש להצפות",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-11-04T02:37:01+00:00",
+   "lastSeen": "2026-11-04T02:37:01+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "תכינו את המטריות: סערה חורפית מתקרבת - ויש חשש להצפות",
+     "url": "https://www.israelhayom.co.il/weather/article/21774828",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-04T02:37:01+00:00"
+    }
+   ]
+  },
+  {
+   "id": "2f9dbbb3b6",
+   "title": "EU urges action as Germany, Romania and UK report supermarket cyberattacks",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-11-04T03:16:37+00:00",
+   "lastSeen": "2026-11-04T03:16:37+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "EU urges action as Germany, Romania and UK report supermarket cyberattacks",
+     "url": "https://www.aljazeera.com/news/2026/11/4/eu-urges-action-as-germany-romania-and-uk-report-supermarket-cyberattacks?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-04T03:16:37+00:00"
+    }
+   ]
+  },
+  {
+   "id": "7108c339ab",
+   "title": "Ossoff wins reelection in Georgia holding Senate seat for Democrats",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-11-04T03:25:17+00:00",
+   "lastSeen": "2026-11-04T03:25:17+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "Ossoff wins reelection in Georgia holding Senate seat for Democrats",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/ossoff-wins-reelection-in-georgia-holding-senate-seat-for-democrats?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-04T03:25:17+00:00"
+    }
+   ]
+  },
+  {
+   "id": "5820f71ecc",
+   "title": "כוחות צה\"ל פועלים בג'נין למעצר חשודים בטרור",
+   "sourceCount": 1,
+   "outlets": [
+    "וואלה"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-11-04T03:29:18+00:00",
+   "lastSeen": "2026-11-04T03:29:18+00:00",
+   "articles": [
+    {
+     "source": "וואלה",
+     "title": "כוחות צה\"ל פועלים בג'נין למעצר חשודים בטרור",
+     "url": "https://www.walla.co.il/news/breaking-news/383960026",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-04T03:29:18+00:00"
+    }
+   ]
+  },
+  {
+   "id": "5bdf1ca67e",
+   "title": "Nervous Republicans await results at Paxton’s Texas election party",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-11-04T03:56:21+00:00",
+   "lastSeen": "2026-11-04T03:56:21+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "Nervous Republicans await results at Paxton’s Texas election party",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/nervous-republicans-await-results-at-paxtons-texas-election-party-2?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-04T03:56:21+00:00"
+    }
+   ]
+  },
+  {
+   "id": "2a56257a61",
+   "title": "מחקר מדאיג: ליקויים מסכני חיים נחשפו בבתי הספר",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-11-04T03:57:00+00:00",
+   "lastSeen": "2026-11-04T03:57:00+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "מחקר מדאיג: ליקויים מסכני חיים נחשפו בבתי הספר",
+     "url": "https://www.israelhayom.co.il/news/education/article/21773857",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-04T03:57:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "12920ee04a",
+   "title": "בארה\"ב ובישראל - הסוקרים הפכו לשחקנים במגרש הפוליטי",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-11-04T03:59:00+00:00",
+   "lastSeen": "2026-11-04T03:59:00+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "בארה\"ב ובישראל - הסוקרים הפכו לשחקנים במגרש הפוליטי",
+     "url": "https://www.israelhayom.co.il/news/politics/article/21773452",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-04T03:59:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "d432310f61",
+   "title": "מאזן האימה יישבר? הנשק האיראני עלול להיות שובר שוויון",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-11-04T04:00:00+00:00",
+   "lastSeen": "2026-11-04T04:00:00+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "מאזן האימה יישבר? הנשק האיראני עלול להיות שובר שוויון",
+     "url": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21774708",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-04T04:00:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "1ba5bb8de4",
+   "title": "Talarico wins Senate race, ending decades of Republican dominance in Texas",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-11-04T04:03:41+00:00",
+   "lastSeen": "2026-11-04T04:03:41+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "Talarico wins Senate race, ending decades of Republican dominance in Texas",
+     "url": "https://www.aljazeera.com/news/2026/11/4/talarico-wins-texas-senate-race-ending-decades-of-republican-dominance?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-04T04:03:41+00:00"
+    }
+   ]
+  },
+  {
+   "id": "3d4d6c2b7d",
+   "title": "השיל 90 קילו: \"עדיין מנסה להתרגל לפנים שלי\"",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-11-04T04:11:46+00:00",
+   "lastSeen": "2026-11-04T04:11:46+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "השיל 90 קילו: \"עדיין מנסה להתרגל לפנים שלי\"",
+     "url": "https://www.israelhayom.co.il/forreal/global/article/21774896",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-04T04:11:46+00:00"
+    }
+   ]
+  },
+  {
+   "id": "8e84bcf42e",
+   "title": "Democrat Amy Acton beats Republican Vivek Ramaswamy in Ohio governor’s race",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-11-04T04:25:54+00:00",
+   "lastSeen": "2026-11-04T04:25:54+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "Democrat Amy Acton beats Republican Vivek Ramaswamy in Ohio governor’s race",
+     "url": "https://www.aljazeera.com/news/2026/11/4/democrat-amy-acton-beats-republican-vivek-ramaswamy-in-ohio-governors-race?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-04T04:25:54+00:00"
+    }
+   ]
+  },
+  {
+   "id": "67db5cc2b6",
+   "title": "Kansas elects first Democratic senator in almost a century",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-11-04T04:37:12+00:00",
+   "lastSeen": "2026-11-04T04:37:12+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "Kansas elects first Democratic senator in almost a century",
+     "url": "https://www.aljazeera.com/news/2026/11/4/kansas-elects-democrat-adam-hamilton?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-04T04:37:12+00:00"
+    }
+   ]
+  },
+  {
+   "id": "af0f2ffc56",
+   "title": "אחרי הלידה הקשה: היילי ביבר מדברת על ההפרעה",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-11-04T04:44:54+00:00",
+   "lastSeen": "2026-11-04T04:44:54+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "אחרי הלידה הקשה: היילי ביבר מדברת על ההפרעה",
+     "url": "https://www.israelhayom.co.il/forreal/global/article/21774963",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-04T04:44:54+00:00"
+    }
+   ]
+  },
+  {
+   "id": "d6b33b68a9",
+   "title": "Trump and Republicans trampled in the midterms",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-11-04T04:47:55+00:00",
+   "lastSeen": "2026-11-04T04:47:55+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "Trump and Republicans trampled in the midterms",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/trump-and-republicans-trampled-in-the-midterms?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-04T04:47:55+00:00"
+    }
+   ]
+  },
+  {
+   "id": "cf4cb07cf3",
+   "title": "BAZAAR Gallery גלריית בזאר – אירועים אינטימיים בלב יפו, עם מלון צמוד",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-11-04T04:48:07+00:00",
+   "lastSeen": "2026-11-04T04:48:07+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "BAZAAR Gallery גלריית בזאר – אירועים אינטימיים בלב יפו, עם מלון צמוד",
+     "url": "https://www.israelhayom.co.il/mumlazim/article/21775020",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-04T04:48:07+00:00"
+    }
+   ]
+  },
+  {
+   "id": "364a85eb8f",
+   "title": "מגוגל ועד ChatGPT: כך SO Digital מקדמת עסקים במנועי החיפוש ו- AI",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-11-04T04:49:33+00:00",
+   "lastSeen": "2026-11-04T04:49:33+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "מגוגל ועד ChatGPT: כך SO Digital מקדמת עסקים במנועי החיפוש ו- AI",
+     "url": "https://www.israelhayom.co.il/mumlazim/article/21775014",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-04T04:49:33+00:00"
+    }
+   ]
+  },
+  {
+   "id": "158c0f23e6",
+   "title": "בלי מקרר ובלי חשמל: השיטות העתיקות לאחסון מזון",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-11-04T05:01:00+00:00",
+   "lastSeen": "2026-11-04T05:01:00+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "בלי מקרר ובלי חשמל: השיטות העתיקות לאחסון מזון",
+     "url": "https://www.israelhayom.co.il/food/recommendations/article/21758896",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-04T05:01:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "ed06a8d664",
+   "title": "לא עוד פסטה בצלחת: המתכון שהילדים יעופו עליו",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-11-04T05:05:00+00:00",
+   "lastSeen": "2026-11-04T05:05:00+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "לא עוד פסטה בצלחת: המתכון שהילדים יעופו עליו",
+     "url": "https://www.israelhayom.co.il/food/recipes/article/21770807",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-04T05:05:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "fefa397ea2",
+   "title": "גבר נפצע באירוע אלימות בכביש 805 - מצבו בינוני עם פציעה חודרת",
+   "sourceCount": 1,
+   "outlets": [
+    "מעריב"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-11-04T05:08:29+00:00",
+   "lastSeen": "2026-11-04T05:08:29+00:00",
+   "articles": [
+    {
+     "source": "מעריב",
+     "title": "גבר נפצע באירוע אלימות בכביש 805 - מצבו בינוני עם פציעה חודרת",
+     "url": "https://www.maariv.co.il/breaking-news/article-1384618",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-04T05:08:29+00:00"
+    }
+   ]
+  },
+  {
+   "id": "d1e157b36f",
+   "title": "N Korea fires multiple missiles, denies US claims on Binance hack",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-11-04T05:11:00+00:00",
+   "lastSeen": "2026-11-04T05:11:00+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "N Korea fires multiple missiles, denies US claims on Binance hack",
+     "url": "https://www.aljazeera.com/news/2026/11/4/n-korea-fires-multiple-missiles-denies-us-claims-on-binance-hack?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-04T05:11:00+00:00"
+    }
+   ]
+  },
+  {
+   "id": "23506a985f",
+   "title": "Democrats dominate NYC races, Hochul re-elected New York governor",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-11-04T05:27:30+00:00",
+   "lastSeen": "2026-11-04T05:27:30+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "Democrats dominate NYC races, Hochul re-elected New York governor",
+     "url": "https://www.aljazeera.com/economy/2026/11/4/democrats-dominate-nyc-races-hochul-re-elected-new-york-governor?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-04T05:27:30+00:00"
+    }
+   ]
+  },
+  {
+   "id": "2a34a9ceac",
+   "title": "הפוך על הפוך: ההכרזה של טראמפ על עצירת הסיוע - יכולה להרחיב את הסכמי אברהם",
+   "sourceCount": 1,
+   "outlets": [
+    "מעריב"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-11-04T05:27:49+00:00",
+   "lastSeen": "2026-11-04T05:27:49+00:00",
+   "articles": [
+    {
+     "source": "מעריב",
+     "title": "הפוך על הפוך: ההכרזה של טראמפ על עצירת הסיוע - יכולה להרחיב את הסכמי אברהם",
+     "url": "https://www.maariv.co.il/breaking-news/article-1384624",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-04T05:27:49+00:00"
+    }
+   ]
+  },
+  {
+   "id": "682add844e",
+   "title": "העובדים השאירו את הדלת פתוחה — ואז נכנס לחנות אורח בלתי צפוי",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-11-04T05:28:18+00:00",
+   "lastSeen": "2026-11-04T05:28:18+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "העובדים השאירו את הדלת פתוחה — ואז נכנס לחנות אורח בלתי צפוי",
+     "url": "https://www.israelhayom.co.il/news/trending-online/article/21775001",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-04T05:28:18+00:00"
+    }
+   ]
+  },
+  {
+   "id": "fb1fe1cbe5",
+   "title": "טראמפ טלטל את המערכת: האם ישראל ערוכה ליום שאחרי ההסכם הביטחוני?",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-11-04T05:29:32+00:00",
+   "lastSeen": "2026-11-04T05:29:32+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "טראמפ טלטל את המערכת: האם ישראל ערוכה ליום שאחרי ההסכם הביטחוני?",
+     "url": "https://www.israelhayom.co.il/news/geopolitics/article/21775081",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-04T05:29:32+00:00"
+    }
+   ]
+  },
+  {
+   "id": "07cd617a7e",
+   "title": "ליגת העל נערכת למלחמה: הקבוצות חוששות מתרחיש דרמטי",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-11-04T05:30:13+00:00",
+   "lastSeen": "2026-11-04T05:30:13+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "ליגת העל נערכת למלחמה: הקבוצות חוששות מתרחיש דרמטי",
+     "url": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21775024",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-04T05:30:13+00:00"
+    }
+   ]
+  },
+  {
+   "id": "37faabd6a1",
+   "title": "ראש העיר שנבחרה בוושינגטון התחייבה: \"לא אשתתף באירועים המקדמים ציונות\"",
+   "sourceCount": 1,
+   "outlets": [
+    "ynet"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-11-04T05:44:20+02:00",
+   "lastSeen": "2026-11-04T05:44:20+02:00",
+   "articles": [
+    {
+     "source": "ynet",
+     "title": "ראש העיר שנבחרה בוושינגטון התחייבה: \"לא אשתתף באירועים המקדמים ציונות\"",
+     "url": "https://www.ynet.co.il/news/article/s1wuuqopme",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-04T05:44:20+02:00"
+    }
+   ]
+  },
+  {
+   "id": "53430615b2",
+   "title": "מסתמן: מקורבו של טראמפ ראמאסוואמי הפסיד במרוץ למושלות באוהיו",
+   "sourceCount": 1,
+   "outlets": [
+    "ynet"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-11-04T05:45:36+02:00",
+   "lastSeen": "2026-11-04T05:45:36+02:00",
+   "articles": [
+    {
+     "source": "ynet",
+     "title": "מסתמן: מקורבו של טראמפ ראמאסוואמי הפסיד במרוץ למושלות באוהיו",
+     "url": "https://www.ynet.co.il/news/article/syxxtq00pfg",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-04T05:45:36+02:00"
+    }
+   ]
+  },
+  {
+   "id": "56d4799ef0",
+   "title": "3 בריכות וחדרי כושר: במזרח ירושלים נפתח מרכז ספורט חדש",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-11-04T05:46:25+00:00",
+   "lastSeen": "2026-11-04T05:46:25+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "3 בריכות וחדרי כושר: במזרח ירושלים נפתח מרכז ספורט חדש",
+     "url": "https://www.israelhayom.co.il/news/municipal/article/21775130",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-04T05:46:25+00:00"
+    }
+   ]
+  },
+  {
+   "id": "e36f326cdc",
+   "title": "Photos: Champions League and Tenerife fans pay tribute to De Miguel",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-11-04T05:49:43+00:00",
+   "lastSeen": "2026-11-04T05:49:43+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "Photos: Champions League and Tenerife fans pay tribute to De Miguel",
+     "url": "https://www.aljazeera.com/gallery/2026/11/4/photos-champions-league-and-tenerife-fans-pay-tribute-to-de-miguel?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-04T05:49:43+00:00"
+    }
+   ]
+  },
+  {
+   "id": "7de7e9766b",
+   "title": "טראמפ מגיב לתבוסה המסתמנת: \"אם שמי היה על הפתק, הינו מנצחים בגדול!\"",
+   "sourceCount": 1,
+   "outlets": [
+    "ynet"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-11-04T05:51:53+02:00",
+   "lastSeen": "2026-11-04T05:51:53+02:00",
+   "articles": [
+    {
+     "source": "ynet",
+     "title": "טראמפ מגיב לתבוסה המסתמנת: \"אם שמי היה על הפתק, הינו מנצחים בגדול!\"",
+     "url": "https://www.ynet.co.il/news/article/h1ztcmdpzx",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-04T05:51:53+02:00"
+    }
+   ]
+  },
+  {
+   "id": "dad104fadc",
+   "title": "משמעות התבוסה של טראמפ: חקירות, \"מר וטו\" ומה זה אומר עבור ישראל",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-11-04T06:03:20+00:00",
+   "lastSeen": "2026-11-04T06:03:20+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "משמעות התבוסה של טראמפ: חקירות, \"מר וטו\" ומה זה אומר עבור ישראל",
+     "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21775085",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-04T06:03:20+00:00"
+    }
+   ]
+  },
+  {
+   "id": "af18ed71ce",
+   "title": "משמרות המהפכה: 4 מכליות עלו על מוקשים ונשרפו בהורמוז, עוד 2 נתפסו",
+   "sourceCount": 1,
+   "outlets": [
+    "ynet"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-11-04T06:09:16+02:00",
+   "lastSeen": "2026-11-04T06:09:16+02:00",
+   "articles": [
+    {
+     "source": "ynet",
+     "title": "משמרות המהפכה: 4 מכליות עלו על מוקשים ונשרפו בהורמוז, עוד 2 נתפסו",
+     "url": "https://www.ynet.co.il/news/article/rkmq9700tfx",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-04T06:09:16+02:00"
+    }
+   ]
+  },
+  {
+   "id": "625799852f",
+   "title": "טוב לעולם - רע לישראל: ההשפעה של בחירות האמצע על הכלכלה",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-11-04T06:14:37+00:00",
+   "lastSeen": "2026-11-04T06:14:37+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "טוב לעולם - רע לישראל: ההשפעה של בחירות האמצע על הכלכלה",
+     "url": "https://www.israelhayom.co.il/business/article/21775354",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-04T06:14:37+00:00"
+    }
+   ]
+  },
+  {
+   "id": "8e972cddba",
+   "title": "משרד הביטחון: פיצוצים מבוקרים יישמעו ברמת הגולן",
+   "sourceCount": 1,
+   "outlets": [
+    "וואלה"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-11-04T06:16:11+00:00",
+   "lastSeen": "2026-11-04T06:16:11+00:00",
+   "articles": [
+    {
+     "source": "וואלה",
+     "title": "משרד הביטחון: פיצוצים מבוקרים יישמעו ברמת הגולן",
+     "url": "https://www.walla.co.il/news/breaking-news/383960033",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-04T06:16:11+00:00"
+    }
+   ]
+  },
+  {
+   "id": "76211688c2",
+   "title": "עומר אדם בליווי צמוד: הרגע שהתרחש לפני ההופעה",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-11-04T06:16:57+00:00",
+   "lastSeen": "2026-11-04T06:16:57+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "עומר אדם בליווי צמוד: הרגע שהתרחש לפני ההופעה",
+     "url": "https://www.israelhayom.co.il/culture/internet-culture/article/21775342",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-04T06:16:57+00:00"
+    }
+   ]
+  },
+  {
+   "id": "84f6ad79da",
+   "title": "House Democratic leader Hakeem Jeffries hails midterm victory",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-11-04T06:26:19+00:00",
+   "lastSeen": "2026-11-04T06:26:19+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "House Democratic leader Hakeem Jeffries hails midterm victory",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/house-democratic-leader-hakeem-jeffries-hails-midterm-victory?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-04T06:26:19+00:00"
+    }
+   ]
+  },
+  {
+   "id": "49447095f5",
+   "title": "כשזה יתחיל, נדע: כך החדשות מאבדות את אמון הציבור עם ספקולציות על מלחמה",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-11-04T06:27:38+00:00",
+   "lastSeen": "2026-11-04T06:27:38+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "כשזה יתחיל, נדע: כך החדשות מאבדות את אמון הציבור עם ספקולציות על מלחמה",
+     "url": "https://www.israelhayom.co.il/culture/tv/article/21775360",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-04T06:27:38+00:00"
+    }
+   ]
+  },
+  {
+   "id": "bbb59f095b",
+   "title": "בארה\"ב מדווחים: הדמוקרטים השיגו שליטה גם בסנאט",
+   "sourceCount": 1,
+   "outlets": [
+    "ynet"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-11-04T06:28:38+02:00",
+   "lastSeen": "2026-11-04T06:28:38+02:00",
+   "articles": [
+    {
+     "source": "ynet",
+     "title": "בארה\"ב מדווחים: הדמוקרטים השיגו שליטה גם בסנאט",
+     "url": "https://www.ynet.co.il/news/article/rkiemnd6fg",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-04T06:28:38+02:00"
+    }
+   ]
+  },
+  {
+   "id": "f00c5abc4d",
+   "title": "תחת אבטחה כבדה: אלפי שלוחי חב\"ד יגיעו לכינוס השנתי",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-11-04T06:28:39+00:00",
+   "lastSeen": "2026-11-04T06:28:39+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "תחת אבטחה כבדה: אלפי שלוחי חב\"ד יגיעו לכינוס השנתי",
+     "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21775420",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-04T06:28:39+00:00"
+    }
+   ]
+  },
+  {
+   "id": "3a98d76c6f",
+   "title": "53 מושבים דמוקרטיים בסנאט: טרוי ג'קסון הביס את סוזן קולינס, שבתפקיד מ-1997",
+   "sourceCount": 1,
+   "outlets": [
+    "ynet"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-11-04T07:23:35+02:00",
+   "lastSeen": "2026-11-04T07:23:35+02:00",
+   "articles": [
+    {
+     "source": "ynet",
+     "title": "53 מושבים דמוקרטיים בסנאט: טרוי ג'קסון הביס את סוזן קולינס, שבתפקיד מ-1997",
+     "url": "https://www.ynet.co.il/news/article/hklsjsdtzx",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-04T07:23:35+02:00"
+    }
+   ]
+  },
+  {
+   "id": "eb73ce38cd",
+   "title": "חברות הקונגרס הדמוקרטיות אילהאן עומאר ורשידה טליב נבחרו לכהונה נוספת",
+   "sourceCount": 1,
+   "outlets": [
+    "ynet"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-11-04T07:39:24+02:00",
+   "lastSeen": "2026-11-04T07:39:24+02:00",
+   "articles": [
+    {
+     "source": "ynet",
+     "title": "חברות הקונגרס הדמוקרטיות אילהאן עומאר ורשידה טליב נבחרו לכהונה נוספת",
+     "url": "https://www.ynet.co.il/news/article/syo5nbu6ge",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-04T07:39:24+02:00"
+    }
+   ]
+  },
+  {
+   "id": "0fcfe706de",
+   "title": "בארה\"ב חוזים: הדמוקרט האנטי-ישראלי אל-סייד ניצח במרוץ לסנאט במישיגן",
+   "sourceCount": 1,
+   "outlets": [
+    "ynet"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-11-04T08:24:06+02:00",
+   "lastSeen": "2026-11-04T08:24:06+02:00",
+   "articles": [
+    {
+     "source": "ynet",
+     "title": "בארה\"ב חוזים: הדמוקרט האנטי-ישראלי אל-סייד ניצח במרוץ לסנאט במישיגן",
+     "url": "https://www.ynet.co.il/news/article/bjrkahoagl",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-04T08:24:06+02:00"
     }
    ]
   },
@@ -6539,11 +9263,59 @@
      "time": "2026-11-03T22:10:21+00:00"
     }
    ]
+  },
+  {
+   "id": "8f9bbc5d12",
+   "title": "מתברר שתמונת הממלכתיות הייתה פוטושופ",
+   "sourceCount": 1,
+   "outlets": [
+    "ישראל היום"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 0,
+   "opinionOnly": true,
+   "firstSeen": "2026-11-04T00:12:46+00:00",
+   "lastSeen": "2026-11-04T00:12:46+00:00",
+   "articles": [
+    {
+     "source": "ישראל היום",
+     "title": "מתברר שתמונת הממלכתיות הייתה פוטושופ",
+     "url": "https://www.israelhayom.co.il/opinions/article/21774681",
+     "tier": 2,
+     "type": "opinion",
+     "time": "2026-11-04T00:12:46+00:00"
+    }
+   ]
+  },
+  {
+   "id": "64d4af7a1d",
+   "title": "Lula’s victory is a stress test for the Global South",
+   "sourceCount": 1,
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 0,
+   "opinionOnly": true,
+   "firstSeen": "2026-11-04T06:12:59+00:00",
+   "lastSeen": "2026-11-04T06:12:59+00:00",
+   "articles": [
+    {
+     "source": "Al Jazeera",
+     "title": "Lula’s victory is a stress test for the Global South",
+     "url": "https://www.aljazeera.com/opinions/2026/11/4/lulas-victory-is-a-stress-test-for-the-global-south?traffic_source=rss",
+     "tier": 2,
+     "type": "opinion",
+     "time": "2026-11-04T06:12:59+00:00"
+    }
+   ]
   }
  ],
  "stats": {
-  "articles": 222,
-  "clusters": 158,
-  "multiSource": 21
+  "articles": 324,
+  "clusters": 217,
+  "multiSource": 31
  }
 }
