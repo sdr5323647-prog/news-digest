@@ -1,0 +1,469 @@
+{
+ "schema": 2,
+ "date": "2026-11-04",
+ "type": "daily",
+ "headline": "ועדת הבחירות קבעה שאין פגיעה בטוהר הבחירות, הדמוקרטים מובילים בבחירות האמצע בארה\"ב וטראמפ הצהיר על סיום הסיוע הצבאי לישראל.",
+ "events": [
+  {
+   "id": "election-results-certification",
+   "title": "ועדת הבחירות: הבקרה הסתיימה ללא ממצאים על פגיעה בטוהר הבחירות; התוצאות יפורסמו",
+   "summary": "לפי ynet, ישראל היום, מעריב ווואלה, ועדת הבחירות המרכזית הודיעה כי נבדקו טענות הסיעות ולא נמצאו ממצאים על פגיעה בטוהר הבחירות או על שינוי התוצאות. יו\"ר הוועדה, השופט סולברג, אמר כי התוצאות יפורסמו למחרת וכי לאיש אין סמכות שלא לפרסמן. לפי מעריב, עמית הלוי מהליכוד התפטר מהוועדה, ולפי וואלה עוצמה יהודית תצביע נגד אישור התוצאות.",
+   "why": "אישור התוצאות הוא תנאי לפתיחת הליכי הרכבת הממשלה, והמחלוקת סביבו נוגעת לאמון הציבור בהליך הבחירות.",
+   "change": "",
+   "next": "פרסום רשמי של תוצאות הבחירות.",
+   "status": "VERIFIED",
+   "importance": 5,
+   "categories": [
+    "politics",
+    "law"
+   ],
+   "kind": "decision",
+   "entities": [
+    "בחירות 2026",
+    "ועדת הבחירות המרכזית"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/Hk7lVrOazl",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/law/article/21775208",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1384626",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383960029",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1384636",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383960035",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 4,
+   "firstSeen": "2026-11-04",
+   "lastUpdated": "2026-11-04"
+  },
+  {
+   "id": "coalition-building-after-election",
+   "title": "הקמת ממשלה: ש\"ס, הציונות הדתית ועוצמה יהודית יומלצו על נתניהו; גוש השינוי יומלץ על איזנקוט",
+   "summary": "לפי וואלה וישראל היום, ש\"ס והציונות הדתית הודיעו שימליצו על נתניהו, ועוצמה יהודית לצדו, ויהדות התורה עדיין מתלבטת. נתניהו נפגש עם יו\"ר יהדות התורה יעקב אשר לראשונה מאז הבחירות. לפי וואלה ו-ynet, ראשי גוש השינוי הודיעו שימליצו על איזנקוט להרכבת הממשלה, ובנט אמר שיפעלו במהירות. בליכוד טענו שהצעד \"מסכן את עתיד ישראל\".",
+   "why": "ההמלצות לנשיא קובעות מי יקבל את המנדט להרכבת הממשלה.",
+   "change": "הסיעות מצהירות על המלצותיהן: ש\"ס והציונות הדתית על נתניהו, גוש השינוי על איזנקוט; יהדות התורה טרם הכריעה.",
+   "next": "המלצות רשמיות לנשיא לאחר פרסום התוצאות.",
+   "status": "VERIFIED",
+   "importance": 5,
+   "categories": [
+    "politics"
+   ],
+   "kind": "negotiation",
+   "entities": [
+    "בחירות 2026",
+    "נתניהו",
+    "הקמת ממשלה"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383959973",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383959954",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/politics/article/21770984",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/rjjt2tvtgx",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-10-29",
+   "lastUpdated": "2026-11-04"
+  },
+  {
+   "id": "us-midterm-elections-2026",
+   "title": "בחירות האמצע בארה\"ב: הדמוקרטים מובילים; טראמפ בירך אותם ואמר שיעבוד איתם",
+   "summary": "לפי ynet, הדמוקרטים מובילים בפער גדול בבית הנבחרים, ולפי אל-ג'זירה הדמוקרטים הדיחו רפובליקנים במושבי סנאט בצפון קרוליינה, בדרום קרוליינה ובאוהיו. לפי ynet ומעריב, טראמפ בירך את הדמוקרטים ואמר שיעבוד איתם. לפי ישראל היום, טראמפ אמר שההפסד נבע מהמלחמה באיראן, ולפי וואלה מדגמי יציאה הראו שרוב המצביעים מתנגדים למלחמה. הספירה עדיין נמשכת.",
+   "why": "שינוי בהרכב הקונגרס עשוי להשפיע על מדיניות ארה\"ב כלפי איראן וישראל ועל הסיוע הביטחוני.",
+   "change": "",
+   "next": "תוצאות סופיות של הספירה.",
+   "status": "VERIFIED",
+   "importance": 5,
+   "categories": [
+    "israel_world",
+    "world",
+    "politics"
+   ],
+   "kind": "event",
+   "entities": [
+    "ארה\"ב",
+    "טראמפ",
+    "בחירות האמצע"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/sjgcw4utmx",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1384605",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21774903",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/4/sherrod-brown-an-ohio-democrat-wins-return-to-us-senate?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383960021",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 5,
+   "firstSeen": "2026-11-04",
+   "lastUpdated": "2026-11-04"
+  },
+  {
+   "id": "trump-ends-israel-aid-claim",
+   "title": "טראמפ: ארה\"ב תפסיק את הסיוע הצבאי לישראל עד סוף השנה",
+   "summary": "לפי BBC, הגרדיאן ווואלה, טראמפ אמר שארה\"ב \"לא תשלם לישראל\" מסוף השנה, ולפי וואלה אמר שסוכם על כך עם נתניהו. אל-ג'זירה מצטטת ספקנות לגבי הצהרתו על סיום הסכם הסיוע בהיקף 3.8 מיליארד דולר. לפי ישראל היום, בישראל מציגים את הצעד כהזדמנות לעצמאות ביטחונית; לא פורסמו פרטים על ההסדר בפועל.",
+   "why": "אם יתממש, הצעד ישנה את מערך היחסים הביטחוניים בין ישראל לארה\"ב.",
+   "change": "",
+   "next": "הבהרות רשמיות מירושלים ומוושינגטון על תוכן ההסדר.",
+   "status": "REPORTED",
+   "importance": 4,
+   "categories": [
+    "security",
+    "israel_world",
+    "politics"
+   ],
+   "kind": "statement",
+   "entities": [
+    "ארה\"ב",
+    "טראמפ",
+    "סיוע ביטחוני"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/cmx2dlx86n9yo?at_medium=RSS&at_campaign=rss",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Guardian",
+     "url": "https://www.theguardian.com/us-news/2026/nov/03/donald-trump-usa-end-military-aid-to-israel-end-year-midterms",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383959969",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/scepticism-as-trump-says-hes-ending-israels-3-8-bn-military-aid-deal?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 4,
+   "firstSeen": "2026-11-04",
+   "lastUpdated": "2026-11-04"
+  },
+  {
+   "id": "trump-iran-strike-plans",
+   "title": "איראן: טראמפ אמר שאין תוכנית מיידית לתקוף; לפי BBC והגרדיאן ארה\"ב תקפה באי קשם",
+   "summary": "לפי BBC והגרדיאן, ארה\"ב תקפה את האי קשם שבאיראן ערב הבחירות, וסגן הנשיא ואנס הביע אופטימיות לגבי עסקה. לפי ישראל היום ומעריב, טראמפ אמר כי אין לארה\"ב תוכנית מיידית לתקוף באיראן. לפי וואלה, יו\"ר הפרלמנט האיראני אמר ש\"האמריקנים אמרו לא למלחמה\".",
+   "why": "המגעים והאיומים סביב איראן ומצר הורמוז משפיעים ישירות על ביטחון ישראל ועל מחירי האנרגיה.",
+   "change": "טראמפ הבהיר שאין תוכנית מיידית לתקיפה נוספת, וסגן הנשיא הביע אופטימיות לעסקה.",
+   "next": "המשך המגעים לעסקה.",
+   "status": "REPORTED",
+   "importance": 4,
+   "categories": [
+    "security",
+    "israel_world"
+   ],
+   "kind": "negotiation",
+   "entities": [
+    "איראן",
+    "טראמפ",
+    "מצר הורמוז"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Guardian",
+     "url": "https://www.theguardian.com/world/2026/nov/03/us-strikes-irans-qeshm-island",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21774665",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1384602",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 4,
+   "firstSeen": "2026-10-08",
+   "lastUpdated": "2026-11-04"
+  },
+  {
+   "id": "manu-shipping-bomb-alert",
+   "title": "אוניית נופש ישראלית עוכבה ביוון בשל התרעת פצצה; הסריקה לא העלתה ממצאים",
+   "summary": "לפי ynet, וואלה וישראל היום, אוניית \"מנו ספנות\" עם כ-1,400 ישראלים עוכבה ביוון בעקבות התרעה על חפץ חשוד, והנוסעים הורדו ממנה. לפי ynet, הספינה נסרקה ולא נמצאו ממצאים חריגים. ישראל היום מציינת שאיומי הפצצה הגיעו לא רק לטיסות.",
+   "why": "איומים על כלי תחבורה עם ישראלים מצריכים תיאום ביטחוני עם מדינות זרות.",
+   "change": "",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "security",
+    "israel_world"
+   ],
+   "kind": "event",
+   "entities": [
+    "איומי פצצה",
+    "יוון"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/hy1pnpdpgg",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383959990",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/travel/tourism-news/article/21772130",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-11-04",
+   "lastUpdated": "2026-11-04"
+  },
+  {
+   "id": "high-court-state-comptroller-ohana",
+   "title": "בג\"ץ דחה עתירה נגד יו\"ר הכנסת אוחנה בעניין בחירת מבקר המדינה, אך מתח ביקורת חריפה",
+   "summary": "לפי ynet ומעריב, בג\"ץ דחה את העתירה שדרשה לקיים מחדש את הבחירות למבקר המדינה. לפי וואלה, ישראל היום ומעריב, השופטים קבעו שיו\"ר הכנסת הפר פסק דין קודם ופגע בסדרי השלטון, וחייבו אותו בהוצאות משפט.",
+   "why": "פסק הדין עוסק בגבולות הסמכות של הכנסת מול בית המשפט בהליך מינוי נושא משרה בכיר.",
+   "change": "",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "law",
+    "politics"
+   ],
+   "kind": "legal",
+   "entities": [
+    "בג\"ץ",
+    "אמיר אוחנה",
+    "מבקר המדינה"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/rjmc7qvaze",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1384555",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383959994",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/law/article/21772666",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 4,
+   "firstSeen": "2026-11-04",
+   "lastUpdated": "2026-11-04"
+  },
+  {
+   "id": "health-ministry-dg-resigns",
+   "title": "מנכ\"ל משרד הבריאות משה בר סימן טוב הודיע על סיום תפקידו",
+   "summary": "לפי וואלה, מנכ\"ל משרד הבריאות משה בר סימן טוב הודיע על סיום תפקידו. הדיווח מבוסס על מקור אחד ולא פורטו סיבות או מועד.",
+   "why": "מנכ\"ל משרד הבריאות מנהל את מערכת הבריאות הציבורית ואת ההיערכות לאירועי בריאות הציבור.",
+   "change": "",
+   "next": "",
+   "status": "REPORTED",
+   "importance": 3,
+   "categories": [
+    "society"
+   ],
+   "kind": "decision",
+   "entities": [
+    "משרד הבריאות"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383959949",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 1,
+   "firstSeen": "2026-11-04",
+   "lastUpdated": "2026-11-04"
+  }
+ ],
+ "unverified": [
+  {
+   "id": "iran-chemical-weapons-warning",
+   "title": "על פי דיווח ב-ynet בשם ה-NYT: ישראל הזהירה את ארה\"ב שאיראן עשויה להשתמש בנשק כימי",
+   "summary": "על פי דיווח ב-ynet, שציטט את הניו יורק טיימס, ישראל הודיעה לארה\"ב שאיראן מתכוונת להשתמש בנשק כימי נגד יריבותיה. ישראל היום מביאה את הדיווח כך. לא פורסם אישור רשמי מישראל, מארה\"ב או מאיראן.",
+   "why": "אם יתברר כנכון, מדובר בהסלמה אפשרית באיום האזורי.",
+   "change": "",
+   "next": "",
+   "status": "CLAIM",
+   "importance": 4,
+   "categories": [
+    "security",
+    "israel_world"
+   ],
+   "kind": "statement",
+   "entities": [
+    "איראן",
+    "נשק כימי"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/SJucMovafx",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21773123",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-11-04",
+   "lastUpdated": "2026-11-04"
+  },
+  {
+   "id": "ebola-suspicion-israel",
+   "title": "על פי דיווח בוואלה: חשד לאבולה בישראל, שני מטופלים הועברו לבידוד",
+   "summary": "על פי וואלה, שני מטופלים הועברו לבידוד בחשד לאבולה. לא פורסם אישור לאבחנה ולא ברור אם אכן מדובר במחלה.",
+   "why": "חשד למחלה מדבקת מסוכנת מחייב מעקב בריאות הציבור, אם יאושר.",
+   "change": "",
+   "next": "",
+   "status": "UNCONFIRMED",
+   "importance": 4,
+   "categories": [
+    "society"
+   ],
+   "kind": "event",
+   "entities": [
+    "משרד הבריאות",
+    "אבולה"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383959959",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 1,
+   "firstSeen": "2026-11-04",
+   "lastUpdated": "2026-11-04"
+  }
+ ],
+ "filtered_out": 200,
+ "note": ""
+}
