@@ -1,0 +1,385 @@
+{
+ "schema": 2,
+ "date": "2026-11-05",
+ "type": "daily",
+ "headline": "האיזון הפוליטי בישראל נותר פתוח: המפלגות מתחילות להמליץ לנשיא על המועמד להרכבת הממשלה, ובארה\"ב הדמוקרטים משתלטים לפי הדיווחים על הקונגרס.",
+ "events": [
+  {
+   "id": "coalition-building-after-election",
+   "title": "הקמת ממשלה: רע\"ם וישראל ביתנו המליצו על איזנקוט, זהות על נתניהו, דגל התורה לא תמליץ; הנשיא פתח בהתייעצויות",
+   "summary": "לפי ynet ווואלה, רע\"ם וישראל ביתנו המליצו על גדי איזנקוט להרכבת הממשלה, וסיעת זהות המליצה על נתניהו. לפי ynet ווואלה, דגל התורה לא תמליץ על אף מועמד, ולפי ynet מועצת ש\"ס החליטה שדרעי יישאר יו\"ר המפלגה. לפי מעריב וישראל היום, נתניהו פרסם סרטון וקרא לממשלה לאומית רחבה בראשותו, ולפי ynet אמר שממשלה התלויה במפלגות הנתמכות בטרור לא תוכל להתמודד עם האתגרים. לפי BBC, NYT ואל-ג'זירה, הנשיא הרצוג פתח בהתייעצויות עם המפלגות; ולפי ynet ווואלה מפלגת ישר! השלימה סבב מו\"מ ראשון עם מפלגות גוש השינוי.",
+   "why": "ההמלצות לנשיא קובעות מי יקבל את המנדט להרכבת הממשלה, ומערכת הבחירות נותרה ללא הכרעה ברורה.",
+   "change": "נוספו המלצות רע\"ם, ישראל ביתנו וזהות, החלטת דגל התורה לא להמליץ, פתיחת התייעצויות הנשיא ופנייתו של נתניהו לממשלה רחבה.",
+   "next": "המשך ההתייעצויות בבית הנשיא והחלטה למי יוענק המנדט.",
+   "status": "VERIFIED",
+   "importance": 5,
+   "categories": [
+    "politics"
+   ],
+   "kind": "negotiation",
+   "entities": [
+    "בחירות 2026",
+    "נתניהו",
+    "הקמת ממשלה",
+    "איזנקוט"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383960121",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383960126",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383960133",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1384984",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/politics/article/21783436",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/hjte21ttmx",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/hyb661k6ze",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/b1700jbttzx",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383960137",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1384994",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/politics/article/21783560",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/politics/article/21782442",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383960122",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/bkwx1lkazg",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383960129",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/ryj8a1y6fl",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "NYT",
+     "url": "https://www.nytimes.com/2026/11/04/world/middleeast/israel-herzog-netanyahu-government.html",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/5/israels-herzog-accepts-vote-results-opens-talks-on-forming-a-government?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 6,
+   "firstSeen": "2026-10-29",
+   "lastUpdated": "2026-11-05"
+  },
+  {
+   "id": "foreign-election-interference-probe",
+   "title": "חקירת החשד למימון זר בבחירות: בכירי להב 433 והשב\"כ ייפגשו לראשונה",
+   "summary": "לפי מעריב וישראל היום, בכירים בלהב 433 ובשב\"כ ייפגשו מחר במסגרת חקירת החשד למימון זר בבחירות. לפי ישראל היום זו הפגישה הראשונה בין הגופים בפרשה.",
+   "why": "החקירה נוגעת לחשד להתערבות זרה בבחירות, ולשיתוף הפעולה בין המשטרה לשב\"כ בה יש השלכה על התקדמותה.",
+   "change": "נקבעה פגישה ראשונה בין בכירי להב 433 לשב\"כ.",
+   "next": "תוצאות הפגישה והמשך החקירה.",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "politics",
+    "law",
+    "security"
+   ],
+   "kind": "event",
+   "entities": [
+    "בחירות 2026",
+    "מימון זר",
+    "שב\"כ"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1384989",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/politics/article/21783745",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-10-29",
+   "lastUpdated": "2026-11-05"
+  },
+  {
+   "id": "us-sanctions-iran-missile-network",
+   "title": "ארה\"ב הטילה סנקציות על רשת בינלאומית שסייעה לאיראן לרכוש טילי כתף מסין",
+   "summary": "לפי ynet ווואלה, ארה\"ב הטילה סנקציות על חברות ורשת בינלאומית שסייעו לאיראן לרכוש טילי כתף מסין.",
+   "why": "הסנקציות משקפות המשך הלחץ האמריקני על איראן ועל הרכש הצבאי שלה, בצל המתיחות המתמשכת בין המדינות.",
+   "change": "",
+   "next": "המשך צעדים אמריקניים מול איראן.",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "security",
+    "israel_world"
+   ],
+   "kind": "decision",
+   "entities": [
+    "איראן",
+    "ארה\"ב",
+    "סנקציות"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383960128",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/rkeptsfpgg",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-11-05",
+   "lastUpdated": "2026-11-05"
+  },
+  {
+   "id": "trump-iran-strike-plans",
+   "title": "טראמפ: המלחמה באיראן פגעה ברפובליקנים אך \"הייתי עושה זאת שוב\"; במעריב: בישראל מעריכים שמהלך אמריקני מול איראן קרוב",
+   "summary": "לפי וואלה, טראמפ הודה שהמלחמה באיראן פגעה ברפובליקנים בבחירות והוסיף \"הייתי עושה זאת שוב\". לפי מעריב, בישראל מעריכים שמהלך צבאי של ארה\"ב מול איראן הוא עניין של ימים. הערכה זו לא אושרה רשמית.",
+   "why": "האפשרות לחידוש תקיפה אמריקנית באיראן משפיעה ישירות על הביטחון והכלכלה של ישראל והאזור.",
+   "change": "טראמפ אמר שהיה עושה זאת שוב; לפי מעריב קיימת בישראל הערכה שמהלך צבאי קרוב.",
+   "next": "האם ארה\"ב תפעל צבאית מול איראן.",
+   "status": "REPORTED",
+   "importance": 4,
+   "categories": [
+    "security",
+    "israel_world"
+   ],
+   "kind": "statement",
+   "entities": [
+    "איראן",
+    "טראמפ",
+    "מצר הורמוז"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383960131",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1385052",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-10-08",
+   "lastUpdated": "2026-11-05"
+  },
+  {
+   "id": "us-midterm-elections-2026",
+   "title": "בחירות האמצע בארה\"ב: לפי אל-ג'זירה הדמוקרטים השתלטו על הקונגרס",
+   "summary": "לפי אל-ג'זירה, הדמוקרטים נחלו ניצחונות בבחירות האמצע בארה\"ב והשתלטו על הקונגרס, ומתכחשי בחירות הפסידו במירוצים לתפקיד מושל במדינות מפתח. אל-ג'זירה מדווחת גם שחלק מהמירוצים טרם הוכרעו, ושהאופוזיציה בישראל תקפה את נתניהו בעקבות התוצאות.",
+   "why": "שינוי בהרכב הקונגרס עשוי להשפיע על מדיניות החוץ של ארה\"ב כלפי ישראל ואיראן.",
+   "change": "לפי אל-ג'זירה התוצאות הצביעו על שליטה דמוקרטית בקונגרס, לעומת דיווח קודם על הובלה.",
+   "next": "הכרעת מירוצים שנותרו פתוחים.",
+   "status": "REPORTED",
+   "importance": 4,
+   "categories": [
+    "israel_world",
+    "world",
+    "politics"
+   ],
+   "kind": "event",
+   "entities": [
+    "ארה\"ב",
+    "טראמפ",
+    "בחירות האמצע"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/key-moments-as-democrats-sweep-to-victories-in-us-midterms?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/social-media-reacts-to-democrats-takeover-of-us-congress?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/5/election-deniers-lose-races-for-governor-in-key-us-swing-states?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 1,
+   "firstSeen": "2026-11-04",
+   "lastUpdated": "2026-11-05"
+  },
+  {
+   "id": "israel-stormy-weather-weekend",
+   "title": "תחזית: סופות רעמים ושיטפונות צפויים בסוף השבוע",
+   "summary": "לפי ynet, וואלה ומעריב, הגשם חוזר לצפון, מלווה בסופות רעמים. לפי ynet צפויות הצפות משמעותיות בסוף השבוע, ולפי מעריב קיים חשש לשיבושים.",
+   "why": "מזג אוויר קיצוני עלול לפגוע בתנועה ובבטיחות הציבור.",
+   "change": "",
+   "next": "סוף השבוע: התחזיות והתרעות שירות המטאורולוגי.",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "society"
+   ],
+   "kind": "event",
+   "entities": [
+    "מזג אוויר"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383960160",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/b1dkekfafe",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1385076",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-11-05",
+   "lastUpdated": "2026-11-05"
+  }
+ ],
+ "unverified": [
+  {
+   "id": "hegseth-firing-report",
+   "title": "על פי דיווח בארה\"ב: טראמפ שוקל לפטר את שר ההגנה הגסת'; טראמפ הכחיש",
+   "summary": "על פי דיווח בארה\"ב שהובא ב-ynet, טראמפ שוקל לפטר את שר ההגנה הגסת'. לפי ynet, טראמפ הכחיש את הדיווח ואמר שאינו שוקל זאת.",
+   "why": "שינוי בראש מערכת הביטחון האמריקנית עשוי להשפיע על המדיניות מול איראן ועל הסיוע לישראל.",
+   "change": "",
+   "next": "",
+   "status": "CONFLICTING",
+   "importance": 4,
+   "categories": [
+    "security",
+    "israel_world",
+    "politics"
+   ],
+   "kind": "statement",
+   "entities": [
+    "ארה\"ב",
+    "טראמפ"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/h1t2byfpme",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/b1w4qek6fx",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 1,
+   "firstSeen": "2026-11-05",
+   "lastUpdated": "2026-11-05"
+  }
+ ],
+ "filtered_out": 220,
+ "note": ""
+}

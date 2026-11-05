@@ -2,26 +2,6 @@
  "date": "2026-11-05",
  "articles": [
   {
-   "source": "NYT",
-   "outlet": "NYT",
-   "title": "A Test for Israeli Democracy: Should Jews Ask Arabs to Join the Government?",
-   "url": "https://www.nytimes.com/2026/11/03/world/middleeast/israel-coalition-arab-lawmakers.html",
-   "summary": "Arab lawmakers give opponents of Benjamin Netanyahu a clear majority in the Parliament. But many Jewish lawmakers are trying to avoid relying on them.",
-   "time": "2026-11-04T01:48:41+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
-   "source": "NYT",
-   "outlet": "NYT",
-   "title": "As Trump’s Midterm Deadline Looms, Gulf Countries Brace for Possible Renewal of Iran War",
-   "url": "https://www.nytimes.com/2026/11/03/world/middleeast/trump-iran-war-midterms-election.html",
-   "summary": "The energy-rich Gulf Arab countries are engaged in a flurry of mediation efforts to avert war between the U.S. and Iran, as many fear that the fighting will be worse this time around.",
-   "time": "2026-11-04T03:39:11+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
    "source": "Guardian",
    "outlet": "Guardian",
    "title": "Israel’s election commission rejects Netanyahu claims of voting fraud",
@@ -3062,7 +3042,7 @@
    "type": "reporting"
   }
  ],
- "updated": "2026-11-05T06:54:55.926666+00:00",
+ "updated": "2026-11-05T17:01:54.972216+00:00",
  "clusters": [
   {
    "id": "2ae534dee5",
@@ -3199,7 +3179,7 @@
    ]
   },
   {
-   "id": "6bd3288181",
+   "id": "cc4a4a4d0e",
    "title": "Iran unveils ‘We will kill Trump’ banner – but US president may now be tempted to resume bombing",
    "sourceCount": 3,
    "outlets": [
@@ -3209,19 +3189,11 @@
    ],
    "bestTier": 2,
    "hasOfficial": false,
-   "reportingCount": 9,
+   "reportingCount": 8,
    "opinionOnly": false,
-   "firstSeen": "2026-11-04T03:39:11+00:00",
+   "firstSeen": "2026-11-04T14:07:17+00:00",
    "lastSeen": "2026-11-05T03:13:08+00:00",
    "articles": [
-    {
-     "source": "NYT",
-     "title": "As Trump’s Midterm Deadline Looms, Gulf Countries Brace for Possible Renewal of Iran War",
-     "url": "https://www.nytimes.com/2026/11/03/world/middleeast/trump-iran-war-midterms-election.html",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-11-04T03:39:11+00:00"
-    },
     {
      "source": "Guardian",
      "title": "Iran unveils ‘We will kill Trump’ banner – but US president may now be tempted to resume bombing",
@@ -4560,30 +4532,6 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-11-05T06:15:10+00:00"
-    }
-   ]
-  },
-  {
-   "id": "12e812c3d8",
-   "title": "A Test for Israeli Democracy: Should Jews Ask Arabs to Join the Government?",
-   "sourceCount": 1,
-   "outlets": [
-    "NYT"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-11-04T01:48:41+00:00",
-   "lastSeen": "2026-11-04T01:48:41+00:00",
-   "articles": [
-    {
-     "source": "NYT",
-     "title": "A Test for Israeli Democracy: Should Jews Ask Arabs to Join the Government?",
-     "url": "https://www.nytimes.com/2026/11/03/world/middleeast/israel-coalition-arab-lawmakers.html",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-11-04T01:48:41+00:00"
     }
    ]
   },
@@ -9245,8 +9193,8 @@
   }
  ],
  "stats": {
-  "articles": 306,
-  "clusters": 232,
+  "articles": 304,
+  "clusters": 231,
   "multiSource": 24
  }
 }
