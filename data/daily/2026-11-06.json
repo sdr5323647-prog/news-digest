@@ -1,0 +1,377 @@
+{
+ "schema": 2,
+ "date": "2026-11-06",
+ "type": "daily",
+ "headline": "הרצוג יכריז ביום ראשון על מי יוטל המנדט, טראמפ אומר שהחלטה על הרחבת הפעולה באיראן תתקבל בקרוב, וימאי נהרג במכלית במפרץ.",
+ "events": [
+  {
+   "id": "coalition-building-after-election",
+   "title": "הרצוג סיים את ההתייעצויות ויכריז ביום ראשון על מי יוטל המנדט",
+   "summary": "נשיא המדינה יצחק הרצוג סיים את סבב ההתייעצויות עם המפלגות. לפי מעריב, 67 חברי כנסת המליצו על איזנקוט ו-46 על נתניהו. הרצוג הודיע שביום ראשון יכריז על מי הוא מטיל את המנדט להרכבת הממשלה. איזנקוט אמר כי חלה התקדמות במגעים להקמת ממשלת חירום על בסיס ארבע מפלגות גוש השינוי.",
+   "why": "ההכרעה על המנדט תקבע מי ינסה להקים את הממשלה הבאה.",
+   "change": "הסתיים סבב ההתייעצויות בבית הנשיא; הרצוג קבע מועד להכרזה על המנדט.",
+   "next": "ביום ראשון: הכרזת הנשיא על מי יוטל המנדט.",
+   "status": "VERIFIED",
+   "importance": 5,
+   "categories": [
+    "politics"
+   ],
+   "kind": "decision",
+   "entities": [
+    "בחירות 2026",
+    "נתניהו",
+    "הקמת ממשלה",
+    "איזנקוט"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1385460",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/b100faicpfx",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383960349",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-10-29",
+   "lastUpdated": "2026-11-06"
+  },
+  {
+   "id": "trump-ends-israel-aid-claim",
+   "title": "הרצוג ונתניהו מגיבים להפסקת הסיוע הצבאי האמריקני",
+   "summary": "הרצוג אמר כי נושא הפסקת הסיוע האמריקני, בהיקף של כ-4 מיליארד ש\"ח בשנה, \"נפל עליו כרעם ביום בהיר\" ומדאיג אותו. משרד ראש הממשלה מסר, לפי ynet וישראל היום, כי ישראל \"עוברת מסיוע לשותפות\".",
+   "why": "הפסקת סיוע ביטחוני אמריקני עשויה להשפיע על תקציב הביטחון וסדרי העדיפויות של ישראל.",
+   "change": "תגובה ראשונה של הנשיא ושל משרד ראש הממשלה להודעה על הפסקת הסיוע.",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "security",
+    "politics",
+    "israel_world"
+   ],
+   "kind": "statement",
+   "entities": [
+    "ארה\"ב",
+    "טראמפ",
+    "נתניהו",
+    "סיוע ביטחוני"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1385435",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/bjgaazjpgx",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21793788",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-11-04",
+   "lastUpdated": "2026-11-06"
+  },
+  {
+   "id": "trump-iran-strike-plans",
+   "title": "טראמפ: שוקלים להרחיב את הפעולה הצבאית באיראן",
+   "summary": "לפי וואלה, טראמפ אמר כי הממשל שוקל אם ללכת רחוק יותר מול איראן, וכי \"תדעו בקרוב מאוד\". לדבריו, הוא מעדיף לא להרוס את מה שנותר מהמדינה, אך ייתכן שיצטרך. לפי ישראל היום, טרם הוחלט כיצד להמשיך.",
+   "why": "החלטה אמריקנית על חידוש התקיפות באיראן תשפיע ישירות על הביטחון באזור ובישראל.",
+   "change": "הצהרה חדשה של טראמפ על שקילת הרחבת הפעולה; טרם התקבלה החלטה.",
+   "next": "החלטה אמריקנית, שטראמפ אמר כי תיוודע בקרוב.",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "security",
+    "israel_world"
+   ],
+   "kind": "statement",
+   "entities": [
+    "איראן",
+    "טראמפ",
+    "מצר הורמוז"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383960289",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21792323",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1385503",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-10-08",
+   "lastUpdated": "2026-11-06"
+  },
+  {
+   "id": "gulf-tanker-missile-strike",
+   "title": "ימאי נהרג בפיצוץ במכלית יוונית במפרץ הפרסי; חשד לפגיעת טיל",
+   "summary": "לפי וואלה, מעריב ו-ynet, איש צוות נהרג בפיצוץ שאירע במכלית נפט יוונית במפרץ הפרסי. הדיווחים מציינים חשד לפגיעת טיל, וב-ynet נכתב כי ככל הנראה המכלית נפגעה מתקיפת טילים. לא פורסם מי אחראי.",
+   "why": "פגיעה בספנות במפרץ מעידה על המשך המתיחות באזור ועלולה להשפיע על שווקי האנרגיה.",
+   "change": "",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "security",
+    "world"
+   ],
+   "kind": "event",
+   "entities": [
+    "מפרץ פרסי",
+    "איראן"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383960348",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1385663",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/b1qhh8j6ge",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-11-06",
+   "lastUpdated": "2026-11-06"
+  },
+  {
+   "id": "foreign-election-interference-probe",
+   "title": "צוות משותף של שב\"כ ומשטרה התכנס לראשונה בחקירת החשד לשוחד בחירות",
+   "summary": "לפי מעריב ווואלה, הצוות המשותף של שב\"כ, משטרה ופרקליטות התכנס לראשונה בפרשת החשד לשוחד ממדינות זרות. ראש אגף החקירות במשטרה הבהיר כי כל חומר שיועבר לשב\"כ יעבור קודם דרך לשכתו.",
+   "why": "החקירה נוגעת לחשד להשפעה זרה על הבחירות ולחלוקת הסמכויות בין שב\"כ למשטרה.",
+   "change": "הצוות המשותף התכנס לראשונה; ראש אגף החקירות הגדיר נוהל להעברת חומר לשב\"כ.",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "politics",
+    "law",
+    "security"
+   ],
+   "kind": "legal",
+   "entities": [
+    "בחירות 2026",
+    "מימון זר",
+    "שב\"כ"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1385426",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383960315",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/hyddcwipml",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-10-29",
+   "lastUpdated": "2026-11-06"
+  },
+  {
+   "id": "haredi-protest-deserter-arrests",
+   "title": "הפגנות חרדים בירושלים במחאה על מעצר עריקים; נעצר חשוד ביידוי אבנים",
+   "summary": "לפי ynet ווואלה, מפגינים חרדים חסמו את שדרות בר לב בירושלים במחאה על מעצר עריקים. דווח על יידוי אבנים לעבר שוטרים ורכבים, ונער בן 17 נעצר בחשד ליידוי אבנים.",
+   "why": "המחאה משקפת את המתח סביב גיוס חרדים, נושא מרכזי בבניית הקואליציה.",
+   "change": "",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "society",
+    "politics"
+   ],
+   "kind": "event",
+   "entities": [
+    "גיוס חרדים",
+    "ירושלים"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/bjdxyd5tgx",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383960283",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-11-06",
+   "lastUpdated": "2026-11-06"
+  },
+  {
+   "id": "ravilo-comptroller-withdrawal",
+   "title": "ראבילו הסיר את מועמדותו לתפקיד מבקר המדינה",
+   "summary": "עו\"ד מיכאל ראבילו, מועמדו של נתניהו לתפקיד מבקר המדינה, הודיע לפי וואלה ו-ynet שלא יתמודד שוב על התפקיד.",
+   "why": "הליך בחירת מבקר המדינה בכנסת נמשך ללא מועמד מוסכם.",
+   "change": "",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "politics",
+    "law"
+   ],
+   "kind": "decision",
+   "entities": [
+    "מבקר המדינה",
+    "נתניהו"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383960330",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/rjteoqipfe",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-11-06",
+   "lastUpdated": "2026-11-06"
+  },
+  {
+   "id": "nasdaq-ai-selloff",
+   "title": "הנאסד\"ק ירד בכ-5% על רקע חשש מהחמרת הרגולציה על חוות שרתים",
+   "summary": "לפי ישראל היום, מדד הנאסד\"ק איבד כ-5%, אנבידיה ירדה בכ-8% ו-AMD בכ-16%. לפי הדיווח, המשקיעים חוששים מהחמרת הרגולציה על הקמת חוות שרתים ומעיכובים בפרויקטי תשתית לבינה מלאכותית, בעקבות בחירות האמצע.",
+   "why": "ירידה חדה בחברות השבבים משפיעה על שוקי ההון ועל חברות טכנולוגיה בישראל.",
+   "change": "",
+   "next": "",
+   "status": "REPORTED",
+   "importance": 3,
+   "categories": [
+    "economy",
+    "tech"
+   ],
+   "kind": "data",
+   "entities": [
+    "וול סטריט",
+    "בחירות האמצע"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/business/article/21791573",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 1,
+   "firstSeen": "2026-11-06",
+   "lastUpdated": "2026-11-06"
+  }
+ ],
+ "unverified": [
+  {
+   "id": "irgc-us-drone-claim",
+   "title": "משמרות המהפכה טוענים כי הפילו כטב\"ם אמריקני באזור האי קשם",
+   "summary": "על פי הודעה של משמרות המהפכה, שדווחה במעריב וב-ynet, הופל כטב\"ם אמריקני באזור האי קשם. הטענה לא אומתה ממקור עצמאי.",
+   "why": "טענה על עימות ישיר עם כוחות אמריקניים עלולה להחריף את המתיחות מול איראן.",
+   "change": "",
+   "next": "",
+   "status": "CLAIM",
+   "importance": 4,
+   "categories": [
+    "security",
+    "israel_world"
+   ],
+   "kind": "statement",
+   "entities": [
+    "איראן",
+    "משמרות המהפכה",
+    "ארה\"ב"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1385664",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/sjwh1vi6ze",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-11-06",
+   "lastUpdated": "2026-11-06"
+  }
+ ],
+ "filtered_out": 339,
+ "note": ""
+}
