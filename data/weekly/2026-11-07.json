@@ -1,0 +1,438 @@
+{
+  "schema": 2,
+  "date": "2026-11-07",
+  "type": "weekly",
+  "headline": "השבוע: בחירות בלי הכרעה והמתנה להחלטת הרצוג, מגעים מול איראן לצד איומים בהרחבת הפעולה, הדמוקרטים השתלטו על הקונגרס האמריקני, וסערה בסוף השבוע.",
+  "events": [
+    {
+      "id": "coalition-building-after-election",
+      "title": "אחרי בחירות ללא הכרעה: סבב ההתייעצויות הסתיים והרצוג צפוי להכריז על המנדט",
+      "summary": "הבחירות לכנסת הסתיימו בלי רוב ל-61 מנדטים לאף גוש, וועדת הבחירות הודיעה כי הבקרה לא העלתה ממצאים על פגיעה בטוהר הבחירות. נשיא המדינה סיים את ההתייעצויות עם המפלגות, ולפי מעריב 67 חברי כנסת המליצו על איזנקוט ו-46 על נתניהו. הרצוג צפוי להכריז ביום ראשון על מי יוטל המנדט.",
+      "why": "ההכרעה תקבע מי ינסה להקים את הממשלה הבאה ועלולה להוביל לבחירות חוזרות.",
+      "change": "סבב ההתייעצויות הסתיים וההכרעה על המנדט צפויה ביום ראשון.",
+      "next": "הכרזת הנשיא על מי יוטל המנדט.",
+      "status": "VERIFIED",
+      "importance": 5,
+      "categories": [
+        "politics"
+      ],
+      "kind": "decision",
+      "entities": [
+        "בחירות 2026",
+        "נתניהו",
+        "הקמת ממשלה",
+        "איזנקוט"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "NYT",
+          "url": "https://www.nytimes.com/2026/11/06/world/middleeast/israel-election-government-herzog.html",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/7/president-herzog-faces-key-choice-as-israel-struggles-to-form-government",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 2,
+      "firstSeen": "2026-10-29",
+      "lastUpdated": "2026-11-07"
+    },
+    {
+      "id": "trump-iran-strike-plans",
+      "title": "המתיחות מול איראן: טראמפ שוקל הרחבת הפעולה, ובמקביל נמשכים המגעים בתיווך קטאר",
+      "summary": "במהלך השבוע אמר הנשיא טראמפ כי הממשל שוקל אם להרחיב את הפעולה מול איראן. בסוף השבוע מסרה קטאר כי ארה\"ב ואיראן טרם הגיעו ל\"הסכם מלא\" וכי המגעים נמשכים. ארה\"ב הטילה סנקציות על רשתות שסייעו לאיראן והציעה פרס של עד 20 מיליון דולר על מידע על תוכנית הגרעין. איראן טוענת לאירועים בהורמוז ובאי קשם שלא אומתו מצד שלישי.",
+      "why": "ההכרעה בין הסכם להרחבת הלחימה משפיעה ישירות על ביטחון ישראל ועל שוק האנרגיה.",
+      "change": "מגעים נמשכים ללא הסכם מלא, לצד לחץ אמריקני ואיומים על הרחבת הפעולה.",
+      "next": "החלטה אמריקנית על הרחבת הפעולה או על הסכם.",
+      "status": "VERIFIED",
+      "importance": 5,
+      "categories": [
+        "security",
+        "israel_world"
+      ],
+      "kind": "statement",
+      "entities": [
+        "איראן",
+        "טראמפ",
+        "מצר הורמוז"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "וואלה",
+          "url": "https://www.walla.co.il/news/breaking-news/383960289",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21792323",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "מעריב",
+          "url": "https://www.maariv.co.il/breaking-news/article-1385503",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 3,
+      "firstSeen": "2026-10-08",
+      "lastUpdated": "2026-11-07"
+    },
+    {
+      "id": "us-midterm-elections-2026",
+      "title": "בחירות האמצע בארה\"ב: הדמוקרטים השתלטו על הקונגרס",
+      "summary": "לפי אל-ג'זירה, הדמוקרטים נחלו ניצחונות בבחירות האמצע בארה\"ב והשתלטו על הקונגרס. בהמשך השבוע מינה טראמפ את סטיבן מילר לראש הסגל במקום סוזי וויילס.",
+      "why": "שינוי במאזן הכוחות בוושינגטון עשוי להשפיע על מדיניות הסיוע והמדיניות כלפי ישראל.",
+      "change": "הדמוקרטים השתלטו על הקונגרס וטראמפ החליף את ראש הסגל.",
+      "next": "",
+      "status": "REPORTED",
+      "importance": 4,
+      "categories": [
+        "israel_world",
+        "world",
+        "politics"
+      ],
+      "kind": "event",
+      "entities": [
+        "ארה\"ב",
+        "טראמפ",
+        "בחירות האמצע"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/key-moments-as-democrats-sweep-to-victories-in-us-midterms?traffic_source=rss",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/social-media-reacts-to-democrats-takeover-of-us-congress?traffic_source=rss",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/5/election-deniers-lose-races-for-governor-in-key-us-swing-states?traffic_source=rss",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 1,
+      "firstSeen": "2026-11-04",
+      "lastUpdated": "2026-11-07"
+    },
+    {
+      "id": "trump-ends-israel-aid-claim",
+      "title": "הפסקת הסיוע הצבאי האמריקני: הרצוג ונתניהו מגיבים",
+      "summary": "הרצוג אמר כי נושא הפסקת הסיוע האמריקני, בהיקף של כ-4 מיליארד ש\"ח בשנה, נפל עליו כרעם ביום בהיר ומדאיג אותו. נתניהו והרצוג הגיבו לנושא במהלך השבוע.",
+      "why": "הפסקת סיוע ביטחוני תשפיע על תקציב הביטחון ועל היחסים עם ארה\"ב.",
+      "change": "התגובות בישראל לנושא הסיוע התפרסמו לקראת סוף השבוע.",
+      "next": "",
+      "status": "VERIFIED",
+      "importance": 4,
+      "categories": [
+        "security",
+        "politics",
+        "israel_world"
+      ],
+      "kind": "statement",
+      "entities": [
+        "ארה\"ב",
+        "טראמפ",
+        "נתניהו",
+        "סיוע ביטחוני"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "מעריב",
+          "url": "https://www.maariv.co.il/breaking-news/article-1385435",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/bjgaazjpgx",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21793788",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 3,
+      "firstSeen": "2026-11-04",
+      "lastUpdated": "2026-11-07"
+    },
+    {
+      "id": "foreign-election-interference-probe",
+      "title": "חשד לשוחד בחירות ממדינות זרות: צוות משותף של שב\"כ, משטרה ופרקליטות החל לחקור",
+      "summary": "הצוות המשותף של שב\"כ, משטרה ופרקליטות התכנס לראשונה בפרשת החשד לשוחד ממדינות זרות בבחירות. במקביל הוסרו המגבלות על אחד החשודים בפרשת השוחד ברע\"ם, לפי ישראל היום וב-וואלה.",
+      "why": "חשד להתערבות זרה בבחירות נוגע לטוהר ההליך הדמוקרטי.",
+      "change": "הצוות החקירתי המשותף התחיל לפעול.",
+      "next": "המשך החקירה.",
+      "status": "VERIFIED",
+      "importance": 4,
+      "categories": [
+        "politics",
+        "law",
+        "security"
+      ],
+      "kind": "legal",
+      "entities": [
+        "בחירות 2026",
+        "מימון זר",
+        "שב\"כ"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "מעריב",
+          "url": "https://www.maariv.co.il/breaking-news/article-1385426",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "וואלה",
+          "url": "https://www.walla.co.il/news/breaking-news/383960315",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/hyddcwipml",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 3,
+      "firstSeen": "2026-10-29",
+      "lastUpdated": "2026-11-07"
+    },
+    {
+      "id": "high-court-state-comptroller-ohana",
+      "title": "בחירת מבקר המדינה: בג\"ץ דחה את העתירה, ומועמד נתניהו ראבילו פרש",
+      "summary": "בג\"ץ דחה את העתירה שדרשה לקיים מחדש את הבחירות למבקר המדינה, אך השופטים מתחו ביקורת חריפה. לאחר מכן הודיע עו\"ד מיכאל ראבילו, מועמדו של נתניהו, כי לא יתמודד שוב על התפקיד.",
+      "why": "זהות מבקר המדינה משפיעה על הפיקוח על הממשלה.",
+      "change": "בג\"ץ דחה את העתירה וראבילו הסיר את מועמדותו.",
+      "next": "",
+      "status": "VERIFIED",
+      "importance": 3,
+      "categories": [
+        "law",
+        "politics"
+      ],
+      "kind": "legal",
+      "entities": [
+        "בג\"ץ",
+        "אמיר אוחנה",
+        "מבקר המדינה"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/rjmc7qvaze",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "מעריב",
+          "url": "https://www.maariv.co.il/breaking-news/article-1384555",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "וואלה",
+          "url": "https://www.walla.co.il/news/breaking-news/383959994",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/news/law/article/21772666",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 4,
+      "firstSeen": "2026-11-04",
+      "lastUpdated": "2026-11-07"
+    },
+    {
+      "id": "haredi-protest-deserter-arrests",
+      "title": "מחאות חרדים על מעצר עריקים: חסימות ויידוי אבנים בבית שמש ובירושלים",
+      "summary": "במהלך השבוע התקיימו הפגנות חרדים בבית שמש ובירושלים במחאה על מעצר עריקים. לפי ynet וישראל היום, הושלכו רימוני הלם בבית שמש ונחסמו כבישים בירושלים, ונעצר חשוד ביידוי אבנים.",
+      "why": "המחאות משקפות את המשבר סביב גיוס חרדים, שמשפיע גם על המו\"מ הקואליציוני.",
+      "change": "מחאות חוזרות בבית שמש ובירושלים.",
+      "next": "",
+      "status": "VERIFIED",
+      "importance": 3,
+      "categories": [
+        "society",
+        "politics"
+      ],
+      "kind": "event",
+      "entities": [
+        "גיוס חרדים",
+        "ירושלים"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/bjdxyd5tgx",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "וואלה",
+          "url": "https://www.walla.co.il/news/breaking-news/383960283",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 2,
+      "firstSeen": "2026-11-06",
+      "lastUpdated": "2026-11-07"
+    },
+    {
+      "id": "gulf-tanker-missile-strike",
+      "title": "ימאי נהרג בפיצוץ במכלית נפט יוונית במפרץ הפרסי",
+      "summary": "לפי וואלה, מעריב ו-ynet, איש צוות נהרג בפיצוץ במכלית נפט יוונית במפרץ הפרסי, ויש חשד לפגיעת טיל. בהמשך מסרה איראן כי מכלית נפגעה ממוקש במצר הורמוז, טענה שלא אומתה.",
+      "why": "פגיעה בשיט באזור משפיעה על שוק האנרגיה ועל המתיחות מול איראן.",
+      "change": "נרשמה פגיעה נוספת בשיט באזור, לפי איראן.",
+      "next": "",
+      "status": "VERIFIED",
+      "importance": 4,
+      "categories": [
+        "security",
+        "world"
+      ],
+      "kind": "event",
+      "entities": [
+        "מפרץ פרסי",
+        "איראן"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "וואלה",
+          "url": "https://www.walla.co.il/news/breaking-news/383960348",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "מעריב",
+          "url": "https://www.maariv.co.il/breaking-news/article-1385663",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/b1qhh8j6ge",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 3,
+      "firstSeen": "2026-11-06",
+      "lastUpdated": "2026-11-07"
+    },
+    {
+      "id": "nasdaq-ai-selloff",
+      "title": "ירידות בוול סטריט: הנאסד\"ק איבד כ-5% על רקע חשש מרגולציה בתחום הבינה המלאכותית",
+      "summary": "לפי ישראל היום, הנאסד\"ק איבד כ-5%, אנבידיה ירדה בכ-8% ו-AMD בכ-16%, על רקע חשש מהחמרת הרגולציה. בשוק הישראלי נרשמה בתחילת השבוע תנודתיות בעקבות אי-הוודאות הפוליטית.",
+      "why": "תנודות בשווקים בארה\"ב ובישראל משפיעות על חסכונות ועל המשק.",
+      "change": "ירידה חדה בנאסד\"ק לקראת סוף השבוע.",
+      "next": "",
+      "status": "REPORTED",
+      "importance": 3,
+      "categories": [
+        "economy",
+        "tech"
+      ],
+      "kind": "data",
+      "entities": [
+        "וול סטריט",
+        "בחירות האמצע"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/business/article/21791573",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 1,
+      "firstSeen": "2026-11-06",
+      "lastUpdated": "2026-11-07"
+    },
+    {
+      "id": "israel-stormy-weather-weekend",
+      "title": "סערה בישראל: הצפות, חסימת כביש 90 ואזהרת רחצה",
+      "summary": "ביום האחרון של השבוע נחסם כביש 90 באזור ים המלח ונפתח מחדש, נרשמו הצפות והפסקות חשמל באשדוד, ומשרד הבריאות פרסם אזהרת רחצה בשל חשש מזרימת מי ביוב.",
+      "why": "הצפות ואזהרת בריאות משפיעות על בטיחות הציבור ועל נסיעות.",
+      "change": "הסערה הגיעה לשיאה בסוף השבוע.",
+      "next": "מזג האוויר צפוי להישאר סוער.",
+      "status": "VERIFIED",
+      "importance": 3,
+      "categories": [
+        "society"
+      ],
+      "kind": "event",
+      "entities": [
+        "מזג אוויר",
+        "שטפונות"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/rj7jb00hpzl",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "מעריב",
+          "url": "https://www.maariv.co.il/breaking-news/article-1385809",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "וואלה",
+          "url": "https://www.walla.co.il/news/breaking-news/383960402",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/weather/article/21796732",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 4,
+      "firstSeen": "2026-11-05",
+      "lastUpdated": "2026-11-07"
+    }
+  ],
+  "unverified": [],
+  "filtered_out": 0,
+  "note": ""
+}

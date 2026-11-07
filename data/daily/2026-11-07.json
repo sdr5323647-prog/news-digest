@@ -1,0 +1,383 @@
+{
+  "schema": 2,
+  "date": "2026-11-07",
+  "type": "daily",
+  "headline": "הרצוג צפוי להכריע ביום ראשון על המנדט, המגעים בין ארה\"ב לאיראן נמשכים ללא הסכם מלא, וסערה בישראל גרמה לחסימות והצפות.",
+  "events": [
+    {
+      "id": "coalition-building-after-election",
+      "title": "הנשיא הרצוג ניצב בפני ההכרעה על מי יוטל המנדט להרכבת הממשלה",
+      "summary": "לפי ניו יורק טיימס ואל ג'זירה, אף גוש לא הגיע לרוב של 61 מנדטים, והנשיא הרצוג צריך להחליט מי יקבל את ההזדמנות הראשונה להקים ממשלה. הרצוג צפוי להכריז על החלטתו ביום ראשון, כפי שנמסר בימים האחרונים. בעיתונות הישראלית נסקרים השלבים והתרחישים האפשריים בדרך להרכבת הממשלה.",
+      "why": "ההכרעה תקבע מי ינסה להרכיב את הממשלה הבאה ועלולה להשפיע על הסיכוי לבחירות חוזרות.",
+      "change": "ההכרעה של הרצוג עדיין תלויה ועומדת; הסיקור הבינלאומי מדגיש את הקושי להרכיב ממשלה ללא רוב ברור.",
+      "next": "ביום ראשון: הכרזת הנשיא על מי יוטל המנדט.",
+      "status": "VERIFIED",
+      "importance": 5,
+      "categories": [
+        "politics"
+      ],
+      "kind": "decision",
+      "entities": [
+        "בחירות 2026",
+        "נתניהו",
+        "הקמת ממשלה",
+        "איזנקוט"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "NYT",
+          "url": "https://www.nytimes.com/2026/11/06/world/middleeast/israel-election-government-herzog.html",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/7/president-herzog-faces-key-choice-as-israel-struggles-to-form-government",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 2,
+      "firstSeen": "2026-10-29",
+      "lastUpdated": "2026-11-07"
+    },
+    {
+      "id": "us-iran-talks",
+      "title": "קטאר: ארה\"ב ואיראן טרם הגיעו ל\"הסכם מלא\"; לאחר מכן הבהירה כי המגעים נמשכים",
+      "summary": "לפי ynet, ראש ממשלת קטאר אמר כי ארה\"ב ואיראן לא הצליחו להגיע ל\"הסכם מלא\". בהמשך מסרה קטאר, לפי ynet ומעריב, כי דבריו עוותו וכי המגעים נמשכים בתיאום הדוק. הנשיא טראמפ אמר לכתבים, לפי ynet ומעריב, כי ארה\"ב מתקדמת מול איראן. ניסוחי הציטוט שלו שונים בין כלי התקשורת, ולכן אין לראות בהם ציטוט מדויק.",
+      "why": "המגעים קובעים אם הלחימה מול איראן תסתיים בהסכם או תתחדש, עם השלכות ביטחוניות וכלכליות על ישראל.",
+      "change": "קטאר אישרה ואז הבהירה כי אין עדיין הסכם מלא אך המגעים נמשכים; טראמפ מדבר על התקדמות.",
+      "next": "ייתכנו הודעות נוספות על הסכם או על החלטה אמריקנית על הרחבת הפעולה.",
+      "status": "VERIFIED",
+      "importance": 5,
+      "categories": [
+        "security",
+        "israel_world"
+      ],
+      "kind": "negotiation",
+      "entities": [
+        "איראן",
+        "טראמפ",
+        "ארה\"ב",
+        "קטאר"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/syrpkx3pmx",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "מעריב",
+          "url": "https://www.maariv.co.il/breaking-news/article-1385729",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21794027",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "וואלה",
+          "url": "https://www.walla.co.il/news/breaking-news/383960387",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 4,
+      "firstSeen": "2026-10-01",
+      "lastUpdated": "2026-11-07"
+    },
+    {
+      "id": "us-iran-sanctions-and-nuclear-reward",
+      "title": "ארה\"ב הטילה סנקציות על חברות שסייעו לאיראן, והציעה פרס של עד 20 מיליון דולר על מידע על תוכנית הגרעין",
+      "summary": "לפי וואלה ו-ynet, ארה\"ב הטילה סנקציות על שמונה חברות שסייעו לאיראן להעביר כספים ולעקוף סנקציות (הכותרות מתארות אותן כחברות קריפטו או כחברות קנדיות). לפי וואלה, מעריב וישראל היום, ארה\"ב גם הציעה פרס של עד 20 מיליון דולר תמורת מידע על תוכנית הגרעין האיראנית.",
+      "why": "לחץ כלכלי ומודיעיני מקביל למגעים עם איראן, בנושא שנוגע ישירות לביטחון ישראל.",
+      "change": "",
+      "next": "",
+      "status": "VERIFIED",
+      "importance": 3,
+      "categories": [
+        "security",
+        "israel_world",
+        "economy"
+      ],
+      "kind": "decision",
+      "entities": [
+        "איראן",
+        "ארה\"ב",
+        "סנקציות",
+        "תוכנית הגרעין האיראנית"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "וואלה",
+          "url": "https://www.walla.co.il/news/breaking-news/383960377",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/ryvngai6ge",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "מעריב",
+          "url": "https://www.maariv.co.il/breaking-news/article-1385747",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21797038",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 4,
+      "firstSeen": "2026-11-07",
+      "lastUpdated": "2026-11-07"
+    },
+    {
+      "id": "miller-chief-of-staff",
+      "title": "טראמפ מינה את סטיבן מילר לראש הסגל בבית הלבן במקום סוזי וויילס",
+      "summary": "הנשיא טראמפ הודיע כי סטיבן מילר, סגן ראש הסגל, יחליף את סוזי וויילס בתפקיד ראש הסגל. וויילס אמרה, לפי ynet, כי מחויבותה לטראמפ לא תשתנה. מנהיג הדמוקרטים בבית הנבחרים מתח ביקורת חריפה על המינוי.",
+      "why": "ראש הסגל מעצב את סדר היום של הממשל האמריקני, כולל מדיניות החוץ והביטחון מול ישראל ואיראן.",
+      "change": "",
+      "next": "",
+      "status": "VERIFIED",
+      "importance": 3,
+      "categories": [
+        "world",
+        "israel_world",
+        "politics"
+      ],
+      "kind": "decision",
+      "entities": [
+        "ארה\"ב",
+        "טראמפ",
+        "בית הלבן"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/6/trump-says-making-adviser-stephen-miller-white-house-chief-of-staff",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/rkilxsoazx",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "מעריב",
+          "url": "https://www.maariv.co.il/breaking-news/article-1385700",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "וואלה",
+          "url": "https://www.walla.co.il/news/breaking-news/383960370",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 4,
+      "firstSeen": "2026-11-07",
+      "lastUpdated": "2026-11-07"
+    },
+    {
+      "id": "israel-stormy-weather-weekend",
+      "title": "הסערה בישראל: כביש 90 נחסם ונפתח, הצפות בחלק מהאזורים ואזהרת רחצה מטעם משרד הבריאות",
+      "summary": "בשל חשש להצפות נחסם כביש 90 באזור ים המלח, ולפי מעריב נפתח מחדש לאחר שעות. לפי ישראל היום נרשמו הצפות והפסקות חשמל באשדוד, ושיא הסערה צפוי עוד לפני הסוף. משרד הבריאות הזהיר, לפי ynet, וואלה ומעריב, מרחצה בחופי הים עד להודעה חדשה, בשל חשש מזרימת מי ביוב.",
+      "why": "הצפות ואזהרת בריאות משפיעות על נסיעות ובטיחות הציבור.",
+      "change": "כביש 90 נחסם ונפתח, נרשמו הצפות והפסקות חשמל, ומשרד הבריאות פרסם אזהרת רחצה.",
+      "next": "לפי ישראל היום, שיא הסערה עוד צפוי.",
+      "status": "VERIFIED",
+      "importance": 3,
+      "categories": [
+        "society"
+      ],
+      "kind": "event",
+      "entities": [
+        "מזג אוויר",
+        "שטפונות"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/rj7jb00hpzl",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "מעריב",
+          "url": "https://www.maariv.co.il/breaking-news/article-1385809",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "וואלה",
+          "url": "https://www.walla.co.il/news/breaking-news/383960402",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/weather/article/21796732",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 4,
+      "firstSeen": "2026-11-05",
+      "lastUpdated": "2026-11-07"
+    }
+  ],
+  "unverified": [
+    {
+      "id": "irgc-us-drone-claim",
+      "title": "משמרות המהפכה טוענים כי הפילו כטב\"ם אמריקני באזור האי קשם",
+      "summary": "על פי משמרות המהפכה, כפי שדווח בוואלה, ynet ומעריב, הופל כטב\"ם אמריקני באזור האי קשם. גורמים באיראן דיווחו גם על קולות פיצוצים באי. הטענות לא אומתו ממקור עצמאי ולא פורסמה תגובה אמריקנית.",
+      "why": "טענה על עימות ישיר עם כוחות אמריקניים עלולה להחריף את המתיחות.",
+      "change": "דיווחים איראניים נוספים על פיצוצים באי קשם; הטענה עדיין לא אומתה.",
+      "next": "",
+      "status": "CLAIM",
+      "importance": 4,
+      "categories": [
+        "security",
+        "israel_world"
+      ],
+      "kind": "statement",
+      "entities": [
+        "איראן",
+        "משמרות המהפכה",
+        "ארה\"ב"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/sjwh1vi6ze",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "מעריב",
+          "url": "https://www.maariv.co.il/breaking-news/article-1385726",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "וואלה",
+          "url": "https://www.walla.co.il/news/breaking-news/383960380",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 3,
+      "firstSeen": "2026-11-06",
+      "lastUpdated": "2026-11-07"
+    },
+    {
+      "id": "hormuz-tanker-mine-claim",
+      "title": "איראן טוענת: מכלית נפט פגעה במוקש ימי במצר הורמוז",
+      "summary": "על פי גורמים באיראן, כפי שדווח בוואלה, מעריב ו-ynet, מכלית נפט פגעה במוקש ימי במצר הורמוז ועלתה באש. הפרטים לא אומתו ממקור עצמאי.",
+      "why": "פגיעה בנתיב השיט בהורמוז משפיעה על שוק האנרגיה ועל המתיחות האזורית.",
+      "change": "",
+      "next": "",
+      "status": "CLAIM",
+      "importance": 4,
+      "categories": [
+        "security",
+        "economy",
+        "world"
+      ],
+      "kind": "event",
+      "entities": [
+        "מצר הורמוז",
+        "איראן"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "וואלה",
+          "url": "https://www.walla.co.il/news/breaking-news/383960400",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "מעריב",
+          "url": "https://www.maariv.co.il/breaking-news/article-1385804",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/rkztw00nage",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 3,
+      "firstSeen": "2026-11-07",
+      "lastUpdated": "2026-11-07"
+    },
+    {
+      "id": "saudi-riyadh-interception-claim",
+      "title": "סעודיה טוענת כי יירטה כטב\"ם או טיל שיוט באזור ריאד; הדיווחים סותרים בפרטים",
+      "summary": "לפי הודעה סעודית שדווחה במעריב וב-ynet, יורט כטב\"ם באזור ריאד. וואלה מדווח כי יורט טיל שיוט של החות'ים. הסתירה בין הדיווחים נוגעת לסוג האיום ולאחראי לו, ולא אומתה ממקור עצמאי.",
+      "why": "תקיפה על בירת סעודיה מעידה על התרחבות המתיחות באזור.",
+      "change": "",
+      "next": "",
+      "status": "CONFLICTING",
+      "importance": 3,
+      "categories": [
+        "security",
+        "world"
+      ],
+      "kind": "event",
+      "entities": [
+        "סעודיה",
+        "חות'ים"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/ski11e3s6mg",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "מעריב",
+          "url": "https://www.maariv.co.il/breaking-news/article-1385715",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "וואלה",
+          "url": "https://www.walla.co.il/news/breaking-news/383960392",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 3,
+      "firstSeen": "2026-11-07",
+      "lastUpdated": "2026-11-07"
+    }
+  ],
+  "filtered_out": 220,
+  "note": ""
+}
