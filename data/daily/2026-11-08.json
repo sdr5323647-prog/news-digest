@@ -1,0 +1,395 @@
+{
+  "schema": 2,
+  "date": "2026-11-08",
+  "type": "daily",
+  "headline": "הרצוג הטיל את הרכבת הממשלה על איזנקוט, ארה\"ב מרחיבה את הלחימה מול איראן, וירי המוני בקרקוב.",
+  "events": [
+    {
+      "id": "coalition-building-after-election",
+      "title": "הנשיא הרצוג הטיל על גדי איזנקוט את הרכבת הממשלה",
+      "summary": "לפי מעריב, ישראל היום ו-ynet, הנשיא הרצוג סיים את סבב ההתייעצויות והודיע כי המנדט להרכבת הממשלה יינתן לגדי איזנקוט, ולא לנתניהו. הידיעה דווחה גם ב-BBC, ב-Guardian, ב-NYT ובאל-ג'זירה. לפי ישראל היום, לאיזנקוט עומדים 28 ימי מגעים להרכבת קואליציה. לפי ynet, נתניהו קרא לממשלת אחדות עם \"כל המפלגות הציוניות והמחנה הלאומי\", ואיזנקוט השיב, לפי ynet, כי הליכוד יוכל להצטרף אם יקבל את ארבעת העקרונות שלו. ש\"ס הכחישה, לפי ynet, דיווחים על הצטרפותה לממשלה בראשותו.",
+      "why": "ההכרעה קובעת מי ינסה להקים את הממשלה הבאה אחרי בחירות שבהן אף גוש לא הגיע ל-61 מנדטים.",
+      "change": "הרצוג הכריע: המנדט הוטל על איזנקוט. החלה תקופה של 28 ימי מגעים, ונתניהו ואיזנקוט החליפו מסרים על ממשלת אחדות.",
+      "next": "מגעים קואליציוניים בימים הקרובים; ההרכבה צריכה להסתיים תוך 28 ימים.",
+      "status": "VERIFIED",
+      "importance": 5,
+      "categories": [
+        "politics"
+      ],
+      "kind": "decision",
+      "entities": [
+        "בחירות 2026",
+        "הקמת ממשלה",
+        "איזנקוט",
+        "נתניהו",
+        "הליכוד"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "מעריב",
+          "url": "https://www.maariv.co.il/breaking-news/article-1385933",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/Hkj95lTTfx",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/news/politics/article/21799473",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 5,
+      "firstSeen": "2026-10-29",
+      "lastUpdated": "2026-11-08"
+    },
+    {
+      "id": "krakow-shooting-attack",
+      "title": "ירי בכיכר המרכזית בקרקוב: לפחות 6 נרצחים ו-15 פצועים; הירי הוגדר אירוע טרור",
+      "summary": "לפי ynet, בירי בכיכר המרכזית בקרקוב נרצחו 6 בני אדם ונפצעו 15, בהם אזרחי אוסטריה, גרמניה, פורטוגל, רוסיה ובריטניה. משטרת פולין מסרה, לפי ynet, כי היורה הוא אזרח פולני שפעל לבדו. לפי מעריב, ישראל היום ו-ynet, נמצאו בביתו שלוש גופות, ככל הנראה של בני משפחתו, ולכן מספר המתים הכולל עומד לפי מעריב על תשעה. ynet מדווח כי האירוע הוגדר טרור וכי היורה \"התעניין באידאולוגיה ימנית קיצונית\".",
+      "why": "פיגוע ירי המוני באירופה, שישראלים היו בסמוך אליו, לפי ישראל היום.",
+      "change": "",
+      "next": "חקירת המשטרה בפולין ופרטים על המניע.",
+      "status": "VERIFIED",
+      "importance": 4,
+      "categories": [
+        "world",
+        "security"
+      ],
+      "kind": "event",
+      "entities": [
+        "פולין",
+        "קרקוב",
+        "טרור"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/hjt0cr3azl",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "מעריב",
+          "url": "https://www.maariv.co.il/breaking-news/article-1385990",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/news/world-news/europe/article/21800370",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/s145ylaazl",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 3,
+      "firstSeen": "2026-11-08",
+      "lastUpdated": "2026-11-08"
+    },
+    {
+      "id": "us-iran-blockade-vessel-strike",
+      "title": "סנטקום: תקפנו ספינה מסחרית במפרץ עומאן שניסתה להפר את המצור על איראן",
+      "summary": "לפי הודעת פיקוד המרכז של ארה\"ב (סנטקום), כפי שדווחה ב-ynet ובמעריב, הכוחות האמריקניים השביתו ספינה מסחרית במפרץ עומאן שניסתה להפר את המצור על איראן. הפרטים על הספינה ועל הנפגעים לא פורסמו בכותרות שנסקרו.",
+      "why": "אכיפת המצור האמריקני על איראן נמשכת גם תוך כדי מגעים מדיניים.",
+      "change": "",
+      "next": "",
+      "status": "REPORTED",
+      "importance": 4,
+      "categories": [
+        "security",
+        "world"
+      ],
+      "kind": "event",
+      "entities": [
+        "איראן",
+        "ארה\"ב",
+        "מפרץ פרסי",
+        "סנטקום"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/bjkacztpml",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "מעריב",
+          "url": "https://www.maariv.co.il/breaking-news/article-1385971",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 2,
+      "firstSeen": "2026-11-08",
+      "lastUpdated": "2026-11-08"
+    },
+    {
+      "id": "trump-iran-strike-plans",
+      "title": "דיווחים על תקיפות אמריקניות באיראן ופיצוצים באי קשם; ארה\"ב הקימה כוח משימה נגד נתיבי האספקה היבשתיים",
+      "summary": "לפי ישראל היום, ארה\"ב תקפה באיראן בהיקף נרחב, ובכיר איראני הזהיר מפני השלכות חמורות. לפי טלוויזיה איראנית שצוטטה במעריב ולפי ynet, נשמעו פיצוצים בקשם, בג'אסק, בסירייק ובבנדר עבאס, והופעלו מערכות הגנה אווירית. אל-ג'זירה מדווחת כי ארה\"ב הקימה כוח משימה שנועד לשבש את נתיבי האספקה היבשתיים של איראן. לפי ynet, ארדואן אמר לטראמפ שהסכסוך צריך להיפתר בדרכים דיפלומטיות.",
+      "why": "הרחבת הלחימה מול איראן משפיעה ישירות על הביטחון האזורי, על ישראל ועל תנועת הספנות במצר הורמוז.",
+      "change": "לפי הדיווחים, מהשיקולים להרחבת הפעולה הצבאית עברו לתקיפות בפועל ולהקמת כוח משימה נגד נתיבי האספקה היבשתיים.",
+      "next": "תגובה איראנית והמשך המגעים המדיניים.",
+      "status": "REPORTED",
+      "importance": 5,
+      "categories": [
+        "security",
+        "world",
+        "israel_world"
+      ],
+      "kind": "event",
+      "entities": [
+        "איראן",
+        "ארה\"ב",
+        "טראמפ",
+        "מצר הורמוז"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21799721",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "מעריב",
+          "url": "https://www.maariv.co.il/breaking-news/article-1385957",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/skhbj1166ze",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/8/us-launches-task-force-to-disrupt-irans-land-based-supply-routes?traffic_source=rss",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 4,
+      "firstSeen": "2026-10-08",
+      "lastUpdated": "2026-11-08"
+    },
+    {
+      "id": "saudi-riyadh-interception-claim",
+      "title": "רויטרס: מגדל ברובע הכלכלי בריאד נפגע; סעודיה: רסיסים גרמו לנזק מוגבל",
+      "summary": "לפי רויטרס, כפי שדווח ב-ynet, מגדל ברובע הכלכלי בריאד נפגע, חרף הודעת סעודיה על יירוטים מוצלחים. ynet מוסר כי סעודיה הודתה שמגדל נפגע ואמרה ש\"רסיסים גרמו לנזק מוגבל\".",
+      "why": "פגיעה בבירה הסעודית מעידה על התרחבות המתיחות האזורית.",
+      "change": "סעודיה אישרה שמגדל בריאד ניזוק מרסיסים, אף שהודיעה קודם על יירוטים מוצלחים.",
+      "next": "",
+      "status": "REPORTED",
+      "importance": 3,
+      "categories": [
+        "security",
+        "world"
+      ],
+      "kind": "event",
+      "entities": [
+        "סעודיה",
+        "חות'ים"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/by2ktjtamg",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/bymn003tpze",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 1,
+      "firstSeen": "2026-11-07",
+      "lastUpdated": "2026-11-08"
+    },
+    {
+      "id": "yemen-deadly-strikes-nov7",
+      "title": "תימן: לפי NYT יותר מ-50 נהרגו ב-24 שעות; החות'ים מדווחים על 25 הרוגים בתקיפות",
+      "summary": "לפי NYT, יותר מ-50 בני אדם נהרגו בתימן באחד מ-24 השעות הקטלניות ביותר במלחמה. לפי אל-ג'זירה, החות'ים מסרו על 25 הרוגים בתקיפות שפגעו בצנעא, ובמקביל כוחות הממשלה התימנית מדווחים על התקדמות.",
+      "why": "הלחימה בתימן קשורה למעורבות החות'ים בעימות האזורי.",
+      "change": "",
+      "next": "",
+      "status": "VERIFIED",
+      "importance": 3,
+      "categories": [
+        "world",
+        "security"
+      ],
+      "kind": "event",
+      "entities": [
+        "תימן",
+        "חות'ים"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "NYT",
+          "url": "https://www.nytimes.com/2026/11/07/world/middleeast/more-than-50-killed-in-yemen.html",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/7/yemeni-govt-forces-report-advances-as-houthis-say-deadly-strikes-hit-sanaa?traffic_source=rss",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 2,
+      "firstSeen": "2026-11-08",
+      "lastUpdated": "2026-11-08"
+    },
+    {
+      "id": "ariel-daycare-indictment",
+      "title": "כתב אישום נגד מנהלת מעון באריאל ושתי מטפלות: יותר מ-400 מקרי התעללות",
+      "summary": "לפי ynet, מעריב וישראל היום, הוגש כתב אישום נגד מנהלת מעון באריאל ושתי מטפלות בגין יותר מ-400 מקרי התעללות בפעוטות. לפי ynet, מפורטים בכתב האישום מעשים של סתימת דרכי נשימה וטלטול ראשי פעוטות.",
+      "why": "פרשה שעוררה עניין ציבורי רחב ונוגעת לפיקוח על מעונות לפעוטות.",
+      "change": "",
+      "next": "הדיון המשפטי בתיק.",
+      "status": "VERIFIED",
+      "importance": 3,
+      "categories": [
+        "law",
+        "society"
+      ],
+      "kind": "legal",
+      "entities": [
+        "מעון באריאל",
+        "התעללות בפעוטות"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/h11mm9ttfx",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "מעריב",
+          "url": "https://www.maariv.co.il/breaking-news/article-1386106",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/news/law/article/21800810",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 3,
+      "firstSeen": "2026-11-08",
+      "lastUpdated": "2026-11-08"
+    },
+    {
+      "id": "gaza-floods-nov8",
+      "title": "שיטפונות ברצועת עזה: עשרות אלפי אוהלים הוצפו",
+      "summary": "לפי BBC ואל-ג'זירה, גשמים עזים הציפו עשרות אלפי אוהלים ברצועת עזה והותירו עשרות אלפי בני אדם ללא מחסה.",
+      "why": "המצב ההומניטרי בעזה בחורף ומשמעותו לתושבים.",
+      "change": "",
+      "next": "",
+      "status": "VERIFIED",
+      "importance": 3,
+      "categories": [
+        "world",
+        "society"
+      ],
+      "kind": "event",
+      "entities": [
+        "עזה",
+        "שטפונות"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cx240e5py64jo?at_medium=RSS&at_campaign=rss",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/8/floods-in-gaza-leave-tens-of-thousands-without-shelter?traffic_source=rss",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 2,
+      "firstSeen": "2026-11-08",
+      "lastUpdated": "2026-11-08"
+    }
+  ],
+  "unverified": [
+    {
+      "id": "iran-executes-protesters-claim",
+      "title": "על פי דיווחים באיראן: 3 מפגינים הוצאו להורג בהאשמה ב\"שיתוף פעולה עם ישראל\"",
+      "summary": "על פי דיווחים באיראן שהובאו ב-ynet, שלושה מפגינים נגד המשטר הוצאו להורג, לאחר שהואשמו ב\"שיתוף פעולה עם ישראל\". הדיווח לא אומת ממקור בלתי תלוי.",
+      "why": "הוצאות להורג כאלה משקפות את דיכוי המחאה באיראן ועלולות להוסיף למתיחות מול ישראל.",
+      "change": "",
+      "next": "",
+      "status": "UNCONFIRMED",
+      "importance": 4,
+      "categories": [
+        "world",
+        "security"
+      ],
+      "kind": "event",
+      "entities": [
+        "איראן",
+        "הוצאה להורג"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/sjnv3datfg",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 1,
+      "firstSeen": "2026-11-08",
+      "lastUpdated": "2026-11-08"
+    }
+  ],
+  "filtered_out": 262,
+  "note": ""
+}

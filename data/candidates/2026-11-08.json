@@ -4,36 +4,6 @@
   {
    "source": "Guardian",
    "outlet": "Guardian",
-   "title": "US midterm results may help unite Israeli coalition to unseat Netanyahu",
-   "url": "https://www.theguardian.com/world/2026/nov/07/us-midterm-results-may-help-unite-israeli-coalition-to-unseat-netanyahu",
-   "summary": "Democrats’ sweep could urge Israel’s divided opposition to join forces and remove prime minister closely allied with Trump The Democrats’ sweep of Congress may make it easier for Israel’s splintered opposition to overcome deep internal divisions and form a coalition government, by increasing the urg",
-   "time": "2026-11-07T06:00:04+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
-   "source": "Guardian",
-   "outlet": "Guardian",
-   "title": "Strait of Hormuz could reopen as part of Qatari plan for Iran nuclear inspections",
-   "url": "https://www.theguardian.com/world/2026/nov/07/strait-of-hormuz-qatar-plan-iran-nuclear-inspections",
-   "summary": "Trump still considering new assault on Iran nuclear sites – though threats less credible after Vance remarks Qatar, the lead mediator in the US-Iran conflict, is seeking to persuade Tehran to allow UN nuclear weapons inspectors to visit Iran’s bombed nuclear sites, including those housing the countr",
-   "time": "2026-11-07T07:00:04+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
-   "source": "NYT",
-   "outlet": "NYT",
-   "title": "After Israel’s Election, Who Will Get the First Chance to Form a Government?",
-   "url": "https://www.nytimes.com/2026/11/06/world/middleeast/israel-election-government-herzog.html",
-   "summary": "President Isaac Herzog is set to task a candidate with trying to form a government, following two days of talks with party leaders and officials after an inconclusive election.",
-   "time": "2026-11-07T08:02:08+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
-   "source": "Guardian",
-   "outlet": "Guardian",
    "title": "A ‘customer success story’: leaked documents show Cisco doubled down on Israeli military deals during Gaza war",
    "url": "https://www.theguardian.com/world/2026/nov/07/israel-intelligence-cisco-gaza-palestine",
    "summary": "Tech giant leaped to shore up relationship even as company was roiled by worker protest over its role in the war A year into the war in Gaza , the networks of Israel ’s military intelligence community were plagued with technical problems. There were major, multi-hour outages to their systems, and re",
@@ -3592,10 +3562,10 @@
    "type": "reporting"
   }
  ],
- "updated": "2026-11-08T10:28:45.976836+00:00",
+ "updated": "2026-11-08T17:01:05.359544+00:00",
  "clusters": [
   {
-   "id": "e70c4fd1a6",
+   "id": "c58085b689",
    "title": "Israel’s president picks Yashar leader Gadi Eisenkot to form government",
    "sourceCount": 4,
    "outlets": [
@@ -3606,19 +3576,11 @@
    ],
    "bestTier": 2,
    "hasOfficial": false,
-   "reportingCount": 7,
+   "reportingCount": 6,
    "opinionOnly": false,
-   "firstSeen": "2026-11-07T08:02:08+00:00",
+   "firstSeen": "2026-11-07T19:49:39+00:00",
    "lastSeen": "2026-11-08T08:47:36+00:00",
    "articles": [
-    {
-     "source": "NYT",
-     "title": "After Israel’s Election, Who Will Get the First Chance to Form a Government?",
-     "url": "https://www.nytimes.com/2026/11/06/world/middleeast/israel-election-government-herzog.html",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-11-07T08:02:08+00:00"
-    },
     {
      "source": "Guardian",
      "title": "Israel’s president picks Yashar leader Gadi Eisenkot to form government",
@@ -5237,54 +5199,6 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-11-08T10:14:14+00:00"
-    }
-   ]
-  },
-  {
-   "id": "fd4da6fc09",
-   "title": "US midterm results may help unite Israeli coalition to unseat Netanyahu",
-   "sourceCount": 1,
-   "outlets": [
-    "Guardian"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-11-07T06:00:04+00:00",
-   "lastSeen": "2026-11-07T06:00:04+00:00",
-   "articles": [
-    {
-     "source": "Guardian",
-     "title": "US midterm results may help unite Israeli coalition to unseat Netanyahu",
-     "url": "https://www.theguardian.com/world/2026/nov/07/us-midterm-results-may-help-unite-israeli-coalition-to-unseat-netanyahu",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-11-07T06:00:04+00:00"
-    }
-   ]
-  },
-  {
-   "id": "6da1f10b9d",
-   "title": "Strait of Hormuz could reopen as part of Qatari plan for Iran nuclear inspections",
-   "sourceCount": 1,
-   "outlets": [
-    "Guardian"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-11-07T07:00:04+00:00",
-   "lastSeen": "2026-11-07T07:00:04+00:00",
-   "articles": [
-    {
-     "source": "Guardian",
-     "title": "Strait of Hormuz could reopen as part of Qatari plan for Iran nuclear inspections",
-     "url": "https://www.theguardian.com/world/2026/nov/07/strait-of-hormuz-qatar-plan-iran-nuclear-inspections",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-11-07T07:00:04+00:00"
     }
    ]
   },
@@ -10834,8 +10748,8 @@
   }
  ],
  "stats": {
-  "articles": 359,
-  "clusters": 272,
+  "articles": 356,
+  "clusters": 270,
   "multiSource": 23
  }
 }
