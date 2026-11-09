@@ -1,0 +1,462 @@
+{
+  "schema": 2,
+  "date": "2026-11-09",
+  "type": "daily",
+  "headline": "ארה\"ב ואיראן: סיכוי נמוך לחידוש המלחמה אם יושג הסכם, בצד פיצוצים באי קשם; דרעי פרש מרשימת ש\"ס; ליברמן מזהיר מממשלת מיעוט.",
+  "events": [
+    {
+      "id": "us-iran-talks",
+      "title": "טראמפ: סיכוי נמוך לחידוש המלחמה באיראן אם יושג הסכם; רוביו: אין פריצת דרך בשיחות",
+      "summary": "לפי וואלה, ynet, מעריב וישראל היום, טראמפ אמר כי אם איראן תחתום על הסכם, \"מאוד לא סביר\" שארה\"ב תחזור למלחמה. לפי וואלה וynet, מזכיר המדינה רוביו אמר כי אין פריצת דרך בשיחות וכי דרישות איראן \"מגוחכות ולא מציאותיות\". לפי הדיווחים, טראמפ אמור להיפגש עם ראש ממשלת קטאר בבית הלבן, וסגן הנשיא ואנס ייפגש עמו בנפרד; במוקד השיחות איראן.",
+      "why": "המשא ומתן קובע אם המלחמה בין ארה\"ב לאיראן תימשך או תסתיים, עם השלכות ישירות על ישראל ועל מחירי האנרגיה.",
+      "change": "טראמפ משדר סיכוי נמוך לחידוש הלחימה בתנאי הסכם, בעוד רוביו מדווח על פערים גדולים; נקבעה פגישה עם ראש ממשלת קטאר.",
+      "next": "פגישת טראמפ וראש ממשלת קטאר בבית הלבן.",
+      "status": "VERIFIED",
+      "importance": 5,
+      "categories": [
+        "security",
+        "israel_world"
+      ],
+      "kind": "negotiation",
+      "entities": [
+        "איראן",
+        "ארה\"ב",
+        "טראמפ",
+        "קטאר"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "וואלה",
+          "url": "https://www.walla.co.il/news/breaking-news/383960586",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/sy8pxn06ml",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "מעריב",
+          "url": "https://www.maariv.co.il/breaking-news/article-1386362",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21808790",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "וואלה",
+          "url": "https://www.walla.co.il/news/breaking-news/383960616",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/symeq0006zg",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 6,
+      "firstSeen": "2026-10-01",
+      "lastUpdated": "2026-11-09"
+    },
+    {
+      "id": "trump-iran-strike-plans",
+      "title": "דיווחים על פיצוצים באי קשם ובבנדר עבאס; טראמפ: כוח המשימה \"שער הברזל\" פועל במלוא העוצמה",
+      "summary": "לפי רויטרס, כפי שדווח במעריב, נשמעו קולות פיצוץ באי קשם שבאיראן, ולפי ynet גם בבנדר עבאס. ynet מדווח כי באיראן טוענים שארה\"ב תקפה באי קשם. לפי וואלה וynet, טראמפ אמר כי כוח המשימה \"שער הברזל\" פועל \"במלוא העוצמה באיראן\". לא פורסם אישור רשמי על תקיפה בקשם.",
+      "why": "המשך פעילות צבאית אמריקנית באיראן במקביל לשיחות משפיע על הסיכוי להסכם ועל הביטחון האזורי.",
+      "change": "דיווחים חדשים על פיצוצים באי קשם ובבנדר עבאס, והצהרת טראמפ על פעילות כוח המשימה \"שער הברזל\".",
+      "next": "אישור או הכחשה רשמיים של התקיפה.",
+      "status": "REPORTED",
+      "importance": 4,
+      "categories": [
+        "security",
+        "israel_world"
+      ],
+      "kind": "event",
+      "entities": [
+        "איראן",
+        "ארה\"ב",
+        "טראמפ",
+        "מצר הורמוז"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "וואלה",
+          "url": "https://www.walla.co.il/news/breaking-news/383960600",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "מעריב",
+          "url": "https://www.maariv.co.il/breaking-news/article-1386395",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/byrtcrcpgx",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "וואלה",
+          "url": "https://www.walla.co.il/news/breaking-news/383960610",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 4,
+      "firstSeen": "2026-10-08",
+      "lastUpdated": "2026-11-09"
+    },
+    {
+      "id": "coalition-building-after-election",
+      "title": "טראמפ על איזנקוט: \"דומה לנתניהו בעמדות\"; ליברמן מזהיר מממשלת מיעוט",
+      "summary": "לפי וואלה, ynet וישראל היום, טראמפ התייחס לראשונה להטלת המנדט על איזנקוט ואמר כי הוא ונתניהו דומים בתפיסותיהם. לפי מעריב, וואלה וynet, ליברמן טען כי מתנהל קמפיין להכשרת הקרקע לממשלת מיעוט עם תומכי חמאס, ואמר לynet כי ממשלה כזו תביא ל\"המלכת נתניהו תוך חצי שנה\". ישראל היום מדווח על חשש בגוש השינוי מכך שליברמן חוסם את איזנקוט.",
+      "why": "האינטרסים של ליברמן והעמדה האמריקנית משפיעים על סיכוי איזנקוט להקים ממשלה בתוך 28 הימים שנקבעו.",
+      "change": "טראמפ התייחס לראשונה למינוי איזנקוט, וליברמן הציג התנגדות פומבית לממשלת מיעוט.",
+      "next": "המשך מגעים קואליציוניים; המנדט פג בתוך 28 ימים.",
+      "status": "VERIFIED",
+      "importance": 4,
+      "categories": [
+        "politics"
+      ],
+      "kind": "dispute",
+      "entities": [
+        "בחירות 2026",
+        "הקמת ממשלה",
+        "איזנקוט",
+        "נתניהו",
+        "ליברמן"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "וואלה",
+          "url": "https://www.walla.co.il/news/breaking-news/383960618",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/sktyffaame",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21809474",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "מעריב",
+          "url": "https://www.maariv.co.il/breaking-news/article-1386383",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/b1fyonctfg",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/news/politics/article/21805704",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 6,
+      "firstSeen": "2026-10-29",
+      "lastUpdated": "2026-11-09"
+    },
+    {
+      "id": "deri-leaves-knesset-list",
+      "title": "דרעי פרש מרשימת ש\"ס לכנסת; שלושה מבכירי המפלגה פרשו",
+      "summary": "לפי מעריב וישראל היום, אריה דרעי פרש מרשימת ש\"ס לכנסת, ושלושה מבכירי ש\"ס פרשו מהרשימה. הדיווחים שנסקרו אינם מפרטים את הנסיבות.",
+      "why": "דרעי הוביל את ש\"ס שנים רבות, ופרישתו עשויה להשפיע על מבנה הקואליציה ועל מו\"מ ההרכבה.",
+      "change": "",
+      "next": "",
+      "status": "VERIFIED",
+      "importance": 4,
+      "categories": [
+        "politics"
+      ],
+      "kind": "decision",
+      "entities": [
+        "ש\"ס",
+        "דרעי",
+        "הקמת ממשלה"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "מעריב",
+          "url": "https://www.maariv.co.il/breaking-news/article-1386303",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/news/politics/article/21806640",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 2,
+      "firstSeen": "2026-11-09",
+      "lastUpdated": "2026-11-09"
+    },
+    {
+      "id": "iran-executes-protesters-claim",
+      "title": "BBC: איראן הוציאה להורג שלושה גברים בגין \"אי-שקט מזוין\" לאחר מחאות ינואר",
+      "summary": "לפי BBC, איראן הוציאה להורג שלושה גברים שהואשמו ב\"אי-שקט מזוין\" בעקבות המחאות בינואר. ynet דיווח אתמול על הוצאה להורג של שלושה מפגינים; ההאשמות המדויקות כפי שמובאות בשני הדיווחים אינן זהות.",
+      "why": "המשך הוצאות להורג של מפגינים משקף את דיכוי המחאה באיראן ואת הלחץ הפנימי על המשטר.",
+      "change": "BBC דיווח על ההוצאה להורג, והדיווח שנחשב אתמול לא מאומת קיבל מקור שני.",
+      "next": "",
+      "status": "VERIFIED",
+      "importance": 4,
+      "categories": [
+        "world",
+        "israel_world"
+      ],
+      "kind": "event",
+      "entities": [
+        "איראן",
+        "הוצאה להורג"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/sjnv3datfg",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 2,
+      "firstSeen": "2026-11-08",
+      "lastUpdated": "2026-11-09"
+    },
+    {
+      "id": "saudi-riyadh-interception-claim",
+      "title": "NYT ו-BBC: מגדל ארמקו בריאד נפגע בתקיפת החות'ים",
+      "summary": "לפי NYT ו-BBC, מגדל ארמקו במרכז בריאד ניזוק כאשר החות'ים שיגרו תקיפות נוספות על הבירה הסעודית. אתמול דווח על פגיעה במגדל ברובע הכלכלי בריאד, וסעודיה מסרה כי רסיסים גרמו לנזק מוגבל.",
+      "why": "פגיעה בלב בירת סעודיה מעידה על הרחבת המלחמה בתימן אל מרכזי הכלכלה של המפרץ.",
+      "change": "שני כלי תקשורת בינלאומיים מזהים את המגדל שנפגע כמגדל ארמקו ומדווחים על שיגורים חדשים.",
+      "next": "",
+      "status": "VERIFIED",
+      "importance": 3,
+      "categories": [
+        "security",
+        "world"
+      ],
+      "kind": "event",
+      "entities": [
+        "סעודיה",
+        "חות'ים",
+        "ארמקו"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "NYT",
+          "url": "https://www.nytimes.com/2026/11/08/world/middleeast/saudi-aramco-tower-riyadh-hit.html",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&at_campaign=rss",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 2,
+      "firstSeen": "2026-11-07",
+      "lastUpdated": "2026-11-09"
+    },
+    {
+      "id": "us-midterm-elections-2026",
+      "title": "טראמפ: ההפסד בבחירות האמצע נובע גם מ\"חוסר אהדה גדול לישראל\"",
+      "summary": "לפי וואלה, ישראל היום וynet, טראמפ אמר בראיון ל\"60 דקות\" כי הרפובליקנים הפסדו בבחירות האמצע, בין השאר בשל \"חוסר אהדה גדול כלפי ישראל\". זו עמדתו של טראמפ ולא ממצא עצמאי על סיבות ההצבעה.",
+      "why": "הצהרה של הנשיא על הקשר בין עמדת הציבור כלפי ישראל לתוצאות הבחירות משפיעה על מדיניות התמיכה האמריקנית בישראל.",
+      "change": "טראמפ קישר לראשונה בפומבי את התבוסה בבחירות האמצע לעמדות כלפי ישראל.",
+      "next": "",
+      "status": "VERIFIED",
+      "importance": 3,
+      "categories": [
+        "politics",
+        "israel_world"
+      ],
+      "kind": "statement",
+      "entities": [
+        "ארה\"ב",
+        "טראמפ",
+        "בחירות אמצע"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "וואלה",
+          "url": "https://www.walla.co.il/news/breaking-news/383960621",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21809568",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/s1vbbsr6fl",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 3,
+      "firstSeen": "2026-11-04",
+      "lastUpdated": "2026-11-09"
+    },
+    {
+      "id": "nvidia-ceo-espionage-probe",
+      "title": "אנבידיה פתחה בחקירה נגד מנכ\"ל החברה על קשר עם אישה החשודה בריגול סיני",
+      "summary": "לפי ynet, וואלה ואל-ג'זירה, אנבידיה פתחה בחקירה נגד המנכ\"ל ג'נסן הואנג לאחר שהודה בקשר רומנטי עם אישה החשודה בריגול עבור סין. לפי וואלה, רוביו הזהיר מהקשר, ולפי אל-ג'זירה טראמפ הגן על המנכ\"ל. החקירה בחברה נמשכת ולא פורסמו ממצאים.",
+      "why": "אנבידיה היא ספקית שבבי הבינה המלאכותית המרכזית בעולם, וחשד לחדירה סינית אליה נוגע לביטחון הלאומי ולמרוץ הטכנולוגי.",
+      "change": "",
+      "next": "החקירה הפנימית של החברה.",
+      "status": "REPORTED",
+      "importance": 3,
+      "categories": [
+        "tech",
+        "world"
+      ],
+      "kind": "event",
+      "entities": [
+        "אנבידיה",
+        "סין",
+        "ריגול"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/h1szuirtze",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "וואלה",
+          "url": "https://www.walla.co.il/news/breaking-news/383960608",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/8/us-chipmaker-nvidia-investigates-ceo-jensen-huang-over-affair?traffic_source=rss",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 3,
+      "firstSeen": "2026-11-09",
+      "lastUpdated": "2026-11-09"
+    },
+    {
+      "id": "krakow-shooting-attack",
+      "title": "היורה בקרקוב מת מפצעיו",
+      "summary": "לפי ynet ווואלה, היורה בכיכר המרכזית בקרקוב, שבה נרצחו שישה בני אדם, מת מפצעיו בבית החולים.",
+      "why": "סוגר את מעגל האירוע ומשפיע על דרכי החקירה של האירוע שהוגדר טרור.",
+      "change": "היורה מת מפצעיו בבית החולים.",
+      "next": "",
+      "status": "VERIFIED",
+      "importance": 3,
+      "categories": [
+        "world",
+        "security"
+      ],
+      "kind": "event",
+      "entities": [
+        "פולין",
+        "קרקוב",
+        "טרור"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/sjekqjkagx",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "וואלה",
+          "url": "https://www.walla.co.il/news/breaking-news/383960634",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 2,
+      "firstSeen": "2026-11-08",
+      "lastUpdated": "2026-11-09"
+    },
+    {
+      "id": "egypt-train-collision-nov8",
+      "title": "מצרים: שבעה הרוגים ו-112 פצועים בהתנגשות רכבות סמוך לקהיר",
+      "summary": "לפי אל-ג'זירה ו-BBC, שבעה בני אדם נהרגו ו-112 נפצעו בהתנגשות רכבות סמוך לקהיר. BBC פרסם תיעוד של קרונות שירדו מהפסים.",
+      "why": "אסון תחבורה גדול בשכנה הגדולה של ישראל.",
+      "change": "",
+      "next": "בדיקת סיבות ההתנגשות.",
+      "status": "VERIFIED",
+      "importance": 3,
+      "categories": [
+        "world"
+      ],
+      "kind": "event",
+      "entities": [
+        "מצרים",
+        "תאונת רכבות"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/videos/cw78p2km7d94o?at_medium=RSS&at_campaign=rss",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/four-killed-88-injured-in-train-collision-in-egypt?traffic_source=rss",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 2,
+      "firstSeen": "2026-11-09",
+      "lastUpdated": "2026-11-09"
+    }
+  ],
+  "unverified": [],
+  "filtered_out": 216,
+  "note": ""
+}

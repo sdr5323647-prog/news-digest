@@ -4,36 +4,6 @@
   {
    "source": "BBC",
    "outlet": "BBC",
-   "title": "Houthis say at least 33 killed in Saudi air strike",
-   "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
-   "summary": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
-   "time": "2026-11-08T04:03:12+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
-   "source": "Guardian",
-   "outlet": "Guardian",
-   "title": "Donald Trump’s power is on the wane. What next for Russia, Israel – and the rest of us? | Simon Tisdall",
-   "url": "https://www.theguardian.com/commentisfree/2026/nov/08/donald-trump-power-russia-israel-us-president",
-   "summary": "With the global tide turning against him, the US president’s lame duck status could still aggravate old tensions and spark new explosions It was a victory for the world, too. People in the many countries that suffered pain, loss and cruel indignities at the hands of Donald Trump over the past two ch",
-   "time": "2026-11-08T06:00:32+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
-   "source": "NYT",
-   "outlet": "NYT",
-   "title": "Eisenkot, Netanyahu Rival and Opposition Leader, Tapped to Try to Form Government",
-   "url": "https://www.nytimes.com/2026/11/07/world/middleeast/israel-eisenkot-government.html",
-   "summary": "Gadi Eisenkot, a former military chief, hopes to succeed Benjamin Netanyahu as prime minister by cobbling together a coalition after an inconclusive election.",
-   "time": "2026-11-08T09:41:56+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
-   "source": "BBC",
-   "outlet": "BBC",
    "title": "Iran executes three men for 'armed unrest' after January protests",
    "url": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss",
    "summary": "It is claimed Hassan Dioband, Hamid Kazemi and Reza Zanganeh were part of anti-government protests earlier this year.",
@@ -3212,7 +3182,7 @@
    "type": "reporting"
   }
  ],
- "updated": "2026-11-09T06:44:10.475756+00:00",
+ "updated": "2026-11-09T17:01:17.443393+00:00",
  "clusters": [
   {
    "id": "8b22be6bab",
@@ -3357,72 +3327,6 @@
    ]
   },
   {
-   "id": "0175d4b0e3",
-   "title": "Gadi Eisenkot reaches out to Netanyahu allies as he strives to form government",
-   "sourceCount": 3,
-   "outlets": [
-    "Al Jazeera",
-    "Guardian",
-    "NYT"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 6,
-   "opinionOnly": false,
-   "firstSeen": "2026-11-08T09:41:56+00:00",
-   "lastSeen": "2026-11-08T21:48:21+00:00",
-   "articles": [
-    {
-     "source": "NYT",
-     "title": "Eisenkot, Netanyahu Rival and Opposition Leader, Tapped to Try to Form Government",
-     "url": "https://www.nytimes.com/2026/11/07/world/middleeast/israel-eisenkot-government.html",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-11-08T09:41:56+00:00"
-    },
-    {
-     "source": "Guardian",
-     "title": "Israel’s president picks Yashar leader Gadi Eisenkot to form government",
-     "url": "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-11-08T14:26:14+00:00"
-    },
-    {
-     "source": "Al Jazeera",
-     "title": "Jerusalem Daily: Eisenkot picked over Netanyahu to form government",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/dnrbltn-261108-hegazyn-jerusalem_daily-081126?traffic_source=rss",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-11-08T17:11:52+00:00"
-    },
-    {
-     "source": "Guardian",
-     "title": "Gadi Eisenkot reaches out to Netanyahu allies as he strives to form government",
-     "url": "https://www.theguardian.com/world/2026/nov/08/gadi-eisenkot-netanyahu-allies-form-israel-government",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-11-08T17:53:59+00:00"
-    },
-    {
-     "source": "Al Jazeera",
-     "title": "Eisenkot open to Netanyahu joining Israel’s next government",
-     "url": "https://www.aljazeera.com/news/2026/11/8/israels-president-tasks-eisenkot-to-form-new-coalition-government?traffic_source=rss",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-11-08T18:12:27+00:00"
-    },
-    {
-     "source": "NYT",
-     "title": "Who Is Gadi Eisenkot, Israel’s Opposition Leader?",
-     "url": "https://www.nytimes.com/2026/11/08/world/middleeast/israel-eisenkot-netanyahu-what-to-know.html",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-11-08T21:48:21+00:00"
-    }
-   ]
-  },
-  {
    "id": "adc3d26614",
    "title": "500 שוטרים, לוחמי מג\"ב ויחידות מיוחדות פשטו על יעדים ברחבי הארץ ועצרו עשרות",
    "sourceCount": 3,
@@ -3485,6 +3389,64 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-11-09T07:38:58+02:00"
+    }
+   ]
+  },
+  {
+   "id": "c58085b689",
+   "title": "Gadi Eisenkot reaches out to Netanyahu allies as he strives to form government",
+   "sourceCount": 3,
+   "outlets": [
+    "Al Jazeera",
+    "Guardian",
+    "NYT"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 5,
+   "opinionOnly": false,
+   "firstSeen": "2026-11-08T14:26:14+00:00",
+   "lastSeen": "2026-11-08T21:48:21+00:00",
+   "articles": [
+    {
+     "source": "Guardian",
+     "title": "Israel’s president picks Yashar leader Gadi Eisenkot to form government",
+     "url": "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-08T14:26:14+00:00"
+    },
+    {
+     "source": "Al Jazeera",
+     "title": "Jerusalem Daily: Eisenkot picked over Netanyahu to form government",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/dnrbltn-261108-hegazyn-jerusalem_daily-081126?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-08T17:11:52+00:00"
+    },
+    {
+     "source": "Guardian",
+     "title": "Gadi Eisenkot reaches out to Netanyahu allies as he strives to form government",
+     "url": "https://www.theguardian.com/world/2026/nov/08/gadi-eisenkot-netanyahu-allies-form-israel-government",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-08T17:53:59+00:00"
+    },
+    {
+     "source": "Al Jazeera",
+     "title": "Eisenkot open to Netanyahu joining Israel’s next government",
+     "url": "https://www.aljazeera.com/news/2026/11/8/israels-president-tasks-eisenkot-to-form-new-coalition-government?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-08T18:12:27+00:00"
+    },
+    {
+     "source": "NYT",
+     "title": "Who Is Gadi Eisenkot, Israel’s Opposition Leader?",
+     "url": "https://www.nytimes.com/2026/11/08/world/middleeast/israel-eisenkot-netanyahu-what-to-know.html",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-08T21:48:21+00:00"
     }
    ]
   },
@@ -4917,54 +4879,6 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-11-09T05:20:08+00:00"
-    }
-   ]
-  },
-  {
-   "id": "b3534df0c8",
-   "title": "Houthis say at least 33 killed in Saudi air strike",
-   "sourceCount": 1,
-   "outlets": [
-    "BBC"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-11-08T04:03:12+00:00",
-   "lastSeen": "2026-11-08T04:03:12+00:00",
-   "articles": [
-    {
-     "source": "BBC",
-     "title": "Houthis say at least 33 killed in Saudi air strike",
-     "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-11-08T04:03:12+00:00"
-    }
-   ]
-  },
-  {
-   "id": "828e6f2779",
-   "title": "Donald Trump’s power is on the wane. What next for Russia, Israel – and the rest of us? | Simon Tisdall",
-   "sourceCount": 1,
-   "outlets": [
-    "Guardian"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-11-08T06:00:32+00:00",
-   "lastSeen": "2026-11-08T06:00:32+00:00",
-   "articles": [
-    {
-     "source": "Guardian",
-     "title": "Donald Trump’s power is on the wane. What next for Russia, Israel – and the rest of us? | Simon Tisdall",
-     "url": "https://www.theguardian.com/commentisfree/2026/nov/08/donald-trump-power-russia-israel-us-president",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-11-08T06:00:32+00:00"
     }
    ]
   },
@@ -9458,8 +9372,8 @@
   }
  ],
  "stats": {
-  "articles": 321,
-  "clusters": 228,
+  "articles": 318,
+  "clusters": 226,
   "multiSource": 28
  }
 }
