@@ -4,46 +4,6 @@
   {
    "source": "Guardian",
    "outlet": "Guardian",
-   "title": "Abandoned and traumatised: child refugees at ‘violent’ breaking point in Egypt after fleeing Sudan war",
-   "url": "https://www.theguardian.com/global-development/2026/nov/09/sudan-child-war-refugees-cairo-egypt-spiral-of-despair",
-   "summary": "Three years of conflict has left hundreds of thousands of Sudanese children out of school and vulnerable to gangs and drugs Mounds of rubbish, the stench of raw sewage and, at night, roaming drug dealers and gangs. These are the streets of a forsaken neighbourhood in Cairo that Sudanese children cal",
-   "time": "2026-11-09T10:00:06+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
-   "source": "Guardian",
-   "outlet": "Guardian",
-   "title": "A Fox Under a Pink Moon review – Iranian teen refugee paints boldly imaginative self-portrait",
-   "url": "https://www.theguardian.com/film/2026/nov/09/a-fox-under-a-pink-moon-review-iran-refugee",
-   "summary": "Soraya Akhlaghi filmed her perilous flight from Iran and precarious new life over five years on her phone, reassembled here with yearning animations The world feels like an overwhelmingly forlorn place in this striking refugee self-portrait, shot on smartphone by Soraya Akhlaghi over five years and ",
-   "time": "2026-11-09T10:00:06+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
-   "source": "BBC",
-   "outlet": "BBC",
-   "title": "Four killed in Gaza after sand embankment collapses onto tents, health ministry says",
-   "url": "https://www.bbc.co.uk/news/articles/cqd090ee8px5o?at_medium=RSS&at_campaign=rss",
-   "summary": "Three children are among those killed in the incident that came a day after heavy rain reportedly flooded tens of thousands of tents across Gaza.",
-   "time": "2026-11-09T10:41:57+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
-   "source": "Guardian",
-   "outlet": "Guardian",
-   "title": "Deadly floods hit Iraq as thunderstorms sweep across region",
-   "url": "https://www.theguardian.com/environment/2026/nov/09/deadly-floods-iraq-thunderstorms-iran-portugal-japan-snow",
-   "summary": "Violent storms lash northern Iraq and parts of Iran, while Portugal faces strong winds and Japan braces for further snowfall Deadly flash floods hit northern Iraq on Saturday as severe thunderstorms swept across the region, including in neighbouring Iran. The city of Erbil, in Iraq, was particularly",
-   "time": "2026-11-09T10:59:06+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
-   "source": "Guardian",
-   "outlet": "Guardian",
    "title": "‘I’m surrounded by millions of people but I could still die from the heat’ – This is climate breakdown",
    "url": "https://www.theguardian.com/environment/ng-interactive/2026/nov/09/extreme-heat-mecca-hajj-pilgrimage-this-is-climate-breakdown-saudi-arabia",
    "summary": "He went to Saudi Arabia to perform the sacred hajj pilgrimage – then the heat came. This is Zirrar Ali’s story Location: Mecca, Saudi Arabia Disaster: Heatwave, 2024 After a transformative trip to Iran and one of its mosques, Zirrar started believing in God and writing about the soul of travel. Six ",
@@ -3712,7 +3672,7 @@
    "type": "reporting"
   }
  ],
- "updated": "2026-11-10T14:57:48.615090+00:00",
+ "updated": "2026-11-10T17:01:24.492526+00:00",
  "clusters": [
   {
    "id": "0d7e146800",
@@ -4072,39 +4032,6 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-11-10T16:13:27+02:00"
-    }
-   ]
-  },
-  {
-   "id": "160d26aeef",
-   "title": "Four killed in Gaza after sand embankment collapses onto tents, health ministry says",
-   "sourceCount": 2,
-   "outlets": [
-    "BBC",
-    "Guardian"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 2,
-   "opinionOnly": false,
-   "firstSeen": "2026-11-09T10:41:57+00:00",
-   "lastSeen": "2026-11-09T19:38:08+00:00",
-   "articles": [
-    {
-     "source": "BBC",
-     "title": "Four killed in Gaza after sand embankment collapses onto tents, health ministry says",
-     "url": "https://www.bbc.co.uk/news/articles/cqd090ee8px5o?at_medium=RSS&at_campaign=rss",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-11-09T10:41:57+00:00"
-    },
-    {
-     "source": "Guardian",
-     "title": "Four killed in sand embankment collapse in Gaza - video",
-     "url": "https://www.theguardian.com/world/video/2026/nov/09/four-killed-in-sand-embankment-collapse-in-gaza-video",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-11-09T19:38:08+00:00"
     }
    ]
   },
@@ -5119,78 +5046,6 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-11-10T11:42:57+00:00"
-    }
-   ]
-  },
-  {
-   "id": "d4eb737886",
-   "title": "Abandoned and traumatised: child refugees at ‘violent’ breaking point in Egypt after fleeing Sudan war",
-   "sourceCount": 1,
-   "outlets": [
-    "Guardian"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-11-09T10:00:06+00:00",
-   "lastSeen": "2026-11-09T10:00:06+00:00",
-   "articles": [
-    {
-     "source": "Guardian",
-     "title": "Abandoned and traumatised: child refugees at ‘violent’ breaking point in Egypt after fleeing Sudan war",
-     "url": "https://www.theguardian.com/global-development/2026/nov/09/sudan-child-war-refugees-cairo-egypt-spiral-of-despair",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-11-09T10:00:06+00:00"
-    }
-   ]
-  },
-  {
-   "id": "7aad2db34c",
-   "title": "A Fox Under a Pink Moon review – Iranian teen refugee paints boldly imaginative self-portrait",
-   "sourceCount": 1,
-   "outlets": [
-    "Guardian"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-11-09T10:00:06+00:00",
-   "lastSeen": "2026-11-09T10:00:06+00:00",
-   "articles": [
-    {
-     "source": "Guardian",
-     "title": "A Fox Under a Pink Moon review – Iranian teen refugee paints boldly imaginative self-portrait",
-     "url": "https://www.theguardian.com/film/2026/nov/09/a-fox-under-a-pink-moon-review-iran-refugee",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-11-09T10:00:06+00:00"
-    }
-   ]
-  },
-  {
-   "id": "0e1c50d39b",
-   "title": "Deadly floods hit Iraq as thunderstorms sweep across region",
-   "sourceCount": 1,
-   "outlets": [
-    "Guardian"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-11-09T10:59:06+00:00",
-   "lastSeen": "2026-11-09T10:59:06+00:00",
-   "articles": [
-    {
-     "source": "Guardian",
-     "title": "Deadly floods hit Iraq as thunderstorms sweep across region",
-     "url": "https://www.theguardian.com/environment/2026/nov/09/deadly-floods-iraq-thunderstorms-iran-portugal-japan-snow",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-11-09T10:59:06+00:00"
     }
    ]
   },
@@ -6487,6 +6342,30 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-11-09T19:18:54+00:00"
+    }
+   ]
+  },
+  {
+   "id": "923d9b90cb",
+   "title": "Four killed in sand embankment collapse in Gaza - video",
+   "sourceCount": 1,
+   "outlets": [
+    "Guardian"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-11-09T19:38:08+00:00",
+   "lastSeen": "2026-11-09T19:38:08+00:00",
+   "articles": [
+    {
+     "source": "Guardian",
+     "title": "Four killed in sand embankment collapse in Gaza - video",
+     "url": "https://www.theguardian.com/world/video/2026/nov/09/four-killed-in-sand-embankment-collapse-in-gaza-video",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-09T19:38:08+00:00"
     }
    ]
   },
@@ -11484,8 +11363,8 @@
   }
  ],
  "stats": {
-  "articles": 371,
-  "clusters": 301,
-  "multiSource": 22
+  "articles": 367,
+  "clusters": 298,
+  "multiSource": 21
  }
 }

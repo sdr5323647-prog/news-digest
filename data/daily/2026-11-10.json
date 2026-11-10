@@ -1,0 +1,273 @@
+{
+ "schema": 2,
+ "date": "2026-11-10",
+ "type": "daily",
+ "headline": "הכנסת ה-26 הושבעה ואיזנקוט ובנט מדברים על ממשלת חירום; טראמפ: המלחמה באיראן הסתיימה בפועל; צרפת מאשימה את איראן בהאקינג.",
+ "events": [
+  {
+   "id": "knesset-26-sworn-in",
+   "title": "הכנסת ה-26 הושבעה; הנשיא הרצוג קרא להימנע מבחירות חוזרות",
+   "summary": "הכנסת ה-26 הושבעה בטקס במליאה. הנשיא הרצוג אמר לחברי הכנסת כי עליהם לעשות הכול כדי להימנע מבחירות חוזרות. לפי ynet ומעריב, בעת הצהרת האמונים של יו\"ר הרשימה המשותפת התפרץ השר בן גביר, וחברי כנסת ערבים יצאו מהמליאה בזמן שהושר ההמנון.",
+   "why": "פתיחת הכנסת החדשה מתקיימת בצל אי-ודאות פוליטית סביב הקמת הממשלה.",
+   "change": "",
+   "next": "בחירת יו\"ר הכנסת וניסיונות להרכיב קואליציה.",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "politics"
+   ],
+   "kind": "event",
+   "entities": [
+    "הכנסת ה-26",
+    "הרצוג",
+    "בחירות 2026",
+    "הקמת ממשלה"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/hymfh9l0mg",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/politics/article/21816611",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1387065",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-11-10",
+   "lastUpdated": "2026-11-10"
+  },
+  {
+   "id": "coalition-building-after-election",
+   "title": "איזנקוט: מחויב להקמת ממשלת חירום לאומית; בנט: עוזר לאיזנקוט להקים ממשלה",
+   "summary": "איזנקוט הצהיר כי הוא מחויב להקמת ממשלת חירום לאומית מוקדם ככל האפשר, ובנט אמר כי הוא עושה הכול כדי לסייע לו להקים ממשלה. על פי דיווח ב-ynet, בגוש השינוי הסכימו כי איזנקוט ישמש יו\"ר זמני של הכנסת; ובמקביל דווח שם על מגעים עם מנסור עבאס, שאמר כי הם שואפים להיות חלק מהקואליציה.",
+   "why": "הרכב הממשלה הבאה ומשך המשבר הפוליטי תלויים בהסכמות האלה.",
+   "change": "איזנקוט הצהיר על מחויבות לממשלת חירום, בנט הצהיר על סיוע לו, וב-ynet דווח על הסכמה סביב יו\"ר זמני לכנסת ועל מגעים עם עבאס.",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "politics"
+   ],
+   "kind": "negotiation",
+   "entities": [
+    "בחירות 2026",
+    "הקמת ממשלה",
+    "איזנקוט",
+    "בנט"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/hkf3z9grme",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1387022",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/skucu001czg",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/rjoieklagg",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-10-29",
+   "lastUpdated": "2026-11-10"
+  },
+  {
+   "id": "us-iran-talks",
+   "title": "טראמפ: המלחמה באיראן \"הסתיימה בפועל\" צבאית; דורש שישראל ובעלות ברית במפרץ ישאו בעלות",
+   "summary": "לפי אל-ג'זירה, אחרי פגישתו עם ראש ממשלת קטאר אמר טראמפ כי המלחמה באיראן הסתיימה בפועל מבחינה צבאית, ודיבר על \"מומנטום חיובי\" מול טהרן. לפי אל-ג'זירה הוא גם אמר כי ישראל ובעלות הברית במפרץ צריכות להחזיר את עלות המלחמה. לפי ישראל היום, אמר כי אם יידרש לשוב לפעולה, ארה\"ב \"טעונה ומוכנה\".",
+   "why": "כיוון המגעים ארה\"ב–איראן משפיע ישירות על הביטחון האזורי של ישראל.",
+   "change": "טראמפ הכריז כי המלחמה הסתיימה בפועל צבאית, ודרש מישראל ומבעלות ברית במפרץ לשאת בעלות.",
+   "next": "המשך המגעים להסכם.",
+   "status": "VERIFIED",
+   "importance": 5,
+   "categories": [
+    "security",
+    "israel_world",
+    "world"
+   ],
+   "kind": "statement",
+   "entities": [
+    "איראן",
+    "ארה\"ב",
+    "טראמפ",
+    "קטאר"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/9/trump-calls-iran-war-effectively-over-after-talks-with-qatar-pm",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/10/trump-says-israel-gulf-allies-must-repay-iran-war-cost-what-does-it-mean",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21817886",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-10-01",
+   "lastUpdated": "2026-11-10"
+  },
+  {
+   "id": "france-iran-fridge-cyberattack",
+   "title": "צרפת מאשימה את איראן במתקפת סייבר על מקררי סופרמרקטים",
+   "summary": "שר החוץ הצרפתי אמר כי משמרות המהפכה אחראים למתקפת סייבר שפגעה במקררים בסופרמרקטים ברחבי צרפת באוקטובר, וכי איראן תישא בהשלכות. לפי BBC ואל-ג'זירה, צרפת זימנה את שגריר איראן.",
+   "why": "האשמה רשמית של מדינה אירופית באיראן בחבלה בתשתיות אזרחיות, עם אפשרות לסנקציות.",
+   "change": "",
+   "next": "סנקציות אפשריות על איראן, כפי שנמסר בצרפת.",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "world",
+    "tech"
+   ],
+   "kind": "decision",
+   "entities": [
+    "איראן",
+    "צרפת",
+    "סייבר"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/10/france-summons-irans-ambassador-over-supermarket-fridge-sabotage",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1386715",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-11-10",
+   "lastUpdated": "2026-11-10"
+  },
+  {
+   "id": "saudi-riyadh-interception-claim",
+   "title": "סעודיה: תקיפה חדשה על צינור הנפט מזרח-מערב; טילים שנורו לריאד יורטו",
+   "summary": "לפי אל-ג'זירה, סעודיה דיווחה על תקיפה חדשה בצינור הנפט המרכזי מזרח-מערב, ובהמשך על יירוט טילים שנורו לעבר ריאד לאחר תקיפת החות'ים בצינור. הדיווח הגיע ממקור אחד.",
+   "why": "פגיעה בתשתיות אנרגיה סעודיות משפיעה על שוק האנרגיה ועל היציבות האזורית.",
+   "change": "תקיפה חדשה בצינור מזרח-מערב ויירוט טילים לעבר ריאד.",
+   "next": "",
+   "status": "REPORTED",
+   "importance": 3,
+   "categories": [
+    "security",
+    "world",
+    "economy"
+   ],
+   "kind": "event",
+   "entities": [
+    "סעודיה",
+    "חות'ים"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/9/saudi-arabia-reports-new-attack-on-key-east-west-pipeline",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/10/saudi-arabia-downs-missiles-fired-at-riyadh-after-houthi-attack-on-pipeline",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 1,
+   "firstSeen": "2026-11-07",
+   "lastUpdated": "2026-11-10"
+  }
+ ],
+ "unverified": [
+  {
+   "id": "netanyahu-pushes-iran-renewal-claim",
+   "title": "על פי דיווח: נתניהו מפעיל לחץ יומי על טראמפ לחדש את המערכה באיראן",
+   "summary": "על פי דיווח ב-ynet ובמעריב, שמסר זאת גורם דיפלומטי, נתניהו מתקשר מדי יום לטראמפ ומנסה לשכנע אותו לחדש את המערכה מול איראן. הדברים לא אושרו רשמית.",
+   "why": "אם יאומת, מדובר בפער אפשרי בין ירושלים לוושינגטון סביב המדיניות כלפי איראן.",
+   "change": "",
+   "next": "",
+   "status": "CLAIM",
+   "importance": 4,
+   "categories": [
+    "security",
+    "politics",
+    "israel_world"
+   ],
+   "kind": "statement",
+   "entities": [
+    "איראן",
+    "נתניהו",
+    "טראמפ"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/sjoxipkrzx",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1386798",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-11-10",
+   "lastUpdated": "2026-11-10"
+  }
+ ],
+ "filtered_out": 290,
+ "note": ""
+}
