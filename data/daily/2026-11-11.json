@@ -1,0 +1,390 @@
+{
+ "schema": 2,
+ "date": "2026-11-11",
+ "type": "daily",
+ "headline": "סער מונה לשר הפנים, רוביו: אין צורך עוד בלחימה מרכזית באיראן, ועימותים בפינוי מאחזים בבנימין.",
+ "events": [
+  {
+   "id": "sa-ar-interior-minister",
+   "title": "גדעון סער מונה לשר הפנים",
+   "summary": "לפי ynet, מעריב ווואלה, גדעון סער הגיב למינויו לשר הפנים ואמר כי המשרד מוכר לו היטב. הדיווחים מבוססים על תגובתו של סער; הפרטים על נסיבות המינוי לא נבדקו כאן.",
+   "why": "שר הפנים אחראי על הרשויות המקומיות, האוכלוסין וההגירה, והמינוי הוא חלק מעיצוב הממשלה החדשה.",
+   "change": "",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "politics"
+   ],
+   "kind": "decision",
+   "entities": [
+    "סער",
+    "הקמת ממשלה"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/bjrpynbcge",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1387318",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383960990",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-11-11",
+   "lastUpdated": "2026-11-11"
+  },
+  {
+   "id": "netanyahu-speech-eisenkot-response",
+   "title": "איזנקוט תקף את נאום נתניהו: \"ניצל לרעה אירוע ממלכתי, אינו כשיר\"",
+   "summary": "איזנקוט הגיב לדברי ראש הממשלה נתניהו וכינה אותם \"נאום הזוי\" שבו לדבריו נוצל לרעה אירוע ממלכתי, והוסיף כי נתניהו \"אינו כשיר\". הדברים הם עמדתו של איזנקוט, והם מובאים בדיווחי ynet, מעריב וישראל היום.",
+   "why": "הוויכוח משקף את עומק המחלוקת בין הגושים בעת הקמת הממשלה.",
+   "change": "",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 2,
+   "categories": [
+    "politics"
+   ],
+   "kind": "dispute",
+   "entities": [
+    "נתניהו",
+    "איזנקוט",
+    "הקמת ממשלה"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1387106",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/politics/article/21825096",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/r1WHuReAze",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-11-11",
+   "lastUpdated": "2026-11-11"
+  },
+  {
+   "id": "bennett-reservists-bill",
+   "title": "הצעת החוק הראשונה של בנט בכנסת: 4,000 ש\"ח בחודש למשרתי מילואים",
+   "summary": "נפתלי בנט הגיש את הצעת החוק הראשונה שלו בכנסת החדשה, שלפי הדיווחים תעניק 4,000 שקלים בחודש למשרתי מילואים. זו הצעת חוק פרטית, ולא הוכרעו בה תקציב או מועד הצבעה.",
+   "why": "הצעה שנוגעת לכלכלת משרתי המילואים לאחר המלחמה.",
+   "change": "",
+   "next": "הצעת החוק תידרש לאישור הכנסת.",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "politics",
+    "security"
+   ],
+   "kind": "decision",
+   "entities": [
+    "בנט",
+    "מילואים",
+    "הכנסת ה-26"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1387266",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/politics/article/21827471",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-11-11",
+   "lastUpdated": "2026-11-11"
+  },
+  {
+   "id": "attorney-general-alfei-hearing",
+   "title": "היועמ\"שית לא תגיע לדיון בתיקי האלפים למרות בקשת נתניהו",
+   "summary": "לפי ynet וישראל היום, היועצת המשפטית לממשלה לא תגיע לדיון בתיקי האלפים, זאת למרות בקשתו של נתניהו שתגיע.",
+   "why": "עמדת היועמ\"שית בהליכי נתניהו משפיעה על ההתנהלות המשפטית והפוליטית.",
+   "change": "",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "law",
+    "politics"
+   ],
+   "kind": "legal",
+   "entities": [
+    "נתניהו",
+    "היועמ\"שית",
+    "תיקי האלפים"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/law/article/21827188",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/B1ehbo11AGl",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-11-11",
+   "lastUpdated": "2026-11-11"
+  },
+  {
+   "id": "binyamin-outposts-evacuation-clashes",
+   "title": "עימותים אלימים בפינוי מאחזים בבנימין; שלושה נעצרו",
+   "summary": "במהלך פינוי מאחזים באזור בנימין יידו אבנים לעבר כוחות הביטחון, ושלושה נעצרו, כך דווח בישראל היום, מעריב, ynet ווואלה.",
+   "why": "פינוי מאחזים מעורר מתיחות בין המתנחלים לכוחות הביטחון.",
+   "change": "",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "security",
+    "society"
+   ],
+   "kind": "event",
+   "entities": [
+    "בנימין",
+    "מאחזים",
+    "התיישבות"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/defense/article/21824629",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1387118",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/by1xlcg0mg",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383960960",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 4,
+   "firstSeen": "2026-11-11",
+   "lastUpdated": "2026-11-11"
+  },
+  {
+   "id": "eilat-arava-earthquake",
+   "title": "רעידת אדמה הורגשה באילת ובערבה",
+   "summary": "רעידת אדמה הורגשה היום באילת ובערבה, לפי דיווחי מעריב, ynet, ישראל היום ווואלה. בדיווחים שנבדקו כאן לא צוין נזק או נפגעים.",
+   "why": "רעידות באזור שבר הערבה מזכירות את הצורך בהיערכות.",
+   "change": "",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "society"
+   ],
+   "kind": "event",
+   "entities": [
+    "רעידת אדמה",
+    "אילת",
+    "ערבה"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1387306",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/local/article/21827856",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383960988",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/ByoMHhZRfg",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 4,
+   "firstSeen": "2026-11-11",
+   "lastUpdated": "2026-11-11"
+  },
+  {
+   "id": "gaza-floods-board-of-peace",
+   "title": "\"מועצת השלום\": תגובת ישראל לשיטפונות בעזה אינה מספקת",
+   "summary": "לפי BBC, NYT ואל-ג'זירה, \"מועצת השלום\" מסרה כי תגובת הסיוע של ישראל לאחר השיטפונות ברצועת עזה אינה מספקת. אל-ג'זירה דיווחה גם על קריסת התשתיות ברצועה.",
+   "why": "ביקורת בינלאומית על הסיוע ההומניטרי בעזה.",
+   "change": "",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "israel_world",
+    "security"
+   ],
+   "kind": "statement",
+   "entities": [
+    "עזה",
+    "מועצת השלום",
+    "סיוע הומניטרי"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/cw4g1g4ll5m1o",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "NYT",
+     "url": "https://www.nytimes.com/2026/11/10/world/middleeast/gaza-flooding-israel.html",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/11/gaza-infrastructure-collapse-leaves-residents-defenceless-against-floods",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-11-11",
+   "lastUpdated": "2026-11-11"
+  },
+  {
+   "id": "us-iran-talks",
+   "title": "רוביו: אין עוד צורך ב\"פעולות לחימה מרכזיות\" באיראן",
+   "summary": "שר החוץ האמריקני רוביו אמר כי פעולות לחימה מרכזיות במלחמה באיראן אינן נדרשות עוד, כך דיווחו NYT ואל-ג'זירה. הדברים מצטרפים להצהרת טראמפ מאתמול שהמלחמה \"הסתיימה בפועל\".",
+   "why": "ההצהרות מסמנות את כיוון המדיניות האמריקנית מול איראן, עם השלכות ישירות על ישראל.",
+   "change": "רוביו אמר כי אין צורך עוד בפעולות לחימה מרכזיות באיראן, בהמשך להצהרת טראמפ.",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "security",
+    "israel_world"
+   ],
+   "kind": "statement",
+   "entities": [
+    "איראן",
+    "ארה\"ב",
+    "טראמפ"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "NYT",
+     "url": "https://www.nytimes.com/2026/11/10/us/politics/rubio-iran-war.html",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/rubio-says-no-need-for-major-combat-operations-against-iran",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-10-01",
+   "lastUpdated": "2026-11-11"
+  }
+ ],
+ "unverified": [
+  {
+   "id": "iran-missile-capacity-report",
+   "title": "על פי דיווח אמריקני: איראן שמרה על כ-50% מיכולת ייצור הטילים",
+   "summary": "על פי דיווח אמריקני שהובא ב-ynet ובישראל היום, איראן שמרה על כ-50% מיכולת ייצור הטילים שלה. זהו דיווח שנסמך על הערכה אמריקנית, ולא נבדק במקור עצמאי.",
+   "why": "ההערכה נוגעת ליכולת האיראנית מול ישראל.",
+   "change": "",
+   "next": "",
+   "status": "REPORTED",
+   "importance": 4,
+   "categories": [
+    "security"
+   ],
+   "kind": "data",
+   "entities": [
+    "איראן",
+    "טילים"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/h11gnz11afg",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21826417",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-11-11",
+   "lastUpdated": "2026-11-11"
+  }
+ ],
+ "filtered_out": 40,
+ "note": ""
+}

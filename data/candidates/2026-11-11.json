@@ -2,36 +2,6 @@
  "date": "2026-11-11",
  "articles": [
   {
-   "source": "Guardian",
-   "outlet": "Guardian",
-   "title": "New Knesset speaker could be key to ousting Netanyahu as Israel’s PM",
-   "url": "https://www.theguardian.com/world/2026/nov/10/new-knesset-speaker-ousting-netanyahu-israel-pm",
-   "summary": "Opposition politicians get first chance to take control of levers of power, even as they struggle to form government Israel’s new Knesset will be sworn in on Tuesday, giving opposition politicians their first chance to take control of some levers of power, even as they struggle to form a new governm",
-   "time": "2026-11-10T06:00:31+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
-   "source": "BBC",
-   "outlet": "BBC",
-   "title": "Trump says more US attacks on Iran 'highly unlikely'",
-   "url": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
-   "summary": "The president says the US is keeping \"status quo\" with Iran but remains “locked and loaded” should the situation change.",
-   "time": "2026-11-10T09:40:31+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
-   "source": "NYT",
-   "outlet": "NYT",
-   "title": "Haaretz Expands US Presence Amid Israel’s Move to the Right",
-   "url": "https://www.nytimes.com/2026/11/10/business/media/haaretz-us-expansion.html",
-   "summary": "Haaretz has more than doubled the size of its American bureau, including hiring correspondents to cover beats like national politics and young American Jews.",
-   "time": "2026-11-10T10:01:09+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
    "source": "BBC",
    "outlet": "BBC",
    "title": "Israeli forces kill Palestinian boy in West Bank, health ministry says",
@@ -3942,7 +3912,7 @@
    "type": "reporting"
   }
  ],
- "updated": "2026-11-11T11:05:44.237108+00:00",
+ "updated": "2026-11-11T17:01:27.676914+00:00",
  "clusters": [
   {
    "id": "31e82925a5",
@@ -5608,38 +5578,6 @@
    ]
   },
   {
-   "id": "3ac6d44b81",
-   "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
-   "sourceCount": 1,
-   "outlets": [
-    "BBC"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 2,
-   "opinionOnly": false,
-   "firstSeen": "2026-11-10T09:40:31+00:00",
-   "lastSeen": "2026-11-11T01:01:20+00:00",
-   "articles": [
-    {
-     "source": "BBC",
-     "title": "Trump says more US attacks on Iran 'highly unlikely'",
-     "url": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-11-10T09:40:31+00:00"
-    },
-    {
-     "source": "BBC",
-     "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
-     "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-11-11T01:01:20+00:00"
-    }
-   ]
-  },
-  {
    "id": "dbdf8e1a72",
    "title": "מסר 8 אסיסטים: דני אבדיה להט, פורטלנד הביסה את אוקלהומה סיטי",
    "sourceCount": 1,
@@ -5732,54 +5670,6 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-11-11T09:05:23+00:00"
-    }
-   ]
-  },
-  {
-   "id": "d301c20d98",
-   "title": "New Knesset speaker could be key to ousting Netanyahu as Israel’s PM",
-   "sourceCount": 1,
-   "outlets": [
-    "Guardian"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-11-10T06:00:31+00:00",
-   "lastSeen": "2026-11-10T06:00:31+00:00",
-   "articles": [
-    {
-     "source": "Guardian",
-     "title": "New Knesset speaker could be key to ousting Netanyahu as Israel’s PM",
-     "url": "https://www.theguardian.com/world/2026/nov/10/new-knesset-speaker-ousting-netanyahu-israel-pm",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-11-10T06:00:31+00:00"
-    }
-   ]
-  },
-  {
-   "id": "f40c9d3df9",
-   "title": "Haaretz Expands US Presence Amid Israel’s Move to the Right",
-   "sourceCount": 1,
-   "outlets": [
-    "NYT"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-11-10T10:01:09+00:00",
-   "lastSeen": "2026-11-10T10:01:09+00:00",
-   "articles": [
-    {
-     "source": "NYT",
-     "title": "Haaretz Expands US Presence Amid Israel’s Move to the Right",
-     "url": "https://www.nytimes.com/2026/11/10/business/media/haaretz-us-expansion.html",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-11-10T10:01:09+00:00"
     }
    ]
   },
@@ -8516,6 +8406,30 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-11-11T00:49:45+00:00"
+    }
+   ]
+  },
+  {
+   "id": "45d5c49f84",
+   "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+   "sourceCount": 1,
+   "outlets": [
+    "BBC"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-11-11T01:01:20+00:00",
+   "lastSeen": "2026-11-11T01:01:20+00:00",
+   "articles": [
+    {
+     "source": "BBC",
+     "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+     "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-11T01:01:20+00:00"
     }
    ]
   },
@@ -11929,8 +11843,8 @@
   }
  ],
  "stats": {
-  "articles": 394,
-  "clusters": 300,
+  "articles": 391,
+  "clusters": 298,
   "multiSource": 33
  }
 }
