@@ -1,0 +1,476 @@
+{
+  "schema": 2,
+  "date": "2026-11-12",
+  "type": "daily",
+  "headline": "איזנקוט יקבל תדריך ביטחוני מנתניהו, תקיפה בבית החולים נאצר בעזה, והקבינט יתכנס ביום ראשון.",
+  "events": [
+    {
+      "id": "gaza-nasser-hospital-strike",
+      "title": "תקיפה ישראלית במתחם בית החולים נאצר בחאן יונס; לפי משרד הבריאות בעזה שישה הרוגים",
+      "summary": "לפי BBC, משרד הבריאות בעזה מסר כי שישה פלסטינים נהרגו בתקיפה ישראלית במתחם בית החולים נאצר בחאן יונס; לפי NYT, כוחות חילוץ מדווחים על 20 פצועים. וואלה דיווח כי צה\"ל ושב\"כ תקפו בכיר חמאס ומחבלים נוספים במקום. המספרים מקורם בגורמים פלסטיניים ולא אומתו באופן עצמאי.",
+      "why": "תקיפה במתחם רפואי בעזה מעוררת ביקורת בינלאומית ועלולה להשפיע על המשך ההסדרים ברצועה.",
+      "change": "",
+      "next": "הבהרות מצה\"ל לגבי זהות הנפגעים והיעד.",
+      "status": "VERIFIED",
+      "importance": 4,
+      "categories": [
+        "security",
+        "israel_world"
+      ],
+      "kind": "event",
+      "entities": [
+        "עזה",
+        "חמאס",
+        "חאן יונס"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "מעריב",
+          "url": "https://www.maariv.co.il/breaking-news/article-1387571",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "וואלה",
+          "url": "https://www.walla.co.il/news/breaking-news/383961108",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "NYT",
+          "url": "https://www.nytimes.com/2026/11/11/world/middleeast/nasser-hospital-gaza-strike-israel.html",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 4,
+      "firstSeen": "2026-11-12",
+      "lastUpdated": "2026-11-12"
+    },
+    {
+      "id": "eisenkot-security-briefing",
+      "title": "נתניהו ואיזנקוט מסרו הודעה משותפת: איזנקוט יקבל תדריך ביטחוני מהמזכיר הצבאי",
+      "summary": "בעקבות פנייה של איזנקוט ליועמ\"שית בבקשה שנתניהו יעביר לו עדכונים ביטחוניים, מסרו נתניהו ואיזנקוט הודעה משותפת לפיה יתקיים היום עדכון ביטחוני בין השניים. לפי ישראל היום ומעריב, איזנקוט יקבל לראשונה תדריך מהמזכיר הצבאי של נתניהו. קודם לכן הזהיר איזנקוט את נתניהו מ\"מהלכים מסוכנים\", ונתניהו כינה את מכתבו של איזנקוט \"חסר אחריות\".",
+      "why": "מי שמוביל כעת את הניסיון להקים ממשלה מקבל גישה למידע ביטחוני, בתקופת מעבר רגישה.",
+      "change": "",
+      "next": "",
+      "status": "VERIFIED",
+      "importance": 4,
+      "categories": [
+        "politics",
+        "security"
+      ],
+      "kind": "decision",
+      "entities": [
+        "איזנקוט",
+        "נתניהו",
+        "הקמת ממשלה"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/SkWo011XAMl",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "מעריב",
+          "url": "https://www.maariv.co.il/breaking-news/article-1387734",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/news/politics/article/21836316",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "וואלה",
+          "url": "https://www.walla.co.il/news/breaking-news/383961156",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 4,
+      "firstSeen": "2026-11-12",
+      "lastUpdated": "2026-11-12"
+    },
+    {
+      "id": "security-cabinet-first-meeting-sunday",
+      "title": "הקבינט המדיני-ביטחוני יתכנס ביום ראשון, לראשונה מאז הבחירות",
+      "summary": "לפי ynet וישראל היום, הקבינט המדיני-ביטחוני יתכנס ביום ראשון לראשונה מאז הבחירות. ההכרעה על כינוס הגיעה על רקע ביקורת על כך שהקבינט לא התכנס בתקופה האחרונה.",
+      "why": "הקבינט מקבל החלטות ביטחוניות ומדיניות, וכינוסו נוגע גם לשאלת איראן.",
+      "change": "",
+      "next": "דיון בקבינט ביום ראשון.",
+      "status": "VERIFIED",
+      "importance": 3,
+      "categories": [
+        "security",
+        "politics"
+      ],
+      "kind": "decision",
+      "entities": [
+        "קבינט",
+        "נתניהו"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/byxorsmcfx",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/news/politics/article/21833635",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 2,
+      "firstSeen": "2026-11-12",
+      "lastUpdated": "2026-11-12"
+    },
+    {
+      "id": "knesset-committees-liberman-fadc",
+      "title": "אושרו הרכבי ועדות הכנסת; ליברמן מונה ליו\"ר ועדת החוץ והביטחון",
+      "summary": "לפי ynet, בתום דיון סוער במליאה אושרו הרכבי ועדות הכנסת, וליברמן מונה ליו\"ר ועדת החוץ והביטחון. איזנקוט האשים קודם את נתניהו בניסיון לעכב את כינוס הוועדה.",
+      "why": "הוועדה מפקחת על הצבא ועל השב\"כ, והרכבה קובע מי יקבל מידע ביטחוני.",
+      "change": "",
+      "next": "",
+      "status": "REPORTED",
+      "importance": 3,
+      "categories": [
+        "politics",
+        "security"
+      ],
+      "kind": "decision",
+      "entities": [
+        "ליברמן",
+        "הכנסת",
+        "הקמת ממשלה"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/hypr11wzcfl",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "מעריב",
+          "url": "https://www.maariv.co.il/breaking-news/article-1387504",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 2,
+      "firstSeen": "2026-11-12",
+      "lastUpdated": "2026-11-12"
+    },
+    {
+      "id": "likud-ballot-review-request",
+      "title": "סולברג קיבל באופן חלקי את בקשת הליכוד לעיין בחומרי קלפיות במגזר הערבי",
+      "summary": "לפי ישראל היום ומעריב, נעם סולברג אישר באופן חלקי את בקשת הליכוד לעיין בחומרי קלפיות, על רקע טענות הליכוד להטיית הבחירות. הפרטים המלאים של ההחלטה לא נבדקו כאן, וטענות ההטיה לא הוכחו.",
+      "why": "ההליך נוגע לאמון בתוצאות הבחירות בזמן שמתנהל משא ומתן להקמת ממשלה.",
+      "change": "",
+      "next": "",
+      "status": "VERIFIED",
+      "importance": 4,
+      "categories": [
+        "law",
+        "politics"
+      ],
+      "kind": "legal",
+      "entities": [
+        "הליכוד",
+        "בחירות 2026",
+        "סולברג"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/news/law/article/21833199",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "מעריב",
+          "url": "https://www.maariv.co.il/breaking-news/article-1387546",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 2,
+      "firstSeen": "2026-11-12",
+      "lastUpdated": "2026-11-12"
+    },
+    {
+      "id": "nvidia-ceo-espionage-probe",
+      "title": "דיווחים: דירקטוריון אנבידיה נערך להדיח את מנכ\"ל החברה ולמנות מנכ\"ל זמני",
+      "summary": "לפי דיווחים בארה\"ב שפורסמו ב-ynet, במעריב ובישראל היום, דירקטוריון אנבידיה מתכונן להדיח את ג'נסן הואנג ושוקל מנכ\"ל זמני. ynet מוסיף כי ממשל טראמפ מודע לכוונה, וכי החשודה בריגול נמלטה לסין. הדברים לא אושרו על ידי החברה, ומניית אנבידיה התאוששה בוול סטריט אחרי ירידה של יומיים.",
+      "why": "אנבידיה היא חברה מרכזית בשוק השבבים וה-AI העולמי, וההנהגה שלה משפיעה על השווקים.",
+      "change": "דיווחים חדשים: הדירקטוריון נערך להדחת המנכ\"ל ושוקל מנכ\"ל זמני; החשודה בריגול נמלטה לסין.",
+      "next": "",
+      "status": "REPORTED",
+      "importance": 3,
+      "categories": [
+        "tech",
+        "economy"
+      ],
+      "kind": "event",
+      "entities": [
+        "אנבידיה",
+        "ג'נסן הואנג"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/s1hr0fgrme",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "מעריב",
+          "url": "https://www.maariv.co.il/breaking-news/article-1387572",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/business/article/21836034",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 3,
+      "firstSeen": "2026-11-09",
+      "lastUpdated": "2026-11-12"
+    },
+    {
+      "id": "elbit-european-rocket-contract",
+      "title": "אלביט זכתה בחוזה של כ-260 מיליון דולר לאספקת מערכות רקטות למדינה אירופית",
+      "summary": "לפי ynet וישראל היום, אלביט זכתה בחוזה בשווי כ-260 מיליון דולר לאספקת מערכות רקטות ארטילריות למדינה אירופית.",
+      "why": "יצוא ביטחוני הוא ענף משמעותי בכלכלה, והחוזה מצביע על ביקוש אירופי למערכות ישראליות.",
+      "change": "",
+      "next": "",
+      "status": "VERIFIED",
+      "importance": 3,
+      "categories": [
+        "economy",
+        "security"
+      ],
+      "kind": "decision",
+      "entities": [
+        "אלביט",
+        "יצוא ביטחוני"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/sjogljqcgl",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/news/defense/article/21836414",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 2,
+      "firstSeen": "2026-11-12",
+      "lastUpdated": "2026-11-12"
+    },
+    {
+      "id": "france-dagan-entry-ban",
+      "title": "משרד החוץ: ישראל רואה בחומרה את החלטת צרפת לאסור את כניסתו של יוסי דגן",
+      "summary": "לפי ynet ומעריב, צרפת החליטה לאסור על כניסתו של נבחר ציבור ישראלי, יוסי דגן, ומשרד החוץ מסר כי ישראל רואה בחומרה את ההחלטה.",
+      "why": "איסור כניסה לנבחר ציבור ישראלי הוא צעד דיפלומטי חריג בין ישראל לצרפת.",
+      "change": "",
+      "next": "",
+      "status": "VERIFIED",
+      "importance": 3,
+      "categories": [
+        "israel_world",
+        "politics"
+      ],
+      "kind": "decision",
+      "entities": [
+        "צרפת",
+        "יוסי דגן",
+        "משרד החוץ"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "מעריב",
+          "url": "https://www.maariv.co.il/breaking-news/article-1387518",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/hyl204m0zl",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 2,
+      "firstSeen": "2026-11-12",
+      "lastUpdated": "2026-11-12"
+    },
+    {
+      "id": "netherlands-ambassador-recalled",
+      "title": "שגריר ישראל בהולנד זומן ארצה לבירור אחרי התבטאות נגד בן גביר וסמוטריץ'",
+      "summary": "לפי ynet וישראל היום, שגריר ישראל בהולנד זומן חזרה לארץ לבירור, לאחר שהתבטא נגד השרים בן גביר וסמוטריץ'.",
+      "why": "מקרה נדיר של זימון שגריר בשל התבטאות נגד שרים בממשלה.",
+      "change": "",
+      "next": "",
+      "status": "VERIFIED",
+      "importance": 3,
+      "categories": [
+        "politics",
+        "israel_world"
+      ],
+      "kind": "decision",
+      "entities": [
+        "משרד החוץ",
+        "בן גביר",
+        "סמוטריץ'"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/hyl204m0zl",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/news/geopolitics/article/21834172",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 2,
+      "firstSeen": "2026-11-12",
+      "lastUpdated": "2026-11-12"
+    }
+  ],
+  "unverified": [
+    {
+      "id": "hezbollah-chief-victory-claim",
+      "title": "לטענת מזכ\"ל חיזבאללה: \"טראמפ ונתניהו הובסו\"",
+      "summary": "לפי ynet וישראל היום, מזכ\"ל חיזבאללה אמר כי טראמפ ונתניהו הובסו וכי הארגון מילא את תפקידו. מדובר בהצהרה של צד מעוניין ולא בעובדה מאומתת.",
+      "why": "הצהרות של הנהגת חיזבאללה משקפות את עמדת הארגון בעת מתיחות אזורית.",
+      "change": "",
+      "next": "",
+      "status": "CLAIM",
+      "importance": 3,
+      "categories": [
+        "security"
+      ],
+      "kind": "statement",
+      "entities": [
+        "חיזבאללה"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/hyvhlqzazg",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21833418",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 2,
+      "firstSeen": "2026-11-12",
+      "lastUpdated": "2026-11-12"
+    },
+    {
+      "id": "iran-warns-israel-attack-report",
+      "title": "על פי אל-ג'זירה: איראן מזהירה מהרחבת תגובה, וישראל נערכת לפי הדיווח לתקיפה",
+      "summary": "לפי אל-ג'זירה, איראן מזהירה מתגובה מורחבת, כאשר לפי הדיווח ישראל נערכת לתקיפה. הדיווח הוא של כלי תקשורת אחד ולא אושר על ידי גורם רשמי בישראל.",
+      "why": "הסלמה מול איראן תשפיע ישירות על הביטחון בישראל ועל שוקי האנרגיה.",
+      "change": "",
+      "next": "",
+      "status": "UNCONFIRMED",
+      "importance": 4,
+      "categories": [
+        "security",
+        "israel_world"
+      ],
+      "kind": "statement",
+      "entities": [
+        "איראן"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/12/iran-warns-of-expanded-retaliation-as-israel-reportedly-readies-to-attack",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 1,
+      "firstSeen": "2026-11-12",
+      "lastUpdated": "2026-11-12"
+    },
+    {
+      "id": "iran-backed-plot-fairford",
+      "title": "לטענת ארה\"ב: שלושה חשודים הקשורים לאיראן תכננו התקפות, כולל האירוע בבסיס RAF פיירפורד",
+      "summary": "לפי BBC, ארה\"ב טוענת כי שלושה חשודים הקשורים לאיראן תכננו התקפות, ובהן האירוע בבסיס RAF פיירפורד. מדובר בטענה של גורמים אמריקניים כפי שדווחה ב-BBC.",
+      "why": "טענה על פעילות איראנית נגד יעדים מערביים באירופה מחמירה את המתיחות עם איראן.",
+      "change": "",
+      "next": "",
+      "status": "CLAIM",
+      "importance": 4,
+      "categories": [
+        "security",
+        "world"
+      ],
+      "kind": "statement",
+      "entities": [
+        "איראן"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 1,
+      "firstSeen": "2026-11-12",
+      "lastUpdated": "2026-11-12"
+    }
+  ],
+  "filtered_out": 276,
+  "note": ""
+}

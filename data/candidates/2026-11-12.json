@@ -2,36 +2,6 @@
  "date": "2026-11-12",
  "articles": [
   {
-   "source": "Guardian",
-   "outlet": "Guardian",
-   "title": "US Treasury chief Scott Bessent is reportedly latest Trump official to move to military base",
-   "url": "https://www.theguardian.com/us-news/2026/nov/11/us-treasury-chief-scott-bessent-moves-military-base-iran-threats",
-   "summary": "Bessent, driving force behind US push to cripple Iran’s economy, relocates over alleged threat to his life The US Treasury secretary, Scott Bessent, has relocated from his home in the Washington area to a military base after an Iranian threat against his life, the New York Times has reported . Besse",
-   "time": "2026-11-11T09:11:30+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
-   "source": "Guardian",
-   "outlet": "Guardian",
-   "title": "Woman in Saudi Arabia sentenced to 100 lashes for giving birth outside marriage",
-   "url": "https://www.theguardian.com/global-development/2026/nov/11/woman-in-saudi-arabia-sentenced-to-100-lashes-for-giving-birth-outside-marriage",
-   "summary": "Rights groups condemn reported punishment of Kenyan migrant worker as an ‘act of violence’ A Kenyan mother in Saudi Arabia has reportedly been sentenced to 100 lashes after giving birth outside marriage. Under the Saudi sharia law system, sex outside marriage is a criminal offence. But it is women w",
-   "time": "2026-11-11T09:15:44+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
-   "source": "NYT",
-   "outlet": "NYT",
-   "title": "Lebanon Faces Economic ‘Catastrophe’ After War and Years of Mismanagement",
-   "url": "https://www.nytimes.com/2026/11/11/world/middleeast/lebanon-economy-crisis-corruption-war.html",
-   "summary": "Hezbollah’s conflict with Israel and the U.S.-Israel war with Iran have made systemic problems worse, causing the cost of living to soar and driving many Lebanese to despair.",
-   "time": "2026-11-11T09:31:18+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
    "source": "BBC",
    "outlet": "BBC",
    "title": "Egyptian journalist's retrial adjourned as UN warns of 'assaults on press freedom'",
@@ -3802,7 +3772,7 @@
    "type": "reporting"
   }
  ],
- "updated": "2026-11-12T11:24:08.950496+00:00",
+ "updated": "2026-11-12T17:01:21.396256+00:00",
  "clusters": [
   {
    "id": "6105fc16e4",
@@ -5355,78 +5325,6 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-11-12T10:28:53+00:00"
-    }
-   ]
-  },
-  {
-   "id": "028185b6b4",
-   "title": "US Treasury chief Scott Bessent is reportedly latest Trump official to move to military base",
-   "sourceCount": 1,
-   "outlets": [
-    "Guardian"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-11-11T09:11:30+00:00",
-   "lastSeen": "2026-11-11T09:11:30+00:00",
-   "articles": [
-    {
-     "source": "Guardian",
-     "title": "US Treasury chief Scott Bessent is reportedly latest Trump official to move to military base",
-     "url": "https://www.theguardian.com/us-news/2026/nov/11/us-treasury-chief-scott-bessent-moves-military-base-iran-threats",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-11-11T09:11:30+00:00"
-    }
-   ]
-  },
-  {
-   "id": "e0fd4668b4",
-   "title": "Woman in Saudi Arabia sentenced to 100 lashes for giving birth outside marriage",
-   "sourceCount": 1,
-   "outlets": [
-    "Guardian"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-11-11T09:15:44+00:00",
-   "lastSeen": "2026-11-11T09:15:44+00:00",
-   "articles": [
-    {
-     "source": "Guardian",
-     "title": "Woman in Saudi Arabia sentenced to 100 lashes for giving birth outside marriage",
-     "url": "https://www.theguardian.com/global-development/2026/nov/11/woman-in-saudi-arabia-sentenced-to-100-lashes-for-giving-birth-outside-marriage",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-11-11T09:15:44+00:00"
-    }
-   ]
-  },
-  {
-   "id": "575bd23e35",
-   "title": "Lebanon Faces Economic ‘Catastrophe’ After War and Years of Mismanagement",
-   "sourceCount": 1,
-   "outlets": [
-    "NYT"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-11-11T09:31:18+00:00",
-   "lastSeen": "2026-11-11T09:31:18+00:00",
-   "articles": [
-    {
-     "source": "NYT",
-     "title": "Lebanon Faces Economic ‘Catastrophe’ After War and Years of Mismanagement",
-     "url": "https://www.nytimes.com/2026/11/11/world/middleeast/lebanon-economy-crisis-corruption-war.html",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-11-11T09:31:18+00:00"
     }
    ]
   },
@@ -11504,8 +11402,8 @@
   }
  ],
  "stats": {
-  "articles": 380,
-  "clusters": 292,
+  "articles": 377,
+  "clusters": 289,
   "multiSource": 23
  }
 }
