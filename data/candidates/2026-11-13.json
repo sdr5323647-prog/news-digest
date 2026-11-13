@@ -2,16 +2,6 @@
  "date": "2026-11-13",
  "articles": [
   {
-   "source": "NYT",
-   "outlet": "NYT",
-   "title": "They Left Iran, but Now the Regime Is Seizing Their Assets to Silence Them",
-   "url": "https://www.nytimes.com/2026/11/12/world/middleeast/iran-confiscations-assets-dissidents.html",
-   "summary": "The Iranian authorities are pursuing diaspora dissidents and journalists, extending the government’s repressive apparatus far beyond its borders.",
-   "time": "2026-11-12T09:45:47+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
    "source": "Guardian",
    "outlet": "Guardian",
    "title": "Time for a harsh truth: even with Netanyahu gone, the killing won’t stop in Gaza | Owen Jones",
@@ -3102,7 +3092,7 @@
    "type": "reporting"
   }
  ],
- "updated": "2026-11-13T11:07:03.438697+00:00",
+ "updated": "2026-11-13T17:01:34.306167+00:00",
  "clusters": [
   {
    "id": "8f3fa2aa71",
@@ -4126,30 +4116,6 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-11-13T08:12:02+00:00"
-    }
-   ]
-  },
-  {
-   "id": "c3b1e2290d",
-   "title": "They Left Iran, but Now the Regime Is Seizing Their Assets to Silence Them",
-   "sourceCount": 1,
-   "outlets": [
-    "NYT"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-11-12T09:45:47+00:00",
-   "lastSeen": "2026-11-12T09:45:47+00:00",
-   "articles": [
-    {
-     "source": "NYT",
-     "title": "They Left Iran, but Now the Regime Is Seizing Their Assets to Silence Them",
-     "url": "https://www.nytimes.com/2026/11/12/world/middleeast/iran-confiscations-assets-dissidents.html",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-11-12T09:45:47+00:00"
     }
    ]
   },
@@ -9651,8 +9617,8 @@
   }
  ],
  "stats": {
-  "articles": 310,
-  "clusters": 254,
+  "articles": 309,
+  "clusters": 253,
   "multiSource": 14
  }
 }

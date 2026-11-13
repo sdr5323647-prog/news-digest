@@ -1,0 +1,337 @@
+{
+ "schema": 2,
+ "date": "2026-11-13",
+ "type": "daily",
+ "headline": "איזנקוט קיבל תדריך ביטחוני מנתניהו, צה\"ל פרסם את יעד התקיפה בבית החולים נאצר, וסולברג מסר כי המידע על השפעה זרה בבחירות טרם הבשיל לראיות.",
+ "events": [
+  {
+   "id": "eisenkot-security-briefing",
+   "title": "איזנקוט קיבל תדריך ביטחוני מנתניהו והמזכיר הצבאי; הפגישה נמשכה כשעתיים",
+   "summary": "יו\"ר המחנה הממלכתי גדי איזנקוט נפגש עם ראש הממשלה בנימין נתניהו ועם מזכירו הצבאי לתדריך ביטחוני. לפי הדיווחים הפגישה נמשכה כשעתיים, והתקיימה אחרי חילופי מסרים בין הצדדים בערב הקודם.",
+   "why": "התדריך הוא צעד ראשון בין ראש הממשלה למי שמוביל את ניסיונות הקמת הממשלה החלופית, ועשוי להשפיע על המשא ומתן הקואליציוני.",
+   "change": "התדריך התקיים היום ונמשך כשעתיים, לאחר שאתמול הוכרז עליו.",
+   "next": "התכנסות הקבינט המדיני-ביטחוני ביום ראשון.",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "politics",
+    "security"
+   ],
+   "kind": "event",
+   "entities": [
+    "איזנקוט",
+    "נתניהו",
+    "הקמת ממשלה"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1387889",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/s1zfbux0ze",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/politics/article/21841876",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-11-12",
+   "lastUpdated": "2026-11-13"
+  },
+  {
+   "id": "gaza-nasser-hospital-strike",
+   "title": "צה\"ל: התקיפה בבית החולים נאצר כוונה למפקד חטיבת חאן יונס של חמאס; הנפגעים בעזה — שישה הרוגים",
+   "summary": "צה\"ל מסר כי התקיפה במתחם בית החולים נאצר כוונה למוחמד אבו איסמעיל, מפקד חטיבת חאן יונס, וכי לפי הערכתו נפצע ועדיין אין אישור למותו. לפי מנהל בית החולים, כפי שדווח ב-Guardian, שישה בני אדם נהרגו, בהם מנתח, ו-28 נפצעו. צה\"ל טוען כי החדר ששימש כמפקדה של חמאס היה בקומה שנייה במתחם.",
+   "why": "תקיפה במתחם רפואי מעוררת ביקורת בינלאומית ועלולה להשפיע על הסדרי הרצועה.",
+   "change": "צה\"ל פרסם את היעד: מפקד חטיבת חאן יונס; גורלו לא ברור. מנהל בית החולים מדווח על 28 פצועים.",
+   "next": "אישור או הכחשה של חיסול המפקד.",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "security",
+    "israel_world"
+   ],
+   "kind": "event",
+   "entities": [
+    "עזה",
+    "חמאס",
+    "חאן יונס"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2026/nov/12/israeli-airstrike-nasser-hospital-gaza-kills-surgeon",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21841235",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-11-12",
+   "lastUpdated": "2026-11-13"
+  },
+  {
+   "id": "election-foreign-influence-probe",
+   "title": "סולברג: המידע בפרשת ההשפעה הזרה בבחירות טרם הבשיל לראיות; ביקר הדלפות מהחקירה",
+   "summary": "יו\"ר ועדת הבחירות המרכזית, השופט נעם סולברג, מסר לחברי הוועדה כי המצב הראייתי בפרשה לא השתנה מאז השבוע שעבר וייתכן שלא יבשיל. לאחר פגישה עם נציגי השב\"כ, המשטרה והפרקליטות אמר כי שיתוף הפעולה ביניהם טוב וכי היועמ\"שית לא סירבה לבקשות חקירה. הוא מתח ביקורת על הדלפות מהחקירה, שלדבריו פוגעות בה שוב ושוב.",
+   "why": "הפרשה נוגעת לטוהר הבחירות ולהכרעה על אישור תוצאותיהן.",
+   "change": "",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "law",
+    "politics"
+   ],
+   "kind": "legal",
+   "entities": [
+    "סולברג",
+    "ועדת הבחירות המרכזית",
+    "השב\"כ"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/law/article/21841133",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1387867",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/SyJMfPmRzg",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-11-13",
+   "lastUpdated": "2026-11-13"
+  },
+  {
+   "id": "israel-bans-lfi-leaders",
+   "title": "ישראל אסרה על ראשי מפלגת 'צרפת הבלתי כנועה', בהם מלנשון, להיכנס למדינה",
+   "summary": "משרד החוץ הודיע כי מנהיג המפלגה ז'אן-לוק מלנשון ויו\"ר סיעתה בפרלמנט לא יורשו להיכנס לישראל. הצעד מגיע לאחר שצרפת אסרה את כניסתו של יו\"ר המועצה האזורית שומרון, יוסי דגן.",
+   "why": "הצעד מחריף את המתיחות הדיפלומטית בין ישראל לצרפת.",
+   "change": "",
+   "next": "תגובת צרפת.",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "israel_world",
+    "politics"
+   ],
+   "kind": "decision",
+   "entities": [
+    "צרפת",
+    "יוסי דגן",
+    "משרד החוץ"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/geopolitics/article/21842223",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/rj0jzo7cze",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-11-13",
+   "lastUpdated": "2026-11-13"
+  },
+  {
+   "id": "nvidia-ceo-espionage-probe",
+   "title": "מנכ\"ל אנבידיה ג'נסן הואנג התפטר; קולט קרס מונתה למנכ\"לית זמנית",
+   "summary": "אחרי 33 שנים בראש החברה התפטר הואנג, והדירקטוריון מינה את סמנכ\"לית הכספים קולט קרס למנכ\"לית זמנית ופתח באיתור מחליף. לפי דיווחים, בקונגרס האמריקני דורשים תשובות בשל חשש לביטחון לאומי, ו-CNN דיווחה כי המודיעין האמריקני לא הוכיח שאישה הקשורה לפרשה פעלה כמרגלת. לפי ישראל היום, לחברה כ-6,200 עובדים בישראל.",
+   "why": "אנבידיה היא חברה מרכזית בענף השבבים, עם פעילות רחבה בישראל וחשיפה של קרנות פנסיה ישראליות.",
+   "change": "ההתפטרות אושרה, מונתה מנכ\"לית זמנית, ודרישות לתשובות הגיעו מהקונגרס.",
+   "next": "מינוי מנכ\"ל קבוע; שימועים אפשריים בקונגרס.",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "economy",
+    "tech"
+   ],
+   "kind": "event",
+   "entities": [
+    "אנבידיה",
+    "ג'נסן הואנג"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/12/why-did-nvidia-ceo-jensen-huang-resign-and-who-is-colette-kress",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/world-news/article/21841095",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/syb54o70zg",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-11-09",
+   "lastUpdated": "2026-11-13"
+  },
+  {
+   "id": "uk-iran-journalists-spying-verdict",
+   "title": "בבריטניה הורשעו שני גברים בסיוע למודיעין האיראני בתכנון פגיעה בעיתונאים",
+   "summary": "שני גברים הורשעו בבריטניה בהתנהלות שנועדה לסייע לשירות מודיעין איראני, במסגרת ניסיון להתנקש בעיתונאים בבריטניה ובעורך דין. הפרשה נוגעת לפעילות איראנית נגד מבקרי המשטר באירופה.",
+   "why": "מצטרף לשורה של אירועים המיוחסים לאיראן מחוץ למזרח התיכון.",
+   "change": "",
+   "next": "גזר הדין.",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "world",
+    "security"
+   ],
+   "kind": "legal",
+   "entities": [
+    "איראן",
+    "בריטניה"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/ck9q8g8209l2o",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/uk-news/2026/nov/12/two-men-found-guilty-over-iranian-attempts-to-eliminate-uk-based-journalists",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/iranian-men-guilty-of-spying-on-british-journalists",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-11-13",
+   "lastUpdated": "2026-11-13"
+  }
+ ],
+ "unverified": [
+  {
+   "id": "irgc-bahrain-hormuz-claims",
+   "title": "לטענת משמרות המהפכה: תקפנו מכ\"ם אמריקני בבחריין; מכלית נפגעה ממוקש בהורמוז",
+   "summary": "משמרות המהפכה האיראניים טוענים כי תקפו מערכת התרעה מוקדמת אמריקנית בבחריין, בתגובה לפגיעה במגדל תקשורת בדרום איראן, ובנוסף כי כלי שיט שהוביל גז נוזלי פגע במוקש במצר הורמוז. הטענות לא אומתו ממקור עצמאי או אמריקני.",
+   "why": "הסלמה אפשרית מול ארה\"ב והשפעה על נתיב השיט והאנרגיה.",
+   "change": "",
+   "next": "",
+   "status": "CLAIM",
+   "importance": 4,
+   "categories": [
+    "security",
+    "world"
+   ],
+   "kind": "statement",
+   "entities": [
+    "איראן",
+    "משמרות המהפכה",
+    "מצר הורמוז"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21844062",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/sk7vog40fg",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-11-13",
+   "lastUpdated": "2026-11-13"
+  },
+  {
+   "id": "us-officials-moved-to-bases",
+   "title": "על פי פוקס ניוז: בכירים בממשל האמריקני הועברו למתקנים צבאיים מחשש לפגיעה איראנית",
+   "summary": "לפי דיווח של פוקס ניוז, כפי שפורסם בישראל היום, שורה של בכירים בממשל טראמפ, ובהם שר המלחמה ומזכיר המדינה, הועברו למתקנים צבאיים לצורך הגנה. הדיווח הוא של כלי תקשורת אחד ולא אושר רשמית.",
+   "why": "מעיד על רמת החשש האמריקנית מתגובה איראנית.",
+   "change": "",
+   "next": "",
+   "status": "REPORTED",
+   "importance": 4,
+   "categories": [
+    "security",
+    "world"
+   ],
+   "kind": "event",
+   "entities": [
+    "איראן",
+    "ארצות הברית"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21842796",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 1,
+   "firstSeen": "2026-11-13",
+   "lastUpdated": "2026-11-13"
+  }
+ ],
+ "filtered_out": 240,
+ "note": ""
+}
