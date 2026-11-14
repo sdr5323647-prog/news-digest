@@ -1,0 +1,482 @@
+{
+  "schema": 2,
+  "date": "2026-11-14",
+  "type": "weekly",
+  "headline": "השבוע: הכנסת ה-26 הושבעה ומגעי הקמת הממשלה נמשכו, ארה\"ב הכריזה על סיום פעולות הלחימה המרכזיות באיראן לצד דיווחים על חיכוכים באזור, ובסוף השבוע נקבעה פסגה בסין בין טראמפ, פוטין ושי.",
+  "events": [
+    {
+      "id": "coalition-building-after-election",
+      "title": "איזנקוט: מחויב להקמת ממשלת חירום לאומית; בנט: עוזר לאיזנקוט להקים ממשלה",
+      "summary": "איזנקוט הצהיר כי הוא מחויב להקמת ממשלת חירום לאומית מוקדם ככל האפשר, ובנט אמר כי הוא עושה הכול כדי לסייע לו להקים ממשלה. על פי דיווח ב-ynet, בגוש השינוי הסכימו כי איזנקוט ישמש יו\"ר זמני של הכנסת; ובמקביל דווח שם על מגעים עם מנסור עבאס, שאמר כי הם שואפים להיות חלק מהקואליציה.",
+      "why": "הרכב הממשלה הבאה ומשך המשבר הפוליטי תלויים בהסכמות האלה.",
+      "change": "איזנקוט הצהיר על מחויבות לממשלת חירום, בנט הצהיר על סיוע לו, וב-ynet דווח על הסכמה סביב יו\"ר זמני לכנסת ועל מגעים עם עבאס.",
+      "next": "",
+      "status": "VERIFIED",
+      "importance": 4,
+      "categories": [
+        "politics"
+      ],
+      "kind": "negotiation",
+      "entities": [
+        "בחירות 2026",
+        "הקמת ממשלה",
+        "איזנקוט",
+        "בנט"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/hkf3z9grme",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "מעריב",
+          "url": "https://www.maariv.co.il/breaking-news/article-1387022",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/skucu001czg",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/rjoieklagg",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 2,
+      "firstSeen": "2026-10-29",
+      "lastUpdated": "2026-11-10"
+    },
+    {
+      "id": "us-iran-talks",
+      "title": "רוביו: אין עוד צורך ב\"פעולות לחימה מרכזיות\" באיראן",
+      "summary": "שר החוץ האמריקני רוביו אמר כי פעולות לחימה מרכזיות במלחמה באיראן אינן נדרשות עוד, כך דיווחו NYT ואל-ג'זירה. הדברים מצטרפים להצהרת טראמפ מאתמול שהמלחמה \"הסתיימה בפועל\".",
+      "why": "ההצהרות מסמנות את כיוון המדיניות האמריקנית מול איראן, עם השלכות ישירות על ישראל.",
+      "change": "רוביו אמר כי אין צורך עוד בפעולות לחימה מרכזיות באיראן, בהמשך להצהרת טראמפ.",
+      "next": "",
+      "status": "VERIFIED",
+      "importance": 4,
+      "categories": [
+        "security",
+        "israel_world"
+      ],
+      "kind": "statement",
+      "entities": [
+        "איראן",
+        "ארה\"ב",
+        "טראמפ"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "NYT",
+          "url": "https://www.nytimes.com/2026/11/10/us/politics/rubio-iran-war.html",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/rubio-says-no-need-for-major-combat-operations-against-iran",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 2,
+      "firstSeen": "2026-10-01",
+      "lastUpdated": "2026-11-11"
+    },
+    {
+      "id": "trump-iran-strike-plans",
+      "title": "דיווחים על פיצוצים באי קשם ובבנדר עבאס; טראמפ: כוח המשימה \"שער הברזל\" פועל במלוא העוצמה",
+      "summary": "לפי רויטרס, כפי שדווח במעריב, נשמעו קולות פיצוץ באי קשם שבאיראן, ולפי ynet גם בבנדר עבאס. ynet מדווח כי באיראן טוענים שארה\"ב תקפה באי קשם. לפי וואלה וynet, טראמפ אמר כי כוח המשימה \"שער הברזל\" פועל \"במלוא העוצמה באיראן\". לא פורסם אישור רשמי על תקיפה בקשם.",
+      "why": "המשך פעילות צבאית אמריקנית באיראן במקביל לשיחות משפיע על הסיכוי להסכם ועל הביטחון האזורי.",
+      "change": "דיווחים חדשים על פיצוצים באי קשם ובבנדר עבאס, והצהרת טראמפ על פעילות כוח המשימה \"שער הברזל\".",
+      "next": "אישור או הכחשה רשמיים של התקיפה.",
+      "status": "REPORTED",
+      "importance": 4,
+      "categories": [
+        "security",
+        "israel_world"
+      ],
+      "kind": "event",
+      "entities": [
+        "איראן",
+        "ארה\"ב",
+        "טראמפ",
+        "מצר הורמוז"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "וואלה",
+          "url": "https://www.walla.co.il/news/breaking-news/383960600",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "מעריב",
+          "url": "https://www.maariv.co.il/breaking-news/article-1386395",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/byrtcrcpgx",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "וואלה",
+          "url": "https://www.walla.co.il/news/breaking-news/383960610",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 4,
+      "firstSeen": "2026-10-08",
+      "lastUpdated": "2026-11-09"
+    },
+    {
+      "id": "gaza-nasser-hospital-strike",
+      "title": "צה\"ל: התקיפה בבית החולים נאצר כוונה למפקד חטיבת חאן יונס של חמאס; הנפגעים בעזה — שישה הרוגים",
+      "summary": "צה\"ל מסר כי התקיפה במתחם בית החולים נאצר כוונה למוחמד אבו איסמעיל, מפקד חטיבת חאן יונס, וכי לפי הערכתו נפצע ועדיין אין אישור למותו. לפי מנהל בית החולים, כפי שדווח ב-Guardian, שישה בני אדם נהרגו, בהם מנתח, ו-28 נפצעו. צה\"ל טוען כי החדר ששימש כמפקדה של חמאס היה בקומה שנייה במתחם.",
+      "why": "תקיפה במתחם רפואי מעוררת ביקורת בינלאומית ועלולה להשפיע על הסדרי הרצועה.",
+      "change": "צה\"ל פרסם את היעד: מפקד חטיבת חאן יונס; גורלו לא ברור. מנהל בית החולים מדווח על 28 פצועים.",
+      "next": "אישור או הכחשה של חיסול המפקד.",
+      "status": "VERIFIED",
+      "importance": 4,
+      "categories": [
+        "security",
+        "israel_world"
+      ],
+      "kind": "event",
+      "entities": [
+        "עזה",
+        "חמאס",
+        "חאן יונס"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/12/israeli-airstrike-nasser-hospital-gaza-kills-surgeon",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21841235",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 3,
+      "firstSeen": "2026-11-12",
+      "lastUpdated": "2026-11-13"
+    },
+    {
+      "id": "knesset-26-sworn-in",
+      "title": "הכנסת ה-26 הושבעה; הנשיא הרצוג קרא להימנע מבחירות חוזרות",
+      "summary": "הכנסת ה-26 הושבעה בטקס במליאה. הנשיא הרצוג אמר לחברי הכנסת כי עליהם לעשות הכול כדי להימנע מבחירות חוזרות. לפי ynet ומעריב, בעת הצהרת האמונים של יו\"ר הרשימה המשותפת התפרץ השר בן גביר, וחברי כנסת ערבים יצאו מהמליאה בזמן שהושר ההמנון.",
+      "why": "פתיחת הכנסת החדשה מתקיימת בצל אי-ודאות פוליטית סביב הקמת הממשלה.",
+      "change": "התפתחות מרכזית השבוע: הכנסת ה-26 הושבעה; הנשיא הרצוג קרא להימנע מבחירות חוזרות",
+      "next": "בחירת יו\"ר הכנסת וניסיונות להרכיב קואליציה.",
+      "status": "VERIFIED",
+      "importance": 4,
+      "categories": [
+        "politics"
+      ],
+      "kind": "event",
+      "entities": [
+        "הכנסת ה-26",
+        "הרצוג",
+        "בחירות 2026",
+        "הקמת ממשלה"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/hymfh9l0mg",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/news/politics/article/21816611",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "מעריב",
+          "url": "https://www.maariv.co.il/breaking-news/article-1387065",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 3,
+      "firstSeen": "2026-11-10",
+      "lastUpdated": "2026-11-10"
+    },
+    {
+      "id": "likud-ballot-review-request",
+      "title": "סולברג קיבל באופן חלקי את בקשת הליכוד לעיין בחומרי קלפיות במגזר הערבי",
+      "summary": "לפי ישראל היום ומעריב, נעם סולברג אישר באופן חלקי את בקשת הליכוד לעיין בחומרי קלפיות, על רקע טענות הליכוד להטיית הבחירות. הפרטים המלאים של ההחלטה לא נבדקו כאן, וטענות ההטיה לא הוכחו.",
+      "why": "ההליך נוגע לאמון בתוצאות הבחירות בזמן שמתנהל משא ומתן להקמת ממשלה.",
+      "change": "התפתחות מרכזית השבוע: סולברג קיבל באופן חלקי את בקשת הליכוד לעיין בחומרי קלפיות במגזר הערבי",
+      "next": "",
+      "status": "VERIFIED",
+      "importance": 4,
+      "categories": [
+        "law",
+        "politics"
+      ],
+      "kind": "legal",
+      "entities": [
+        "הליכוד",
+        "בחירות 2026",
+        "סולברג"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/news/law/article/21833199",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "מעריב",
+          "url": "https://www.maariv.co.il/breaking-news/article-1387546",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 2,
+      "firstSeen": "2026-11-12",
+      "lastUpdated": "2026-11-12"
+    },
+    {
+      "id": "iran-executes-protesters-claim",
+      "title": "BBC: איראן הוציאה להורג שלושה גברים בגין \"אי-שקט מזוין\" לאחר מחאות ינואר",
+      "summary": "לפי BBC, איראן הוציאה להורג שלושה גברים שהואשמו ב\"אי-שקט מזוין\" בעקבות המחאות בינואר. ynet דיווח אתמול על הוצאה להורג של שלושה מפגינים; ההאשמות המדויקות כפי שמובאות בשני הדיווחים אינן זהות.",
+      "why": "המשך הוצאות להורג של מפגינים משקף את דיכוי המחאה באיראן ואת הלחץ הפנימי על המשטר.",
+      "change": "BBC דיווח על ההוצאה להורג, והדיווח שנחשב אתמול לא מאומת קיבל מקור שני.",
+      "next": "",
+      "status": "VERIFIED",
+      "importance": 4,
+      "categories": [
+        "world",
+        "israel_world"
+      ],
+      "kind": "event",
+      "entities": [
+        "איראן",
+        "הוצאה להורג"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/sjnv3datfg",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 2,
+      "firstSeen": "2026-11-08",
+      "lastUpdated": "2026-11-09"
+    },
+    {
+      "id": "us-flight-ground-stop",
+      "title": "ארה\"ב: רשות התעופה עצרה את כל ההמראות במדינה למעלה מארבע שעות; כמעט 7,000 טיסות עוכבו או בוטלו",
+      "summary": "רשות התעופה האמריקנית הורתה לעצור את כל ההמראות בנמלי התעופה בארה\"ב, וההוראה בוטלה לאחר יותר מארבע שעות. לפי ynet כמעט 7,000 טיסות עוכבו או בוטלו. שר התחבורה האמריקני אמר כי מערכת הבקרה סיפקה נתונים שגויים והושבתה, ולפי דיווח ראשוני של CNN התקלה לא נגרמה ממתקפת סייבר.",
+      "why": "שיבוש חריג בתעופה האזרחית של המעצמה, שהשפיע גם על טיסות בינלאומיות.",
+      "change": "התפתחות מרכזית השבוע: ארה\"ב: רשות התעופה עצרה את כל ההמראות במדינה למעלה מארבע שעות; כמעט 7,000 טיסות עוכבו או בוטלו",
+      "next": "בירור הסיבה לתקלה.",
+      "status": "VERIFIED",
+      "importance": 4,
+      "categories": [
+        "world",
+        "tech"
+      ],
+      "kind": "event",
+      "entities": [
+        "ארה\"ב",
+        "תעופה"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/bkjl5errfe",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/skcksbhagg",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/13/us-grounds-all-flights-after-communication-issue",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 2,
+      "firstSeen": "2026-11-14",
+      "lastUpdated": "2026-11-14"
+    },
+    {
+      "id": "trump-putin-xi-summit",
+      "title": "הבית הלבן: טראמפ, פוטין ושי ג'ינפינג ייפגשו בשבוע הבא בסין",
+      "summary": "לפי הבית הלבן, נשיא ארה\"ב דונלד טראמפ ייפגש בשבוע הבא בסין עם נשיא רוסיה ולדימיר פוטין ועם נשיא סין שי ג'ינפינג. מעריב מדווח כי ידובר על צמצום הנשק הגרעיני בעולם, וישראל היום מדווח כי גם המלחמה באיראן על הפרק.",
+      "why": "מפגש משולש ראשון מסוגו בין שלוש המעצמות, שעשוי להשפיע על המערכה באיראן ועל המלחמה באוקראינה.",
+      "change": "התפתחות מרכזית השבוע: הבית הלבן: טראמפ, פוטין ושי ג'ינפינג ייפגשו בשבוע הבא בסין",
+      "next": "המפגש בסין בשבוע הבא.",
+      "status": "VERIFIED",
+      "importance": 4,
+      "categories": [
+        "world",
+        "israel_world"
+      ],
+      "kind": "negotiation",
+      "entities": [
+        "טראמפ",
+        "פוטין",
+        "סין",
+        "איראן"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/rjoqembrze",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "מעריב",
+          "url": "https://www.maariv.co.il/breaking-news/article-1388174",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/news/geopolitics/article/21848400",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/14/trump-xi-and-putin-to-hold-first-three-way-summit-in-china",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 4,
+      "firstSeen": "2026-11-14",
+      "lastUpdated": "2026-11-14"
+    },
+    {
+      "id": "qatar-turkey-defence-pact",
+      "title": "קטאר וטורקיה חתמו על הסכם הגנה הדדית",
+      "summary": "קטאר וטורקיה חתמו על הסכם הגנה הדדית. לפי ynet, שני הצדדים מסרו כי ישתפו פעולה בנושאים ביטחוניים. אל-ג'זירה מתאר את ההסכם כמסר של הרתעה.",
+      "why": "ברית ביטחונית בין שתי מדינות המעורבות במגעים על עזה ובאזור, וחשובה לאיזון הכוחות מול ישראל והמפרץ.",
+      "change": "התפתחות מרכזית השבוע: קטאר וטורקיה חתמו על הסכם הגנה הדדית",
+      "next": "",
+      "status": "VERIFIED",
+      "importance": 4,
+      "categories": [
+        "security",
+        "israel_world"
+      ],
+      "kind": "decision",
+      "entities": [
+        "טורקיה",
+        "קטאר"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/s132h040fx",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/14/qatar-and-turkiye-sign-a-mutual-defence-pact-what-do-we-know",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 2,
+      "firstSeen": "2026-11-14",
+      "lastUpdated": "2026-11-14"
+    },
+    {
+      "id": "krakow-shooting-attack",
+      "title": "היורה בקרקוב מת מפצעיו",
+      "summary": "לפי ynet ווואלה, היורה בכיכר המרכזית בקרקוב, שבה נרצחו שישה בני אדם, מת מפצעיו בבית החולים.",
+      "why": "סוגר את מעגל האירוע ומשפיע על דרכי החקירה של האירוע שהוגדר טרור.",
+      "change": "היורה מת מפצעיו בבית החולים.",
+      "next": "",
+      "status": "VERIFIED",
+      "importance": 3,
+      "categories": [
+        "world",
+        "security"
+      ],
+      "kind": "event",
+      "entities": [
+        "פולין",
+        "קרקוב",
+        "טרור"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/sjekqjkagx",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "וואלה",
+          "url": "https://www.walla.co.il/news/breaking-news/383960634",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 2,
+      "firstSeen": "2026-11-08",
+      "lastUpdated": "2026-11-09"
+    }
+  ],
+  "unverified": [],
+  "filtered_out": 0,
+  "note": ""
+}

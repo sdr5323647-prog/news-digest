@@ -1,0 +1,388 @@
+{
+  "schema": 2,
+  "date": "2026-11-14",
+  "type": "daily",
+  "headline": "עצירת המראות חריגה בארה\"ב, פסגת טראמפ-פוטין-שי בסין בשבוע הבא, והסכם הגנה הדדית בין קטאר לטורקיה.",
+  "events": [
+    {
+      "id": "us-flight-ground-stop",
+      "title": "ארה\"ב: רשות התעופה עצרה את כל ההמראות במדינה למעלה מארבע שעות; כמעט 7,000 טיסות עוכבו או בוטלו",
+      "summary": "רשות התעופה האמריקנית הורתה לעצור את כל ההמראות בנמלי התעופה בארה\"ב, וההוראה בוטלה לאחר יותר מארבע שעות. לפי ynet כמעט 7,000 טיסות עוכבו או בוטלו. שר התחבורה האמריקני אמר כי מערכת הבקרה סיפקה נתונים שגויים והושבתה, ולפי דיווח ראשוני של CNN התקלה לא נגרמה ממתקפת סייבר.",
+      "why": "שיבוש חריג בתעופה האזרחית של המעצמה, שהשפיע גם על טיסות בינלאומיות.",
+      "change": "",
+      "next": "בירור הסיבה לתקלה.",
+      "status": "VERIFIED",
+      "importance": 4,
+      "categories": [
+        "world",
+        "tech"
+      ],
+      "kind": "event",
+      "entities": [
+        "ארה\"ב",
+        "תעופה"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/bkjl5errfe",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/skcksbhagg",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/13/us-grounds-all-flights-after-communication-issue",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 2,
+      "firstSeen": "2026-11-14",
+      "lastUpdated": "2026-11-14"
+    },
+    {
+      "id": "trump-putin-xi-summit",
+      "title": "הבית הלבן: טראמפ, פוטין ושי ג'ינפינג ייפגשו בשבוע הבא בסין",
+      "summary": "לפי הבית הלבן, נשיא ארה\"ב דונלד טראמפ ייפגש בשבוע הבא בסין עם נשיא רוסיה ולדימיר פוטין ועם נשיא סין שי ג'ינפינג. מעריב מדווח כי ידובר על צמצום הנשק הגרעיני בעולם, וישראל היום מדווח כי גם המלחמה באיראן על הפרק.",
+      "why": "מפגש משולש ראשון מסוגו בין שלוש המעצמות, שעשוי להשפיע על המערכה באיראן ועל המלחמה באוקראינה.",
+      "change": "",
+      "next": "המפגש בסין בשבוע הבא.",
+      "status": "VERIFIED",
+      "importance": 4,
+      "categories": [
+        "world",
+        "israel_world"
+      ],
+      "kind": "negotiation",
+      "entities": [
+        "טראמפ",
+        "פוטין",
+        "סין",
+        "איראן"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/rjoqembrze",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "מעריב",
+          "url": "https://www.maariv.co.il/breaking-news/article-1388174",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/news/geopolitics/article/21848400",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/14/trump-xi-and-putin-to-hold-first-three-way-summit-in-china",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 4,
+      "firstSeen": "2026-11-14",
+      "lastUpdated": "2026-11-14"
+    },
+    {
+      "id": "qatar-turkey-defence-pact",
+      "title": "קטאר וטורקיה חתמו על הסכם הגנה הדדית",
+      "summary": "קטאר וטורקיה חתמו על הסכם הגנה הדדית. לפי ynet, שני הצדדים מסרו כי ישתפו פעולה בנושאים ביטחוניים. אל-ג'זירה מתאר את ההסכם כמסר של הרתעה.",
+      "why": "ברית ביטחונית בין שתי מדינות המעורבות במגעים על עזה ובאזור, וחשובה לאיזון הכוחות מול ישראל והמפרץ.",
+      "change": "",
+      "next": "",
+      "status": "VERIFIED",
+      "importance": 4,
+      "categories": [
+        "security",
+        "israel_world"
+      ],
+      "kind": "decision",
+      "entities": [
+        "טורקיה",
+        "קטאר"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/s132h040fx",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/14/qatar-and-turkiye-sign-a-mutual-defence-pact-what-do-we-know",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 2,
+      "firstSeen": "2026-11-14",
+      "lastUpdated": "2026-11-14"
+    },
+    {
+      "id": "uk-us-base-drones",
+      "title": "חשד לפעילות כטב\"מים בבסיס אמריקני בבריטניה; אין נפגעים",
+      "summary": "ישראל היום, ynet ומעריב מדווחים על חשד לפעילות כטב\"מים בלתי מורשית בבסיס אמריקני בבריטניה. לפי הדיווחים אין נפגעים. מעריב מציין חשש מאיום איראני, אך לא פורסם גורם אחראי.",
+      "why": "אירוע ביטחוני בבסיס אמריקני באירופה על רקע המתיחות מול איראן.",
+      "change": "",
+      "next": "חקירת האירוע ואיתור האחראים.",
+      "status": "VERIFIED",
+      "importance": 3,
+      "categories": [
+        "security",
+        "world"
+      ],
+      "kind": "event",
+      "entities": [
+        "בריטניה",
+        "איראן",
+        "בסיס אמריקני"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/news/world-news/other/article/21847591",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/sytgexbafl",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "מעריב",
+          "url": "https://www.maariv.co.il/breaking-news/article-1388198",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 3,
+      "firstSeen": "2026-11-14",
+      "lastUpdated": "2026-11-14"
+    },
+    {
+      "id": "lebanon-south-strikes-nov14",
+      "title": "דיווחים בלבנון על תקיפות בדרום המדינה",
+      "summary": "ynet ומעריב מדווחים, בהתבסס על דיווחים בלבנון, על תקיפות בדרום המדינה. בשעת הכתיבה לא פורסם מי אחראי לתקיפות או מה היו היעדים.",
+      "why": "תקיפות בדרום לבנון עשויות להשפיע על הגבול הצפוני ועל הסכמי הרגיעה.",
+      "change": "",
+      "next": "",
+      "status": "REPORTED",
+      "importance": 3,
+      "categories": [
+        "security"
+      ],
+      "kind": "event",
+      "entities": [
+        "לבנון",
+        "חיזבאללה"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/h1p29t40gl",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "מעריב",
+          "url": "https://www.maariv.co.il/breaking-news/article-1388200",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 2,
+      "firstSeen": "2026-11-14",
+      "lastUpdated": "2026-11-14"
+    },
+    {
+      "id": "un-hormuz-seafarers",
+      "title": "האו\"ם: 25 מלחים נהרגו בהורמוז ובסביבתו מאז פרוץ המלחמה באיראן",
+      "summary": "לפי דיווח של אל-ג'זירה, האו\"ם מסר כי 25 מלחים נהרגו במצר הורמוז ובסביבתו מאז פברואר, מתחילת המלחמה בין ארה\"ב וישראל לאיראן.",
+      "why": "מעיד על המחיר האזרחי ועל הסיכון לנתיב השיט והאנרגיה החשוב בעולם.",
+      "change": "",
+      "next": "",
+      "status": "REPORTED",
+      "importance": 3,
+      "categories": [
+        "world",
+        "security"
+      ],
+      "kind": "data",
+      "entities": [
+        "הורמוז",
+        "איראן",
+        "האו\"ם"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/14/un-says-25-seafarers-killed-in-around-hormuz-since-february",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 1,
+      "firstSeen": "2026-11-14",
+      "lastUpdated": "2026-11-14"
+    },
+    {
+      "id": "iaea-uninspected-iran-site",
+      "title": "סוכנות האטום של האו\"ם: \"מודאגת יותר ויותר\" מאתר גרעיני באיראן שלא נבדק",
+      "summary": "לפי BBC, פיקוח האו\"ם על האנרגיה האטומית מסר כי הוא מודאג יותר ויותר מאתר גרעיני באיראן שלא נערכה בו ביקורת.",
+      "why": "היעדר פיקוח על אתרים גרעיניים באיראן הוא שיקול מרכזי במגעים ובהחלטות על המשך הפעולה מולה.",
+      "change": "",
+      "next": "",
+      "status": "REPORTED",
+      "importance": 3,
+      "categories": [
+        "security",
+        "israel_world"
+      ],
+      "kind": "statement",
+      "entities": [
+        "איראן",
+        "גרעין",
+        "סוכנות האטום"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cm75261e3pdko",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 1,
+      "firstSeen": "2026-11-14",
+      "lastUpdated": "2026-11-14"
+    },
+    {
+      "id": "shin-bet-qatargate-opinion",
+      "title": "ynet: השב\"כ מעכב העברת חוות דעת מהותית לפרקליטות בפרשת קטאר-גייט",
+      "summary": "לפי ynet, השב\"כ מעכב את העברתה של חוות דעת מהותית לפרקליטות בפרשת קטאר-גייט. הדיווח לא אושר על ידי השב\"כ או הפרקליטות בכתבה.",
+      "why": "החומר עשוי להשפיע על התקדמות החקירה בפרשה ועל ההחלטה אם להגיש כתבי אישום.",
+      "change": "",
+      "next": "",
+      "status": "REPORTED",
+      "importance": 3,
+      "categories": [
+        "law",
+        "politics"
+      ],
+      "kind": "legal",
+      "entities": [
+        "קטאר-גייט",
+        "השב\"כ",
+        "פרקליטות"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/sk7gbcn0fe",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 1,
+      "firstSeen": "2026-11-14",
+      "lastUpdated": "2026-11-14"
+    }
+  ],
+  "unverified": [
+    {
+      "id": "zelensky-us-donbas-offer",
+      "title": "זלנסקי טוען: ארה\"ב הציעה לאוקראינה לסגת מדונבאס תמורת הצטרפות לנאט\"ו",
+      "summary": "לדברי נשיא אוקראינה זלנסקי, כפי שדווח ב-ynet ובמעריב, ארה\"ב הציעה לאוקראינה לסגת מחבל דונבאס ובתמורה להצטרף לנאט\"ו. הטענה לא אושרה בשלב זה על ידי ארה\"ב.",
+      "why": "הצעה כזו משנה את מסגרת המשא ומתן על סיום המלחמה באוקראינה.",
+      "change": "",
+      "next": "",
+      "status": "CLAIM",
+      "importance": 4,
+      "categories": [
+        "world"
+      ],
+      "kind": "statement",
+      "entities": [
+        "אוקראינה",
+        "זלנסקי",
+        "ארה\"ב"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/bjdbusbcze",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "מעריב",
+          "url": "https://www.maariv.co.il/breaking-news/article-1388206",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 2,
+      "firstSeen": "2026-11-14",
+      "lastUpdated": "2026-11-14"
+    },
+    {
+      "id": "netanyahu-pushes-iran-renewal-claim",
+      "title": "על פי דיווח: ראש המוסד בארה\"ב, נתניהו לוחץ לתקוף באיראן וטראמפ מסרב",
+      "summary": "לפי דיווח של ישראל היום, ראש המוסד נמצא בארה\"ב, ונתניהו לוחץ לתקוף באיראן בעוד טראמפ מסרב. הדיווח מבוסס על מקורות שלא פורסמו בשמם ולא אושר רשמית.",
+      "why": "החלטה על חידוש התקיפות באיראן תשפיע על ישראל ועל האזור כולו.",
+      "change": "הדיווח החדש: ראש המוסד בארה\"ב וטראמפ מסרב ללחץ.",
+      "next": "",
+      "status": "REPORTED",
+      "importance": 4,
+      "categories": [
+        "security",
+        "israel_world"
+      ],
+      "kind": "dispute",
+      "entities": [
+        "איראן",
+        "נתניהו",
+        "טראמפ"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21846340",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 1,
+      "firstSeen": "2026-11-10",
+      "lastUpdated": "2026-11-14"
+    }
+  ],
+  "filtered_out": 170,
+  "note": ""
+}
