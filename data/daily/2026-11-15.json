@@ -1,0 +1,309 @@
+{
+ "schema": 2,
+ "date": "2026-11-15",
+ "type": "daily",
+ "headline": "חיסול מפקד חטיבת רפיח של חמאס, נתניהו פונה לאיזנקוט בהצעה לממשלת אחדות, ודיווחים על היסוס אמריקני לתקוף שוב באיראן.",
+ "events": [
+  {
+   "id": "rafah-brigade-commander-killed",
+   "title": "צה\"ל ושב\"כ אישרו: מפקד חטיבת רפיח של חמאס חוסל בתקיפה ברצועת עזה",
+   "summary": "צה\"ל והשב\"כ מסרו כי מפקד חטיבת רפיח של חמאס הותקף ברצועת עזה וחוסל. לפי ynet, חמאס עצמו אישר את מותו, ולפי ישראל היום התקיפה בוצעה מהאוויר באזור מואסי.",
+   "why": "חיסול בכיר צבאי בחמאס, בזמן שחמאס מנסה לשמר את שליטתו ברצועה.",
+   "change": "",
+   "next": "תגובת חמאס ופעילות צה\"ל הבאה ברצועה.",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "security"
+   ],
+   "kind": "event",
+   "entities": [
+    "חמאס",
+    "עזה",
+    "רפיח"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/ski11npucgg",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1388427",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21851802",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383961420",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 4,
+   "firstSeen": "2026-11-15",
+   "lastUpdated": "2026-11-15"
+  },
+  {
+   "id": "coalition-building-after-election",
+   "title": "נתניהו קורא לאיזנקוט להקים ממשלת אחדות \"בלי תנאים מוקדמים\"; איזנקוט: \"טריקים לא עובדים עליי\"",
+   "summary": "ראש הממשלה נתניהו קרא לאיזנקוט להיכנס לחדר \"בלי תנאים מוקדמים\" ולהקים ממשלת אחדות, וגם השר סמוטריץ' קרא לאיזנקוט להיפגש עם נתניהו, לפי ynet ווואלה. איזנקוט השיב, לפי מעריב ו-ynet, כי \"טריקים לא עובדים עליי\" וכי מגעי המו\"מ כבר נקבעו. פגישה בין נציגי הליכוד לנציגי \"ישר!\" נמשכה כשעה ורבע וללא התקדמות, לפי ynet וישראל היום.",
+   "why": "הרכב הממשלה הבאה תלוי במגעים אלה, ואיזנקוט עדיין בלי רוב של 61 חברי כנסת.",
+   "change": "נתניהו פנה פומבית לאיזנקוט לממשלת אחדות; נערכה פגישת ליכוד-\"ישר!\" שהסתיימה ללא פריצת דרך.",
+   "next": "המשך המגעים בין המחנות סביב קבלת המנדט להרכבת הממשלה.",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "politics"
+   ],
+   "kind": "negotiation",
+   "entities": [
+    "נתניהו",
+    "איזנקוט",
+    "ממשלת אחדות",
+    "בחירות 2026"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/sjy11sjiafe",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/politics/article/21850572",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1388327",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383961392",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 4,
+   "firstSeen": "2026-10-29",
+   "lastUpdated": "2026-11-15"
+  },
+  {
+   "id": "khan-ordered-to-pay-hostage-families",
+   "title": "בית המשפט בירושלים חייב את התובע הכללי לשעבר של בית הדין בהאג לשלם 25 מיליון ש\"ח למשפחות חטופים",
+   "summary": "לפי ישראל היום ומעריב, בית משפט בירושלים קבע כי קארים חאן, התובע הכללי לשעבר של בית הדין הפלילי הבין-לאומי בהאג, ישלם 25 מיליון שקל למשפחות חטופים.",
+   "why": "פסק דין ישראלי נגד בכיר לשעבר בבית הדין בהאג, בנושא שנוגע לחטופים.",
+   "change": "",
+   "next": "ייתכן ערעור או ניסיון אכיפה.",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "law",
+    "israel_world"
+   ],
+   "kind": "legal",
+   "entities": [
+    "בית הדין בהאג",
+    "חטופים"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/law/article/21850327",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1388444",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-11-15",
+   "lastUpdated": "2026-11-15"
+  },
+  {
+   "id": "mumbai-chabad-arrest",
+   "title": "הודו: צעיר בן 20 נעצר בחשד שאסף מידע על בית חב\"ד במומבאי",
+   "summary": "לפי וואלה, צעיר בן 20 נעצר בהודו בחשד שאסף מודיעין על בית חב\"ד במומבאי תמורת כסף. לפי ynet, הוא חשוד באיסוף מידע על יהודים בהנחיית גורמים עוינים מחו\"ל. החשד טרם הוכח.",
+   "why": "חשד לתכנון פגיעה ביעד יהודי וישראלי בחו\"ל.",
+   "change": "",
+   "next": "פרטי החקירה בהודו.",
+   "status": "REPORTED",
+   "importance": 3,
+   "categories": [
+    "security",
+    "judaism"
+   ],
+   "kind": "event",
+   "entities": [
+    "הודו",
+    "חב\"ד"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383961398",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/b1ej27i0gl",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/world-news/article/21851184",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-11-15",
+   "lastUpdated": "2026-11-15"
+  },
+  {
+   "id": "iran-missile-stockpile-us-intel",
+   "title": "על פי דיווח: המודיעין האמריקני מעריך כי באיראן יש 1,500–2,500 טילים",
+   "summary": "לפי ynet וישראל היום, הערכה של המודיעין האמריקני היא שאיראן מתאוששת ומחזיקה במלאי של בין 1,500 ל-2,500 טילים. זו הערכה שמובאת בדיווחי תקשורת, ללא אישור רשמי.",
+   "why": "היקף המלאי האיראני משפיע על האיומים על ישראל ועל שיקולי תקיפה.",
+   "change": "",
+   "next": "",
+   "status": "REPORTED",
+   "importance": 3,
+   "categories": [
+    "security",
+    "israel_world"
+   ],
+   "kind": "data",
+   "entities": [
+    "איראן",
+    "טילים",
+    "ארה\"ב"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/rjpcqsicfg",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21851976",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-11-15",
+   "lastUpdated": "2026-11-15"
+  }
+ ],
+ "unverified": [
+  {
+   "id": "trump-considers-no-further-iran-strikes",
+   "title": "לפי דיווח: טראמפ שוקל להימנע מתקיפות נוספות באיראן בשל לחץ בעלות הברית",
+   "summary": "וואלה וישראל היום מדווחים כי הנשיא טראמפ שוקל להימנע מתקיפות נוספות באיראן, בעקבות לחץ של בעלות ברית. מעריב מדווח על סימן שעשוי להשפיע על ההחלטה. לא פורסם אישור רשמי.",
+   "why": "החלטה אמריקנית על המשך תקיפות באיראן משפיעה ישירות על ישראל והאזור.",
+   "change": "",
+   "next": "הצהרה רשמית של הבית הלבן.",
+   "status": "REPORTED",
+   "importance": 4,
+   "categories": [
+    "security",
+    "israel_world"
+   ],
+   "kind": "decision",
+   "entities": [
+    "איראן",
+    "טראמפ",
+    "ארה\"ב"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383961365",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21849231",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-11-15",
+   "lastUpdated": "2026-11-15"
+  },
+  {
+   "id": "lebanon-tunnel-destroyed-majdal-zoun",
+   "title": "לטענת צה\"ל: הושמד תוואי תת-קרקעי של חיזבאללה במג'דל זון בדרום לבנון",
+   "summary": "לפי הודעת צה\"ל כפי שפורסמה ב-ynet, במעריב ובישראל היום, הושמד תוואי תת-קרקעי באורך כ-35 מטרים עם שני חדרי שהייה במג'דל זון. אין אישור עצמאי.",
+   "why": "פעילות צה\"ל נגד תשתיות חיזבאללה בדרום לבנון.",
+   "change": "",
+   "next": "",
+   "status": "CLAIM",
+   "importance": 3,
+   "categories": [
+    "security"
+   ],
+   "kind": "event",
+   "entities": [
+    "לבנון",
+    "חיזבאללה"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/rj4bqrvcfx",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1388711",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/defense/article/21856851",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-11-15",
+   "lastUpdated": "2026-11-15"
+  }
+ ],
+ "filtered_out": 333,
+ "note": ""
+}
