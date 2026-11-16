@@ -2,46 +2,6 @@
  "date": "2026-11-16",
  "articles": [
   {
-   "source": "NYT",
-   "outlet": "NYT",
-   "title": "In Europe, an Emboldened Iran Contributes to a Sense of Anxiety",
-   "url": "https://www.nytimes.com/2026/11/15/world/europe/iran-attacks-threats-europe.html",
-   "summary": "Prosecutors and government officials believe Iran or its proxies are behind a series of security breaches and threats in Britain and Europe, unsettling the region.",
-   "time": "2026-11-15T05:01:20+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
-   "source": "Guardian",
-   "outlet": "Guardian",
-   "title": "Britain’s veto could stop the UAE’s choice from running the United Nations. Miliband must use it | Steve Bloomfield",
-   "url": "https://www.theguardian.com/commentisfree/2026/nov/15/britain-veto-uae-united-nations-miliband-lana-nusseibeh-russia-us-sudan",
-   "summary": "Lana Nusseibeh appears to have the support of Russia and the US, but her role glossing the horror in Sudan makes her unsuitable – and we should say so Since the devastating war in Sudan began in 2023, some of the best investigative work uncovering those responsible has been carried out by the UN pan",
-   "time": "2026-11-15T06:00:07+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
-   "source": "וואלה",
-   "outlet": "וואלה",
-   "title": "שמונה אקדחים וכמות גדולה של חשיש נתפסו בגבול ירדן",
-   "url": "https://www.walla.co.il/news/breaking-news/383961473",
-   "summary": "שמונה אקדחים מסוג FN, גלוק וטאורוס נתפסו במהלך סוף השבוע סמוך לגבול ירדן, בפעילות משותפת של שוטרי מחוז ש\"י, כוחות צה\"ל ומג\"ב, כך הודיעה היום (ראשון) דוברות משטרת ישראל. האקדחים אותרו בשק שהוסלק באזור הגבול, בעקבות דיווח של תצפיות צה\"ל על תנועות חשודות. במקרה נוסף אותר שק שהכיל כמות גדולה של חומר החש",
-   "time": "2026-11-15T10:38:20+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
-   "source": "וואלה",
-   "outlet": "וואלה",
-   "title": "חשד לתקיפת סייעת בגן ילדים בערערה בנגב",
-   "url": "https://www.walla.co.il/news/breaking-news/383961476",
-   "summary": "המשטרה פתחה היום (ראשון) בחקירה בעקבות דיווח על תקיפת סייעת בגן ילדים ביישוב ערערה בנגב. שוטרי תחנת ערוער החלו בבדיקת נסיבות האירוע ובסריקות לאיתור החשודים במעשה ולעצירתם.",
-   "time": "2026-11-15T10:57:23+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
    "source": "וואלה",
    "outlet": "וואלה",
    "title": "2 חשודות נעצרו בעקבות תקיפת הסייעת בגן בערערה",
@@ -2872,7 +2832,7 @@
    "type": "reporting"
   }
  ],
- "updated": "2026-11-16T06:39:07.841467+00:00",
+ "updated": "2026-11-16T17:01:48.880278+00:00",
  "clusters": [
   {
    "id": "f9090d96c5",
@@ -4069,38 +4029,6 @@
    ]
   },
   {
-   "id": "82bf53aca9",
-   "title": "חשד לתקיפת סייעת בגן ילדים בערערה בנגב",
-   "sourceCount": 1,
-   "outlets": [
-    "וואלה"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 2,
-   "opinionOnly": false,
-   "firstSeen": "2026-11-15T10:57:23+00:00",
-   "lastSeen": "2026-11-15T12:03:24+00:00",
-   "articles": [
-    {
-     "source": "וואלה",
-     "title": "חשד לתקיפת סייעת בגן ילדים בערערה בנגב",
-     "url": "https://www.walla.co.il/news/breaking-news/383961476",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-11-15T10:57:23+00:00"
-    },
-    {
-     "source": "וואלה",
-     "title": "2 חשודות נעצרו בעקבות תקיפת הסייעת בגן בערערה",
-     "url": "https://www.walla.co.il/news/breaking-news/383961484",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-11-15T12:03:24+00:00"
-    }
-   ]
-  },
-  {
    "id": "2905cda2ae",
    "title": "שבעה נעצרו בעקבות קטטה בתל אביב שבה נדקרו שני בליינים",
    "sourceCount": 1,
@@ -4261,56 +4189,8 @@
    ]
   },
   {
-   "id": "9cdc027d58",
-   "title": "In Europe, an Emboldened Iran Contributes to a Sense of Anxiety",
-   "sourceCount": 1,
-   "outlets": [
-    "NYT"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-11-15T05:01:20+00:00",
-   "lastSeen": "2026-11-15T05:01:20+00:00",
-   "articles": [
-    {
-     "source": "NYT",
-     "title": "In Europe, an Emboldened Iran Contributes to a Sense of Anxiety",
-     "url": "https://www.nytimes.com/2026/11/15/world/europe/iran-attacks-threats-europe.html",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-11-15T05:01:20+00:00"
-    }
-   ]
-  },
-  {
-   "id": "71511ddce9",
-   "title": "Britain’s veto could stop the UAE’s choice from running the United Nations. Miliband must use it | Steve Bloomfield",
-   "sourceCount": 1,
-   "outlets": [
-    "Guardian"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-11-15T06:00:07+00:00",
-   "lastSeen": "2026-11-15T06:00:07+00:00",
-   "articles": [
-    {
-     "source": "Guardian",
-     "title": "Britain’s veto could stop the UAE’s choice from running the United Nations. Miliband must use it | Steve Bloomfield",
-     "url": "https://www.theguardian.com/commentisfree/2026/nov/15/britain-veto-uae-united-nations-miliband-lana-nusseibeh-russia-us-sudan",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-11-15T06:00:07+00:00"
-    }
-   ]
-  },
-  {
-   "id": "990df76550",
-   "title": "שמונה אקדחים וכמות גדולה של חשיש נתפסו בגבול ירדן",
+   "id": "f557244062",
+   "title": "2 חשודות נעצרו בעקבות תקיפת הסייעת בגן בערערה",
    "sourceCount": 1,
    "outlets": [
     "וואלה"
@@ -4319,16 +4199,16 @@
    "hasOfficial": false,
    "reportingCount": 1,
    "opinionOnly": false,
-   "firstSeen": "2026-11-15T10:38:20+00:00",
-   "lastSeen": "2026-11-15T10:38:20+00:00",
+   "firstSeen": "2026-11-15T12:03:24+00:00",
+   "lastSeen": "2026-11-15T12:03:24+00:00",
    "articles": [
     {
      "source": "וואלה",
-     "title": "שמונה אקדחים וכמות גדולה של חשיש נתפסו בגבול ירדן",
-     "url": "https://www.walla.co.il/news/breaking-news/383961473",
+     "title": "2 חשודות נעצרו בעקבות תקיפת הסייעת בגן בערערה",
+     "url": "https://www.walla.co.il/news/breaking-news/383961484",
      "tier": 2,
      "type": "reporting",
-     "time": "2026-11-15T10:38:20+00:00"
+     "time": "2026-11-15T12:03:24+00:00"
     }
    ]
   },
@@ -8510,8 +8390,8 @@
   }
  ],
  "stats": {
-  "articles": 287,
-  "clusters": 208,
+  "articles": 283,
+  "clusters": 205,
   "multiSource": 22
  }
 }
