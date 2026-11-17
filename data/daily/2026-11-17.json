@@ -1,0 +1,420 @@
+{
+ "schema": 2,
+ "date": "2026-11-17",
+ "type": "daily",
+ "headline": "פיגוע ליד יריחו, בריטניה מטילה סנקציות על חברות ישראליות בהתנחלויות, והמאבק על יו\"ר הכנסת מתחמם.",
+ "events": [
+  {
+   "id": "jericho-terror-attack",
+   "title": "פיגוע ליד יריחו: פלסטינים התנגשו ברכב ישראלי ותקפו את יושביו; צה\"ל מחפש את המחבלים",
+   "summary": "לפי ynet, מעריב וישראל היום, פלסטינים פגעו ברכב ישראלי ליד יריחו, יצאו מרכבם ותקפו את יושביו בגרזנים ובאלות. בדיווחים הראשוניים נמסר על שני פצועים. לפי ynet, צה\"ל מסר כי מתנהל מצוד אחר המחבלים.",
+   "why": "פיגוע בציר בינעירוני ביהודה ושומרון, עם מצוד מתמשך אחר המבצעים.",
+   "change": "",
+   "next": "תוצאות המצוד ועדכון על מצב הפצועים.",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "security"
+   ],
+   "kind": "event",
+   "entities": [
+    "יהודה ושומרון",
+    "יריחו",
+    "טרור"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/sjtl1ffafg",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/s12u00qy0gl",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1389265",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/defense/article/21867629",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-11-17",
+   "lastUpdated": "2026-11-17"
+  },
+  {
+   "id": "uk-sanctions-israeli-settlement-firms",
+   "title": "בריטניה הטילה סנקציות על שמונה חברות בנייה ישראליות הפועלות ביהודה ושומרון",
+   "summary": "לפי הגרדיאן, אל-ג'זירה ו-BBC, אד מיליבנד הודיע על סנקציות ראשונות של בריטניה על חברות ישראליות הפועלות בהתנחלויות. אל-ג'זירה מציין כי מדובר בשמונה חברות בנייה.",
+   "why": "צעד דיפלומטי-כלכלי של בעלת ברית מרכזית נגד חברות ישראליות, שעשוי להרחיב את הלחץ הבינלאומי בנושא ההתנחלויות.",
+   "change": "",
+   "next": "תגובת ישראל ומדינות נוספות.",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "politics",
+    "israel_world",
+    "economy"
+   ],
+   "kind": "decision",
+   "entities": [
+    "בריטניה",
+    "התנחלויות",
+    "סנקציות"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "Guardian",
+     "url": "https://www.theguardian.com/world/2026/nov/17/ed-miliband-israel-west-bank-settlements-sanctions",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/17/uk-sanctions-8-israeli-firms-over-occupied-west-bank-settlements-gaza-aid",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/cqrlg377638yo",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-11-17",
+   "lastUpdated": "2026-11-17"
+  },
+  {
+   "id": "knesset-speaker-race",
+   "title": "הליכוד יציג את אופיר כץ ליו\"ר הכנסת מול מתן כהנא; ש\"ס ויהדות התורה יתמכו בכץ, הרשימה המשותפת בכהנא",
+   "summary": "לפי ynet, הליכוד הודיע כי יציג את אופיר כץ כמועמד ליו\"ר הכנסת מול מתן כהנא. ש\"ס ויהדות התורה הודיעו כי יתמכו בכץ, והרשימה המשותפת הודיעה כי תתמוך בכהנא. ישראל היום מדווח כי הליכוד נערך לפיליבסטר.",
+   "why": "בחירת יו\"ר הכנסת קובעת את סדר היום החקיקתי ואת מאזן הכוחות בין הקואליציה לאופוזיציה.",
+   "change": "",
+   "next": "הצבעה במליאה, וייתכן ניסיון עיכוב בפיליבסטר.",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "politics"
+   ],
+   "kind": "decision",
+   "entities": [
+    "הכנסת",
+    "יו\"ר הכנסת",
+    "הליכוד"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/rj9akif0fx",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/hjdv83k0fg",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/bkaxelcame",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/politics/article/21872648",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-11-17",
+   "lastUpdated": "2026-11-17"
+  },
+  {
+   "id": "pmo-planted-police-info-report",
+   "title": "פרשת העברת המידע מלשכת רה\"מ למשטרה: היועמ\"שית ופרקליט המדינה יקיימו דיון; משטרה: פרסום מעצר פעילי רע\"ם אושר על ידי המפכ\"ל",
+   "summary": "לפי הודעת משרד המשפטים כפי שפורסמה במעריב, היועמ\"שית ופרקליט המדינה יקיימו דיון בעניין העברת המידע מלשכת ראש הממשלה למשטרה. ישראל היום מדווח כי היועמ\"שית בולמת את הבדיקה הפנימית של המשטרה. לפי ynet, המשטרה מסרה בהודעה רשמית כי המפכ\"ל אישר את פרסום המעצר, ובמשטרה בחנו את מהימנות \"המקור המודיעיני\" לפני מעצר פעילי רע\"ם ביום הבחירות.",
+   "why": "הפרשה נוגעת לחשד לשימוש במשטרה לצרכים פוליטיים סביב הבחירות.",
+   "change": "היועמ\"שית ופרקליט המדינה יקיימו דיון בנושא, ולפי ישראל היום היא בולמת את הבדיקה הפנימית של המשטרה; המשטרה מסרה כי המפכ\"ל אישר את פרסום המעצר.",
+   "next": "תוצאות הדיון אצל היועמ\"שית והחלטה אם לפתוח בחקירה.",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "law",
+    "politics"
+   ],
+   "kind": "legal",
+   "entities": [
+    "נתניהו",
+    "משטרה",
+    "היועצת המשפטית לממשלה"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1389184",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/law/article/21866039",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1389247",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/s1fnzctrmg",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-11-16",
+   "lastUpdated": "2026-11-17"
+  },
+  {
+   "id": "greece-iran-foiled-attack",
+   "title": "ישראל היום: סוכל ניסיון פיגוע ביוון בשליחות איראן, חמישה נעצרו",
+   "summary": "ישראל היום מדווח כי ביוון סוכל ניסיון פיגוע שנעשה לפי הדיווח בשליחות איראן, וכי חמישה אנשים נעצרו. הדיווח הוא של כלי תקשורת אחד, ופרטי הנעצרים והיעד לא נבדקו כאן ממקור נוסף.",
+   "why": "המקרה מצטרף לסדרת דיווחים על פעילות איראנית נגד יעדים מערביים ויהודיים באירופה.",
+   "change": "",
+   "next": "",
+   "status": "REPORTED",
+   "importance": 3,
+   "categories": [
+    "security",
+    "israel_world"
+   ],
+   "kind": "event",
+   "entities": [
+    "איראן",
+    "יוון",
+    "טרור"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/world-news/europe/article/21867113",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 1,
+   "firstSeen": "2026-11-17",
+   "lastUpdated": "2026-11-17"
+  },
+  {
+   "id": "us-bank-united-outage",
+   "title": "תקלה נרחבת בבנקים גדולים בארה\"ב וביונייטד איירליינס; יונייטד: התקלה תוקנה ואין אינדיקציה למתקפת סייבר",
+   "summary": "לפי ישראל היום, מעריב ו-ynet, נרשמה תקלה בבנקים הגדולים בארה\"ב ולקוחות דיווחו על חוסר גישה לחשבונות. במקביל יונייטד איירליינס דיווחה על תקלה כללית שפגעה בטיסות יוצאות. לפי ynet, יונייטד מסרה כי התקלה תוקנה וכי אין אינדיקציה שמדובר במתקפת סייבר.",
+   "why": "תקלות תשתית רחבות בארה\"ב מתרחשות ימים ספורים אחרי עצירת ההמראות הארצית.",
+   "change": "",
+   "next": "בירור סיבת התקלה.",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "tech",
+    "economy",
+    "world"
+   ],
+   "kind": "event",
+   "entities": [
+    "ארצות הברית",
+    "תקלה",
+    "תעופה"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/hk008gwycfl",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/s1jcowfafg",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1389234",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21866826",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-11-17",
+   "lastUpdated": "2026-11-17"
+  },
+  {
+   "id": "czech-pm-visit-israel",
+   "title": "ראש ממשלת צ'כיה באביש ביקר בישראל ונפגש עם נתניהו ועם איזנקוט",
+   "summary": "לפי ynet ומעריב, ראש ממשלת צ'כיה באביש הגיע לביקור בישראל ונפגש עם ראש הממשלה נתניהו. עוד דווח כי נפגש גם עם גדי איזנקוט, ביוזמת צ'כיה.",
+   "why": "צ'כיה נחשבת לאחת התומכות הבולטות בישראל באיחוד האירופי.",
+   "change": "",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "politics",
+    "israel_world"
+   ],
+   "kind": "event",
+   "entities": [
+    "צ'כיה",
+    "נתניהו",
+    "יחסי חוץ"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/byglnp00ame",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/rj7dr6krfl",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1389451",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-11-17",
+   "lastUpdated": "2026-11-17"
+  }
+ ],
+ "unverified": [
+  {
+   "id": "iran-dirty-bomb-plot-report",
+   "title": "על פי דיווח ב-CNN: איראן מתכננת לפגוע בבכירי ממשל טראמפ בפצצה מלוכלכת או בנשק כימי; הגרדיאן: \"אין איום אמין\"",
+   "summary": "על פי דיווח של CNN, כפי שפורסם במעריב ובישראל היום, איראן מתכננת לפגוע בבכירי הממשל האמריקני באמצעות פצצה מלוכלכת או נשק כימי. טראמפ הזהיר את איראן, ולפי הגרדיאן אמר כי ארה\"ב \"בודקת\" את הנושא, וזאת על אף ש\"אין איומים אמינים\". הדיווח לא אושר באופן רשמי.",
+   "why": "אם יאומת, מדובר בהסלמה חמורה בעימות בין ארה\"ב לאיראן.",
+   "change": "",
+   "next": "",
+   "status": "REPORTED",
+   "importance": 4,
+   "categories": [
+    "security",
+    "israel_world"
+   ],
+   "kind": "statement",
+   "entities": [
+    "איראן",
+    "ארצות הברית",
+    "טראמפ"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "Guardian",
+     "url": "https://www.theguardian.com/world/2026/nov/17/trump-reported-iranian-plot-dirty-bomb-washington",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/17/is-iran-plotting-a-dirty-bomb-attack-in-the-us-what-we-know",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1389267",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/hjrz6wtafx",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 4,
+   "firstSeen": "2026-11-17",
+   "lastUpdated": "2026-11-17"
+  },
+  {
+   "id": "qeshm-explosions-report",
+   "title": "על פי דיווחים באיראן: פיצוץ נשמע באי קשם; לפי דיווח אחד, תקיפות אמריקאיות",
+   "summary": "על פי דיווחים באיראן, כפי שפורסם ב-ynet ובמעריב, נשמע פיצוץ באי קשם, ולפי דיווח אחד מדובר בתקיפות אמריקאיות. לא נמסר אישור מארה\"ב או מגורם עצמאי, והסיבה לפיצוץ אינה ידועה.",
+   "why": "אי קשם סמוך למצר הורמוז, וכל תקיפה באזור משפיעה על המתיחות האזורית.",
+   "change": "",
+   "next": "",
+   "status": "UNCONFIRMED",
+   "importance": 4,
+   "categories": [
+    "security",
+    "israel_world"
+   ],
+   "kind": "event",
+   "entities": [
+    "איראן",
+    "הורמוז",
+    "ארצות הברית"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/sktpdafage",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1389465",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-11-17",
+   "lastUpdated": "2026-11-17"
+  }
+ ],
+ "filtered_out": 285,
+ "note": ""
+}

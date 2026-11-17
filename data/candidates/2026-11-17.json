@@ -2,16 +2,6 @@
  "date": "2026-11-17",
  "articles": [
   {
-   "source": "Guardian",
-   "outlet": "Guardian",
-   "title": "Revealed: Israel uploaded millions of photos to Amazon’s facial recognition platform to track Palestinians",
-   "url": "https://www.theguardian.com/world/2026/nov/16/israel-amazon-facial-recognition-palestinians",
-   "summary": "Upload came as the Israeli military was increasing its reliance on Amazon’s cloud platform to meet the technological demands of its bombardment of Gaza The Israeli military uploaded 3.5m photos to Amazon’s cloud platform in order to use the US company’s facial recognition technology to analyse image",
-   "time": "2026-11-16T11:00:56+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
    "source": "BBC",
    "outlet": "BBC",
    "title": "Yemeni forces retreat to defend port city from Houthis",
@@ -3682,7 +3672,7 @@
    "type": "reporting"
   }
  ],
- "updated": "2026-11-17T16:07:57.840044+00:00",
+ "updated": "2026-11-17T17:01:09.288473+00:00",
  "clusters": [
   {
    "id": "f869a95df6",
@@ -5034,30 +5024,6 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-11-17T11:19:04+00:00"
-    }
-   ]
-  },
-  {
-   "id": "d686c1c7ce",
-   "title": "Revealed: Israel uploaded millions of photos to Amazon’s facial recognition platform to track Palestinians",
-   "sourceCount": 1,
-   "outlets": [
-    "Guardian"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-11-16T11:00:56+00:00",
-   "lastSeen": "2026-11-16T11:00:56+00:00",
-   "articles": [
-    {
-     "source": "Guardian",
-     "title": "Revealed: Israel uploaded millions of photos to Amazon’s facial recognition platform to track Palestinians",
-     "url": "https://www.theguardian.com/world/2026/nov/16/israel-amazon-facial-recognition-palestinians",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-11-16T11:00:56+00:00"
     }
    ]
   },
@@ -11423,8 +11389,8 @@
   }
  ],
  "stats": {
-  "articles": 368,
-  "clusters": 299,
+  "articles": 367,
+  "clusters": 298,
   "multiSource": 22
  }
 }
