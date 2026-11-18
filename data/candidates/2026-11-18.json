@@ -4,16 +4,6 @@
   {
    "source": "Guardian",
    "outlet": "Guardian",
-   "title": "American Doctor review – medics put their lives on the line in Gaza amid the carnage",
-   "url": "https://www.theguardian.com/film/2026/nov/17/american-doctor-review-medics-put-their-lives-on-the-line-in-gaza-poh-si-ten-documentary",
-   "summary": "Poh Si Teng’s powerful documentary follows three doctors from the US who sign up to volunteer at the Nasser hospital This is the latest documentary about medics travelling to Palestine to treat civilian casualties; it’s a powerful, angry film, in a state of despair at the scale of suffering and deva",
-   "time": "2026-11-17T11:00:35+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
-   "source": "Guardian",
-   "outlet": "Guardian",
    "title": "Ed Miliband announces first sanctions on Israeli firms working in West Bank",
    "url": "https://www.theguardian.com/world/2026/nov/17/ed-miliband-israel-west-bank-settlements-sanctions",
    "summary": "Move is designed to hinder building of more illegal settlements, which Foreign Office says Israel has ‘refused to clamp down on’ Ed Miliband has announced the first set of sanctions against Israeli companies planning to build illegal settlements in the West Bank, after he pledged to try to prevent s",
@@ -3712,7 +3702,7 @@
    "type": "reporting"
   }
  ],
- "updated": "2026-11-18T11:50:31.651213+00:00",
+ "updated": "2026-11-18T17:01:15.755810+00:00",
  "clusters": [
   {
    "id": "65f6737618",
@@ -5300,30 +5290,6 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-11-18T10:40:58+00:00"
-    }
-   ]
-  },
-  {
-   "id": "7e594d0722",
-   "title": "American Doctor review – medics put their lives on the line in Gaza amid the carnage",
-   "sourceCount": 1,
-   "outlets": [
-    "Guardian"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-11-17T11:00:35+00:00",
-   "lastSeen": "2026-11-17T11:00:35+00:00",
-   "articles": [
-    {
-     "source": "Guardian",
-     "title": "American Doctor review – medics put their lives on the line in Gaza amid the carnage",
-     "url": "https://www.theguardian.com/film/2026/nov/17/american-doctor-review-medics-put-their-lives-on-the-line-in-gaza-poh-si-ten-documentary",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-11-17T11:00:35+00:00"
     }
    ]
   },
@@ -11017,8 +10983,8 @@
   }
  ],
  "stats": {
-  "articles": 371,
-  "clusters": 273,
+  "articles": 370,
+  "clusters": 272,
   "multiSource": 22
  }
 }

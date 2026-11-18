@@ -1,0 +1,540 @@
+{
+ "schema": 2,
+ "date": "2026-11-18",
+ "type": "daily",
+ "headline": "נבחר יו\"ר כנסת חדש בתמיכת גוש השינוי, ארה\"ב ואיראן החליפו אש באי קשם, ובריטניה ואוסטרליה הטילו סנקציות הקשורות להתנחלויות.",
+ "events": [
+  {
+   "id": "knesset-speaker-race",
+   "title": "מתן כהנא, מקורבו של איזנקוט, נבחר ליו\"ר הכנסת בתמיכת גוש השינוי והרשימה המשותפת",
+   "summary": "לפי NYT, הגרדיאן ואל-ג'זירה, מתן כהנא נבחר ליו\"ר הכנסת. לפי אל-ג'זירה, הוא נבחר בתמיכת הגוש הערבי. ynet מדווח כי הרשימה המשותפת הודיעה מראש שתתמוך בו.",
+   "why": "יו\"ר הכנסת מנהל את סדר היום של המליאה, ובחירתו מעידה על מאזן הכוחות בכנסת החדשה.",
+   "change": "כהנא נבחר בפועל ליו\"ר הכנסת, לאחר שאתמול דווח על התמודדות מול מועמד הליכוד.",
+   "next": "סדר היום וועדות הכנסת בהנהגתו, והמשך המגעים להקמת קואליציה.",
+   "status": "VERIFIED",
+   "importance": 5,
+   "categories": [
+    "politics"
+   ],
+   "kind": "decision",
+   "entities": [
+    "הכנסת",
+    "יו\"ר הכנסת",
+    "איזנקוט",
+    "בחירות 2026"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "NYT",
+     "url": "https://www.nytimes.com/2026/11/17/world/middleeast/israel-opposition-selects-parliamentary-speaker.html",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Guardian",
+     "url": "https://www.theguardian.com/world/2026/nov/17/israeli-parliament-elects-new-knesset-speaker-backed-netanyahus-opponents",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/17/israel-parliament-elects-gadi-eisenkot-ally-matan-kahana-as-new-speaker?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/eisenkot-ally-elected-knesset-speaker-with-arab-blocs-backing?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/bkaxelcame",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 4,
+   "firstSeen": "2026-11-17",
+   "lastUpdated": "2026-11-18"
+  },
+  {
+   "id": "coalition-building-after-election",
+   "title": "נתניהו קורא לממשלת אחדות לאומית עם החרדים; גוש השינוי והליכוד הגיעו להסכמות על הוועדות",
+   "summary": "לפי ynet ומעריב, נתניהו אמר בכנסת כי נדרשת ממשלת אחדות לאומית שתכלול גם את המפלגות החרדיות. מעריב מדווח כי גוש השינוי והליכוד הגיעו להסכמות שלפיהן הוועדות המיוחדות יאושרו ללא פיליבסטרים. ישראל היום מדווח כי בליכוד הציעו לחרדים לנתק את המגעים עם גוש השינוי.",
+   "why": "מבנה הקואליציה ושליטה בוועדות הכנסת קובעים מי יוכל לקדם חקיקה ומינויים.",
+   "change": "נתניהו קרא לממשלת אחדות עם החרדים, ולפי מעריב הושגו הסכמות על אישור הוועדות.",
+   "next": "המשך המגעים בין הליכוד, גוש השינוי והחרדים.",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "politics"
+   ],
+   "kind": "negotiation",
+   "entities": [
+    "נתניהו",
+    "ליכוד",
+    "יהדות התורה",
+    "בחירות 2026"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/local/article/21874827",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1389629",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/politics/article/21877179",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/rkygqjocfg",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-10-29",
+   "lastUpdated": "2026-11-18"
+  },
+  {
+   "id": "election-foreign-influence-probe",
+   "title": "ראש השב\"כ ויושב ראש ועדת הבחירות: בשלב זה אין ראיות לשוחד בחירות שעשוי להשפיע על התוצאות",
+   "summary": "לפי מעריב, ynet וישראל היום, ראש השב\"כ עדכן את ועדת הבחירות המרכזית כי אין ראיות לתשלום שוחד בחירות בהיקף שעשוי להשפיע על התוצאות. הדברים נאמרו בשיחה עם יו\"ר הוועדה, השופט סולברג, ובהשתתפות זיני.",
+   "why": "הנושא נוגע ללגיטימיות תוצאות הבחירות ולשאלה אם יהיו הליכים בעקבות החשדות.",
+   "change": "ראש השב\"כ מסר לוועדה כי בשלב זה אין ראיות לשוחד שישפיע על התוצאות.",
+   "next": "האם הראיות ישתנו והאם ייפתחו הליכים נוספים.",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "politics",
+    "law"
+   ],
+   "kind": "legal",
+   "entities": [
+    "בחירות 2026",
+    "השב\"כ"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1389559",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/law/article/21875082",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/H1BmZbc0Ml",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-11-13",
+   "lastUpdated": "2026-11-18"
+  },
+  {
+   "id": "qeshm-explosions-report",
+   "title": "ארה\"ב תקפה באי קשם באיראן; גורם אמריקני: הגנה עצמית. איראן: לא נגרם נזק",
+   "summary": "לפי ynet ומעריב, גורם בצבא ארה\"ב מסר כי התקיפה באי קשם בוצעה כהגנה עצמית בתגובה לתקיפות של משמרות המהפכה נגד כוחות אמריקניים. איראן מסרה כי לא נגרם נזק. אל-ג'זירה מדווח על חילופי תקיפות בין איראן וארה\"ב בקשם ובבחריין ועל דיווח כוויתי על יירוט כטב\"מים.",
+   "why": "החלפת אש ישירה בין ארה\"ב לאיראן מעלה את הסיכון להסלמה אזורית ולהשפעה על ישראל.",
+   "change": "אתמול דווח רק על פיצוץ באי; היום גורם אמריקני מאשר שהייתה זו תקיפה אמריקנית, ואיראן מדווחת שלא נגרם נזק.",
+   "next": "תגובה איראנית אפשרית והתפתחות המגעים בין המדינות.",
+   "status": "VERIFIED",
+   "importance": 5,
+   "categories": [
+    "security",
+    "israel_world"
+   ],
+   "kind": "event",
+   "entities": [
+    "איראן",
+    "ארצות הברית",
+    "בחריין"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/bjcqagc0zg",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1389616",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/h1cjtmqrzg",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/17/kuwait-reports-drone-attacks-as-iran-us-trade-attacks-on-qeshm-and-bahrain?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/11/18/iran-war-live-kuwait-says-intercepting-hostile-drone-attacks?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-11-17",
+   "lastUpdated": "2026-11-18"
+  },
+  {
+   "id": "uk-sanctions-israeli-settlement-firms",
+   "title": "סער על הסנקציות הבריטיות: \"ננקוט צעדי נגד\"; גם אוסטרליה הטילה סנקציות הקשורות להתנחלויות",
+   "summary": "לפי מעריב ו-ynet, שר החוץ סער הגיב לסנקציות הבריטיות ואמר כי ישראל לא תיכנע ותנקוט צעדי נגד. לפי הגרדיאן, אוסטרליה הטילה סנקציות על קבוצה שכוללת חברת בנייה בהתנחלויות ואת דניאלה וייס.",
+   "why": "סנקציות מערביות על גורמים בהתנחלויות משפיעות על יחסי החוץ וגם על חברות ישראליות.",
+   "change": "סער הודיע על צעדי נגד, ואוסטרליה הצטרפה בסנקציות משלה.",
+   "next": "אילו צעדי נגד תנקוט ישראל והאם מדינות נוספות יצטרפו.",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "israel_world",
+    "politics"
+   ],
+   "kind": "decision",
+   "entities": [
+    "בריטניה",
+    "סנקציות",
+    "התנחלויות",
+    "יחסי חוץ"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "Guardian",
+     "url": "https://www.theguardian.com/world/2026/nov/17/ed-miliband-israel-west-bank-settlements-sanctions",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Guardian",
+     "url": "https://www.theguardian.com/world/2026/nov/18/australia-sanctions-construction-company-west-bank-settlement-expansion-ntwnfb",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1389571",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/sy8fjzcrfg",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 4,
+   "firstSeen": "2026-11-17",
+   "lastUpdated": "2026-11-18"
+  },
+  {
+   "id": "ohana-ministerial-appointment",
+   "title": "הייעוץ המשפטי לממשלה: אוחנה לא יוכל להתמנות לשר בלי אישור הכנסת",
+   "summary": "לפי ynet וישראל היום, בליכוד רצו למנות את אוחנה לשר, ובתגובה נמסר מהייעוץ המשפטי לממשלה כי נדרש לכך אישור הכנסת.",
+   "why": "עמדה משפטית שעשויה לעכב מינוי שרים ולהגביל את מהלכי הממשלה.",
+   "change": "",
+   "next": "האם הליכוד יביא את המינוי לאישור הכנסת.",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "law",
+    "politics"
+   ],
+   "kind": "legal",
+   "entities": [
+    "הליכוד",
+    "היועצת המשפטית לממשלה",
+    "הכנסת"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/law/article/21878078",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/rj0eetcrge",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-11-18",
+   "lastUpdated": "2026-11-18"
+  },
+  {
+   "id": "jericho-terror-attack",
+   "title": "נעצר חשוד במעורבות בפיגוע ליד יריחו",
+   "summary": "לפי ynet, מעריב וישראל היום, יומיים אחרי הפיגוע ליד יריחו נעצר חשוד במעורבות באירוע, והוא נחקר בידי המשטרה והשב\"כ.",
+   "why": "מעצר במסגרת החקירה בפיגוע בו הותקפו אזרחים ישראלים ביהודה ושומרון.",
+   "change": "נעצר חשוד, והוא נחקר במשטרה ובשב\"כ.",
+   "next": "המשך החקירה והאם יוגש כתב אישום.",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "security"
+   ],
+   "kind": "event",
+   "entities": [
+    "יהודה ושומרון",
+    "יריחו",
+    "טרור",
+    "משטרה"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1389767",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/defense/article/21879218",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/skez8jirml",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-11-17",
+   "lastUpdated": "2026-11-18"
+  },
+  {
+   "id": "iran-talks-hardened-position",
+   "title": "דיווח: איראן הקשיחה את עמדותיה במשא ומתן מול ארה\"ב מאז בחירות האמצע",
+   "summary": "לפי ynet וישראל היום, באיראן הקשיחו את עמדותיהם מול וושינגטון. ישראל היום מצטט הערכה באיראן לפיה \"בחירות האמצע היו תבוסה מול איראן\". לא פורסם אישור רשמי.",
+   "why": "עמדה קשיחה באיראן מקטינה את הסיכוי להסכם ומגדילה את הסיכון להסלמה.",
+   "change": "",
+   "next": "התפתחויות במגעים ותגובת ארה\"ב.",
+   "status": "REPORTED",
+   "importance": 3,
+   "categories": [
+    "security",
+    "israel_world"
+   ],
+   "kind": "negotiation",
+   "entities": [
+    "איראן",
+    "ארצות הברית"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21878106",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/b1pa002c0fg",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-11-18",
+   "lastUpdated": "2026-11-18"
+  },
+  {
+   "id": "iran-dirty-bomb-plot-report",
+   "title": "טראמפ: ארה\"ב \"בוחנת\" את הדיווח על תוכנית איראנית בוושינגטון, אף שאין \"איום אמין\"",
+   "summary": "לפי הגרדיאן ו-BBC, טראמפ אמר כי ארה\"ב מתייחסת ברצינות לכל תוכנית איראנית נגד וושינגטון, ובמקביל הוסבר כי אין איומים אמינים. בעבר דווח על תוכנית לפגוע בבכירים בפצצה מלוכלכת.",
+   "why": "הדיווח מצטרף להחרפת המתיחות בין ארה\"ב לאיראן.",
+   "change": "טראמפ התייחס בפומבי לדיווח ואמר שהנושא נבדק.",
+   "next": "תוצאות הבדיקה האמריקנית.",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "security",
+    "world"
+   ],
+   "kind": "statement",
+   "entities": [
+    "איראן",
+    "טראמפ",
+    "ארצות הברית"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "Guardian",
+     "url": "https://www.theguardian.com/world/2026/nov/17/trump-reported-iranian-plot-dirty-bomb-washington",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&at_campaign=rss",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-11-17",
+   "lastUpdated": "2026-11-18"
+  },
+  {
+   "id": "e1-tender-halted",
+   "title": "דיווח: היועמ\"שית שוב עוצרת את מכרז E1 למרות הפשרה",
+   "summary": "לפי ישראל היום, היועמ\"שית עיצרה שוב את מכרז E1 על רקע \"שיקולים פוליטיים\", וזאת אף שהושגה פשרה. בהתיישבות הגיבו בחריפות על הצעד.",
+   "why": "מכרז E1 הוא פרויקט בנייה רגיש מבחינה מדינית ומשפטית.",
+   "change": "",
+   "next": "התגובה של הממשלה והאם המכרז יתקדם.",
+   "status": "REPORTED",
+   "importance": 3,
+   "categories": [
+    "law",
+    "politics"
+   ],
+   "kind": "decision",
+   "entities": [
+    "היועצת המשפטית לממשלה",
+    "התנחלויות"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/law/article/21876298",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/local/article/21878906",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 1,
+   "firstSeen": "2026-11-18",
+   "lastUpdated": "2026-11-18"
+  }
+ ],
+ "unverified": [
+  {
+   "id": "hezbollah-thailand-embassy-plot",
+   "title": "על פי דיווח: חיזבאללה (ולפי ynet גם איראן) גייסו תאילנדים לפגוע בשגרירות ישראל בבנגקוק",
+   "summary": "על פי דיווח בישראל היום וב-ynet, גויסו אנשי דת תאילנדים כדי לפגוע בשגרירות ישראל בבנגקוק. הדיווחים נבדלים בשאלה אם מדובר בחיזבאללה בלבד או גם באיראן. אין אישור רשמי.",
+   "why": "ניסיון פגיעה בנציגות ישראלית בחו\"ל, אם יאושר, מצביע על המשך הפעילות הלוחמת נגד יעדי ישראל.",
+   "change": "",
+   "next": "אישור או הכחשה רשמיים.",
+   "status": "REPORTED",
+   "importance": 4,
+   "categories": [
+    "security",
+    "israel_world"
+   ],
+   "kind": "event",
+   "entities": [
+    "חיזבאללה",
+    "איראן"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21878516",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/hkclz65rml",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-11-18",
+   "lastUpdated": "2026-11-18"
+  },
+  {
+   "id": "lebanon-tunnel-har-dov",
+   "title": "לטענת צה\"ל: הושמד תוואי תת-קרקעי של חיזבאללה באזור הר דב, ובו חדרי פיקוד ושהייה",
+   "summary": "לפי הודעת צה\"ל כפי שפורסמה ב-ynet ובמעריב, הושמד תוואי תת-קרקעי של חיזבאללה בהר דב בדרום לבנון, ובתוכו אותרו חדרי פיקוד ושהייה. אין אישור עצמאי.",
+   "why": "פעילות צבאית בדרום לבנון משפיעה על היציבות בגבול הצפוני.",
+   "change": "",
+   "next": "המשך פעילות צה\"ל בגזרה.",
+   "status": "CLAIM",
+   "importance": 3,
+   "categories": [
+    "security"
+   ],
+   "kind": "event",
+   "entities": [
+    "חיזבאללה"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1389735",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/r181f0qrgx",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-11-18",
+   "lastUpdated": "2026-11-18"
+  }
+ ],
+ "filtered_out": 260,
+ "note": ""
+}
