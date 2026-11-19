@@ -2,26 +2,6 @@
  "date": "2026-11-19",
  "articles": [
   {
-   "source": "Guardian",
-   "outlet": "Guardian",
-   "title": "‘They want silence’: how the film NAZA is shaking Israel",
-   "url": "https://www.theguardian.com/world/2026/nov/18/wednesday-briefing-how-naza-shook-israel-and-sparked-a-debate-the-country-had-ignored",
-   "summary": "The documentary has triggered fierce backlash, but by exposing the army’s conduct in Gaza it’s proved impossible to ignore It was on Yom Kippur this year that Nadav Weiman first sensed the documentary NAZA was having a significant impact in Israel – despite the fact that back in September, when the ",
-   "time": "2026-11-18T06:44:25+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
-   "source": "Guardian",
-   "outlet": "Guardian",
-   "title": "Fears grow that US will put Nobel-winning judge under sanctions after Myanmar genocide ruling",
-   "url": "https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court",
-   "summary": "A ruling against Myanmar could set precedent for court’s judgment on Israel’s actions in Gaza Fears are growing that the US could impose sanctions on judges at the international court of justice, including this year’s Nobel peace prize winner, Navi Pillay , if the court rules on Thursday that the My",
-   "time": "2026-11-18T09:58:28+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
    "source": "BBC",
    "outlet": "BBC",
    "title": "Kuwait says it repelled first Iranian attack in two months after US strikes island",
@@ -3632,7 +3612,7 @@
    "type": "reporting"
   }
  ],
- "updated": "2026-11-19T11:47:28.269356+00:00",
+ "updated": "2026-11-19T17:01:11.156833+00:00",
  "clusters": [
   {
    "id": "7f4178524c",
@@ -5052,54 +5032,6 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-11-19T12:23:39+02:00"
-    }
-   ]
-  },
-  {
-   "id": "66c4f5212b",
-   "title": "‘They want silence’: how the film NAZA is shaking Israel",
-   "sourceCount": 1,
-   "outlets": [
-    "Guardian"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-11-18T06:44:25+00:00",
-   "lastSeen": "2026-11-18T06:44:25+00:00",
-   "articles": [
-    {
-     "source": "Guardian",
-     "title": "‘They want silence’: how the film NAZA is shaking Israel",
-     "url": "https://www.theguardian.com/world/2026/nov/18/wednesday-briefing-how-naza-shook-israel-and-sparked-a-debate-the-country-had-ignored",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-11-18T06:44:25+00:00"
-    }
-   ]
-  },
-  {
-   "id": "a9cefeb130",
-   "title": "Fears grow that US will put Nobel-winning judge under sanctions after Myanmar genocide ruling",
-   "sourceCount": 1,
-   "outlets": [
-    "Guardian"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-11-18T09:58:28+00:00",
-   "lastSeen": "2026-11-18T09:58:28+00:00",
-   "articles": [
-    {
-     "source": "Guardian",
-     "title": "Fears grow that US will put Nobel-winning judge under sanctions after Myanmar genocide ruling",
-     "url": "https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-11-18T09:58:28+00:00"
     }
    ]
   },
@@ -11105,8 +11037,8 @@
   }
  ],
  "stats": {
-  "articles": 363,
-  "clusters": 285,
+  "articles": 361,
+  "clusters": 283,
   "multiSource": 17
  }
 }

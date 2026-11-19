@@ -1,0 +1,381 @@
+{
+ "schema": 2,
+ "date": "2026-11-19",
+ "type": "daily",
+ "headline": "צה\"ל חצה את הקו הצהוב בעזה, איראן תקפה את כווית ובחריין, ובית הדין בהאג קבע כי מיאנמר ביצעה רצח עם.",
+ "events": [
+  {
+   "id": "gaza-yellow-line-incursion",
+   "title": "כוחות צה\"ל חצו את \"הקו הצהוב\" ונכנסו לשטח בעזה שבשליטת חמאס, במבצע קרקעי נדיר",
+   "summary": "לפי דיווחים ב-NYT, ב-BBC וב-Guardian, טנקים ישראליים חצו את קו הפסקת האש (\"הקו הצהוב\") ופעלו במרכז רצועת עזה, מעבר לשטח שבשליטת ישראל. הדיווחים מתארים זאת כפעולה קרקעית חריגה מאז הפסקת האש.",
+   "why": "מדובר בשינוי בדפוס הפעולה של צה\"ל בעזה תחת הפסקת האש, והוא עלול להשפיע על ההסדרים באזור.",
+   "change": "",
+   "next": "תגובת חמאס והמתווכים, והאם הפעולה תימשך.",
+   "status": "VERIFIED",
+   "importance": 5,
+   "categories": [
+    "security",
+    "israel_world"
+   ],
+   "kind": "event",
+   "entities": [
+    "עזה",
+    "הקו הצהוב",
+    "צה\"ל",
+    "הפסקת אש"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "NYT",
+     "url": "https://www.nytimes.com/2026/11/18/world/middleeast/israel-gaza-war-ground-operation.html",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Guardian",
+     "url": "https://www.theguardian.com/world/2026/nov/18/israeli-tanks-cross-yellow-line-boundary-into-hamas-controlled-central-gaza",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-11-19",
+   "lastUpdated": "2026-11-19"
+  },
+  {
+   "id": "qeshm-explosions-report",
+   "title": "איראן תקפה את כווית ובחריין בעקבות התקיפה האמריקנית באי קשם; טהרן אישרה שתקפה בסיסים אמריקניים",
+   "summary": "לפי BBC ו-NYT, כווית הודיעה כי היא הדפה את התקיפה האיראנית הראשונה מזה חודשיים, ובחריין דיווחה שהותקפה אף היא, לאחר תקיפה אמריקנית באי קשם. לפי דיווח במעריב, איראן אישרה כי תקפה בסיסים אמריקניים והוסיפה איום למדינות המפרץ. ה-NYT מציין כי המגעים המדיניים מתקשים.",
+   "why": "הסלמה מול מדינות המפרץ מרחיבה את מעגל הלחימה האזורית ומקשה על חידוש המשא ומתן בין ארה\"ב לאיראן.",
+   "change": "איראן תקפה בתגובה את כווית ובחריין, ואישרה שתקפה בסיסים אמריקניים.",
+   "next": "תגובה אמריקנית והאם המשא ומתן יתחדש.",
+   "status": "VERIFIED",
+   "importance": 5,
+   "categories": [
+    "security",
+    "israel_world",
+    "world"
+   ],
+   "kind": "event",
+   "entities": [
+    "איראן",
+    "ארצות הברית",
+    "בחריין",
+    "כווית",
+    "הורמוז"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "NYT",
+     "url": "https://www.nytimes.com/2026/11/18/world/middleeast/iran-attacks-bahrain-kuwait-ships-hormuz.html",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1390020",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-11-17",
+   "lastUpdated": "2026-11-19"
+  },
+  {
+   "id": "saudi-riyadh-interception-claim",
+   "title": "סעודיה: יורטו טילים ששיגרו החות'ים; שברי יירוט נפלו באזור ריאד",
+   "summary": "לפי דיווחים ב-ynet ובמעריב וב-אל-ג'זירה, סעודיה הודיעה כי יירטה טילים שהחות'ים שיגרו לעבר דרום המדינה וריאד, ושברי יירוט נפלו באזור הבירה. ב-ynet נמסר כי ההתראה בריאד הוסרה. אל-ג'זירה מדווחת גם על תקיפות של הקואליציה בראשות סעודיה בתימן.",
+   "why": "תקיפות חות'ים על סעודיה מרחיבות את המערכה האזורית הקשורה למלחמה באיראן.",
+   "change": "יירוט נוסף של טילי חות'ים מעל סעודיה, ושברים נפלו באזור ריאד.",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "security",
+    "world"
+   ],
+   "kind": "event",
+   "entities": [
+    "סעודיה",
+    "החות'ים",
+    "תימן",
+    "איראן"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/h1scurs0gg",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1390018",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "אל-ג'זירה",
+     "url": "https://www.aljazeera.com/news/2026/11/19/saudi-led-coalition-intercepts-houthi-missiles-targeting-riyadh-and-south",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-11-07",
+   "lastUpdated": "2026-11-19"
+  },
+  {
+   "id": "icj-myanmar-rohingya-ruling",
+   "title": "בית הדין הבינלאומי בהאג קבע כי מיאנמר ביצעה רצח עם נגד הרוהינגה",
+   "summary": "לפי ynet ואל-ג'זירה, בית הדין הבינלאומי לצדק פסק כי מיאנמר פעלה מתוך כוונה לרצח עם נגד הרוהינגה. אל-ג'זירה מציינת כי נקבע שכ-10,000 רוהינגה נהרגו.",
+   "why": "זו פסיקה תקדימית בדין הבינלאומי שעשויה להשפיע על ההתייחסות להליכים בינלאומיים אחרים.",
+   "change": "",
+   "next": "תגובות מדינות ומוסדות לפסיקה.",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "law",
+    "world"
+   ],
+   "kind": "legal",
+   "entities": [
+    "בית הדין הבינלאומי",
+    "מיאנמר",
+    "רצח עם"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/bja6a830zl",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "אל-ג'זירה",
+     "url": "https://www.aljazeera.com/news/2026/11/19/un-top-court-finds-myanmar-killed-10000-rohingya-as-it-rules-on-genocide",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-11-19",
+   "lastUpdated": "2026-11-19"
+  },
+  {
+   "id": "rabies-human-case-kfar-ruth",
+   "title": "משרד הבריאות: אישה נדבקה בכלבת ומאושפזת במצב אנוש; קריאה לאתר נחשפים באזור כפר רות",
+   "summary": "לפי משרד הבריאות כפי שדווח ב-ynet, בישראל היום ובמעריב, אותר מקרה כלבת באדם באזור המרכז, והאישה במצב אנוש. המשרד קרא לאתר אנשים שנחשפו, באזור כפר רות. לפי ישראל היום, האבחנה הגיעה רק כשבועיים לאחר האשפוז.",
+   "why": "כלבת באדם היא מחלה נדירה וקטלנית, ונדרש טיפול מהיר באנשים שנחשפו.",
+   "change": "",
+   "next": "איתור הנחשפים וטיפול מונע.",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "society"
+   ],
+   "kind": "event",
+   "entities": [
+    "משרד הבריאות",
+    "כלבת",
+    "בריאות הציבור"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/b1y0qyi0ge",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/health/article/21885759",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1389997",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-11-19",
+   "lastUpdated": "2026-11-19"
+  },
+  {
+   "id": "eu-commission-cyberattack",
+   "title": "הנציבות האירופית הייתה יעד למתקפת סייבר; לפי הדיווחים ייתכן שמידע רב דלף",
+   "summary": "לפי דיווחים בישראל היום וב-ynet, הנציבות האירופית נפלה קורבן למתקפת סייבר, ובהערכה שמובאת בדיווחים ייתכן שמידע רב דלף. אין פרטים על זהות התוקפים.",
+   "why": "פגיעה בנתוני מוסד מרכזי של האיחוד האירופי עלולה לחשוף מידע רגיש.",
+   "change": "",
+   "next": "",
+   "status": "REPORTED",
+   "importance": 3,
+   "categories": [
+    "tech",
+    "world"
+   ],
+   "kind": "event",
+   "entities": [
+    "האיחוד האירופי",
+    "סייבר"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/world-news/europe/article/21888625",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/hyi96x3age",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-11-19",
+   "lastUpdated": "2026-11-19"
+  }
+ ],
+ "unverified": [
+  {
+   "id": "iran-chem-bio-claim",
+   "title": "טראמפ טען כי יש אינדיקציות לכך שאיראן בוחנת נשק ביולוגי וכימי",
+   "summary": "לפי ynet ו\"ישראל היום\", הנשיא טראמפ אמר כי יש אינדיקציות לכך שאיראן בוחנת נשק ביולוגי וכימי, וכי ארה\"ב השביתה את הגרעין האיראני. לא פורסמו ראיות התומכות בטענה.",
+   "why": "טענה בכירה על יכולות לא קונבנציונליות עשויה להשפיע על החלטות אמריקניות ביחס לאיראן.",
+   "change": "",
+   "next": "",
+   "status": "CLAIM",
+   "importance": 4,
+   "categories": [
+    "security",
+    "israel_world"
+   ],
+   "kind": "statement",
+   "entities": [
+    "איראן",
+    "טראמפ",
+    "ארצות הברית"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/b1dkn6srge",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21886547",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-11-19",
+   "lastUpdated": "2026-11-19"
+  },
+  {
+   "id": "netanyahu-pushes-iran-renewal-claim",
+   "title": "על פי דיווח: נתניהו לוחץ על טראמפ לצאת למערכה של 4–7 ימים באיראן; טראמפ שוקל",
+   "summary": "על פי דיווח שפורסם בישראל היום וב-ynet, ראש הממשלה נתניהו דוחף למערכה קצרה של ארבעה עד שבעה ימים באיראן, וטראמפ שוקל את האפשרויות. אין אישור רשמי לדיווח.",
+   "why": "החלטה על חידוש התקיפות באיראן תשפיע ישירות על ביטחון ישראל.",
+   "change": "דיווח חדש מפרט מערכה מבוקשת של 4–7 ימים, וכי טראמפ שוקל זאת.",
+   "next": "",
+   "status": "REPORTED",
+   "importance": 4,
+   "categories": [
+    "security",
+    "politics",
+    "israel_world"
+   ],
+   "kind": "negotiation",
+   "entities": [
+    "נתניהו",
+    "איראן",
+    "טראמפ"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/bjbzl0jrze",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21886657",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-11-10",
+   "lastUpdated": "2026-11-19"
+  },
+  {
+   "id": "kafr-qasim-ramming",
+   "title": "דריסה בכפר קאסם: המשטרה אומרת שאינה לאומנית, בכיר מקומי טוען שהיא מעשה טרור",
+   "summary": "לפי ynet וישראל היום, במהלך דריסה בכפר קאסם נפצעו אנשים והנהג נעצר. המשטרה מסרה כי המעשה אינו לאומני, ואילו בכיר מקומי טען כי מדובר במעשה טרור. הנסיבות טרם הובהרו.",
+   "why": "הגדרת האירוע כפיגוע או לא משפיעה על ההתייחסות הביטחונית והמשפטית אליו.",
+   "change": "",
+   "next": "",
+   "status": "CONFLICTING",
+   "importance": 3,
+   "categories": [
+    "security",
+    "society"
+   ],
+   "kind": "event",
+   "entities": [
+    "כפר קאסם",
+    "משטרה"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/bjcqloj0ml",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/local/article/21885065",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-11-19",
+   "lastUpdated": "2026-11-19"
+  }
+ ],
+ "filtered_out": 270,
+ "note": ""
+}
