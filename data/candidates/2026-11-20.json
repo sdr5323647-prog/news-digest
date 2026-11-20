@@ -2,16 +2,6 @@
  "date": "2026-11-20",
  "articles": [
   {
-   "source": "Guardian",
-   "outlet": "Guardian",
-   "title": "Mentors, colleagues and friends: tributes paid to the ‘Eritrea 16’ who disappeared 25 years ago",
-   "url": "https://www.theguardian.com/global-development/2026/nov/19/eritrea-16-journalists-jailed-press-freedom-award-cpj-censorship-warning",
-   "summary": "Families of journalists who vanished into state prisons on ‘Black Tuesday’ in 2001 do not know whether they are even still alive When Fisseha Yirgalem stepped on to the podium and began reading from a letter written to a man who may never hear it, the room full of journalists in Nairobi fell quiet. ",
-   "time": "2026-11-19T10:00:24+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
    "source": "NYT",
    "outlet": "NYT",
    "title": "Netanyahu Associates Acknowledge Role in Setting Off Election Day Arrests",
@@ -3142,7 +3132,7 @@
    "type": "reporting"
   }
  ],
- "updated": "2026-11-20T11:47:35.821321+00:00",
+ "updated": "2026-11-20T17:01:38.750706+00:00",
  "clusters": [
   {
    "id": "a061d69c3a",
@@ -4509,30 +4499,6 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-11-20T07:40:32+00:00"
-    }
-   ]
-  },
-  {
-   "id": "9509352790",
-   "title": "Mentors, colleagues and friends: tributes paid to the ‘Eritrea 16’ who disappeared 25 years ago",
-   "sourceCount": 1,
-   "outlets": [
-    "Guardian"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-11-19T10:00:24+00:00",
-   "lastSeen": "2026-11-19T10:00:24+00:00",
-   "articles": [
-    {
-     "source": "Guardian",
-     "title": "Mentors, colleagues and friends: tributes paid to the ‘Eritrea 16’ who disappeared 25 years ago",
-     "url": "https://www.theguardian.com/global-development/2026/nov/19/eritrea-16-journalists-jailed-press-freedom-award-cpj-censorship-warning",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-11-19T10:00:24+00:00"
     }
    ]
   },
@@ -9482,8 +9448,8 @@
   }
  ],
  "stats": {
-  "articles": 314,
-  "clusters": 239,
+  "articles": 313,
+  "clusters": 238,
   "multiSource": 27
  }
 }

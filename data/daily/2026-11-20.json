@@ -1,0 +1,315 @@
+{
+ "schema": 2,
+ "date": "2026-11-20",
+ "type": "daily",
+ "headline": "צה\"ל השמיד מנהרה מעבר לקו הצהוב בעזה, הסנאט האמריקני דחה הגבלת סמכויות המלחמה באיראן, ובבית שמש פרצו מהומות בין חרדים לשוטרים.",
+ "events": [
+  {
+   "id": "gaza-yellow-line-incursion",
+   "title": "צה\"ל השמיד מקטע מנהרה מעבר לקו הצהוב; חמאס: הפרה בוטה של הפסקת האש",
+   "summary": "לפי ynet ומעריב, צה\"ל ושב\"כ הודיעו כי הושמד מקטע מנהרה באזור הקו הצהוב שחמאס ניסה לשקם. BBC מדווח כי צה\"ל השלים את הפעולה הקרקעית מעבר לקו, ושלפי הצבא היא נועדה לפרק \"מנהרת טרור\". חמאס גינה את הפעולה וכינה אותה הפרה בוטה של הפסקת האש.",
+   "why": "זו הפעולה הקרקעית הראשונה מעבר לקו הצהוב מאז הפסקת האש, והיא עלולה להשפיע על המשך ההסדר בעזה.",
+   "change": "הפעולה הושלמה; צה\"ל מסר כי הושמד מקטע מנהרה, וחמאס הגדיר זאת הפרת הפסקת אש.",
+   "next": "תגובת חמאס והמתווכים, והאם תהיה פעולה נוספת מעבר לקו.",
+   "status": "VERIFIED",
+   "importance": 5,
+   "categories": [
+    "security",
+    "israel_world"
+   ],
+   "kind": "event",
+   "entities": [
+    "עזה",
+    "הקו הצהוב",
+    "צה\"ל",
+    "הפסקת אש"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/skzhz3n0zl",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1390345",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-11-19",
+   "lastUpdated": "2026-11-20"
+  },
+  {
+   "id": "pmo-planted-police-info-report",
+   "title": "NYT: ראש לשכת רה\"מ אישר מעורבות בפנייה הראשונית למשטרה לפני מעצר פעילי האופוזיציה ביום הבחירות",
+   "summary": "לפי ה-NYT, נתניהו טען כי הבחירות זויפו, והצביע על מעצר שלושה פעילי אופוזיציה. הדיווח מוסיף כי ראש לשכתו הודה שהיה מעורב בפנייה הראשונית למשטרה בעניין.",
+   "why": "הפרשה נוגעת לאמון בהליך הבחירות ולשאלת מעורבות הלשכה בפעולת משטרה ביום הבחירות.",
+   "change": "לפי NYT, ראש לשכת רה\"מ הודה במעורבות בפנייה הראשונית למשטרה; מקור אחד בלבד.",
+   "next": "דיון היועמ\"שית ופרקליט המדינה בנושא.",
+   "status": "REPORTED",
+   "importance": 4,
+   "categories": [
+    "politics",
+    "law"
+   ],
+   "kind": "dispute",
+   "entities": [
+    "נתניהו",
+    "בחירות 2026",
+    "ועדת הבחירות"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "NYT",
+     "url": "https://www.nytimes.com/2026/11/19/world/middleeast/netanyahu-arab-activists-arrests-israel-election.html",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 1,
+   "firstSeen": "2026-11-16",
+   "lastUpdated": "2026-11-20"
+  },
+  {
+   "id": "senate-iran-war-powers-vote",
+   "title": "הסנאט האמריקני דחה הצעה להגביל את סמכויות המלחמה של טראמפ באיראן",
+   "summary": "לפי אל-ג'זירה, הצעת ההחלטה נדחתה ברוב של 51 מול 48. שלושה סנאטורים רפובליקנים תמכו בה.",
+   "why": "ההצבעה קובעת אם לנשיא יש חופש פעולה צבאי נוסף מול איראן, עם השלכות על ישראל והאזור.",
+   "change": "",
+   "next": "",
+   "status": "REPORTED",
+   "importance": 4,
+   "categories": [
+    "politics",
+    "israel_world"
+   ],
+   "kind": "decision",
+   "entities": [
+    "איראן",
+    "ארצות הברית",
+    "טראמפ"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/19/senate-republicans-in-us-reject-measure-to-limit-trumps-war-powers-in-iran",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 1,
+   "firstSeen": "2026-11-20",
+   "lastUpdated": "2026-11-20"
+  },
+  {
+   "id": "lebanon-bekaa-strike",
+   "title": "צה\"ל תקף בבקעת לבנון: לדבריו, אתר טילים ואמל\"ח של חיזבאללה",
+   "summary": "ynet ומעריב מדווחים כי חיל האוויר תקף באזור בקעת הלבנון, ו-ynet מציין דיווחים בלבנון על תקיפות באל-בקאע. צה\"ל אישר את התקיפה וטען כי היעד היה אתר טילים ואמל\"ח של חיזבאללה, שחזר לפעול באתר שהופצץ במלחמה. הטענה על אופי האתר היא של צה\"ל.",
+   "why": "תקיפה מעבר לגבול מעידה על המשך הפעילות מול חיזבאללה אחרי המלחמה.",
+   "change": "",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "security"
+   ],
+   "kind": "event",
+   "entities": [
+    "לבנון",
+    "חיזבאללה",
+    "צה\"ל"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/sj4ls230gx",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1390357",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/hy2qpsh0fe",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-11-20",
+   "lastUpdated": "2026-11-20"
+  },
+  {
+   "id": "beit-shemesh-riots",
+   "title": "מהומות בבית שמש: שוטרים הותקפו באבנים והשליכו רימוני הלם",
+   "summary": "לפי ynet, מעריב וישראל היום, פרצו עימותים בשכונת רמה ד' בבית שמש בין מפגינים חרדים לשוטרים, בעקבות דיווח על ניסיון מעצר. הדיווחים נבדלים בפרטים: מעריב מדבר על עריק, וישראל היום על נער שנהג ללא רישיון ושוחרר. מפגינים יידו אבנים, והשוטרים השליכו רימוני הלם. שוטר נפצע קל, וגדי איזנקוט גינה את האלימות כלפי השוטרים.",
+   "why": "העימות סביב אכיפה וגיוס חרדים נמשך, ומגיע לאלימות כלפי כוחות הביטחון.",
+   "change": "",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "society",
+    "politics"
+   ],
+   "kind": "event",
+   "entities": [
+    "חרדים",
+    "גיוס חרדים",
+    "בית שמש",
+    "משטרה"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/syxidmaame",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1390426",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/local/article/21895051",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-11-20",
+   "lastUpdated": "2026-11-20"
+  },
+  {
+   "id": "supreme-court-gynecologist-retrial",
+   "title": "העליון הורה על משפט חוזר לגינקולוג שהורשע באונס; יידון בהרכב מורחב של חמישה שופטים",
+   "summary": "לפי ישראל היום ומעריב, בית המשפט העליון קיבל את ערעורו של ד\"ר מיכאל שטטמן. השופט נעם סולברג קבע כי הרשעה בערעור התבססה על הנחה שגויה, אחרי שהפרקליטות חזרה בה מבקשת ההרשעה. הוא זוכה במחוזי והורשע בערעור, וכעת התיק יידון מחדש בהרכב של חמישה שופטים.",
+   "why": "החלטה חריגה בהליך פלילי שעוסק בהיקף סמכות ערכאת הערעור.",
+   "change": "",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "law",
+    "society"
+   ],
+   "kind": "legal",
+   "entities": [
+    "בית המשפט העליון",
+    "הליך פלילי"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/law/article/21893536",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1390353",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-11-20",
+   "lastUpdated": "2026-11-20"
+  },
+  {
+   "id": "david-sling-upgrade-report",
+   "title": "על פי דיווח בלומברג: ישראל שדרגה את מערכת \"קלע דוד\"",
+   "summary": "ynet וישראל היום מביאים דיווח של בלומברג כי לקחי המלחמה עם איראן הובילו לשדרוג מערכת ההגנה האווירית, שמרחיב את טווח הפעולה שלה מול מגוון איומים בליסטיים. אין אישור רשמי בדיווחים.",
+   "why": "שדרוג ההגנה האווירית נוגע לכוננות מול איראן, על רקע החשש מחידוש הלחימה.",
+   "change": "",
+   "next": "",
+   "status": "REPORTED",
+   "importance": 3,
+   "categories": [
+    "security",
+    "tech"
+   ],
+   "kind": "data",
+   "entities": [
+    "איראן",
+    "הגנה אווירית"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/h1gmyyp0fx",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21895930",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-11-20",
+   "lastUpdated": "2026-11-20"
+  }
+ ],
+ "unverified": [
+  {
+   "id": "iran-chem-bio-claim",
+   "title": "איראן דחתה את טענת טראמפ: \"אין לנו נשק ביולוגי וכימי\"",
+   "summary": "לפי ynet, איראן מסרה כי אין לה נשק ביולוגי וכימי, ואמרה כי ההאשמות משתנות כל הזמן. מדובר בתגובה של צד מעוניין לטענה של טראמפ מאתמול, ולא פורסמו ראיות לאף אחד מהצדדים.",
+   "why": "הטענה והתשובה לה מאפיינות את המתיחות ההולכת וגוברת בין ארה\"ב לאיראן.",
+   "change": "איראן הכחישה את הטענה.",
+   "next": "",
+   "status": "CLAIM",
+   "importance": 4,
+   "categories": [
+    "security",
+    "israel_world"
+   ],
+   "kind": "statement",
+   "entities": [
+    "איראן",
+    "טראמפ",
+    "ארצות הברית"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/rkypa0hrzl",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 1,
+   "firstSeen": "2026-11-19",
+   "lastUpdated": "2026-11-20"
+  }
+ ],
+ "filtered_out": 225,
+ "note": ""
+}
