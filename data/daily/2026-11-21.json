@@ -1,0 +1,295 @@
+{
+  "schema": 2,
+  "date": "2026-11-21",
+  "type": "daily",
+  "headline": "מכלית נפגעה במצר הורמוז, דיווח על יירוט טילים מעל ריאד, טראמפ חזר על קו נוקשה מול איראן, ובוול סטריט נרשמה צניחה חדה.",
+  "events": [
+    {
+      "id": "hormuz-tanker-hit-nov21",
+      "title": "מכלית נפגעה ממטען לא מזוהה במצר הורמוז",
+      "summary": "לפי ynet, מעריב וישראל היום, מכלית ששטה במצר הורמוז נפגעה ממה שדווח כ\"חימוש לא מזוהה\" או \"טיל לא מזוהה\". ynet מדווח גם על מכלית נוספת שנפגעה. הדיווחים אינם מייחסים את התקיפה לגורם מסוים, וישראל היום מצטט אדם שהיה באזור ושמע פיצוצים וראה מכלית בוערת.",
+      "why": "פגיעה בספינות במצר הורמוז משפיעה על אספקת הנפט העולמית ועל מחירי האנרגיה, ומתרחשת על רקע הלחימה מול איראן.",
+      "change": "",
+      "next": "הודעה רשמית על זהות התוקף והיקף הנזק.",
+      "status": "VERIFIED",
+      "importance": 4,
+      "categories": [
+        "security",
+        "economy",
+        "world"
+      ],
+      "kind": "event",
+      "entities": [
+        "הורמוז",
+        "איראן",
+        "מכליות"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/by8vhar0gg",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "מעריב",
+          "url": "https://www.maariv.co.il/breaking-news/article-1390653",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21899032",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 3,
+      "firstSeen": "2026-11-21",
+      "lastUpdated": "2026-11-21"
+    },
+    {
+      "id": "saudi-riyadh-interception-claim",
+      "title": "סעודיה: אזעקות ויירוט שלושה טילים בריאד",
+      "summary": "לפי ynet, הופעלו אזעקות בריאד, נשמעו פיצוצים ונמסר כי יורטו שלושה טילים ששוגרו לעבר העיר. הדיווח מגיע ממקור אחד ועדיין אין אישור עצמאי או הודעה על זהות המשגרים.",
+      "why": "זו הפעם השנייה השבוע שמדווח על יירוט טילים מעל בירת סעודיה, והיא מעידה על התרחבות ההסלמה האזורית.",
+      "change": "אזעקות חדשות בריאד ודיווח על יירוט שלושה טילים; טרם אושר ממקור נוסף.",
+      "next": "הודעה רשמית סעודית.",
+      "status": "REPORTED",
+      "importance": 4,
+      "categories": [
+        "security",
+        "world"
+      ],
+      "kind": "event",
+      "entities": [
+        "סעודיה",
+        "ריאד",
+        "החות'ים"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/syt0ss0rgx",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 1,
+      "firstSeen": "2026-11-07",
+      "lastUpdated": "2026-11-21"
+    },
+    {
+      "id": "trump-iran-press-conference",
+      "title": "טראמפ במסיבת עיתונאים: איראן לא תחזיק בנשק גרעיני; \"לא נאפשר\" פצצה מלוכלכת",
+      "summary": "לפי ישראל היום, מעריב ו-ynet, טראמפ אמר כי לאיראן \"לעולם לא יהיה גרעין\" וכי הוא רוצה הסכם אמיתי ולא \"מזויף\". הוא אמר גם כי יש שמועה שאיראן מרכיבה פצצה מלוכלכת וכי ארה\"ב לא תאפשר זאת, ושארה\"ב תגביל את בית הדין הבינלאומי. אלה הצהרות ולא החלטות בפועל.",
+      "why": "ההצהרות מסמנות את קו המשא ומתן האמריקני מול איראן בזמן שהלחימה באזור נמשכת.",
+      "change": "",
+      "next": "",
+      "status": "VERIFIED",
+      "importance": 3,
+      "categories": [
+        "politics",
+        "israel_world",
+        "world"
+      ],
+      "kind": "statement",
+      "entities": [
+        "טראמפ",
+        "איראן",
+        "גרעין איראני"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21898013",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "מעריב",
+          "url": "https://www.maariv.co.il/breaking-news/article-1390569",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/bjjpmb0afx",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 3,
+      "firstSeen": "2026-11-21",
+      "lastUpdated": "2026-11-21"
+    },
+    {
+      "id": "gilboa-attack-cell-leader-surrender",
+      "title": "ראש חוליית הפיגוע בגלבוע מ-2024 הסגיר את עצמו",
+      "summary": "לפי ynet וישראל היום, צה\"ל מסר כי ראש החוליה שביצעה את פיגוע המטענים בגלבוע ב-2024 הסגיר את עצמו, ללא קרב וללא מרדף.",
+      "why": "סגירת חשבון עם מבצע פיגוע חמור ומסר הרתעתי לגורמי טרור ביהודה ושומרון.",
+      "change": "",
+      "next": "",
+      "status": "VERIFIED",
+      "importance": 3,
+      "categories": [
+        "security"
+      ],
+      "kind": "event",
+      "entities": [
+        "גלבוע",
+        "פיגועים",
+        "צה\"ל"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/rjlu00xcczg",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/news/defense/article/21897949",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 2,
+      "firstSeen": "2026-11-21",
+      "lastUpdated": "2026-11-21"
+    },
+    {
+      "id": "coalition-building-after-election",
+      "title": "ליברמן: הדרך לפרק את גוש נתניהו היא קואליציה עם ש\"ס ויהדות התורה",
+      "summary": "לפי ynet וישראל היום, יו\"ר ישראל ביתנו ליברמן אמר כי הדרך היחידה לפרק את גוש נתניהו היא קואליציה עם ש\"ס ויהדות התורה. מעריב מציין שהוא כתב ב-X כי ממשלת מיעוט היא \"מלכודת\" שתמשיך את שלטון נתניהו.",
+      "why": "עמדת ליברמן משפיעה על האפשרויות להרכבת הממשלה אחרי הבחירות.",
+      "change": "ליברמן הציע קואליציה עם ש\"ס ויהדות התורה ודחה ממשלת מיעוט.",
+      "next": "",
+      "status": "VERIFIED",
+      "importance": 3,
+      "categories": [
+        "politics"
+      ],
+      "kind": "statement",
+      "entities": [
+        "ליברמן",
+        "הקמת ממשלה",
+        "בחירות 2026"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/sj42byjy7l",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/news/politics/article/21899432",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "מעריב",
+          "url": "https://www.maariv.co.il/breaking-news/article-1390672",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 3,
+      "firstSeen": "2026-10-29",
+      "lastUpdated": "2026-11-21"
+    },
+    {
+      "id": "nvidia-nasdaq-selloff",
+      "title": "הנאסד\"ק מחק את עליות השנה; אנבידיה בצניחה על רקע תחקירים",
+      "summary": "לפי מעריב, הנאסד\"ק מחק את כל עליות השנה ומניית אנבידיה צנחה. ynet וישראל היום מדווחים על תחקירים בעיתונות האמריקנית (בין היתר הניו יורק טיימס) על קשרים של אדם בכיר בפרשה לצבא סין ועל סגנון הניהול של מנכ\"ל החברה. הקשר הסיבתי בין התחקירים לירידות לא נקבע בדיווחים.",
+      "why": "ירידות חדות בשוק האמריקני משפיעות על חסכונות פנסיה והשקעות, גם בישראל.",
+      "change": "",
+      "next": "",
+      "status": "REPORTED",
+      "importance": 3,
+      "categories": [
+        "economy",
+        "tech",
+        "world"
+      ],
+      "kind": "data",
+      "entities": [
+        "אנבידיה",
+        "וול סטריט"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "מעריב",
+          "url": "https://www.maariv.co.il/breaking-news/article-1390646",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/bk4wd8crml",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21899051",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 3,
+      "firstSeen": "2026-11-21",
+      "lastUpdated": "2026-11-21"
+    }
+  ],
+  "unverified": [
+    {
+      "id": "gaza-nukhba-strike-claim",
+      "title": "צה\"ל: חוסלו מחבלי נוח'בה שנפגשו לתכנן פיגועים במרכז עזה",
+      "summary": "על פי הודעת צה\"ל כפי שפורסמה ב-ynet ובישראל היום, מחבלי נוח'בה חוסלו במרכז הרצועה בעת שנפגשו לקדם תוכניות פיגוע. ישראל היום מוסיף כי שלושה מפקדים חוסלו. הנתונים מבוססים על הודעת הצבא בלבד.",
+      "why": "מדובר בפעולה צבאית במהלך הפסקת האש בעזה.",
+      "change": "",
+      "next": "",
+      "status": "CLAIM",
+      "importance": 3,
+      "categories": [
+        "security"
+      ],
+      "kind": "event",
+      "entities": [
+        "עזה",
+        "נוח'בה",
+        "צה\"ל"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/skv4oqccgg",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/news/defense/article/21898354",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 2,
+      "firstSeen": "2026-11-21",
+      "lastUpdated": "2026-11-21"
+    }
+  ],
+  "filtered_out": 199,
+  "note": ""
+}

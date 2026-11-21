@@ -1,0 +1,404 @@
+{
+  "schema": 2,
+  "date": "2026-11-21",
+  "type": "weekly",
+  "headline": "השבוע: הסלמה בין ארה\"ב לאיראן עם תקיפות הדדיות, צה\"ל פעל מעבר לקו הצהוב בעזה, מתן כהנא נבחר ליו\"ר הכנסת והמגעים להקמת הממשלה נמשכו.",
+  "events": [
+    {
+      "id": "gaza-yellow-line-incursion",
+      "title": "צה\"ל פעל מעבר ל\"קו הצהוב\" בעזה והשמיד מקטע מנהרה",
+      "summary": "לפי ynet, מעריב ו-BBC, כוחות צה\"ל חצו ב-19 בנובמבר את הקו הצהוב ופעלו בשטח שבשליטת חמאס. הצבא מסר כי הושמד מקטע מנהרה. חמאס טען להפרה בוטה של הפסקת האש. ב-20 וב-21 בנובמבר פורסמו הודעות צה\"ל על חיסולים נוספים ברצועה.",
+      "why": "זו הפעולה הקרקעית הראשונה מעבר לקו הצהוב מאז הפסקת האש, והיא עלולה להשפיע על המשך ההסדר בעזה.",
+      "change": "הפעולה הקרקעית הראשונה מעבר לקו מאז הפסקת האש.",
+      "next": "תגובת חמאס והמתווכים, והאם תהיה פעולה נוספת מעבר לקו.",
+      "status": "VERIFIED",
+      "importance": 5,
+      "categories": [
+        "security",
+        "israel_world"
+      ],
+      "kind": "event",
+      "entities": [
+        "עזה",
+        "הקו הצהוב",
+        "צה\"ל",
+        "הפסקת אש"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/skzhz3n0zl",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "מעריב",
+          "url": "https://www.maariv.co.il/breaking-news/article-1390345",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 3,
+      "firstSeen": "2026-11-19",
+      "lastUpdated": "2026-11-21"
+    },
+    {
+      "id": "qeshm-explosions-report",
+      "title": "ארה\"ב תקפה באי קשם; איראן תקפה בכווית ובבחריין",
+      "summary": "לפי BBC, NYT ואל-ג'זירה, ארה\"ב תקפה באי קשם באיראן וטענה להגנה עצמית. איראן אישרה תקיפות נגד כווית ובחריין בתגובה. ב-16 בנובמבר דווח על תקיפה איראנית קודמת בכטב\"מים בבחריין.",
+      "why": "הסלמה מול מדינות המפרץ מרחיבה את מעגל הלחימה האזורית ומקשה על חידוש המשא ומתן בין ארה\"ב לאיראן.",
+      "change": "שבוע של הסלמה בין ארה\"ב לאיראן, עם תקיפות הדדיות.",
+      "next": "תגובה אמריקנית והאם המשא ומתן יתחדש.",
+      "status": "VERIFIED",
+      "importance": 5,
+      "categories": [
+        "security",
+        "israel_world",
+        "world"
+      ],
+      "kind": "event",
+      "entities": [
+        "איראן",
+        "ארצות הברית",
+        "בחריין",
+        "כווית",
+        "הורמוז"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "NYT",
+          "url": "https://www.nytimes.com/2026/11/18/world/middleeast/iran-attacks-bahrain-kuwait-ships-hormuz.html",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "מעריב",
+          "url": "https://www.maariv.co.il/breaking-news/article-1390020",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 3,
+      "firstSeen": "2026-11-17",
+      "lastUpdated": "2026-11-21"
+    },
+    {
+      "id": "knesset-speaker-race",
+      "title": "מתן כהנא נבחר ליו\"ר הכנסת",
+      "summary": "לפי NYT, הגרדיאן ואל-ג'זירה, מתן כהנא נבחר ב-18 בנובמבר ליו\"ר הכנסת בתמיכת גוש השינוי והרשימה המשותפת, מול מועמד הליכוד.",
+      "why": "יו\"ר הכנסת מנהל את סדר היום של המליאה, ובחירתו מעידה על מאזן הכוחות בכנסת החדשה.",
+      "change": "בחירת יו\"ר הכנסת קבעה את כוחה של האופוזיציה בכנסת החדשה.",
+      "next": "סדר היום וועדות הכנסת בהנהגתו, והמשך המגעים להקמת קואליציה.",
+      "status": "VERIFIED",
+      "importance": 5,
+      "categories": [
+        "politics"
+      ],
+      "kind": "decision",
+      "entities": [
+        "הכנסת",
+        "יו\"ר הכנסת",
+        "איזנקוט",
+        "בחירות 2026"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "NYT",
+          "url": "https://www.nytimes.com/2026/11/17/world/middleeast/israel-opposition-selects-parliamentary-speaker.html",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/17/israeli-parliament-elects-new-knesset-speaker-backed-netanyahus-opponents",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/17/israel-parliament-elects-gadi-eisenkot-ally-matan-kahana-as-new-speaker?traffic_source=rss",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/eisenkot-ally-elected-knesset-speaker-with-arab-blocs-backing?traffic_source=rss",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/bkaxelcame",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 4,
+      "firstSeen": "2026-11-17",
+      "lastUpdated": "2026-11-21"
+    },
+    {
+      "id": "coalition-building-after-election",
+      "title": "מגעי הקמת הממשלה: קריאות לאחדות לאומית ומשא ומתן",
+      "summary": "במשך השבוע קרא נתניהו לממשלת אחדות, ללא הסכמה על תנאים. ב-21 בנובמבר אמר ליברמן כי רק קואליציה עם ש\"ס ויהדות התורה תפרק את גוש נתניהו.",
+      "why": "עמדת ליברמן משפיעה על האפשרויות להרכבת הממשלה אחרי הבחירות.",
+      "change": "המגעים נמשכים ללא פריצת דרך.",
+      "next": "",
+      "status": "VERIFIED",
+      "importance": 3,
+      "categories": [
+        "politics"
+      ],
+      "kind": "statement",
+      "entities": [
+        "ליברמן",
+        "הקמת ממשלה",
+        "בחירות 2026"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/sj42byjy7l",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/news/politics/article/21899432",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "מעריב",
+          "url": "https://www.maariv.co.il/breaking-news/article-1390672",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 3,
+      "firstSeen": "2026-10-29",
+      "lastUpdated": "2026-11-21"
+    },
+    {
+      "id": "pmo-planted-police-info-report",
+      "title": "פרשת העברת המידע מלשכת רה\"מ למשטרה",
+      "summary": "בשבוע זה דווח על דיון אצל היועמ\"שית ופרקליט המדינה, ולפי ה-NYT ראש לשכת רה\"מ אישר מעורבות בפנייה הראשונית למשטרה לפני מעצר פעילי האופוזיציה.",
+      "why": "הפרשה נוגעת לאמון בהליך הבחירות ולשאלת מעורבות הלשכה בפעולת משטרה ביום הבחירות.",
+      "change": "התפתחות הפרשה היא מהמשמעותיות במערכת המשפט והפוליטיקה השבוע.",
+      "next": "דיון היועמ\"שית ופרקליט המדינה בנושא.",
+      "status": "REPORTED",
+      "importance": 4,
+      "categories": [
+        "politics",
+        "law"
+      ],
+      "kind": "dispute",
+      "entities": [
+        "נתניהו",
+        "בחירות 2026",
+        "ועדת הבחירות"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "NYT",
+          "url": "https://www.nytimes.com/2026/11/19/world/middleeast/netanyahu-arab-activists-arrests-israel-election.html",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 1,
+      "firstSeen": "2026-11-16",
+      "lastUpdated": "2026-11-21"
+    },
+    {
+      "id": "uk-sanctions-israeli-settlement-firms",
+      "title": "בריטניה ואוסטרליה הטילו סנקציות על חברות בנייה בהתנחלויות",
+      "summary": "לפי מעריב, ynet ו-BBC, בריטניה הטילה סנקציות על שמונה חברות בנייה ישראליות ביו\"ש; גם אוסטרליה הטילה סנקציות. שר החוץ סער הגיב כי ישראל תנקוט צעדי נגד.",
+      "why": "סנקציות מערביות על גורמים בהתנחלויות משפיעות על יחסי החוץ וגם על חברות ישראליות.",
+      "change": "הרחבת הלחץ הדיפלומטי על ישראל.",
+      "next": "אילו צעדי נגד תנקוט ישראל והאם מדינות נוספות יצטרפו.",
+      "status": "VERIFIED",
+      "importance": 4,
+      "categories": [
+        "israel_world",
+        "politics"
+      ],
+      "kind": "decision",
+      "entities": [
+        "בריטניה",
+        "סנקציות",
+        "התנחלויות",
+        "יחסי חוץ"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/17/ed-miliband-israel-west-bank-settlements-sanctions",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/18/australia-sanctions-construction-company-west-bank-settlement-expansion-ntwnfb",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "מעריב",
+          "url": "https://www.maariv.co.il/breaking-news/article-1389571",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/sy8fjzcrfg",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 4,
+      "firstSeen": "2026-11-17",
+      "lastUpdated": "2026-11-21"
+    },
+    {
+      "id": "icj-myanmar-rohingya-ruling",
+      "title": "בית הדין בהאג: מיאנמר ביצעה רצח עם נגד הרוהינגה",
+      "summary": "לפי ynet ואל-ג'זירה, בית הדין הבינלאומי לצדק קבע ב-19 בנובמבר כי מיאנמר פעלה מתוך כוונה לרצח עם נגד הרוהינגה.",
+      "why": "זו פסיקה תקדימית בדין הבינלאומי שעשויה להשפיע על ההתייחסות להליכים בינלאומיים אחרים.",
+      "change": "פסיקה עקרונית בדין הבינלאומי.",
+      "next": "תגובות מדינות ומוסדות לפסיקה.",
+      "status": "VERIFIED",
+      "importance": 4,
+      "categories": [
+        "law",
+        "world"
+      ],
+      "kind": "legal",
+      "entities": [
+        "בית הדין הבינלאומי",
+        "מיאנמר",
+        "רצח עם"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/bja6a830zl",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "אל-ג'זירה",
+          "url": "https://www.aljazeera.com/news/2026/11/19/un-top-court-finds-myanmar-killed-10000-rohingya-as-it-rules-on-genocide",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 2,
+      "firstSeen": "2026-11-19",
+      "lastUpdated": "2026-11-21"
+    },
+    {
+      "id": "cpi-october-2026",
+      "title": "מדד המחירים לצרכן ירד באוקטובר",
+      "summary": "הלמ\"ס פרסם כי המדד ירד ב-0.1% באוקטובר והאינפלציה בשפל של כחמש שנים וחצי.",
+      "why": "הנתון משפיע על החלטות הריבית של בנק ישראל ועל יוקר המחיה.",
+      "change": "נתון המאקרו המרכזי של השבוע.",
+      "next": "החלטת הריבית הבאה של בנק ישראל.",
+      "status": "VERIFIED",
+      "importance": 4,
+      "categories": [
+        "economy"
+      ],
+      "kind": "data",
+      "entities": [
+        "אינפלציה",
+        "בנק ישראל",
+        "ריבית"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "מעריב",
+          "url": "https://www.maariv.co.il/breaking-news/article-1388741",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ישראל היום",
+          "url": "https://www.israelhayom.co.il/business/article/21857406",
+          "tier": 2,
+          "type": "reporting"
+        },
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/bj7bt8w0zx",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 3,
+      "firstSeen": "2026-11-16",
+      "lastUpdated": "2026-11-21"
+    },
+    {
+      "id": "saudi-riyadh-interception-claim",
+      "title": "סעודיה דיווחה על יירוט טילים מעל ריאד, פעמיים בשבוע",
+      "summary": "ב-19 בנובמבר הודיעה סעודיה כי יירטה טילים שהחות'ים שיגרו. ב-21 בנובמבר דיווח ynet על אזעקות ויירוט שלושה טילים נוספים, בלי אישור עצמאי.",
+      "why": "זו הפעם השנייה השבוע שמדווח על יירוט טילים מעל בירת סעודיה, והיא מעידה על התרחבות ההסלמה האזורית.",
+      "change": "הסלמה אזורית נוספת.",
+      "next": "הודעה רשמית סעודית.",
+      "status": "REPORTED",
+      "importance": 4,
+      "categories": [
+        "security",
+        "world"
+      ],
+      "kind": "event",
+      "entities": [
+        "סעודיה",
+        "ריאד",
+        "החות'ים"
+      ],
+      "noise": [],
+      "sources": [
+        {
+          "name": "ynet",
+          "url": "https://www.ynet.co.il/news/article/syt0ss0rgx",
+          "tier": 2,
+          "type": "reporting"
+        }
+      ],
+      "sourceCount": 1,
+      "firstSeen": "2026-11-07",
+      "lastUpdated": "2026-11-21"
+    }
+  ],
+  "unverified": [],
+  "filtered_out": 0,
+  "note": ""
+}
