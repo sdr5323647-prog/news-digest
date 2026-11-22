@@ -1,0 +1,297 @@
+{
+ "schema": 2,
+ "date": "2026-11-22",
+ "type": "daily",
+ "headline": "איזנקוט והליכוד פותחים מרתון שיחות על ממשלת אחדות, איראן תקפה בבחריין, והצתות בכפרים פלסטיניים ביו\"ש.",
+ "events": [
+  {
+   "id": "coalition-building-after-election",
+   "title": "איזנקוט הזמין את הליכוד ל\"מרתון שיחות\" על ממשלת אחדות; הליכוד הציג תנאים",
+   "summary": "לפי ynet, מעריב ווואלה, יו\"ר המפלגה איזנקוט הנחה את צוות המשא ומתן להזמין את צוות הליכוד למרתון שיחות, ובנט אמר כי \"חובה להפוך כל אבן להקמת ממשלת אחדות\". לפי ישראל היום וואלה, הליכוד הציג דרישות לממשלת אחדות, ובהן הפסקת ההסתה והתקפות אישיות על ראש הממשלה ושמירה על קווי היסוד. בנט אמר גם שהוא מחויב לכך שנתניהו לא יהיה ראש הממשלה הבא, ובליכוד מתעקשים שנתניהו יהיה רה\"מ.",
+   "why": "המגעים הללו יקבעו איזו ממשלה תקום אחרי הבחירות, והצדדים עדיין חלוקים על זהות ראש הממשלה.",
+   "change": "נקבעה פגישה ראשונה בין צוותי המשא ומתן של איזנקוט והליכוד, והליכוד פרסם את תנאיו.",
+   "next": "תוצאות מרתון השיחות בין הצוותים.",
+   "status": "VERIFIED",
+   "importance": 5,
+   "categories": [
+    "politics"
+   ],
+   "kind": "negotiation",
+   "entities": [
+    "הקמת ממשלה",
+    "בחירות 2026",
+    "נתניהו",
+    "בנט",
+    "איזנקוט"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/BJeXYLyyQl",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/politics/article/21900978",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383962418",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1390779",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 4,
+   "firstSeen": "2026-10-29",
+   "lastUpdated": "2026-11-22"
+  },
+  {
+   "id": "iran-bahrain-strikes-nov22",
+   "title": "בחריין: התקפה איראנית גרמה לשריפה במתקן תעשייתי; משמרות המהפכה טוענים כי תקפו מערכות פטריוט אמריקניות",
+   "summary": "לפי מעריב, ynet ו-Al Jazeera, בחריין מסרה כי התקפה איראנית גרמה לשריפה במתקן תעשייתי אזרחי, וכי מערכות ההגנה האווירית יירטו התקפות. וואלה מדווח על נזק מרסיסי יירוט. משמרות המהפכה טענו, לפי ישראל היום ומעריב, כי תקפו סוללות פטריוט ומכ\"מים אמריקניים בבחריין; בחריין הכחישה וטענה שמדובר במתקן אזרחי.",
+   "why": "ההסלמה מול מדינות המפרץ והכוחות האמריקניים נמשכת ועלולה להתרחב לאזור כולו.",
+   "change": "התקפות איראניות נוספות על בחריין, כולל טענה איראנית לפגיעה במערכות פטריוט אמריקניות.",
+   "next": "תגובה אמריקנית אפשרית.",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "security",
+    "world",
+    "israel_world"
+   ],
+   "kind": "event",
+   "entities": [
+    "איראן",
+    "בחריין",
+    "המפרץ הפרסי"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1390817",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/bysitu1yqg",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383962426",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 4,
+   "firstSeen": "2026-11-22",
+   "lastUpdated": "2026-11-22"
+  },
+  {
+   "id": "west-bank-nationalist-arson-nov22",
+   "title": "חמישה מוקדי הצתה וכתובות גרפיטי בכפרים פלסטיניים ביו\"ש בלילה אחד; חשד לפשיעה לאומנית מתואמת",
+   "summary": "לפי ynet, מעריב ווואלה, בלילה האחרון דווח על הצתות וריסוס כתובות נקמה בכמה כפרים פלסטיניים ביהודה ושומרון, ומעריב מדווח על חשד למתקפה מתואמת בחמישה מוקדים. איזנקוט כינה זאת \"טרור יהודי\" והאשים את בן גביר וסמוטריץ' בסף אנרכיה; בן גביר השיב כי לאיזנקוט \"אין מושג בעובדות\".",
+   "why": "אירועים כאלה מעלים את המתיחות ביו\"ש והופכים לנושא במשא ומתן הקואליציוני.",
+   "change": "",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "security",
+    "politics",
+    "society"
+   ],
+   "kind": "event",
+   "entities": [
+    "פשיעה לאומנית",
+    "יהודה ושומרון",
+    "איזנקוט",
+    "בן גביר"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/rjrfajlkxx",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1390891",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383962444",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/skeoegljmx",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-11-22",
+   "lastUpdated": "2026-11-22"
+  },
+  {
+   "id": "haredi-draft-protests-rail-blocked",
+   "title": "מפגינים חרדים חסמו את הרכבת הקלה בירושלים והסבו שיבושים בפסי הרכבת בלוד בעקבות מעצר עריק",
+   "summary": "לפי מעריב, וואלה, ynet וישראל היום, מפגינים נכנסו לשטח המסילה בלוד ושיבשו את תנועת הרכבות, ובהמשך נחסם ציר הרכבת הקלה בירושלים. ישראל היום מקשר את המחאה למעצר עריק, ו-ynet מזהה את החוסמים כחרדים קיצוניים. המשטרה נערכה לפזרם.",
+   "why": "המחאות נגד אכיפת הגיוס משבשות תחבורה ציבורית ומחריפות את המחלוקת בנושא.",
+   "change": "",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "society",
+    "politics"
+   ],
+   "kind": "event",
+   "entities": [
+    "גיוס חרדים",
+    "מחאה",
+    "תחבורה ציבורית"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1390943",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383962482",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/sjtf00sxk7g",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/local/article/21905548",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 4,
+   "firstSeen": "2026-11-22",
+   "lastUpdated": "2026-11-22"
+  }
+ ],
+ "unverified": [
+  {
+   "id": "iran-f16-claim",
+   "title": "על פי דיווח באיראן: מטוס F-16 אמריקני נפגע מטיל; סנטקום: \"שקר\"",
+   "summary": "לפי ישראל היום ו-ynet, בתקשורת האיראנית דווח כי מטוס F-16 אמריקני נפגע מטיל. סנטקום הכחיש וטען כי \"אף מטוס קרב אמריקני לא נפגע\". אין אישור עצמאי לטענה האיראנית.",
+   "why": "טענות מהסוג הזה משפיעות על ההסלמה, אך כאן אין אישור עצמאי לאירוע.",
+   "change": "",
+   "next": "",
+   "status": "CLAIM",
+   "importance": 4,
+   "categories": [
+    "security",
+    "israel_world"
+   ],
+   "kind": "statement",
+   "entities": [
+    "איראן",
+    "ארה\"ב",
+    "סנטקום"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21899974",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/bkfsx4k1qe",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-11-22",
+   "lastUpdated": "2026-11-22"
+  },
+  {
+   "id": "gaza-islamic-jihad-aid-workers-dispute",
+   "title": "עזה: צה\"ל טוען שתקף שלושה מחבלי ג'יהאד אסלאמי; בעזה טוענים שהיו עובדי ארגון סיוע",
+   "summary": "לפי ynet, וואלה ומעריב, צה\"ל מסר שהותקפו שלושה פעילי ג'יהאד אסלאמי שלטענתו הוצגו כעובדי סיוע, ופרסם את זהותם. לפי ynet, בעזה טוענים כי היו עובדי ארגון סיוע. אין אימות עצמאי של זהות הנהרגים.",
+   "why": "מדובר בפעולה צבאית בזמן הפסקת האש, והמחלוקת נוגעת לתדמית ולהיתר הפעולה.",
+   "change": "",
+   "next": "",
+   "status": "CONFLICTING",
+   "importance": 3,
+   "categories": [
+    "security"
+   ],
+   "kind": "dispute",
+   "entities": [
+    "עזה",
+    "ג'יהאד אסלאמי",
+    "צה\"ל"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/s111n9hjyxe",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383962405",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1390911",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-11-22",
+   "lastUpdated": "2026-11-22"
+  }
+ ],
+ "filtered_out": 289,
+ "note": "הדיגסט נכתב על סמך כותרות ו-RSS בלבד; דפי כתבות לא היו נגישים."
+}
