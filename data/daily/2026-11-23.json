@@ -1,0 +1,303 @@
+{
+ "schema": 2,
+ "date": "2026-11-23",
+ "type": "daily",
+ "headline": "אין הסכם בין הליכוד לישר! בשיחות על ממשלת אחדות, כ\"ץ מודיע על העברת האכיפה ביו\"ש למשטרה, וטראמפ מסמן מועד אפשרי לחידוש התקיפות באיראן.",
+ "events": [
+  {
+   "change": "נערכה פגישת משא ומתן בת כ-4 שעות בלי הסכם; לפי ישראל היום, בנט הבהיר לאיזנקוט שאינו יכול לתמוך בממשלה הנשענת על הרשימה המשותפת ורע\"מ.",
+   "next": "פגישה נוספת של הצוותים בהמשך השבוע.",
+   "noise": [],
+   "lastUpdated": "2026-11-23",
+   "id": "coalition-building-after-election",
+   "title": "מגעי הליכוד וישר! על ממשלת אחדות: ארבע שעות של שיחות ללא הסכמה",
+   "summary": "לפי ynet, מעריב, ישראל היום ואל-ג'זירה, צוותי הליכוד וישר! נפגשו כארבע שעות וסיימו ללא הסכם. לפי ישראל היום, נותרו פערים בשאלת הרוטציה (נתניהו דורש להמשיך לכהן כראש הממשלה, ואיזנקוט מתעקש על ארבע שנים בתפקיד), בשילוב החרדים בדיוני חוק הגיוס ובשיתוף הפעולה עם המפלגות הערביות. ynet מדווח שהצוותים ייפגשו שוב בהמשך השבוע.",
+   "why": "הרכב הממשלה הבאה תלוי בהכרעה בשאלות האלה, ובהן הגיוס והמעמד של המפלגות הערביות.",
+   "status": "VERIFIED",
+   "importance": 5,
+   "categories": [
+    "politics"
+   ],
+   "kind": "negotiation",
+   "entities": [
+    "הקמת ממשלה",
+    "בחירות 2026",
+    "נתניהו",
+    "בנט",
+    "איזנקוט"
+   ],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/h1p1l9xy7e",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/politics/article/21909414",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1391108",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/22/netanyahus-likud-eisenkots-yashar-end-coalition-talks-without-deal?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "firstSeen": "2026-10-29",
+   "sourceCount": 4
+  },
+  {
+   "change": "כ\"ץ הגיב לראשונה והודיע על תוכנית להעברת האכיפה האזרחית למשטרה; פוליטיקאים גינו את האלימות.",
+   "next": "יישום התוכנית ותגובת המשטרה.",
+   "noise": [],
+   "lastUpdated": "2026-11-23",
+   "id": "west-bank-nationalist-arson-nov22",
+   "title": "שר הביטחון כ\"ץ: צה\"ל לא צריך לעסוק באכיפה אזרחית ביו\"ש; התוכנית – העברת האחריות למשטרה",
+   "summary": "לפי ישראל היום, ynet ומעריב, שר הביטחון ישראל כ\"ץ הגיב לראשונה, כיממה וחצי לאחר גל ההצתות בכפרים פלסטיניים, והגדיר את האלימות \"דבר חמור בכל ההיבטים\". לדבריו, צה\"ל גיבש תוכנית להעברת האחריות על האכיפה האזרחית-פלילית ביו\"ש למשטרת ישראל, שתתוגבר. בנט, שלפי ynet האשים כי בוטלו מעצרים מנהליים \"עבור קולות בפריימריז\", ופוליטיקאים נוספים גינו את \"הטרור היהודי\", לפי הגרדיאן ו-NYT.",
+   "why": "הכרעה על הגוף שאחראי לאכיפה נגד אלימות מתנחלים משפיעה על הביטחון ביו\"ש ועל מעמדה הבינלאומי של ישראל.",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "security",
+    "politics",
+    "society"
+   ],
+   "kind": "decision",
+   "entities": [
+    "פשיעה לאומנית",
+    "יהודה ושומרון",
+    "בנט",
+    "כ\"ץ"
+   ],
+   "sources": [
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/defense/article/21912569",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1391396",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/b1btzq11jqx",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2026/nov/22/netanyahu-rival-condemns-settler-arson-attacks-palestinian-villages-west-bank",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "firstSeen": "2026-11-22",
+   "sourceCount": 4
+  },
+  {
+   "change": "",
+   "next": "המשך המגעים והמתווכים מול איראן.",
+   "noise": [],
+   "lastUpdated": "2026-11-23",
+   "id": "trump-iran-resume-strikes-timeline",
+   "title": "טראמפ: ארה\"ב עשויה לחדש את התקיפות באיראן אם המשא ומתן ייכשל, אולי אחרי ערב השנה החדשה",
+   "summary": "לפי מעריב, ישראל היום ו-ynet, טראמפ אמר בראיון ל\"פוקס ניוז\" מתי ארה\"ב עשויה לחדש את המערכה באיראן אם המגעים ייכשלו, ותיאר אפשרות לתקיפה \"אולי אחרי ערב השנה החדשה\". לפי ישראל היום, מדינות המפרץ חוששות מחידוש הלחימה ומפעילות לחץ להסדר, וקטאר ממשיכה לתווך.",
+   "why": "חידוש הלחימה מול איראן ישפיע ישירות על ישראל ועל האזור.",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "security",
+    "israel_world"
+   ],
+   "kind": "statement",
+   "entities": [
+    "איראן",
+    "ארה\"ב",
+    "טראמפ"
+   ],
+   "sources": [
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1391169",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21909271",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/h1gntilyxg",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "firstSeen": "2026-11-23",
+   "sourceCount": 3
+  },
+  {
+   "change": "",
+   "next": "",
+   "noise": [],
+   "lastUpdated": "2026-11-23",
+   "id": "temple-mount-pharmacy-assistant-indictment",
+   "title": "כתב אישום: עוזר רוקח בכללית תכנן פיגוע התאבדות בהר הבית",
+   "summary": "לפי ישראל היום ו-ynet, פרקליטות המדינה הגישה לבית המשפט המחוזי בירושלים כתב אישום נגד עבדאללה ג'מג'ום (22), סטודנט לרוקחות שעבד כעוזר רוקח בבתי מרקחת של כללית בעיר. לפי כתב האישום, הוא השתתף בשיעורי ג'יהאד, סייע לאחר לייצר מטען חבלה והתלווה אליו לרכישת חומרים כימיים ברמאללה. אלה טענות כתב האישום ובית המשפט טרם הכריע.",
+   "why": "מקרה שבו חשוד בפיגוע עבד במערכת הבריאות הציבורית, ומעיד על איומי טרור סביב הר הבית.",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "security",
+    "law"
+   ],
+   "kind": "legal",
+   "entities": [
+    "הר הבית",
+    "טרור",
+    "פרקליטות המדינה"
+   ],
+   "sources": [
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/defense/article/21912004",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/byf11fpwkqe",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "firstSeen": "2026-11-23",
+   "sourceCount": 2
+  },
+  {
+   "change": "",
+   "next": "",
+   "noise": [],
+   "lastUpdated": "2026-11-23",
+   "id": "idf-chief-force-size",
+   "title": "הרמטכ\"ל זמיר: צה\"ל זקוק להגדלת סדרי הכוחות; העומס על המשרתים יימשך",
+   "summary": "לפי ישראל היום, הרמטכ\"ל רב-אלוף אייל זמיר אמר בתרגיל בפיקוד הדרום שצה\"ל זקוק להרחבת סדר הכוחות על רקע התמשכות הלחימה בכלל הזירות, והבהיר שהעומס על המשרתים יימשך גם לאחר הצעדים שננקטו. על עזה אמר כי \"בכירי הארגון ומחבלי ה-7 באוקטובר נרדפים ומחוסלים\".",
+   "why": "הצהרה על מחסור בכוח אדם מחדדת את הדיון על גיוס ושירות מילואים.",
+   "status": "REPORTED",
+   "importance": 3,
+   "categories": [
+    "security",
+    "society"
+   ],
+   "kind": "statement",
+   "entities": [
+    "צה\"ל",
+    "גיוס חרדים",
+    "מילואים"
+   ],
+   "sources": [
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/defense/article/21908998",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "firstSeen": "2026-11-23",
+   "sourceCount": 1
+  },
+  {
+   "change": "",
+   "next": "",
+   "noise": [],
+   "lastUpdated": "2026-11-23",
+   "id": "cop31-talks-collapse",
+   "title": "ועידת האקלים COP31 הסתיימה ללא הסכם על האצת הפעולה האקלימית",
+   "summary": "לפי אל-ג'זירה, חברות האו\"ם לא הגיעו להסכמה על האצת הפעולה לעצירת התחממות כדור הארץ. לפי הדיווח, הדלקים המאובנים הם מוקד המחלוקת העמוקה.",
+   "why": "היעדר הסכם מקשה על מאמצי הפחתת פליטות עולמיים.",
+   "status": "REPORTED",
+   "importance": 3,
+   "categories": [
+    "world"
+   ],
+   "kind": "event",
+   "entities": [
+    "COP31",
+    "אקלים"
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/23/cop31-what-next-after-un-climate-talks-collapse?traffic_source=rss",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "firstSeen": "2026-11-23",
+   "sourceCount": 1
+  }
+ ],
+ "unverified": [
+  {
+   "change": "",
+   "next": "",
+   "noise": [],
+   "lastUpdated": "2026-11-23",
+   "id": "libya-benghazi-ship-attack",
+   "title": "על פי דיווחים: ספינות הותקפו בנמל בנגאזי בלוב; הפרטים סותרים",
+   "summary": "על פי דיווח של הגרדיאן ואל-ג'זירה, ספינה רוסית טבעה בבנגאזי לאחר חשד למתקפת רחפנים אוקראינית. לפי ישראל היום, הצבא הלאומי של לוב מסר כי הדף מתקפה של 21 כלי שיט בלתי מאוישים, ובדיווח אחר נטען כי הותקפה אונייה איראנית שלא טבעה. ynet מדווח שהאו\"ם קרא לחקור את המתקפות.",
+   "why": "תקיפה אוקראינית נטענת בים התיכון מרחיבה את זירת המלחמה ועשויה להשפיע על רוסיה ועל איראן באזור.",
+   "status": "CONFLICTING",
+   "importance": 3,
+   "categories": [
+    "security",
+    "world"
+   ],
+   "kind": "dispute",
+   "entities": [
+    "לוב",
+    "אוקראינה",
+    "רוסיה"
+   ],
+   "sources": [
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21909362",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/r1gt911bkql",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "firstSeen": "2026-11-23",
+   "sourceCount": 3
+  }
+ ],
+ "filtered_out": 275,
+ "note": ""
+}
