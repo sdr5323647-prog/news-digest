@@ -4,16 +4,6 @@
   {
    "source": "Guardian",
    "outlet": "Guardian",
-   "title": "The ruling against Myanmar makes proving genocide more feasible | Kenneth Roth",
-   "url": "https://www.theguardian.com/commentisfree/2026/nov/23/myanmar-genocide-ruling",
-   "summary": "The international court of justice has settled questions over the issue of intent, with powerful implications for Israel The international court of justice (ICJ) decision last Thursday that Myanmar committed genocide against the Rohingya recognizes the plight of one of the world’s most persecuted mi",
-   "time": "2026-11-23T11:00:54+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
-   "source": "Guardian",
-   "outlet": "Guardian",
    "title": "Ukraine confirms it used naval drones to strike two Russian ships off Libya",
    "url": "https://www.theguardian.com/world/2026/nov/23/ukraine-naval-drones-strike-russian-warship-libya",
    "summary": "Ukraine’s security service says seven drones were launched from mothership in operation that sank Merkury warship Ukraine has confirmed it deployed naval drones in strikes on two Russian vessels off Libya on Sunday, including one that sank the corvette Merkury, one of Russia’s newest vessels. Ukrain",
@@ -3912,7 +3902,7 @@
    "type": "reporting"
   }
  ],
- "updated": "2026-11-24T13:50:49.633119+00:00",
+ "updated": "2026-11-24T17:06:50.614668+00:00",
  "clusters": [
   {
    "id": "165255ce57",
@@ -5720,30 +5710,6 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-11-24T09:21:17+02:00"
-    }
-   ]
-  },
-  {
-   "id": "bcbf3e37f0",
-   "title": "The ruling against Myanmar makes proving genocide more feasible | Kenneth Roth",
-   "sourceCount": 1,
-   "outlets": [
-    "Guardian"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-11-23T11:00:54+00:00",
-   "lastSeen": "2026-11-23T11:00:54+00:00",
-   "articles": [
-    {
-     "source": "Guardian",
-     "title": "The ruling against Myanmar makes proving genocide more feasible | Kenneth Roth",
-     "url": "https://www.theguardian.com/commentisfree/2026/nov/23/myanmar-genocide-ruling",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-11-23T11:00:54+00:00"
     }
    ]
   },
@@ -11845,8 +11811,8 @@
   }
  ],
  "stats": {
-  "articles": 391,
-  "clusters": 298,
+  "articles": 390,
+  "clusters": 297,
   "multiSource": 34
  }
 }

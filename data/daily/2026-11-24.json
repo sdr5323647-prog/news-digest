@@ -1,0 +1,508 @@
+{
+ "schema": 2,
+ "date": "2026-11-24",
+ "type": "daily",
+ "headline": "חיסול ראש מנגנון ביטחון הפנים של חמאס בעזה, המשא ומתן בין הליכוד לישר! נמשך, ונגיד בנק ישראל: שיפור כלכלי יחייב העלאות מסים.",
+ "events": [
+  {
+   "id": "gaza-hamas-internal-security-chief-strike",
+   "title": "נתניהו וכ\"ץ: חוסל ראש מנגנון ביטחון הפנים של חמאס בתקיפה בעזה",
+   "summary": "ראש הממשלה נתניהו ושר הביטחון כ\"ץ הודיעו כי חוסל ראש מנגנון ביטחון הפנים של חמאס. לפי צה\"ל ושב\"כ, מחבל בכיר בחמאס הותקף בעזה, וישראל היום מפרסמת תיעוד של התקיפה בשכונת רימאל. בדיווחי הפלסטינים וברשתות הערביות הוא זוהה כראש שירות הביטחון ברצועה, וה-BBC דיווח על חיסולו.",
+   "why": "הפגיעה בבכיר במנגנון הביטחון של חמאס מתרחשת בזמן הפסקת האש ברצועה ועשויה להשפיע על המשך המצב בה.",
+   "change": "",
+   "next": "תגובת חמאס ויציבות הפסקת האש.",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "security"
+   ],
+   "kind": "event",
+   "entities": [
+    "חמאס",
+    "עזה",
+    "צה\"ל"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/sjboflmjml",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383962898",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/defense/article/21920271",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1391758",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 5,
+   "firstSeen": "2026-11-24",
+   "lastUpdated": "2026-11-24"
+  },
+  {
+   "id": "coalition-building-after-election",
+   "title": "מגעי הליכוד וישר!: נערכה פגישה בנושא המשפטי ונקבעה פגישת המשך",
+   "summary": "צוותי המשא ומתן של הליכוד וישר! נפגשו בנושא המשפטי. לפי ynet, הפגישה נמשכה כשעתיים ולאחריה נקבעה פגישה נוספת. לפי מעריב, הצדדים פרסמו הודעה משותפת על סיכום חדש לאחר הדיון.",
+   "why": "הרכב הממשלה הבאה תלוי במשא ומתן הזה.",
+   "change": "נערכה פגישה ייעודית בנושא המשפטי ונקבעה פגישת המשך; לפי מעריב פורסמה הודעה משותפת על סיכום חדש.",
+   "next": "פגישת המשך של הצוותים.",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "politics"
+   ],
+   "kind": "negotiation",
+   "entities": [
+    "הקמת ממשלה",
+    "בחירות 2026",
+    "נתניהו",
+    "איזנקוט"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/rjxywgmjqg",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1391595",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/politics/article/21917048",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-10-29",
+   "lastUpdated": "2026-11-24"
+  },
+  {
+   "id": "high-court-idf-west-bank-settler-violence",
+   "title": "בג\"ץ מבקר את צה\"ל: \"האלימות היהודית ביו\"ש מתרחשת לנגד עיניו\"",
+   "summary": "בדיון בבג\"ץ נמתחה ביקורת חריפה על צה\"ל בנושא אלימות יהודית ביהודה ושומרון. לפי ynet, נאמר כי האלימות מתרחשת לנגד עיני הצבא. ישראל היום מצטטת את נשיא בית המשפט העליון, שאמר כי הפורעים גורמים לאנטישמיות.",
+   "why": "הביקורת מגיעה בעיצומו של דיון ציבורי על אכיפה ביו\"ש.",
+   "change": "",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "law",
+    "security",
+    "society"
+   ],
+   "kind": "legal",
+   "entities": [
+    "יהודה ושומרון",
+    "פשיעה לאומנית",
+    "צה\"ל",
+    "בג\"ץ"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/bkgowam1xl",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/politics/article/21918984",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-11-24",
+   "lastUpdated": "2026-11-24"
+  },
+  {
+   "id": "boi-governor-tax-increases",
+   "title": "נגיד בנק ישראל: שיפור כלכלי יחייב העלאות מסים",
+   "summary": "נגיד בנק ישראל אמר בראיון ל-ynet כי אם רוצים שיפור, הדבר יחייב העלאות מסים. לפי ישראל היום אמר: \"אף אחד לא אוהב מסים, גם אני, אבל זה כורח המציאות\".",
+   "why": "עמדת הנגיד משפיעה על הדיון בתקציב ובמדיניות הכלכלית של הממשלה הבאה.",
+   "change": "",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "economy"
+   ],
+   "kind": "statement",
+   "entities": [
+    "בנק ישראל",
+    "תקציב",
+    "כלכלה"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/rjgeelfyql",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/business/article/21916302",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-11-24",
+   "lastUpdated": "2026-11-24"
+  },
+  {
+   "id": "us-iran-new-sanctions-nov24",
+   "title": "ארה\"ב הטילה סנקציות חדשות על גורמים הקשורים לאיראן",
+   "summary": "ארצות הברית הטילה סנקציות חדשות על גורמים הקשורים לאיראן. לפי מעריב, בהודעה נמסר: \"נמשיך לנתק את מקורות המימון\". ישראל היום מדווח על סנקציות ופרס של 15 מיליון דולר שמכוונים ל\"בנקאות הצללים\" של איראן.",
+   "why": "הצעד נועד לפגוע במימון איראן בזמן משא ומתן ואיום בחידוש התקיפות.",
+   "change": "",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "israel_world",
+    "economy"
+   ],
+   "kind": "decision",
+   "entities": [
+    "איראן",
+    "ארה\"ב"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/hysb6xg1xg",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1391613",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21917561",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-11-24",
+   "lastUpdated": "2026-11-24"
+  },
+  {
+   "id": "state-comptroller-elron-election",
+   "title": "יוסף אלרון צפוי להיבחר למבקר המדינה ברוב גדול",
+   "summary": "יוסף אלרון הוא המועמד היחיד לתפקיד מבקר המדינה, ולפי וואלה צפוי להיבחר ברוב גדול בהסכמת כלל סיעות הכנסת. ynet מדווח כי הליכוד וש\"ס לא יציגו מועמדים נוספים.",
+   "why": "מבקר המדינה מפקח על הממשלה והגופים הציבוריים.",
+   "change": "",
+   "next": "הצבעה במליאת הכנסת.",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "politics",
+    "law"
+   ],
+   "kind": "decision",
+   "entities": [
+    "מבקר המדינה",
+    "הכנסת"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383962862",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/law/article/21919289",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/sju7wtgjmx",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-11-24",
+   "lastUpdated": "2026-11-24"
+  },
+  {
+   "id": "knesset-special-committee-chairs",
+   "title": "נבחרו יו\"רים לוועדות מיוחדות בכנסת, ובהן הוועדה לביטול חוק היועמ\"ש",
+   "summary": "ח\"כ אפרת רייטן נבחרה ליו\"ר הוועדה המיוחדת לביטול חוק היועץ המשפטי לממשלה. ח\"כ יוליה מלינובסקי מונתה ליו\"ר הוועדה לפיקוח על יישום חוק העמדה לדין בשל אירועי 7 באוקטובר, ויוסף ג'בארין נבחר ליו\"ר הוועדה המיוחדת לשוויון חברתי-כלכלי.",
+   "why": "הוועדות יקבעו את סדר היום החקיקתי של הכנסת החדשה.",
+   "change": "",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "politics",
+    "law"
+   ],
+   "kind": "decision",
+   "entities": [
+    "הכנסת",
+    "היועץ המשפטי לממשלה",
+    "7 באוקטובר"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383962871",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/sy04t0fj7l",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1391800",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-11-24",
+   "lastUpdated": "2026-11-24"
+  },
+  {
+   "id": "eran-haya-extradition",
+   "title": "ערן חייא, ראש ארגון פשע, יוסגר לישראל ביום חמישי",
+   "summary": "לפי ynet ווואלה, העבריין הבכיר ערן חייא יוסגר לישראל ביום חמישי, אחרי כשמונה שנות מרדף. ynet מדווח שנציגי המשטרה הגיעו לניו יורק.",
+   "why": "הסגרה של ראש ארגון פשע בכיר היא צעד משמעותי במאבק בפשיעה המאורגנת.",
+   "change": "",
+   "next": "הגעתו לישראל ביום חמישי.",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "law",
+    "society"
+   ],
+   "kind": "legal",
+   "entities": [
+    "פשיעה מאורגנת",
+    "משטרת ישראל"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/syxmthzymg",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383962852",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-11-24",
+   "lastUpdated": "2026-11-24"
+  },
+  {
+   "id": "shkaron-attack-solved",
+   "title": "פוענח הפיגוע שבו נרצח נתנאל שקרון בערב יום הכיפורים",
+   "summary": "לפי וואלה וישראל היום, פוענח הפיגוע שבו נרצח נתנאל שקרון בערב יום הכיפורים, והמחבל תכנן אותו מראש. ישראל היום מצטטת את המחבל: \"אהיה שהיד ואלך לגן עדן\".",
+   "why": "סיום החקירה מבהיר את רקע הפיגוע.",
+   "change": "",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "security",
+    "law"
+   ],
+   "kind": "event",
+   "entities": [
+    "טרור",
+    "שב\"כ"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383962877",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/defense/article/21920509",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-11-24",
+   "lastUpdated": "2026-11-24"
+  },
+  {
+   "id": "solberg-home-riot-convictions",
+   "title": "ארבעה הורשעו בהסדר טיעון בהתפרעות ליד ביתו של השופט סולברג",
+   "summary": "ארבעה נאשמים הורשעו במסגרת הסדר טיעון בהתפרעות ובפריצה לחצר ביתו של השופט נעם סולברג. ynet מציין שמדובר בחרדים קיצוניים ושהאירוע היה ביוני.",
+   "why": "פסק דין שעוסק בפגיעה בשופט ובמחאה אלימה.",
+   "change": "",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "law",
+    "society"
+   ],
+   "kind": "legal",
+   "entities": [
+    "בית המשפט העליון",
+    "גיוס חרדים"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383962880",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/hyqxyjqkxx",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/law/article/21920404",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1391762",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 4,
+   "firstSeen": "2026-11-24",
+   "lastUpdated": "2026-11-24"
+  }
+ ],
+ "unverified": [
+  {
+   "id": "khan-yunis-police-post-strike-claim",
+   "title": "על פי דיווח: תקיפה ישראלית ליד מוצב משטרה בח'אן יונס; הפלסטינים מדווחים על 3 הרוגים",
+   "summary": "על פי דיווח של מעריב, ישראל תקפה נקודת משטרה בח'אן יונס. ynet מדווח כי לטענת הפלסטינים נהרגו שלושה בתקיפה סמוך למוצב. הפרטים לא אומתו ולא התקבלה תגובה רשמית בנושא.",
+   "why": "אירוע נוסף בעזה בזמן הפסקת האש.",
+   "change": "",
+   "next": "",
+   "status": "CLAIM",
+   "importance": 3,
+   "categories": [
+    "security"
+   ],
+   "kind": "event",
+   "entities": [
+    "עזה",
+    "צה\"ל"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1391617",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/byz8uvz1mx",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-11-24",
+   "lastUpdated": "2026-11-24"
+  },
+  {
+   "id": "hormuz-mines-ships-fire-claim",
+   "title": "לטענת איראן: שלוש ספינות עלו באש לאחר שפגעו במוקשים במצר הורמוז",
+   "summary": "על פי הבלוג החי של אל-ג'זירה, איראן טוענת ששלוש ספינות עלו באש לאחר שפגעו במוקשים במצר הורמוז. הטענה מגיעה ממקור אחד ולא אומתה באופן עצמאי.",
+   "why": "פגיעה בתנועת הספנות בהורמוז משפיעה על שוק האנרגיה.",
+   "change": "",
+   "next": "",
+   "status": "CLAIM",
+   "importance": 4,
+   "categories": [
+    "security",
+    "world"
+   ],
+   "kind": "event",
+   "entities": [
+    "איראן",
+    "מצר הורמוז"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/11/24/iran-war-live-iran-says-three-ships-catch-fire-after-hitting-hormuz-mines",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 1,
+   "firstSeen": "2026-11-24",
+   "lastUpdated": "2026-11-24"
+  }
+ ],
+ "filtered_out": 285,
+ "note": ""
+}
