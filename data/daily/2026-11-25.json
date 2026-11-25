@@ -1,0 +1,348 @@
+{
+ "schema": 2,
+ "date": "2026-11-25",
+ "type": "daily",
+ "headline": "המגעים להקמת ממשלת שינוי מתקדמים, טראמפ מתייחס ליעדי המערכה באיראן, ושר הביטחון טוען לפיתוח נשק כימי באיראן.",
+ "events": [
+  {
+   "id": "coalition-building-after-election",
+   "title": "התגבשות ממשלת שינוי: איזנקוט וליברמן סיכמו על הסכם קואליציוני; הדמוקרטים הפסיקו את השיחות עם ישר!",
+   "summary": "לפי דיווחי מעריב וישראל היום, איזנקוט וליברמן הגיעו להסכם קואליציוני בין מפלגותיהם. במקביל, לפי ynet, מפלגת הדמוקרטים הודיעה על הפסקת השיחות עם מפלגת ישר!. ליברמן אמר כי עד השבוע הבא אפשר יהיה להציג ממשלה עם רוב יהודי, ומנסור עבאס אמר כי מה שאפשרי כעת הוא ממשלת שינוי בתמיכת רע\"ם והחרדים.",
+   "why": "הרכב הקואליציה יקבע מי ינהל את המדינה בתקופה הקרובה.",
+   "change": "איזנקוט וליברמן סיכמו על הסכם קואליציוני, הדמוקרטים הפסיקו את השיחות עם ישר!, וליברמן מצפה להצגת ממשלה עם רוב יהודי עד השבוע הבא.",
+   "next": "האם הגוש יצליח להציג ממשלה בשבוע הבא ומה יהיה מעמד הדמוקרטים.",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "politics"
+   ],
+   "kind": "negotiation",
+   "entities": [
+    "הקמת ממשלה",
+    "איזנקוט",
+    "בחירות 2026"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/h1tbbgeyqe",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/politics/article/21925579",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1391959",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-10-29",
+   "lastUpdated": "2026-11-25"
+  },
+  {
+   "id": "us-new-tariffs-round",
+   "title": "ארה\"ב נערכת להעלאת מכסים על עשרות מדינות, סין צפויה להיפגע הכי חזק",
+   "summary": "לפי ynet וישראל היום, ממשל טראמפ נערך לסבב מכסים חדש על סין, אירופה ו-14 מדינות נוספות. ynet מציין כי סין צפויה להיפגע יותר מכולן. הדיווחים עוסקים בהיערכות ולא בהחלטה סופית.",
+   "why": "מכסים אמריקניים משפיעים על הסחר העולמי ועל המשק הישראלי.",
+   "change": "",
+   "next": "פרסום הרשימה והתעריפים הסופיים.",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "economy",
+    "world"
+   ],
+   "kind": "decision",
+   "entities": [
+    "טראמפ",
+    "ארה\"ב"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/ska8n7myqx",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21924394",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-11-25",
+   "lastUpdated": "2026-11-25"
+  },
+  {
+   "id": "trump-iran-war-funding-statement",
+   "title": "טראמפ: יש מימון למלחמה באיראן עד סוף ינואר; הפלת המשטר אינה המטרה",
+   "summary": "לפי ynet, טראמפ אמר כי יש לארה\"ב מימון למלחמה באיראן עד סוף ינואר וכי הפלת המשטר אינה המטרה שלו. לפי ישראל היום, הוא הבהיר כי מעולם לא היה בעד או נגד שינוי המשטר באיראן.",
+   "why": "ההצהרה מסמנת את יעדי ארה\"ב במערכה מול איראן, שמשפיעה ישירות על ישראל.",
+   "change": "",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "security",
+    "israel_world"
+   ],
+   "kind": "statement",
+   "entities": [
+    "טראמפ",
+    "איראן",
+    "ארה\"ב"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/ska8n7myqx",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/world-news/usa/article/21926401",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-11-25",
+   "lastUpdated": "2026-11-25"
+  },
+  {
+   "id": "colombia-cartagena-hostages",
+   "title": "קולומביה: בני הערובה בסופרמרקט בקרטחנה שוחררו",
+   "summary": "חמושים החזיקו כ-20-25 בני ערובה בסופרמרקט בקרטחנה, וחטפו ילד קטן ששוחרר בהמשך. לפי ישראל היום, נשיא קולומביה לקח פיקוד על המצור, ולפי ynet שוחררו כל בני הערובה.",
+   "why": "אירוע חטיפה המוני במדינה מרכזית באמריקה הלטינית שהסתיים ללא דיווח על נפגעים בכותרות.",
+   "change": "",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "world"
+   ],
+   "kind": "event",
+   "entities": [
+    "קולומביה"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/bya2yz41qg",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/world-news/other/article/21927095",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-11-25",
+   "lastUpdated": "2026-11-25"
+  },
+  {
+   "id": "uae-antisemitism-task-force",
+   "title": "איחוד האמירויות הצטרפה לכוח המשימה הבינלאומי למאבק באנטישמיות",
+   "summary": "לפי ynet ומעריב, איחוד האמירויות הצטרפה ליוזמה ישראלית באו\"ם למאבק באנטישמיות.",
+   "why": "צעד דיפלומטי של מדינה ערבית בנושא שישראל מובילה בזירה הבינלאומית.",
+   "change": "",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "israel_world",
+    "judaism"
+   ],
+   "kind": "decision",
+   "entities": [
+    "איחוד האמירויות",
+    "אנטישמיות"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/bymdub4kqx",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1392044",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-11-25",
+   "lastUpdated": "2026-11-25"
+  },
+  {
+   "id": "huawei-us-conviction",
+   "title": "Huawei הורשעה בארה\"ב בהונאת בנקים ובהפרת סנקציות על איראן",
+   "summary": "לפי ynet וישראל היום, בית משפט בארה\"ב הרשיע את ענקית הטכנולוגיה הסינית Huawei. ynet מצטט כי החברה שיקרה לגבי פעילותה באיראן, וישראל היום מציינת הונאת בנקים והפרת סנקציות.",
+   "why": "הרשעה של חברת טכנולוגיה גלובלית בהפרת סנקציות על איראן.",
+   "change": "",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "law",
+    "tech",
+    "world"
+   ],
+   "kind": "legal",
+   "entities": [
+    "איראן",
+    "ארה\"ב"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/rkrewhx1mg",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/world-news/article/21926255",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-11-25",
+   "lastUpdated": "2026-11-25"
+  },
+  {
+   "id": "bat-yam-lynch-sentences",
+   "title": "מאסרים ארוכים למעורבים בלינץ' בבת ים בזמן מבצע \"שומר החומות\"",
+   "summary": "לפי ynet, מעריב וישראל היום, נגזרו עונשי מאסר על חמישה מהמעורבים בלינץ' בערבי בטיילת בת ים במהלך \"שומר החומות\".",
+   "why": "סיום הליך פלילי באירוע אלימות לאומנית מרכזי.",
+   "change": "",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "law",
+    "society"
+   ],
+   "kind": "legal",
+   "entities": [
+    "פשיעה לאומנית"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/r1z2dmejqx",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1392060",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/crime/article/21926718",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-11-25",
+   "lastUpdated": "2026-11-25"
+  }
+ ],
+ "unverified": [
+  {
+   "id": "katz-iran-chemical-weapon-claim",
+   "title": "לטענת שר הביטחון כ\"ץ: איראן מפתחת נשק כימי",
+   "summary": "שר הביטחון כ\"ץ טען, לפי ynet וישראל היום, כי איראן מפתחת נשק כימי כ\"שובר שוויון\" מול ישראל וטילים לטווח 4,000 ק\"מ, והוסיף כי ישראל לא תאפשר זאת. הטענה היא של גורם ממשלתי ולא אומתה באופן עצמאי.",
+   "why": "טענה ביטחונית חמורה על יכולות איראניות.",
+   "change": "",
+   "next": "",
+   "status": "CLAIM",
+   "importance": 4,
+   "categories": [
+    "security"
+   ],
+   "kind": "statement",
+   "entities": [
+    "איראן",
+    "כ\"ץ"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/bkrkmhq1ql",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/defense/article/21924044",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-11-25",
+   "lastUpdated": "2026-11-25"
+  },
+  {
+   "id": "hodeidah-port-strike-report",
+   "title": "על פי אל-ג'זירה: קואליציה בהובלת סעודיה תקפה את נמל חודיידה בתימן",
+   "summary": "על פי הסיקור של אל-ג'זירה, קואליציה בהובלת סעודיה תקפה את נמל חודיידה, ולאחר מכן יירטה התקפות של החות'ים. הדיווח ממקור אחד ולא אומת באופן עצמאי.",
+   "why": "הרחבת הלחימה האזורית סביב המערכה מול איראן.",
+   "change": "",
+   "next": "",
+   "status": "REPORTED",
+   "importance": 4,
+   "categories": [
+    "security",
+    "world"
+   ],
+   "kind": "event",
+   "entities": [
+    "איראן"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/25/saudi-led-coalition-intercepts-houthi-attacks-after-hodeidah-strike",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 1,
+   "firstSeen": "2026-11-25",
+   "lastUpdated": "2026-11-25"
+  }
+ ],
+ "filtered_out": 225,
+ "note": ""
+}
