@@ -1,0 +1,491 @@
+{
+ "schema": 2,
+ "date": "2026-11-26",
+ "type": "daily",
+ "headline": "השופטים בתיק נתניהו המליצו לתביעה לוותר על רוב האישומים החמורים, הליכוד ערער על תוצאות הבחירות ואיזנקוט והדמוקרטים הגיעו להבנות קואליציוניות.",
+ "events": [
+  {
+   "id": "netanyahu-trial-judges-recommend-dropping",
+   "title": "שופטי משפט נתניהו המליצו לתביעה לוותר על רוב סעיפי האישום החמורים; נתניהו: \"המשפט צריך להסתיים מיד\"",
+   "summary": "לפי BBC, אל-ג'זירה ו-NYT, השופטים בתיק הפלילי נגד נתניהו המליצו לתביעה לבחון הפסקת ההליך או ויתור על רוב האישומים החמורים. נתניהו אמר, לפי ynet וישראל היום, כי \"לקח 10 שנות סבל שהאמת תיחשף\" וכי המשפט צריך להסתיים מיד. לפי ynet ומעריב, הוא הוסיף שהוא מושיט יד לפיוס.",
+   "why": "ההליך הפלילי נגד ראש הממשלה מעצב את הזירה הפוליטית ואת הדיון על הרכב הממשלה הבאה.",
+   "change": "",
+   "next": "האם התביעה תאמץ את ההמלצה ומה תהיה תגובת היועמ\"שית.",
+   "status": "VERIFIED",
+   "importance": 5,
+   "categories": [
+    "law",
+    "politics"
+   ],
+   "kind": "legal",
+   "entities": [
+    "נתניהו",
+    "משפט נתניהו"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/cxj05mv723r2o",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/25/netanyahu-says-corruption-trial-must-end-as-court-suggests-dropping-case",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "NYT",
+     "url": "https://www.nytimes.com/2026/11/25/world/middleeast/judges-israel-corruption-case-netanyahu.html",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/bkugj5ekqx",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/politics/article/21931888",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 5,
+   "firstSeen": "2026-11-26",
+   "lastUpdated": "2026-11-26"
+  },
+  {
+   "id": "coalition-building-after-election",
+   "title": "איזנקוט וגולן סיכמו על הסכם קואליציוני; הדמוקרטים מבקשים את תיק החינוך",
+   "summary": "לפי מעריב וישראל היום, איזנקוט והדמוקרטים בראשות גולן הגיעו להבנות על חתימת הסכם קואליציוני, לאחר משבר בשיחות. לפי ישראל היום, הדמוקרטים דרשו את תיק החינוך. איזנקוט נפגש עם נשיא המדינה, ולפי ynet בנט אמר שלא יעבור לגוש נתניהו וקרא להקים ממשלת אחדות ציונית בראשות איזנקוט.",
+   "why": "הרכב הקואליציה יקבע מי ינהל את המדינה בתקופה הקרובה.",
+   "change": "איזנקוט והדמוקרטים הגיעו להבנות על הסכם קואליציוני, בנט הודיע שלא יעבור לגוש נתניהו, ואיזנקוט נפגש עם הנשיא.",
+   "next": "חתימה רשמית על ההסכם וחלוקת התיקים.",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "politics"
+   ],
+   "kind": "negotiation",
+   "entities": [
+    "הקמת ממשלה",
+    "איזנקוט",
+    "בחירות 2026"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1392565",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/politics/article/21940735",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/s1lsq3hkxg",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-10-29",
+   "lastUpdated": "2026-11-26"
+  },
+  {
+   "id": "likud-election-results-appeal",
+   "title": "הליכוד הגיש ערעור רשמי על תוצאות הבחירות לכנסת",
+   "summary": "לפי ynet, מעריב, ישראל היום וואלה, הליכוד הגיש ערעור רשמי על תוצאות הבחירות. לפי מעריב, ב\"ישר!\" הגיבו כי הליכוד מתעקש להתכחש לרצון העם.",
+   "why": "הערעור עשוי להשפיע על אישור התוצאות ועל לוח הזמנים להקמת הממשלה.",
+   "change": "",
+   "next": "החלטת הערכאה השיפוטית בערעור.",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "politics",
+    "law"
+   ],
+   "kind": "legal",
+   "entities": [
+    "הליכוד",
+    "בחירות 2026"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/r12qukny7l",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1392260",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/law/article/21931967",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383963130",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 4,
+   "firstSeen": "2026-11-26",
+   "lastUpdated": "2026-11-26"
+  },
+  {
+   "id": "iran-kuwait-drone-attack-nov26",
+   "title": "כווית: התקפת כטב\"מים איראנית על אתר חיוני; שני אזרחי איטליה נהרגו וארבעה נפצעו",
+   "summary": "לפי ynet ומעריב, כווית מסרה כי איראן תקפה בכטב\"מים אתר חיוני וארבעה נפצעו מרסיסים. לפי ynet, ישראל היום ואל-ג'זירה, שני אזרחי איטליה נהרגו בתקיפה; אל-ג'זירה מציין שמדובר בהרוגים משברי כטב\"ם.",
+   "why": "התקפות איראניות על מדינות המפרץ ממשיכות בעוד המשא ומתן עם ארה\"ב נמשך, והפעם נהרגו אזרחי מדינה אירופית.",
+   "change": "",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "security",
+    "world"
+   ],
+   "kind": "event",
+   "entities": [
+    "איראן",
+    "כווית",
+    "המפרץ הפרסי"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/skzrj2b1mx",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1392552",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/26/two-italians-killed-after-iranian-drones-strike-facility-says-kuwait",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-11-26",
+   "lastUpdated": "2026-11-26"
+  },
+  {
+   "id": "gaza-northern-hamas-security-chief-strike",
+   "title": "חוסל בכיר נוסף בחמאס: ראש מנגנון ביטחון הפנים בצפון הרצועה, יממה אחרי חיסול מפקדו",
+   "summary": "לפי וואלה, ynet וישראל היום, ישראל חיסלה ראש מנגנון ביטחון הפנים של חמאס בצפון הרצועה, יממה אחרי חיסול מפקדו. BBC מדווח על הרג בכיר ביטחוני בחמאס ובני משפחתו בעיר עזה ועל שמונה פלסטינים שנהרגו בתקיפות.",
+   "why": "המשך חיסולי בכירי חמאס בזמן הפסקת האש עלול להשפיע על יציבותה.",
+   "change": "נוסף על חיסול ראש מנגנון ביטחון הפנים של חמאס אתמול, חוסל היום בכיר נוסף בצפון הרצועה.",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "security"
+   ],
+   "kind": "event",
+   "entities": [
+    "חמאס",
+    "עזה",
+    "הפסקת האש"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383963114",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/r1kz7GHyQg",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/defense/article/21941346",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/cmd718zydz9qo",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 4,
+   "firstSeen": "2026-11-26",
+   "lastUpdated": "2026-11-26"
+  },
+  {
+   "id": "jaloud-settler-house-demolition",
+   "title": "פורעים יהודים הרסו בית משפחה בג'אלוד באמצעות כלי הנדסי; צה\"ל פתח בתחקיר פיקודי",
+   "summary": "לפי ynet וישראל היום, פורעים יהודים הרסו בשופל בית של משפחה פלסטינית בכפר ג'אלוד. צה\"ל מסר שמתקיים תחקיר פיקודי באירוע.",
+   "why": "אלימות מתנחלים והיענות כוחות הביטחון לה עומדות בלב ביקורת בג\"ץ והמחלוקת הציבורית.",
+   "change": "",
+   "next": "ממצאי התחקיר ופתיחת חקירה משטרתית.",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "security",
+    "society"
+   ],
+   "kind": "event",
+   "entities": [
+    "אלימות מתנחלים",
+    "יהודה ושומרון"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/s1ygyssj7x",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/defense/article/21940108",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-11-26",
+   "lastUpdated": "2026-11-26"
+  },
+  {
+   "id": "karhi-communications-law-repeal-first-reading",
+   "title": "הכנסת אישרה בקריאה ראשונה את ביטול חוק התקשורת של קרעי, 51 מול 32",
+   "summary": "לפי מעריב ו-ynet, מליאת הכנסת אישרה בקריאה ראשונה, ברוב של 51 בעד ו-32 נגד, הצעה לבטל את חוק התקשורת שקידם השר שלמה קרעי.",
+   "why": "הרוב החדש בכנסת מתחיל לפרק חקיקה של הממשלה הקודמת.",
+   "change": "",
+   "next": "הכנה לקריאה שנייה ושלישית.",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "politics",
+    "law"
+   ],
+   "kind": "decision",
+   "entities": [
+    "חוק התקשורת",
+    "הכנסת",
+    "קרעי"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1392339",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/sjbcir41xg",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-11-26",
+   "lastUpdated": "2026-11-26"
+  },
+  {
+   "id": "unrwa-staff-dismissal-tribunal",
+   "title": "פסק דין באו\"ם: פיטורי עובדי אונר\"א בעזה התבססו על האשמות ישראליות שלא הוכחו",
+   "summary": "לפי הגרדיאן ואל-ג'זירה, בית דין באו\"ם קבע כי פיטורי עובדים פלסטינים התבססו על האשמות ישראליות שלא הוכחו.",
+   "why": "הפסיקה נוגעת לטענות ישראל נגד אונר\"א ולעמדת הארגון בעולם.",
+   "change": "",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "law",
+    "israel_world"
+   ],
+   "kind": "legal",
+   "entities": [
+    "אונר\"א",
+    "האו\"ם"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "Guardian",
+     "url": "https://www.theguardian.com/world/2026/nov/25/un-sacked-palestinian-staff-on-back-of-unproven-israel-allegations",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/26/un-ruling-disputes-israeli-allegations-used-to-dismiss-unrwa-gaza-staff",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-11-26",
+   "lastUpdated": "2026-11-26"
+  },
+  {
+   "id": "egypt-cairo-tanker-fire",
+   "title": "מצרים: לפחות 21 הרוגים בשריפה בכביש הטבעת בקהיר לאחר התהפכות מכלית דלק",
+   "summary": "לפי מעריב ו-ynet, לפחות 21 בני אדם נהרגו ו-15 נפצעו בשריפה שפרצה אחרי התהפכות מכלית דלק. לפי BBC והגרדיאן ההרוגים 31, ולפי וואלה 30; המספרים נבדלים בין הדיווחים.",
+   "why": "אחד מאסונות התחבורה החמורים במצרים השכנה בשנה האחרונה.",
+   "change": "",
+   "next": "עדכון מספר ההרוגים הסופי.",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "world"
+   ],
+   "kind": "event",
+   "entities": [
+    "מצרים"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1392299",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/b1galonk7e",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Guardian",
+     "url": "https://www.theguardian.com/world/2026/nov/25/people-killed-fuel-tanker-crash-ignites-large-fire-cairo-highway",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 4,
+   "firstSeen": "2026-11-26",
+   "lastUpdated": "2026-11-26"
+  },
+  {
+   "id": "eran-haya-extradition",
+   "title": "מעצרו של ראש ארגון הפשע ערן חייא הוארך ב-6 ימים לאחר הסגרתו לישראל",
+   "summary": "לפי ynet, מעריב וישראל היום, חייא הוסגר לישראל ונעצר בנתב\"ג, ובית המשפט האריך את מעצרו ב-6 ימים.",
+   "why": "הסגרת ראש ארגון פשע מרכזי היא צעד משמעותי באכיפה נגד הפשיעה המאורגנת.",
+   "change": "חייא הוסגר לישראל, נעצר בנתב\"ג והמעצר הוארך ב-6 ימים.",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "law",
+    "society"
+   ],
+   "kind": "legal",
+   "entities": [
+    "ערן חייא",
+    "פשיעה מאורגנת"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/h1hs6ohyqx",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1392538",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/crime/article/21939217",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-11-24",
+   "lastUpdated": "2026-11-26"
+  }
+ ],
+ "unverified": [
+  {
+   "id": "houthi-drone-jeddah-claim",
+   "title": "לטענת סעודיה והקואליציה בהובלתה: כטב\"ם חות'י יורט סמוך לנמל ג'דה",
+   "summary": "על פי הודעה של ברית צבאית בהובלת סעודיה, כמדווח במעריב ובוואלה, יורט כטב\"ם חות'י סמוך לנמל ג'דה. הטענה היא של צד מעוניין ולא אומתה באופן עצמאי.",
+   "why": "מעורבות החות'ים ועימות עם סעודיה משפיעים על האזור ועל נתיבי השיט.",
+   "change": "",
+   "next": "",
+   "status": "CLAIM",
+   "importance": 4,
+   "categories": [
+    "security",
+    "world"
+   ],
+   "kind": "statement",
+   "entities": [
+    "החות'ים",
+    "סעודיה"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1392317",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383963160",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-11-26",
+   "lastUpdated": "2026-11-26"
+  }
+ ],
+ "filtered_out": 290,
+ "note": ""
+}

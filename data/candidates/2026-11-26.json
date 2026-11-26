@@ -2,16 +2,6 @@
  "date": "2026-11-26",
  "articles": [
   {
-   "source": "Guardian",
-   "outlet": "Guardian",
-   "title": "Pro-Palestine activist sought by US in extradition case: ‘I still have a right to my beliefs’",
-   "url": "https://www.theguardian.com/us-news/2026/nov/25/fergie-chambers-us-extradition-interview",
-   "summary": "James ‘Fergie’ Chambers, at center of legal fight, says he ‘should not be unjustly accused’ because of leftwing views James “Fergie” Chambers, the wealthy leftwing activist and donor controversially sought in extradition by the US, has told the Guardian that he is “not asking anyone to endorse my id",
-   "time": "2026-11-25T11:00:46+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
    "source": "וואלה",
    "outlet": "וואלה",
    "title": "בת 47 נפטרה מסיבוכי שפעת בבית החולים מאיר",
@@ -4022,7 +4012,7 @@
    "type": "reporting"
   }
  ],
- "updated": "2026-11-26T16:59:16.764757+00:00",
+ "updated": "2026-11-26T17:07:03.434362+00:00",
  "clusters": [
   {
    "id": "883f452b7b",
@@ -5778,30 +5768,6 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-11-26T16:32:31+00:00"
-    }
-   ]
-  },
-  {
-   "id": "788faf8701",
-   "title": "Pro-Palestine activist sought by US in extradition case: ‘I still have a right to my beliefs’",
-   "sourceCount": 1,
-   "outlets": [
-    "Guardian"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-11-25T11:00:46+00:00",
-   "lastSeen": "2026-11-25T11:00:46+00:00",
-   "articles": [
-    {
-     "source": "Guardian",
-     "title": "Pro-Palestine activist sought by US in extradition case: ‘I still have a right to my beliefs’",
-     "url": "https://www.theguardian.com/us-news/2026/nov/25/fergie-chambers-us-extradition-interview",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-11-25T11:00:46+00:00"
     }
    ]
   },
@@ -12215,8 +12181,8 @@
   }
  ],
  "stats": {
-  "articles": 402,
-  "clusters": 309,
+  "articles": 401,
+  "clusters": 308,
   "multiSource": 33
  }
 }
