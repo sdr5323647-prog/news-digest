@@ -2,36 +2,6 @@
  "date": "2026-11-27",
  "articles": [
   {
-   "source": "Guardian",
-   "outlet": "Guardian",
-   "title": "‘She was so not regretful about killing her husband’: the Iranian film that shines a light on blood money and retributive justice",
-   "url": "https://www.theguardian.com/film/2026/nov/26/an-eye-for-an-eye-tanaz-eshaghian",
-   "summary": "The co-director of An Eye for an Eye, Tanaz Eshaghian, reveals how she came to make a documentary about a woman facing the threat of execution from her husband’s family – as sanctioned by sharia law “Even though I was raised here,” says the Iranian-American film-maker Tanaz Eshaghian from her home i",
-   "time": "2026-11-26T08:00:50+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
-   "source": "Guardian",
-   "outlet": "Guardian",
-   "title": "Israel ‘officially sanctions’ torture of Palestinian prisoners to extract confessions, report concludes",
-   "url": "https://www.theguardian.com/world/2026/nov/26/israel-officially-sanctions-torture-palestinian-prisoners-confessions-report",
-   "summary": "Public Committee Against Torture in Israel examined 42 complaints against Shin Bet interrogators over past decade Israel has institutionalised the use of torture to extract confessions from Palestinian prisoners, sometimes documenting abuse in official records or granting advanced approval for “spec",
-   "time": "2026-11-26T10:00:52+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
-   "source": "BBC",
-   "outlet": "BBC",
-   "title": "Hamas political official and wife among eight Palestinians killed in Israeli strikes on Gaza",
-   "url": "https://www.bbc.co.uk/news/articles/cqvg2n4mzl1jo?at_medium=RSS&at_campaign=rss",
-   "summary": "The killings are the latest from a series of near daily attacks by Israel against what it says are Hamas targets.",
-   "time": "2026-11-26T10:14:08+00:00",
-   "tier": 2,
-   "type": "reporting"
-  },
-  {
    "source": "NYT",
    "outlet": "NYT",
    "title": "Attack Blamed on ISIS Kills 2 Syrian Security Force Members",
@@ -3632,7 +3602,7 @@
    "type": "reporting"
   }
  ],
- "updated": "2026-11-27T12:34:11.120782+00:00",
+ "updated": "2026-11-27T17:06:42.718125+00:00",
  "clusters": [
   {
    "id": "28bb9ea060",
@@ -4658,39 +4628,6 @@
    ]
   },
   {
-   "id": "1fc85f46c8",
-   "title": "Hamas political official and wife among eight Palestinians killed in Israeli strikes on Gaza",
-   "sourceCount": 2,
-   "outlets": [
-    "BBC",
-    "Guardian"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 2,
-   "opinionOnly": false,
-   "firstSeen": "2026-11-26T10:14:08+00:00",
-   "lastSeen": "2026-11-26T20:33:07+00:00",
-   "articles": [
-    {
-     "source": "BBC",
-     "title": "Hamas political official and wife among eight Palestinians killed in Israeli strikes on Gaza",
-     "url": "https://www.bbc.co.uk/news/articles/cqvg2n4mzl1jo?at_medium=RSS&at_campaign=rss",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-11-26T10:14:08+00:00"
-    },
-    {
-     "source": "Guardian",
-     "title": "Israeli strikes kill 16 schoolchildren so far this month, Gaza ministry says",
-     "url": "https://www.theguardian.com/world/2026/nov/26/gaza-ministry-schoolchildren-killed-this-month-israel-strikes",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-11-26T20:33:07+00:00"
-    }
-   ]
-  },
-  {
    "id": "88b8be38fc",
    "title": "Egypt detains driver over Cairo fuel tanker fire that killed 31",
    "sourceCount": 2,
@@ -5271,54 +5208,6 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-11-27T11:51:48+00:00"
-    }
-   ]
-  },
-  {
-   "id": "04fbeeb97c",
-   "title": "‘She was so not regretful about killing her husband’: the Iranian film that shines a light on blood money and retributive justice",
-   "sourceCount": 1,
-   "outlets": [
-    "Guardian"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-11-26T08:00:50+00:00",
-   "lastSeen": "2026-11-26T08:00:50+00:00",
-   "articles": [
-    {
-     "source": "Guardian",
-     "title": "‘She was so not regretful about killing her husband’: the Iranian film that shines a light on blood money and retributive justice",
-     "url": "https://www.theguardian.com/film/2026/nov/26/an-eye-for-an-eye-tanaz-eshaghian",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-11-26T08:00:50+00:00"
-    }
-   ]
-  },
-  {
-   "id": "061fa5db56",
-   "title": "Israel ‘officially sanctions’ torture of Palestinian prisoners to extract confessions, report concludes",
-   "sourceCount": 1,
-   "outlets": [
-    "Guardian"
-   ],
-   "bestTier": 2,
-   "hasOfficial": false,
-   "reportingCount": 1,
-   "opinionOnly": false,
-   "firstSeen": "2026-11-26T10:00:52+00:00",
-   "lastSeen": "2026-11-26T10:00:52+00:00",
-   "articles": [
-    {
-     "source": "Guardian",
-     "title": "Israel ‘officially sanctions’ torture of Palestinian prisoners to extract confessions, report concludes",
-     "url": "https://www.theguardian.com/world/2026/nov/26/israel-officially-sanctions-torture-palestinian-prisoners-confessions-report",
-     "tier": 2,
-     "type": "reporting",
-     "time": "2026-11-26T10:00:52+00:00"
     }
    ]
   },
@@ -7527,6 +7416,30 @@
      "tier": 2,
      "type": "reporting",
      "time": "2026-11-26T20:32:43+00:00"
+    }
+   ]
+  },
+  {
+   "id": "9fc728089f",
+   "title": "Israeli strikes kill 16 schoolchildren so far this month, Gaza ministry says",
+   "sourceCount": 1,
+   "outlets": [
+    "Guardian"
+   ],
+   "bestTier": 2,
+   "hasOfficial": false,
+   "reportingCount": 1,
+   "opinionOnly": false,
+   "firstSeen": "2026-11-26T20:33:07+00:00",
+   "lastSeen": "2026-11-26T20:33:07+00:00",
+   "articles": [
+    {
+     "source": "Guardian",
+     "title": "Israeli strikes kill 16 schoolchildren so far this month, Gaza ministry says",
+     "url": "https://www.theguardian.com/world/2026/nov/26/gaza-ministry-schoolchildren-killed-this-month-israel-strikes",
+     "tier": 2,
+     "type": "reporting",
+     "time": "2026-11-26T20:33:07+00:00"
     }
    ]
   },
@@ -10772,8 +10685,8 @@
   }
  ],
  "stats": {
-  "articles": 363,
-  "clusters": 264,
-  "multiSource": 28
+  "articles": 360,
+  "clusters": 262,
+  "multiSource": 27
  }
 }

@@ -1,0 +1,514 @@
+{
+ "schema": 2,
+ "date": "2026-11-27",
+ "type": "daily",
+ "headline": "חשוד בתכנון פיגוע נעצר ברמת השרון, שני איטלקים נהרגו בהתקפת כטב\"מים על כווית ומשא ומתן הקואליציה נמשך סביב גיוס חרדים.",
+ "events": [
+  {
+   "id": "ramat-hasharon-attack-suspect",
+   "title": "חשוד שהצהיר על כוונה לבצע פיגוע נעצר ברמת השרון לאחר מצוד",
+   "summary": "לפי ynet, וואלה ומעריב, כוחות הביטחון עצרו ברמת השרון חשוד שלפי הדיווחים הצהיר כי בכוונתו לבצע פיגוע, בתום חיפושים נרחבים באזור. מעריב דיווח על חוליה שתכננה פיגוע נגד ישראלים, ופרטים נוספים על החשוד טרם פורסמו.",
+   "why": "מעצר חשוד לפני ביצוע פיגוע מצביע על איום ביטחוני בפועל בלב אזור המרכז.",
+   "change": "",
+   "next": "פרטים על זהות החשוד והחקירה.",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "security"
+   ],
+   "kind": "event",
+   "entities": [
+    "פיגועים",
+    "ביטחון פנים"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/r1bwexij7g",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383963348",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1392804",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-11-27",
+   "lastUpdated": "2026-11-27"
+  },
+  {
+   "id": "iran-kuwait-drone-attack-nov26",
+   "title": "שני איטלקים נהרגו בהתקפת כטב\"מים על כווית; איראן מכחישה אחריות",
+   "summary": "לפי NYT, שני אזרחים איטלקים נהרגו בהתקפת כטב\"מים איראנית על כווית, על פי גורמים רשמיים. לפי BBC ואל-ג'זירה, איראן מכחישה אחריות להתקפה.",
+   "why": "המתקפה על מדינת מפרץ גובה קורבנות זרים ומרחיבה את מעגל המשבר האזורי מול איראן.",
+   "change": "נוספה הידיעה כי שני איטלקים נהרגו בהתקפה, ואיראן מכחישה אחריות.",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 4,
+   "categories": [
+    "security",
+    "world",
+    "israel_world"
+   ],
+   "kind": "event",
+   "entities": [
+    "איראן",
+    "כווית",
+    "המפרץ"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "NYT",
+     "url": "https://www.nytimes.com/2026/11/26/world/middleeast/italians-killed-iran-drone-attack-kuwait.html",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/27/italians-killed-in-kuwait-why-is-iran-denying-responsibility",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-11-26",
+   "lastUpdated": "2026-11-27"
+  },
+  {
+   "id": "coalition-building-after-election",
+   "title": "בנט דחה פגישת מו\"מ עם איזנקוט; יהדות התורה תפתח במו\"מ אחרי פגישת הרבנים",
+   "summary": "לפי ynet, בנט דחה פגישת משא ומתן עם איזנקוט לאחר שלא הוצג לו מתווה לגיוס חרדים. באותו דיווח נמסר כי יהדות התורה תחל במו\"מ עם איזנקוט אחרי פגישת הרבנים. ישראל היום, וואלה ומעריב דיווחו בנפרד כי איזנקוט מתנה התקדמות בהצהרה צפויה של מנסור עבאס על חמאס.",
+   "why": "המו\"מ הקואליציוני יקבע איזו ממשלה תקום ואם יהיה גיוס חרדים.",
+   "change": "בנט דחה פגישה עם איזנקוט בגלל היעדר מתווה גיוס, ויהדות התורה צפויה להתחיל במו\"מ.",
+   "next": "המשך המגעים בין איזנקוט, בנט והחרדים.",
+   "status": "REPORTED",
+   "importance": 4,
+   "categories": [
+    "politics"
+   ],
+   "kind": "negotiation",
+   "entities": [
+    "איזנקוט",
+    "בנט",
+    "גיוס חרדים",
+    "בחירות 2026"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/byjkqj8yxg",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 1,
+   "firstSeen": "2026-10-29",
+   "lastUpdated": "2026-11-27"
+  },
+  {
+   "id": "haredi-draft-protests-airport-nov26",
+   "title": "מפגינים חרדים חסמו כניסה לנתב\"ג ואת צומת סנהדריה במחאה על מעצרי עריקים",
+   "summary": "לפי ynet, מעריב, וואלה וישראל היום, מפגינים חרדים חסמו אחת הכניסות לנתב\"ג וצומת סנהדריה בירושלים במחאה על מעצר עריקים. לפי רשות שדות התעופה, הנמל המשיך לפעול, ולפי ynet שער לוד-פתח תקווה נפתח מחדש לתנועה בתום ההפגנה.",
+   "why": "המחאה על אכיפת הגיוס משבשת תשתיות לאומיות ומחריפה את המתיחות סביב חוק הגיוס.",
+   "change": "",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "society",
+    "politics"
+   ],
+   "kind": "event",
+   "entities": [
+    "גיוס חרדים",
+    "הפגנות חרדים"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/rj5lej8yxe",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1392668",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383963331",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/local/article/21943553",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 4,
+   "firstSeen": "2026-11-27",
+   "lastUpdated": "2026-11-27"
+  },
+  {
+   "id": "katz-housing-resignation-withdrawn",
+   "title": "השר חיים כץ משך את התפטרותו ממשרד הבינוי והשיכון לבקשת נתניהו",
+   "summary": "לפי ynet, וואלה, מעריב וישראל היום, חיים כץ משך את מכתב ההתפטרות שהגיש ממשרד הבינוי והשיכון, לבקשת ראש הממשלה נתניהו.",
+   "why": "הרכב הממשלה היוצאת ושליטה במשרד מרכזי בתקופת מעבר בין ממשלות.",
+   "change": "",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "politics"
+   ],
+   "kind": "decision",
+   "entities": [
+    "נתניהו",
+    "חיים כץ",
+    "משרד השיכון"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/s1kljpljme",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383963382",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1392807",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/politics/article/21946044",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 4,
+   "firstSeen": "2026-11-27",
+   "lastUpdated": "2026-11-27"
+  },
+  {
+   "id": "central-command-chief-settler-violence",
+   "title": "אלוף פיקוד מרכז: \"מתחפשים לחלוצים ומבצעים עבריינות\"",
+   "summary": "לפי ynet, מעריב וישראל היום, אלוף פיקוד מרכז אבי בלוט אמר כי יש מי שמתחפשים לחלוצים ומבצעים עבריינות ביהודה ושומרון, וכי הם גורמים נזק למדינה. הדברים נאמרו על רקע אירועי אלימות ביישובים פלסטיניים בימים האחרונים.",
+   "why": "התבטאות פומבית של בכיר בצבא על אלימות מתנחלים, על רקע דיון בבג\"ץ וביקורת על אכיפה.",
+   "change": "",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "security",
+    "society"
+   ],
+   "kind": "statement",
+   "entities": [
+    "יהודה ושומרון",
+    "אלימות מתנחלים"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/ry8enyijql",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1392648",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/local/article/21942945",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-11-27",
+   "lastUpdated": "2026-11-27"
+  },
+  {
+   "id": "egypt-cairo-tanker-fire",
+   "title": "מספר ההרוגים בשריפת המכלית בקהיר עלה ל-31; הנהג נעצר",
+   "summary": "לפי BBC ואל-ג'זירה, 31 בני אדם נהרגו בשריפה שפרצה בעקבות תאונת מכלית דלק בקהיר, והרשויות במצרים עצרו את הנהג.",
+   "why": "אסון תחבורה גדול בשכנה הגדולה; מעצר הנהג מסמן פתיחה בהליך משפטי.",
+   "change": "מספר ההרוגים עלה ל-31 והנהג נעצר.",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "world"
+   ],
+   "kind": "event",
+   "entities": [
+    "מצרים"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/c3gre90l0g45o",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/26/egypt-detains-driver-over-cairo-fuel-tanker-fire-that-killed-31",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-11-26",
+   "lastUpdated": "2026-11-27"
+  },
+  {
+   "id": "erdogan-saudi-pakistan-defense-pact",
+   "title": "ארדואן אישר את הסכם ההגנה עם סעודיה ופקיסטן",
+   "summary": "לפי וואלה וישראל היום, נשיא טורקיה ארדואן אישר את הסכם ההגנה בין טורקיה, סעודיה ופקיסטן.",
+   "why": "ברית ביטחונית אזורית חדשה עשויה לשנות את מאזן הכוחות במזרח התיכון.",
+   "change": "",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "israel_world",
+    "security"
+   ],
+   "kind": "decision",
+   "entities": [
+    "טורקיה",
+    "סעודיה",
+    "פקיסטן"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383963360",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21945168",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-11-27",
+   "lastUpdated": "2026-11-27"
+  },
+  {
+   "id": "israel-power-outage-nov26",
+   "title": "הפסקת חשמל נרחבת במרכז ובדרום; החשמל חזר",
+   "summary": "לפי ynet וואלה, הייתה הפסקת חשמל נרחבת במרכז ובדרום והחשמל חזר. לפי ynet, קצר בהזנה לאחת מיחידות הייצור יצר עומסים.",
+   "why": "כשל ברשת החשמל הארצית פוגע בציבור רחב ובתשתיות.",
+   "change": "",
+   "next": "",
+   "status": "VERIFIED",
+   "importance": 3,
+   "categories": [
+    "society"
+   ],
+   "kind": "event",
+   "entities": [
+    "חברת החשמל"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/h1ljsxuj7g",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383963330",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 2,
+   "firstSeen": "2026-11-27",
+   "lastUpdated": "2026-11-27"
+  }
+ ],
+ "unverified": [
+  {
+   "id": "abbas-hamas-terror-declaration-expected",
+   "title": "דיווח: מנסור עבאס צפוי להכריז על חמאס כארגון טרור",
+   "summary": "על פי ישראל היום, ynet וואלה, ברע\"ם מעריכים כי מנסור עבאס יכריז במוצאי שבת או ביום ראשון על חמאס כארגון טרור, כתנאי של איזנקוט. לפי מעריב, סמוטריץ' התנגד להכרזה הצפויה. לא פורסמה הצהרה רשמית של עבאס.",
+   "why": "ההכרזה עשויה להשפיע על הרכבת הקואליציה.",
+   "change": "",
+   "next": "",
+   "status": "UNCONFIRMED",
+   "importance": 4,
+   "categories": [
+    "politics"
+   ],
+   "kind": "statement",
+   "entities": [
+    "מנסור עבאס",
+    "איזנקוט",
+    "חמאס"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/sydx6oij7g",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/politics/article/21945187",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383963371",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1392797",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 4,
+   "firstSeen": "2026-11-27",
+   "lastUpdated": "2026-11-27"
+  },
+  {
+   "id": "idf-radwan-lebanon-strike-claim",
+   "title": "צה\"ל: הותקפו עשרות רקטות ומשגרים של כוח רדואן בלבנון",
+   "summary": "לפי הודעת צה\"ל כפי שפורסמה בוואלה, מעריב, ישראל היום וynet, צה\"ל תקף עשרות רקטות וקני שיגור של כוח רדואן של חיזבאללה בלבנון. הנתונים לא אומתו ממקור עצמאי.",
+   "why": "המשך הלחימה בלבנון.",
+   "change": "",
+   "next": "",
+   "status": "CLAIM",
+   "importance": 4,
+   "categories": [
+    "security"
+   ],
+   "kind": "event",
+   "entities": [
+    "חיזבאללה",
+    "לבנון"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/sjo4obujxg",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383963334",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "מעריב",
+     "url": "https://www.maariv.co.il/breaking-news/article-1392679",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-11-27",
+   "lastUpdated": "2026-11-27"
+  },
+  {
+   "id": "gaza-hamas-four-killed-claim",
+   "title": "צה\"ל: ארבעה מחבלי חמאס חוסלו בעזה, בהם מחבל שהשתתף בטבח 7 באוקטובר",
+   "summary": "לפי הודעת צה\"ל כפי שפורסמה בוואלה, ynet וישראל היום, חוסלו בעזה ארבעה מחבלי חמאס, ביניהם אחד שלטענת צה\"ל השתתף בטבח ב-7 באוקטובר. הנתונים לא אומתו ממקור עצמאי.",
+   "why": "המשך הפעילות הצבאית ברצועה.",
+   "change": "",
+   "next": "",
+   "status": "CLAIM",
+   "importance": 4,
+   "categories": [
+    "security"
+   ],
+   "kind": "event",
+   "entities": [
+    "חמאס",
+    "עזה",
+    "7 באוקטובר"
+   ],
+   "noise": [],
+   "sources": [
+    {
+     "name": "וואלה",
+     "url": "https://www.walla.co.il/news/breaking-news/383963373",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ynet",
+     "url": "https://www.ynet.co.il/news/article/r1lm62ujml",
+     "tier": 2,
+     "type": "reporting"
+    },
+    {
+     "name": "ישראל היום",
+     "url": "https://www.israelhayom.co.il/news/defense/article/21945617",
+     "tier": 2,
+     "type": "reporting"
+    }
+   ],
+   "sourceCount": 3,
+   "firstSeen": "2026-11-27",
+   "lastUpdated": "2026-11-27"
+  }
+ ],
+ "filtered_out": 250,
+ "note": ""
+}
